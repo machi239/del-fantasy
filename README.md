@@ -22,6 +22,13 @@ Manuell starten: Reiter **Actions** → „Täglicher Datenabzug“ → **Run wo
 | Stammdaten | Preis, Pass, Position, Aufstellungsquote aus dem Fantasy-Export. |
 | Abgleich | Berechnete Punkte gegen die offiziellen Fantasy-Punkte (nur komplett gespielte Spieltage). |
 
+## Aufstellung berechnen
+`python scripts/optimize.py [--input infos.json] [--spieltag N] [--budget 60]`
+wählt automatisch den nächsten Spieltag, dessen erstes Spiel noch nicht begonnen hat,
+berechnet erwartete Punkte (`del_fantasy/project.py`) und löst die Aufstellung exakt
+(2 T / 7 V / 12 S, Budget, max. 9 Ausländer). Ergebnis: `data/aufstellung.json`,
+`data/projektion.csv`. Aufbau von `infos.json` siehe Kopf von `scripts/optimize.py`.
+
 ## Fantasy-Stammdaten aktualisieren (nach den Spieltagen 13, 26, 39, 52)
 Im Fantasy Manager: F12 → Network → Fetch/XHR → „get options“ → Rechtsklick → *Copy response*.
 Inhalt als Datei `fantasy_options.json` speichern und im Repo unter `data/` hochladen
