@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "del-fantasy",
+  "private_key_id": "cd86ab7c38fd0870fe9004aa2a0a46be9eed1d9b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDud8FyYKzUzJLk\nA58Xxdz0x30d+27VdMBZFQOnth+EW451u5XLGMNV7DSO965WOcyeEGc1XXOzEhN5\nosnNJ/o5pegA4BHWPRF8s4FJ0B5jCIpM8FJte77ygC3FX3WX/zm90bhT8BJfoAS4\nWQz30kFd8BjAv3OZWtiIaPGZRdFjAZhG5THGA7YXiAihBLHEvADzBWd7UttKutf2\n4UZz66CfFTjLSpPXS2yAKkCgVrnQ7fLngm5DCGBGV6bLqKzFlOOouMFPFk5qUNxF\ndg6P51j9SLYe6n6E8cUTKTmn3ZOmk8uw2e8Mv5Y5jKq6WmZpuNNL+QMF4ggX9Q5+\nSTdOFtCpAgMBAAECggEAJ0aeG+KEVMAk6V0XVOkHzWEV4FxLEukZzRJC+dprMneJ\n7SYqM7suYPZ4aZutoRH/+4CkHwv3RGUTxBLlvd55vgjvP0WoamrAeJNwFeIrPxBn\nBukGCnY5KuOlpj5ktdYZgoQKIfkGba2DWYGBO0fr8DbdPNHLjlSCGWV/dUkkhXOq\nZaHR+wGykL1Jr9s5DdrxHTg3wtyihp3IAGz/SEv+X8jieNEIJ1nINqrY0Mi7wfBm\nR2akM6rq1GsU1BHDDw0NfGc8/lkeZ/Lmx5+/IuERQVYxl8PQ/Z1QtQa5u8gA1bD/\n+tqFeF8VqXwiHqZ/OD+IkPZM4J4JUyGUyTzzP+SRyQKBgQD6NlKRbnkt76e1ppPF\n8SGi4Uqb1e4MyXTwFfb/KRD1T7Gu/nd0xLWB/eBZ/8kGVSnyJXXX8RKwPjVhHQfT\nDwqqG7rlISrQ7G4XlVWWLgJN9tKTgW1MbIsmeQ9MVnD6+C7jymFnLrDFekUfWzhb\nfitZsXIiX9ckl1sawIZnQ96CtwKBgQDz++Lw3WgnDGpkyUc0kHv8ovC0VJrNAT34\nPQIAld029dn5azfAt8BhLXOzyXO980uEG1hZK7OZwPAa6sKk2kFCSp1YwA+FoAHR\n9Pz4xU+foCjwPdREIjZfLMeoq11nKulladm2/tJKBZTGpS2Sd9gFhX4/lteRFQws\nsJSl5hRnnwKBgQD210yRqNjnlnxvWkyChKZYV8YRAvX7q2svx5uKkmrmd56lMumK\nSt19xoXkg9E/7BibiJU/WdbEBDsI+WjUsQwmUYEJtrTUs8rQfUSYCf/ABnYriw3W\nzWZhqCCNgOGo1dr8YpXBA3DlAQDcNFPe/xOpQsOEYeSPdrosJC70BSKo9QKBgCzO\n4crinrItMYz4+j7JGjw3oIU91IA57iuc6LU60Lm7RSDtc/vMw2QVeN5X7Q3BlOja\nLMuTnxRpvq7y1nR4MOv/0A3wl+kujacFm0AE3K6wN1SHxmgM8HdiPfjYH/tGgj7B\nxd45xl0Z0Uz6IPh5Ug8RiTIcfdKDTw0WEPa23qB5AoGBAN1KRIFskuYb+bS6D2eu\nta+AD1l6sfepx8nS15bBrOk9Gop31MyXrRaYIStyjXhW2rGKxvg5oGxcQyPMOoJl\nwOBRB9KEjxIa593Bh8Tbtk2+PbsI3ogTtfjmYBEJf1UPdU6loBS9SGqa5sy9719y\n4VTrjfv4vvXRPzj4LGEtv69a\n-----END PRIVATE KEY-----\n",
+  "client_email": "fantasy-del@del-fantasy.iam.gserviceaccount.com",
+  "client_id": "114001697687617459686",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fantasy-del%40del-fantasy.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
