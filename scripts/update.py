@@ -177,14 +177,17 @@ def build_matrix(schedule, game_rows, options):
 
 
 def build_check(schedule, game_rows, options):
-    """Vergleich mit den Fantasy-Gesamtpunkten ueber alle ausgewerteten Spiele.
+    """Vergleich mit den Fantasy-Gesamtpunkten.
 
-    Die Fantasy-Summe enthaelt jedes gespielte Spiel sofort, auch vorgezogene Spiele und
-    Spiele laufender Spieltage. Der Export sollte daher nach dem Tageslauf und vor den
-    naechsten Spielen gezogen werden, dann decken sich beide Seiten."""
+    Der Fantasy Manager zaehlt Spiele bis einschliesslich des laufenden Spieltags, auch
+    Spiele, die an diesem Spieltag schon gespielt sind. Vorgezogene Spiele spaeterer
+    Spieltage (z. B. Spieltag 31 im September) zaehlen erst, wenn dieser Spieltag dran ist."""
+    open_st = [g["spieltag"] for g in schedule if g["status"] != "beendet" and g["spieltag"]]
+    current = min(open_st) if open_st else 10 ** 6
+    counted = {g["game_id"] for g in schedule if g["game_id"] and g["spieltag"] <= current}
     calc = defaultdict(float)
     for r in game_rows:
-        if r["spieler_id"]:
+        if r["spieler_id"] and int(r["game_id"]) in counted:
             calc[int(r["spieler_id"])] += float(r["punkte"])
     out = []
     for pid, o in options.items():
