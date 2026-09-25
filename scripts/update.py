@@ -177,17 +177,14 @@ def build_matrix(schedule, game_rows, options):
 
 
 def build_check(schedule, game_rows, options):
-    """Vergleich mit den Fantasy-Gesamtpunkten, nur ueber vollstaendig gespielte Spieltage."""
-    per_st = defaultdict(list)
-    for g in schedule:
-        per_st[g["spieltag"]].append(g)
-    done_ids = set()
-    for st, games in per_st.items():
-        if games and all(g["status"] == "beendet" for g in games):
-            done_ids |= {g["game_id"] for g in games}
+    """Vergleich mit den Fantasy-Gesamtpunkten ueber alle ausgewerteten Spiele.
+
+    Die Fantasy-Summe enthaelt jedes gespielte Spiel sofort, auch vorgezogene Spiele und
+    Spiele laufender Spieltage. Der Export sollte daher nach dem Tageslauf und vor den
+    naechsten Spielen gezogen werden, dann decken sich beide Seiten."""
     calc = defaultdict(float)
     for r in game_rows:
-        if int(r["game_id"]) in done_ids and r["spieler_id"]:
+        if r["spieler_id"]:
             calc[int(r["spieler_id"])] += float(r["punkte"])
     out = []
     for pid, o in options.items():
