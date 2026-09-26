@@ -15,12 +15,12 @@ spieltag,datum,uhrzeit,heim,gast,heim_id,gast_id,tore_heim,tore_gast,entscheidun
 2,2026-09-20,19:00,Kölner Haie,Löwen Frankfurt,11,44,4,3,OT,beendet,4402,/statistik/spieldetails/20092026_koelner-haie_gg_loewen-frankfurt_4402,ja
 31,2026-09-22,19:30,Nürnberg Ice Tigers,Adler Mannheim,14,2,5,3,REG,beendet,4403,/statistik/spieldetails/22092026_nuernberg-ice-tigers_gg_adler-mannheim_4403,ja
 3,2026-09-24,19:30,Iserlohn Roosters,Augsburger Panther,7,13,2,3,SO,beendet,4404,/statistik/spieldetails/24092026_iserlohn-roosters_gg_augsburger-panther_4404,ja
-3,2026-09-25,19:30,Adler Mannheim,Krefeld Pinguine,2,5,,,,offen,,,
-3,2026-09-25,19:30,Grizzlys Wolfsburg,Schwenninger Wild Wings,8,15,,,,offen,,,
-3,2026-09-25,19:30,Kölner Haie,Eisbären Berlin,11,3,,,,offen,,,
-3,2026-09-25,19:30,Löwen Frankfurt,Nürnberg Ice Tigers,44,14,,,,offen,,,
-3,2026-09-25,19:30,Pinguins Bremerhaven,EHC Red Bull München,9,12,,,,offen,,,
-3,2026-09-25,19:30,Straubing Tigers,ERC Ingolstadt,6,1,,,,offen,,,
+3,2026-09-25,19:30,Adler Mannheim,Krefeld Pinguine,2,5,4,1,REG,beendet,4407,/statistik/spieldetails/25092026_adler-mannheim_gg_krefeld-pinguine_4407,ja
+3,2026-09-25,19:30,Grizzlys Wolfsburg,Schwenninger Wild Wings,8,15,3,4,OT,beendet,4410,/statistik/spieldetails/25092026_grizzlys-wolfsburg_gg_schwenninger-wild-wings_4410,ja
+3,2026-09-25,19:30,Kölner Haie,Eisbären Berlin,11,3,5,6,SO,beendet,4405,/statistik/spieldetails/25092026_koelner-haie_gg_eisbaeren-berlin_4405,ja
+3,2026-09-25,19:30,Löwen Frankfurt,Nürnberg Ice Tigers,44,14,1,2,REG,beendet,4406,/statistik/spieldetails/25092026_loewen-frankfurt_gg_nuernberg-ice-tigers_4406,ja
+3,2026-09-25,19:30,Pinguins Bremerhaven,EHC Red Bull München,9,12,1,4,REG,beendet,4408,/statistik/spieldetails/25092026_pinguins-bremerhaven_gg_ehc-red-bull-muenchen_4408,ja
+3,2026-09-25,19:30,Straubing Tigers,ERC Ingolstadt,6,1,4,1,REG,beendet,4409,/statistik/spieldetails/25092026_straubing-tigers_gg_erc-ingolstadt_4409,ja
 4,2026-09-27,14:00,EHC Red Bull München,Löwen Frankfurt,12,44,,,,offen,,,
 4,2026-09-27,14:00,Eisbären Berlin,Iserlohn Roosters,3,7,,,,offen,,,
 4,2026-09-27,14:00,Grizzlys Wolfsburg,Pinguins Bremerhaven,8,9,,,,offen,,,
