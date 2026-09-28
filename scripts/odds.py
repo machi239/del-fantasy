@@ -35,6 +35,7 @@ SPORT_ID = 15            # Eishockey
 TZ = ZoneInfo("Europe/Berlin")
 # Bevorzugte Buchmacher (max. 3 pro Abfrage). Pinnacle hat die schaerfsten Quoten.
 WANTED_BOOKMAKERS = os.environ.get("ODDS_BOOKMAKERS", "pinnacle,bet365,unibet").split(",")
+LOOKAHEAD_H = 72  # nur abfragen, wenn in diesem Zeitraum ein Spiel beginnt
 
 # Erkennungsmerkmale der 14 Teams (ohne Umlaute, klein geschrieben)
 TEAM_KEYS = {
@@ -252,27 +253,47 @@ def extract(fixture, mk):
 def main():
     meta = load_meta(force="--meta-neu" in sys.argv)
     mk = classify_markets(meta["markets"])
-    print("Maerkte:", {k: [f"{i}:{v['name']}" + (f" ({v['line']})" if "line" in v else "") for i, v in d.items()][:6]
+    print("Maerkte:", {k: [f"{i}:{v['name']}" + (f" ({v['line']})" if "line" in v else "") for i, v in d.items()][:30]
                        for k, d in mk.items()})
-    books = [b for b in WANTED_BOOKMAKERS if not meta.get("bookmakers") or b in meta["bookmakers"]][:3]
-    if not books:
-        raise ApiError(f"Keiner der Buchmacher {WANTED_BOOKMAKERS} ist verfuegbar.")
-    try:
-        data = get("odds-by-tournaments", tournamentIds=meta["tournamentId"],
-                   bookmakers=",".join(books), oddsFormat="decimal", verbosity=3)
-    except ApiError as exc:
-        if len(books) == 1 or " 4" not in str(exc):
-            raise
-        print(f"Hinweis: {exc} - neuer Versuch nur mit {books[0]}")
-        books = books[:1]
-        data = get("odds-by-tournaments", tournamentIds=meta["tournamentId"],
-                   bookmakers=books[0], oddsFormat="decimal", verbosity=3)
-    fixtures = data if isinstance(data, list) else data.get("fixtures") or data.get("data") or [data]
-
     with open(F_SCHEDULE, encoding="utf-8") as f:
         schedule = list(csv.DictReader(f))
     open_games = {(g["datum"], int(g["heim_id"]), int(g["gast_id"])): g
                   for g in schedule if g["status"] != "beendet" and g["heim_id"]}
+
+    # Kontingent schonen: nur abfragen, wenn in den naechsten 72 Stunden ein Spiel ansteht
+    now_local = datetime.now(TZ)
+    soon = [g for g in open_games.values()
+            if 0 <= (datetime.strptime(f"{g['datum']} {g['uhrzeit'] or '19:30'}", "%Y-%m-%d %H:%M")
+                     .replace(tzinfo=TZ) - now_local).total_seconds() <= LOOKAHEAD_H * 3600]
+    if not soon and "--immer" not in sys.argv:
+        print(f"Kein Spiel in den naechsten {LOOKAHEAD_H} Stunden - keine Abfrage.")
+        return
+
+    # Der Liga-Endpunkt erlaubt genau einen Buchmacher pro Abfrage (Parameter "bookmaker")
+    known = meta.get("bookmakers") or []
+    books = [b for b in WANTED_BOOKMAKERS if not known or b in known]
+    merged = {}
+    used_books = []
+    for book in books:
+        try:
+            data = get("odds-by-tournaments", tournamentIds=meta["tournamentId"],
+                       bookmaker=book, oddsFormat="decimal", verbosity=3)
+        except ApiError as exc:
+            print(f"  {book}: keine Quoten ({str(exc)[:120]})")
+            continue
+        fixtures = data if isinstance(data, list) else data.get("fixtures") or data.get("data") or [data]
+        n = 0
+        for fx in fixtures:
+            fid = fx.get("fixtureId") or f"{fx.get('participant1Name')}|{fx.get('startTime')}"
+            if fid not in merged:
+                merged[fid] = {k: v for k, v in fx.items() if k != "bookmakerOdds"}
+                merged[fid]["bookmakerOdds"] = {}
+            merged[fid]["bookmakerOdds"].update(fx.get("bookmakerOdds") or {})
+            n += 1
+        print(f"  {book}: {n} Spiele")
+        used_books.append(book)
+    fixtures = list(merged.values())
+    books = used_books
 
     now = datetime.now(timezone.utc)
     result, hist, unmatched = {}, [], []
@@ -314,6 +335,8 @@ def main():
         w.writerows(hist)
 
     print(f"Quoten fuer {len(result)} Spiele gespeichert ({out['stand']}).")
+    if not result:
+        print("Hinweis: Noch keine Quoten fuer anstehende Spiele. Buchmacher stellen DEL-Quoten oft erst 1-2 Tage vorher ein.")
     for k, v in result.items():
         print(f"  {v['beginn']}  {v['spiel']:48} "
               f"60min {v.get('p_home60', '-')}/{v.get('p_draw60', '-')}/{v.get('p_away60', '-')}  "
