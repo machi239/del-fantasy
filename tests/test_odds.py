@@ -29,8 +29,13 @@ FIX = [fixture("Red Bull Munich", "Lowen Frankfurt", "2026-10-02T17:30:00.000Z",
        fixture("Kolner Haie", "Nurnberg Ice Tigers", "2026-10-02T17:30:00.000Z", (2.30, 4.2, 2.60), (1.85, 1.95), (1.70, 2.10), (2.40, 1.55)),
        fixture("Straubing Tigers", "SERC Wild Wings", "2026-09-27T14:30:00.000Z", (2.0, 4.0, 3.0), (1.6, 2.3), (1.9, 1.9), (2.5, 1.5))]
 
+CALLS = []
 def fake_get(path, **params):
     assert path == "odds-by-tournaments", path
+    assert "bookmaker" in params and "bookmakers" not in params, params
+    CALLS.append(params["bookmaker"])
+    if params["bookmaker"] != "pinnacle":
+        raise odds.ApiError("/odds-by-tournaments: HTTP 404: No fixtures found")
     return FIX
 
 tmp = tempfile.mkdtemp()
@@ -50,7 +55,9 @@ try:
     odds.F_META = os.path.join(tmp, "oddspapi_meta.json"); odds.F_OUT = os.path.join(tmp, "quoten.json")
     odds.F_HIST = os.path.join(tmp, "quoten_verlauf.csv"); odds.F_SCHEDULE = os.path.join(tmp, "spielplan.csv")
     odds.get = fake_get
+    sys.argv.append("--immer")
     odds.main()
+    assert CALLS == ["pinnacle", "bet365"], CALLS
     out = json.load(open(odds.F_OUT))["spiele"]
     m = out["12-44"]
     assert abs(m["p_home60"] + m["p_draw60"] + m["p_away60"] - 1) < 0.01
