@@ -116,35 +116,30 @@ def load_meta(force=False):
 
 
 def classify_markets(markets):
-    """Ordnet die Eishockey-Maerkte den drei benoetigten Typen zu.
+    """Ordnet die Eishockey-Maerkte von OddsPapi den benoetigten Typen zu.
 
-    reg1x2   Ergebnis nach 60 Minuten (Heim / Unentschieden / Auswaerts)
-    ml       Sieger inkl. Verlaengerung und Penalty (2 Ausgaenge)
-    totals   Ueber/Unter Tore, getrennt nach regulaerer Spielzeit und inkl. Verlaengerung
+    Zeitraum "fulltime" = 60 Minuten, "result" = inkl. Verlaengerung und Penaltyschiessen.
+    reg1x2     "Regular Time Result" (1x2, fulltime)
+    ml         "Winner (incl. overtime and penalties)" (moneyline, result)
+    totals_reg "Total" (totals, fulltime), eine Marktnummer je Linie
+    totals_ot  "Total (incl. overtime and penalties)" (totals, result)
     """
     out = {"reg1x2": {}, "ml": {}, "totals_reg": {}, "totals_ot": {}}
     for m in markets:
-        name = norm(m.get("marketName"))
+        if m.get("playerProp"):
+            continue
         mtype = norm(m.get("marketType"))
         period = norm(m.get("period"))
-        if m.get("playerProp") or any(p in name for p in ("period", "drittel", "1st", "2nd", "3rd",
-                                                          "team", "home total", "away total",
-                                                          "handicap", "spread", "exact", "odd/even")):
-            continue
-        if period and period not in ("fulltime", "regulartime", "regular", "full time", "match"):
-            continue
         outs = {str(o["outcomeId"]): norm(o.get("outcomeName")) for o in m.get("outcomes", [])}
-        incl_ot = any(k in name for k in ("overtime", "incl", "including", " ot", "(ot", "penalt"))
         mid = str(m["marketId"])
-        if mtype == "1x2" and len(outs) == 3:
-            out["reg1x2"][mid] = {"name": m.get("marketName"), "outcomes": outs}
-        elif len(outs) == 2 and set(outs.values()) <= {"1", "2", "home", "away"}:
-            out["ml"][mid] = {"name": m.get("marketName"), "outcomes": outs}
-        elif ("total" in name or "over/under" in name or mtype in ("totals", "total", "ou", "over/under")) \
-                and len(outs) == 2:
-            key = "totals_ot" if incl_ot else "totals_reg"
-            out[key][mid] = {"name": m.get("marketName"), "outcomes": outs,
-                             "line": float(m.get("handicap") or 0)}
+        entry = {"name": m.get("marketName"), "outcomes": outs}
+        if mtype == "1x2" and period == "fulltime" and set(outs.values()) == {"1", "x", "2"}:
+            out["reg1x2"][mid] = entry
+        elif mtype == "moneyline" and period == "result" and set(outs.values()) == {"1", "2"}:
+            out["ml"][mid] = entry
+        elif mtype == "totals" and period in ("fulltime", "result") and set(outs.values()) == {"over", "under"}:
+            entry["line"] = float(m.get("handicap") or 0)
+            out["totals_reg" if period == "fulltime" else "totals_ot"][mid] = entry
     return out
 
 
@@ -224,7 +219,7 @@ def extract(fixture, mk):
                         ov = pr
                     elif oname.startswith("under") or oname in ("u", "-"):
                         un = pr
-                if ov and un and meta["line"] > 0:
+                if ov and un and meta["line"] % 1 == 0.5:  # nur x,5-Linien (kein Einsatz zurueck)
                     p_over = devig([ov, un])[0]
                     lines.append((main, abs(p_over - 0.5), meta["line"], p_over))
             if lines:
