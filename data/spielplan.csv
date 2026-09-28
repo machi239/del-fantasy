@@ -21,13 +21,13 @@ spieltag,datum,uhrzeit,heim,gast,heim_id,gast_id,tore_heim,tore_gast,entscheidun
 3,2026-09-25,19:30,Löwen Frankfurt,Nürnberg Ice Tigers,44,14,1,2,REG,beendet,4406,/statistik/spieldetails/25092026_loewen-frankfurt_gg_nuernberg-ice-tigers_4406,ja
 3,2026-09-25,19:30,Pinguins Bremerhaven,EHC Red Bull München,9,12,1,4,REG,beendet,4408,/statistik/spieldetails/25092026_pinguins-bremerhaven_gg_ehc-red-bull-muenchen_4408,ja
 3,2026-09-25,19:30,Straubing Tigers,ERC Ingolstadt,6,1,4,1,REG,beendet,4409,/statistik/spieldetails/25092026_straubing-tigers_gg_erc-ingolstadt_4409,ja
-4,2026-09-27,14:00,EHC Red Bull München,Löwen Frankfurt,12,44,,,,offen,,,
-4,2026-09-27,14:00,Eisbären Berlin,Iserlohn Roosters,3,7,,,,offen,,,
-4,2026-09-27,14:00,Grizzlys Wolfsburg,Pinguins Bremerhaven,8,9,,,,offen,,,
-4,2026-09-27,16:30,Augsburger Panther,Kölner Haie,13,11,,,,offen,,,
-4,2026-09-27,16:30,Krefeld Pinguine,Schwenninger Wild Wings,5,15,,,,offen,,,
-4,2026-09-27,16:30,Nürnberg Ice Tigers,Straubing Tigers,14,6,,,,offen,,,
-4,2026-09-27,19:00,ERC Ingolstadt,Adler Mannheim,1,2,,,,offen,,,
+4,2026-09-27,14:00,EHC Red Bull München,Löwen Frankfurt,12,44,1,4,REG,beendet,4415,/statistik/spieldetails/27092026_ehc-red-bull-muenchen_gg_loewen-frankfurt_4415,ja
+4,2026-09-27,14:00,Eisbären Berlin,Iserlohn Roosters,3,7,4,0,REG,beendet,4411,/statistik/spieldetails/27092026_eisbaeren-berlin_gg_iserlohn-roosters_4411,ja
+4,2026-09-27,14:00,Grizzlys Wolfsburg,Pinguins Bremerhaven,8,9,3,2,REG,beendet,4416,/statistik/spieldetails/27092026_grizzlys-wolfsburg_gg_pinguins-bremerhaven_4416,ja
+4,2026-09-27,16:30,Augsburger Panther,Kölner Haie,13,11,4,6,REG,beendet,4414,/statistik/spieldetails/27092026_augsburger-panther_gg_koelner-haie_4414,ja
+4,2026-09-27,16:30,Krefeld Pinguine,Schwenninger Wild Wings,5,15,5,2,REG,beendet,4413,/statistik/spieldetails/27092026_krefeld-pinguine_gg_schwenninger-wild-wings_4413,ja
+4,2026-09-27,16:30,Nürnberg Ice Tigers,Straubing Tigers,14,6,2,3,SO,beendet,4412,/statistik/spieldetails/27092026_nuernberg-ice-tigers_gg_straubing-tigers_4412,ja
+4,2026-09-27,19:00,ERC Ingolstadt,Adler Mannheim,1,2,3,2,OT,beendet,4417,/statistik/spieldetails/27092026_erc-ingolstadt_gg_adler-mannheim_4417,ja
 5,2026-10-01,19:30,Adler Mannheim,Iserlohn Roosters,2,7,,,,offen,,,
 5,2026-10-02,19:30,Augsburger Panther,Grizzlys Wolfsburg,13,8,,,,offen,,,
 5,2026-10-02,19:30,Krefeld Pinguine,ERC Ingolstadt,5,1,,,,offen,,,
