@@ -49,6 +49,21 @@ def xg_from_odds(p_home60, p_away60, total):
     return total * s, total * (1 - s)
 
 
+def xg_from_two_way(p_home_incl_ot, total):
+    """Erwartete Tore aus der Siegchance inkl. Verlaengerung (2-Weg-Quote)."""
+    lo, hi = 0.05, 0.95
+    for _ in range(40):
+        s = (lo + hi) / 2
+        w, t, l = outcome_probs(total * s, total * (1 - s))
+        ot_h = 0.5 + (s - 0.5) * 0.5
+        if w + t * ot_h < p_home_incl_ot:
+            lo = s
+        else:
+            hi = s
+    s = (lo + hi) / 2
+    return total * s, total * (1 - s)
+
+
 def team_ratings(schedule, game_rows):
     """Angriffs-/Abwehrstaerke und Schuesse gegen je Team, geschrumpft zum Liga-Schnitt."""
     gf, ga, n = defaultdict(float), defaultdict(float), defaultdict(int)
@@ -91,13 +106,19 @@ def game_expectations(game, ratings, league, odds=None):
     h, a = int(game["heim_id"]), int(game["gast_id"])
     rh = ratings.get(h, {"att": 1, "def": 1})
     ra = ratings.get(a, {"att": 1, "def": 1})
+    xh = league * rh["att"] * ra["def"] * HOME_ADV
+    xa = league * ra["att"] * rh["def"] / HOME_ADV
+    source = "Saisonwerte"
     if odds:
-        xh, xa = xg_from_odds(odds["p_home60"], odds["p_away60"], odds["total"])
-        source = "Quoten"
-    else:
-        xh = league * rh["att"] * ra["def"] * HOME_ADV
-        xa = league * ra["att"] * rh["def"] / HOME_ADV
-        source = "Saisonwerte"
+        total = odds.get("total") or (xh + xa)
+        if odds.get("p_home60") and odds.get("p_away60"):
+            xh, xa = xg_from_odds(odds["p_home60"], odds["p_away60"], total)
+            source = "Quoten"
+        elif odds.get("p_home_inkl_ot"):
+            xh, xa = xg_from_two_way(odds["p_home_inkl_ot"], total)
+            source = "Quoten"
+        if source == "Quoten" and not odds.get("total"):
+            source = "Quoten (Tore aus Saisonwerten)"
     w, t, l = outcome_probs(xh, xa)
     # Verlaengerung/Penalty: leicht zugunsten des staerkeren Teams
     share_h = xh / (xh + xa)

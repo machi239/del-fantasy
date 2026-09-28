@@ -22,6 +22,14 @@ Manuell starten: Reiter **Actions** → „Täglicher Datenabzug“ → **Run wo
 | Stammdaten | Preis, Pass, Position, Aufstellungsquote aus dem Fantasy-Export. |
 | Abgleich | Berechnete Punkte gegen die offiziellen Fantasy-Punkte (nur komplett gespielte Spieltage). |
 
+## Wettquoten (automatisch)
+Der Workflow „Quoten abrufen“ holt dreimal täglich (08:40, 13:10, 18:20 Uhr) die Quoten aller
+anstehenden DEL-Spiele von OddsPapi (Pinnacle, bet365, Unibet) und schreibt
+`data/quoten.json` (aktueller Stand) und `data/quoten_verlauf.csv` (Historie).
+Pro Lauf fällt eine Abfrage an, das Gratis-Kontingent von 250 Abfragen im Monat reicht damit.
+Secret: `ODDSPAPI_KEY`. `scripts/optimize.py` verwendet `quoten.json` automatisch;
+Einträge unter `odds` in einer `infos.json` haben Vorrang.
+
 ## Aufstellung berechnen
 `python scripts/optimize.py [--input infos.json] [--spieltag N] [--budget 60]`
 wählt automatisch den nächsten Spieltag, dessen erstes Spiel noch nicht begonnen hat,
@@ -37,3 +45,4 @@ Inhalt als Datei `fantasy_options.json` speichern und im Repo unter `data/` hoch
 ## Secrets (Settings → Secrets and variables → Actions)
 - `GOOGLE_SERVICE_ACCOUNT_JSON`: kompletter Inhalt der Schlüsseldatei des Dienstkontos
 - `SHEET_ID`: ID des Google Sheets (aus der URL zwischen `/d/` und `/edit`)
+- `ODDSPAPI_KEY`: API-Schlüssel von oddspapi.io

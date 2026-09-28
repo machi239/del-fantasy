@@ -108,9 +108,19 @@ def main():
         sys.exit(f"Keine Spiele fuer Spieltag {st} gefunden.")
     deadline = min(start_dt(g) for g in round_games)
 
+    # Automatisch abgerufene Quoten (scripts/odds.py); Eintraege in infos.json haben Vorrang
+    odds = {}
+    f_quoten = os.path.join(args.data, "quoten.json")
+    if os.path.exists(f_quoten):
+        with open(f_quoten, encoding="utf-8") as f:
+            q = json.load(f)
+        odds = dict(q.get("spiele", {}))
+        print(f"Quoten aus quoten.json (Stand {q.get('stand')}): {len(odds)} Spiele")
+    odds.update(infos.get("odds") or {})
+
     to_int = lambda d: {int(k): v for k, v in (d or {}).items()}
     players, games = project(round_games, schedule, game_rows, options,
-                             odds=infos.get("odds"),
+                             odds=odds,
                              availability=to_int(infos.get("availability")),
                              goalie_start=to_int(infos.get("goalie_start")))
     for p in players:
