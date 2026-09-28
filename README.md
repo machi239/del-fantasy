@@ -23,10 +23,11 @@ Manuell starten: Reiter **Actions** → „Täglicher Datenabzug“ → **Run wo
 | Abgleich | Berechnete Punkte gegen die offiziellen Fantasy-Punkte (nur komplett gespielte Spieltage). |
 
 ## Wettquoten (automatisch)
-Der Workflow „Quoten abrufen“ holt dreimal täglich (08:40, 13:10, 18:20 Uhr) die Quoten aller
-anstehenden DEL-Spiele von OddsPapi (Pinnacle, bet365, Unibet) und schreibt
+Der Workflow „Quoten abrufen“ holt zweimal täglich (13:10 und 18:20 Uhr) die Quoten aller
+anstehenden DEL-Spiele von OddsPapi (Pinnacle, bet365, Unibet; je Buchmacher eine Abfrage) und schreibt
 `data/quoten.json` (aktueller Stand) und `data/quoten_verlauf.csv` (Historie).
-Pro Lauf fällt eine Abfrage an, das Gratis-Kontingent von 250 Abfragen im Monat reicht damit.
+Abgefragt wird nur, wenn in den nächsten 72 Stunden ein Spiel beginnt (manuelle Läufe fragen immer ab).
+Das Gratis-Kontingent von 250 Abfragen im Monat reicht damit knapp für drei Buchmacher.
 Secret: `ODDSPAPI_KEY`. `scripts/optimize.py` verwendet `quoten.json` automatisch;
 Einträge unter `odds` in einer `infos.json` haben Vorrang.
 
