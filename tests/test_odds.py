@@ -8,7 +8,7 @@ def player(p, main=False): return {"players": {"0": {"active": True, "price": p,
 MARKETS = [
     {"marketId": 151, "marketName": "Regular Time Result", "marketType": "1x2", "period": "fulltime", "sportId": 15,
      "handicap": 0, "outcomes": [{"outcomeId": 151, "outcomeName": "1"}, {"outcomeId": 152, "outcomeName": "X"}, {"outcomeId": 153, "outcomeName": "2"}]},
-    {"marketId": 161, "marketName": "Winner (incl. overtime and penalties)", "marketType": "12", "period": "fulltime", "sportId": 15,
+    {"marketId": 161, "marketName": "Winner (incl. overtime and penalties)", "marketType": "moneyline", "period": "result", "sportId": 15,
      "handicap": 0, "outcomes": [{"outcomeId": 161, "outcomeName": "1"}, {"outcomeId": 162, "outcomeName": "2"}]},
     {"marketId": 1010, "marketName": "Total Goals", "marketType": "totals", "period": "fulltime", "sportId": 15,
      "handicap": 5.5, "outcomes": [{"outcomeId": 1011, "outcomeName": "Over"}, {"outcomeId": 1012, "outcomeName": "Under"}]},
