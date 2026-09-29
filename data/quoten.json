@@ -1,6 +1,23 @@
 {
- "stand": "28.09.2026 10:25",
+ "stand": "29.09.2026 13:26",
  "quelle": "OddsPapi",
- "buchmacher_abgefragt": [],
- "spiele": {}
+ "buchmacher_abgefragt": [
+  "pinnacle",
+  "bet365"
+ ],
+ "spiele": {
+  "2-7": {
+   "spiel": "Adler Mannheim - Iserlohn Roosters",
+   "beginn": "01.10.2026 19:30",
+   "buchmacher": [
+    "pinnacle",
+    "bet365"
+   ],
+   "p_home60": 0.661,
+   "p_draw60": 0.177,
+   "p_away60": 0.162,
+   "p_home_inkl_ot": 0.758,
+   "total": 5.81
+  }
+ }
 }
