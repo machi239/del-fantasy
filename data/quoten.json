@@ -1,9 +1,10 @@
 {
- "stand": "29.09.2026 18:33",
+ "stand": "30.09.2026 13:26",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
-  "bet365"
+  "bet365",
+  "unibet"
  ],
  "spiele": {
   "2-7": {
@@ -11,13 +12,97 @@
    "beginn": "01.10.2026 19:30",
    "buchmacher": [
     "pinnacle",
-    "bet365"
+    "bet365",
+    "unibet"
    ],
-   "p_home60": 0.661,
-   "p_draw60": 0.177,
-   "p_away60": 0.162,
+   "p_home60": 0.658,
+   "p_draw60": 0.181,
+   "p_away60": 0.161,
    "p_home_inkl_ot": 0.758,
-   "total": 5.81
+   "total": 5.77
+  },
+  "11-12": {
+   "spiel": "Kölner Haie - EHC Red Bull München",
+   "beginn": "02.10.2026 19:30",
+   "buchmacher": [
+    "pinnacle",
+    "bet365",
+    "unibet"
+   ],
+   "p_home60": 0.383,
+   "p_draw60": 0.206,
+   "p_away60": 0.41,
+   "p_home_inkl_ot": 0.487,
+   "total": 6.02
+  },
+  "14-15": {
+   "spiel": "Nürnberg Ice Tigers - Schwenninger Wild Wings",
+   "beginn": "02.10.2026 19:30",
+   "buchmacher": [
+    "pinnacle",
+    "bet365",
+    "unibet"
+   ],
+   "p_home60": 0.498,
+   "p_draw60": 0.206,
+   "p_away60": 0.296,
+   "p_home_inkl_ot": 0.607,
+   "total": 5.9
+  },
+  "44-3": {
+   "spiel": "Löwen Frankfurt - Eisbären Berlin",
+   "beginn": "02.10.2026 19:30",
+   "buchmacher": [
+    "pinnacle",
+    "bet365",
+    "unibet"
+   ],
+   "p_home60": 0.308,
+   "p_draw60": 0.217,
+   "p_away60": 0.476,
+   "p_home_inkl_ot": 0.41,
+   "total": 6.06
+  },
+  "13-8": {
+   "spiel": "Augsburger Panther - Grizzlys Wolfsburg",
+   "beginn": "02.10.2026 19:30",
+   "buchmacher": [
+    "pinnacle",
+    "bet365",
+    "unibet"
+   ],
+   "p_home60": 0.361,
+   "p_draw60": 0.224,
+   "p_away60": 0.415,
+   "p_home_inkl_ot": 0.474,
+   "total": 6.14
+  },
+  "6-9": {
+   "spiel": "Straubing Tigers - Pinguins Bremerhaven",
+   "beginn": "02.10.2026 19:30",
+   "buchmacher": [
+    "pinnacle",
+    "bet365",
+    "unibet"
+   ],
+   "p_home60": 0.514,
+   "p_draw60": 0.206,
+   "p_away60": 0.279,
+   "p_home_inkl_ot": 0.625,
+   "total": 5.82
+  },
+  "5-1": {
+   "spiel": "Krefeld Pinguine - ERC Ingolstadt",
+   "beginn": "02.10.2026 19:30",
+   "buchmacher": [
+    "bet365",
+    "unibet"
+   ],
+   "p_home60": 0.373,
+   "p_draw60": 0.195,
+   "p_away60": 0.432,
+   "p_home_inkl_ot": 0.471,
+   "total": 6.3
   }
  }
 }
