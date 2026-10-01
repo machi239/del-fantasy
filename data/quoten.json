@@ -1,5 +1,5 @@
 {
- "stand": "30.09.2026 18:33",
+ "stand": "01.10.2026 13:27",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -15,11 +15,11 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.661,
-   "p_draw60": 0.18,
-   "p_away60": 0.159,
-   "p_home_inkl_ot": 0.76,
-   "total": 5.78
+   "p_home60": 0.672,
+   "p_draw60": 0.175,
+   "p_away60": 0.153,
+   "p_home_inkl_ot": 0.768,
+   "total": 5.87
   },
   "11-12": {
    "spiel": "Kölner Haie - EHC Red Bull München",
@@ -71,10 +71,10 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.361,
+   "p_home60": 0.355,
    "p_draw60": 0.224,
-   "p_away60": 0.415,
-   "p_home_inkl_ot": 0.474,
+   "p_away60": 0.421,
+   "p_home_inkl_ot": 0.466,
    "total": 6.14
   },
   "6-9": {
@@ -85,10 +85,10 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.514,
+   "p_home60": 0.518,
    "p_draw60": 0.206,
-   "p_away60": 0.279,
-   "p_home_inkl_ot": 0.625,
+   "p_away60": 0.276,
+   "p_home_inkl_ot": 0.628,
    "total": 5.82
   },
   "5-1": {
