@@ -28,7 +28,7 @@ spieltag,datum,uhrzeit,heim,gast,heim_id,gast_id,tore_heim,tore_gast,entscheidun
 4,2026-09-27,16:30,Krefeld Pinguine,Schwenninger Wild Wings,5,15,5,2,REG,beendet,4413,/statistik/spieldetails/27092026_krefeld-pinguine_gg_schwenninger-wild-wings_4413,ja
 4,2026-09-27,16:30,Nürnberg Ice Tigers,Straubing Tigers,14,6,2,3,SO,beendet,4412,/statistik/spieldetails/27092026_nuernberg-ice-tigers_gg_straubing-tigers_4412,ja
 4,2026-09-27,19:00,ERC Ingolstadt,Adler Mannheim,1,2,3,2,OT,beendet,4417,/statistik/spieldetails/27092026_erc-ingolstadt_gg_adler-mannheim_4417,ja
-5,2026-10-01,19:30,Adler Mannheim,Iserlohn Roosters,2,7,,,,offen,,,
+5,2026-10-01,19:30,Adler Mannheim,Iserlohn Roosters,2,7,6,1,REG,beendet,4418,/statistik/spieldetails/01102026_adler-mannheim_gg_iserlohn-roosters_4418,ja
 5,2026-10-02,19:30,Augsburger Panther,Grizzlys Wolfsburg,13,8,,,,offen,,,
 5,2026-10-02,19:30,Krefeld Pinguine,ERC Ingolstadt,5,1,,,,offen,,,
 5,2026-10-02,19:30,Kölner Haie,EHC Red Bull München,11,12,,,,offen,,,
