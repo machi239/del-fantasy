@@ -1,5 +1,5 @@
 {
- "stand": "02.10.2026 13:26",
+ "stand": "02.10.2026 18:32",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -15,11 +15,11 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.386,
-   "p_draw60": 0.206,
-   "p_away60": 0.408,
-   "p_home_inkl_ot": 0.49,
-   "total": 6.03
+   "p_home60": 0.388,
+   "p_draw60": 0.207,
+   "p_away60": 0.406,
+   "p_home_inkl_ot": 0.492,
+   "total": 6.02
   },
   "14-15": {
    "spiel": "Nürnberg Ice Tigers - Schwenninger Wild Wings",
@@ -29,11 +29,11 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.499,
-   "p_draw60": 0.206,
+   "p_home60": 0.504,
+   "p_draw60": 0.202,
    "p_away60": 0.295,
    "p_home_inkl_ot": 0.608,
-   "total": 5.9
+   "total": 5.92
   },
   "5-1": {
    "spiel": "Krefeld Pinguine - ERC Ingolstadt",
@@ -43,11 +43,11 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.36,
-   "p_draw60": 0.208,
-   "p_away60": 0.432,
-   "p_home_inkl_ot": 0.462,
-   "total": 6.24
+   "p_home60": 0.406,
+   "p_draw60": 0.211,
+   "p_away60": 0.383,
+   "p_home_inkl_ot": 0.516,
+   "total": 6.22
   },
   "44-3": {
    "spiel": "Löwen Frankfurt - Eisbären Berlin",
@@ -57,10 +57,10 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.307,
-   "p_draw60": 0.216,
-   "p_away60": 0.477,
-   "p_home_inkl_ot": 0.409,
+   "p_home60": 0.308,
+   "p_draw60": 0.217,
+   "p_away60": 0.475,
+   "p_home_inkl_ot": 0.411,
    "total": 6.04
   },
   "13-8": {
@@ -71,11 +71,11 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.355,
-   "p_draw60": 0.222,
-   "p_away60": 0.423,
-   "p_home_inkl_ot": 0.466,
-   "total": 6.26
+   "p_home60": 0.367,
+   "p_draw60": 0.224,
+   "p_away60": 0.409,
+   "p_home_inkl_ot": 0.48,
+   "total": 6.13
   },
   "6-9": {
    "spiel": "Straubing Tigers - Pinguins Bremerhaven",
@@ -85,11 +85,11 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.514,
-   "p_draw60": 0.208,
-   "p_away60": 0.278,
-   "p_home_inkl_ot": 0.626,
-   "total": 5.77
+   "p_home60": 0.511,
+   "p_draw60": 0.207,
+   "p_away60": 0.281,
+   "p_home_inkl_ot": 0.622,
+   "total": 5.81
   }
  }
 }
