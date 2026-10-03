@@ -29,12 +29,12 @@ spieltag,datum,uhrzeit,heim,gast,heim_id,gast_id,tore_heim,tore_gast,entscheidun
 4,2026-09-27,16:30,Nürnberg Ice Tigers,Straubing Tigers,14,6,2,3,SO,beendet,4412,/statistik/spieldetails/27092026_nuernberg-ice-tigers_gg_straubing-tigers_4412,ja
 4,2026-09-27,19:00,ERC Ingolstadt,Adler Mannheim,1,2,3,2,OT,beendet,4417,/statistik/spieldetails/27092026_erc-ingolstadt_gg_adler-mannheim_4417,ja
 5,2026-10-01,19:30,Adler Mannheim,Iserlohn Roosters,2,7,6,1,REG,beendet,4418,/statistik/spieldetails/01102026_adler-mannheim_gg_iserlohn-roosters_4418,ja
-5,2026-10-02,19:30,Augsburger Panther,Grizzlys Wolfsburg,13,8,,,,offen,,,
-5,2026-10-02,19:30,Krefeld Pinguine,ERC Ingolstadt,5,1,,,,offen,,,
-5,2026-10-02,19:30,Kölner Haie,EHC Red Bull München,11,12,,,,offen,,,
-5,2026-10-02,19:30,Löwen Frankfurt,Eisbären Berlin,44,3,,,,offen,,,
-5,2026-10-02,19:30,Nürnberg Ice Tigers,Schwenninger Wild Wings,14,15,,,,offen,,,
-5,2026-10-02,19:30,Straubing Tigers,Pinguins Bremerhaven,6,9,,,,offen,,,
+5,2026-10-02,19:30,Augsburger Panther,Grizzlys Wolfsburg,13,8,5,2,REG,beendet,4423,/statistik/spieldetails/02102026_augsburger-panther_gg_grizzlys-wolfsburg_4423,ja
+5,2026-10-02,19:30,Krefeld Pinguine,ERC Ingolstadt,5,1,3,1,REG,beendet,4421,/statistik/spieldetails/02102026_krefeld-pinguine_gg_erc-ingolstadt_4421,ja
+5,2026-10-02,19:30,Kölner Haie,EHC Red Bull München,11,12,2,4,REG,beendet,4419,/statistik/spieldetails/02102026_koelner-haie_gg_ehc-red-bull-muenchen_4419,ja
+5,2026-10-02,19:30,Löwen Frankfurt,Eisbären Berlin,44,3,0,2,REG,beendet,4422,/statistik/spieldetails/02102026_loewen-frankfurt_gg_eisbaeren-berlin_4422,ja
+5,2026-10-02,19:30,Nürnberg Ice Tigers,Schwenninger Wild Wings,14,15,5,0,REG,beendet,4420,/statistik/spieldetails/02102026_nuernberg-ice-tigers_gg_schwenninger-wild-wings_4420,ja
+5,2026-10-02,19:30,Straubing Tigers,Pinguins Bremerhaven,6,9,4,3,REG,beendet,4424,/statistik/spieldetails/02102026_straubing-tigers_gg_pinguins-bremerhaven_4424,ja
 6,2026-10-04,14:00,Eisbären Berlin,Nürnberg Ice Tigers,3,14,,,,offen,,,
 6,2026-10-04,14:00,Pinguins Bremerhaven,Löwen Frankfurt,9,44,,,,offen,,,
 6,2026-10-04,14:00,Schwenninger Wild Wings,Straubing Tigers,15,6,,,,offen,,,
