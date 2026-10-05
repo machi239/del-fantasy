@@ -1,0 +1,43 @@
+name: Aufstellung rechnen
+
+on:
+  schedule:
+    # alle 10 Minuten zwischen 08:00 und 22:59 deutscher Zeit (Sommerzeit);
+    # gerechnet wird nur bei neuer Recherche oder im Fenster 95 Min. vor der Deadline
+    - cron: "*/10 6-20 * * *"
+  workflow_run:
+    workflows: ["Quoten abrufen", "Täglicher Datenabzug"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daten-speichern
+  cancel-in-progress: false
+
+jobs:
+  aufstellung:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Recherche laden, rechnen, Seite bauen
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: python scripts/lauf.py ${{ github.event_name != 'schedule' && '--immer' || '' }}
+      - name: Ergebnisse speichern
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ docs/
+          git diff --cached --quiet && exit 0
+          git commit -m "Aufstellung $(TZ=Europe/Berlin date +'%Y-%m-%d %H:%M')"
+          git pull --rebase
+          git push
