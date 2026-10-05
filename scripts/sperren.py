@@ -129,10 +129,21 @@ def main():
             nachname = name.split()[-1]
             for s in saetze:
                 if nachname in s:
-                    treffer = list(RE_ANZAHL.finditer(s))
-                    if treffer:
-                        pos = s.index(nachname)
-                        t = min(treffer, key=lambda t: min(abs(t.start() - pos), abs(t.end() - pos)))
+                    # Jede Fundstelle dem naechstgelegenen Spieler im Satz zuordnen,
+                    # damit z. B. eine reine Geldstrafe nicht die Sperre des Nebenmanns erbt
+                    namen_pos = {k["name"].split()[-1]: [x.start() for x in re.finditer(re.escape(k["name"].split()[-1]), s)]
+                                 for k in kandidaten if k["name"].split()[-1] in s}
+                    def abstand(t, n, s=s):
+                        # "N Spiele Sperre fuer X": Name steht danach; sonst ("X wurde fuer N Spiele
+                        # gesperrt") steht er davor.
+                        danach = s[t.end():t.end() + 6].lstrip().startswith("für")
+                        werte = [(p - t.end()) if danach else (t.start() - p) for p in namen_pos[n]]
+                        werte = [w for w in werte if w >= 0]
+                        return min(werte) if werte else 10 ** 6
+                    eigene = [t for t in RE_ANZAHL.finditer(s)
+                              if min(namen_pos, key=lambda n: abstand(t, n)) == nachname]
+                    if eigene:
+                        t = min(eigene, key=lambda t: abstand(t, nachname))
                         anzahl = zahl(t.group(1) or t.group(2))
                         break
                     if re.search(r"automatische Sperre", s, re.I):
