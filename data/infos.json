@@ -1,0 +1,67 @@
+{
+ "spieltag": 7,
+ "availability": {
+  "2804": 0,
+  "1753": 0,
+  "4308": 0,
+  "1704": 0,
+  "3391": 0,
+  "990": 0,
+  "1790": 0,
+  "1763": 0,
+  "1901": 0,
+  "1655": 0,
+  "3958": 0,
+  "4346": 0,
+  "516": 0.5
+ },
+ "goalie_start": {},
+ "notizen": {},
+ "risiken": [
+  {
+   "text": "Jakob Weber (Nürnberg) fällt 4–6 Wochen aus. Fußverletzung, gemeldet am 24.09.2026, Rückkehr frühestens Ende Oktober.",
+   "schwer": true,
+   "bis": "2026-11-05"
+  },
+  {
+   "text": "Chris DeSousa (München) fehlt mehrere Wochen. Oberkörperverletzung aus dem Saisonauftakt, gemeldet am 23.09.2026.",
+   "schwer": true,
+   "bis": "2026-10-21"
+  },
+  {
+   "text": "Bremerhaven weiter mit vielen Ausfällen. Broadhurst und Kechter mehrere Wochen raus, Boos und N. B. Jensen auf unbestimmte Zeit, Rausch und Roßmy Saison-Aus.",
+   "schwer": true,
+   "bis": "2026-10-25"
+  },
+  {
+   "text": "Straubing ohne Leonhardt, Jentzsch und Kukuk. Leonhardt rund drei Wochen (gemeldet 28.09.), Kukuk krank auf unbestimmte Zeit.",
+   "schwer": false,
+   "bis": "2026-10-19"
+  },
+  {
+   "text": "Kölner Torhüter Felix Brückmann angeschlagen. Am 27.09. in Augsburg verletzt ausgewechselt, Juvonen dürfte weiter starten.",
+   "schwer": false,
+   "bis": "2026-10-11"
+  }
+ ],
+ "quellen": [
+  {
+   "titel": "t-online: Weber fällt wochenlang aus",
+   "url": "https://nuernberg.t-online.de/region/nuernberg/id_101451512/nuernberg-ice-tigers-dauerbrenner-jakob-weber-faellt-wochenlang-aus.html"
+  },
+  {
+   "titel": "Abendzeitung: München-Stürmer DeSousa fehlt mehrere Wochen",
+   "url": "https://www.abendzeitung-muenchen.de/sport/ehc/ehc-muenchen-stuermer-fehlt-mehrere-wochen-art-1160615"
+  },
+  {
+   "titel": "Weser-Kurier: Personalnot der Fischtown Pinguins",
+   "url": "https://weser-kurier.de/sport/eishockey/personalnot-der-fischtown-pinguins-sechs-verletzte-ein-gesperrter-doc87tplo4rax1m3rec5t8"
+  },
+  {
+   "titel": "Straubing Tigers: Vorschau Bremerhaven und Schwenningen",
+   "url": "https://www.straubing-tigers.de/nach-fuenf-punkte-wochenende-tigers-treffen-auf-bremerhaven-und-schwenningen/"
+  }
+ ],
+ "odds": {},
+ "odds_quellen": {}
+}
