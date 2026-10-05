@@ -14,7 +14,8 @@
   "3958": 0,
   "4346": 0,
   "516": 0.5,
-  "2501": 0
+  "2501": 0,
+  "1666": 0
  },
  "goalie_start": {},
  "notizen": {},
@@ -48,6 +49,10 @@
    "text": "Kris Bennett (Mannheim) fällt vier bis sechs Wochen aus. Laut Mannheimer Morgen; letzter Einsatz am 25.09.2026.",
    "schwer": true,
    "bis": "2026-11-06"
+  },
+  {
+   "text": "Julius Karrer gesperrt. 1 Spiel(e) laut DEL-Strafbank (gemeldet 2026-10-05), letztes gesperrtes Spiel am 2026-10-09.",
+   "schwer": true
   }
  ],
  "quellen": [
@@ -70,6 +75,10 @@
   {
    "titel": "Mannheimer Morgen: Stürmer Bennett fällt vier bis sechs Wochen aus",
    "url": "https://www.mannheimer-morgen.de/orte/mannheim_artikel,-mannheim-adler-mannheim-stuermer-bennett-faellt-vier-bis-sechs-wochen-aus-_arid,2402757.html"
+  },
+  {
+   "titel": "DEL-Strafbank: Ein Spiel Sperre für Nürnbergs Julius Karrer",
+   "url": "https://www.penny-del.org/fair-play/strafbank/detail/ein-spiel-sperre-fuer-nuernbergs-julius-karrer"
   }
  ],
  "odds": {},

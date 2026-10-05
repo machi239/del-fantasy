@@ -1,6 +1,18 @@
 {
- "stand": "2026-10-05 11:47",
+ "stand": "2026-10-05 16:34",
  "sperren": [
+  {
+   "spieler_id": "1666",
+   "name": "Julius Karrer",
+   "team_id": "14",
+   "spiele": 1,
+   "gemeldet": "2026-10-05",
+   "gesperrte_spiele": [
+    "2026-10-09"
+   ],
+   "titel": "Ein Spiel Sperre für Nürnbergs Julius Karrer",
+   "url": "https://www.penny-del.org/fair-play/strafbank/detail/ein-spiel-sperre-fuer-nuernbergs-julius-karrer"
+  },
   {
    "spieler_id": "2813",
    "name": "Kenny Agostino",

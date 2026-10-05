@@ -145,7 +145,6 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 3411,Gabriel Fontaine,Eisbären Berlin,for,3,False,0.82,0.27,Grizzlys Wolfsburg,True,4,7.3,Einsatzquote 67%,1.16,0.96,1.11,0.67,,,,
 3549,Nicolas Beaudin,Straubing Tigers,def,3,False,0.82,0.27,Iserlohn Roosters,True,6,2.4,,0.75,1.01,1.08,1.0,,,,
 1404,Justin Schütz,Adler Mannheim,for,4,True,0.81,0.2,Nürnberg Ice Tigers,False,5,27.0,Einsatzquote 71%,1.31,0.99,0.87,0.71,,,,
-1666,Julius Karrer,Nürnberg Ice Tigers,def,5,True,0.81,0.16,Adler Mannheim,True,7,3.6,,0.71,1.07,1.07,1.0,,,,
 2238,Kyle Platzer,Schwenninger Wild Wings,for,3,False,0.81,0.27,Kölner Haie,False,6,1.8,,0.84,0.99,0.97,1.0,,,,
 1856,Lennard Nieleck,Adler Mannheim,for,1,True,0.8,0.8,Nürnberg Ice Tigers,False,6,3.2,"Eiszeit steigt, Einsatzquote 86%",0.9,1.19,0.87,0.86,,,,
 3563,Dan Renouf,Adler Mannheim,def,4,False,0.8,0.2,Nürnberg Ice Tigers,False,7,1.7,,0.95,0.97,0.87,1.0,,,,
@@ -337,6 +336,7 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 2182,Justus Roth,Augsburger Panther,goal,1,True,0.0,0.0,Pinguins Bremerhaven,True,0,0.1,,,,,,0.0,0.48,2.67,25.8
 3592,Sebastian Zwickl,Augsburger Panther,for,1,True,0.0,0.0,Pinguins Bremerhaven,True,0,0.5,Einsatzquote 0%,0.39,1.0,1.0,0.0,,,,
 4153,Dave Dützka,Augsburger Panther,goal,1,True,0.0,0.0,Pinguins Bremerhaven,True,0,0.1,,,,,,0.0,0.48,2.67,25.8
+1666,Julius Karrer,Nürnberg Ice Tigers,def,5,True,0.0,0.0,Adler Mannheim,True,7,3.6,faellt aus,0.71,1.07,1.07,0,,,,
 2194,Maximilian Merkl,Nürnberg Ice Tigers,def,1,True,0.0,0.0,Adler Mannheim,True,0,0.8,Einsatzquote 0%,0.44,1.0,1.07,0.0,,,,
 2804,Jakob Weber,Nürnberg Ice Tigers,def,2,True,0.0,0.0,Adler Mannheim,True,3,13.5,faellt aus,1.94,1.0,1.07,0,,,,
 4346,William Dufour,Nürnberg Ice Tigers,for,2,False,0.0,0.0,Adler Mannheim,True,2,0.5,faellt aus,0.86,1.0,1.07,0,,,,
