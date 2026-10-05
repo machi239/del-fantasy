@@ -30,6 +30,9 @@ F_INFOS = os.path.join(DATA, "infos.json")
 F_STAND = os.path.join(DATA, "infos_stand.txt")
 F_AUF = os.path.join(DATA, "aufstellung.json")
 F_SEITE = os.path.join(ROOT, "docs", "index.html")
+F_SPERREN = os.path.join(DATA, "sperren.json")
+F_FEHLENDE = os.path.join(DATA, "fehlende.json")
+F_GESAMT = os.path.join(DATA, "infos_gesamt.json")
 FENSTER_MIN = 95
 
 
@@ -103,13 +106,88 @@ def main():
     with open(F_INFOS, "w", encoding="utf-8") as f:
         json.dump(infos, f, ensure_ascii=False, indent=1)
 
-    # 4. Rechnen und Seite bauen
-    os.makedirs(os.path.dirname(F_SEITE), exist_ok=True)
+    # 4. Sperren (DEL-Strafbank) und fehlende Spieler ergaenzen.
+    #    data/infos.json bleibt die reine Recherche; gerechnet wird mit data/infos_gesamt.json.
     py = sys.executable
-    subprocess.run([py, os.path.join(ROOT, "scripts", "optimize.py"), "--input", F_INFOS,
+    sperren_alt = lies(F_SPERREN, {}) or {}
+    stand = sperren_alt.get("stand", "")
+    if args.immer or not stand or stand < (now - timedelta(hours=3)).strftime("%Y-%m-%d %H:%M"):
+        r = subprocess.run([py, os.path.join(ROOT, "scripts", "sperren.py")])
+        if r.returncode != 0:
+            print("WARNUNG: Strafbank nicht lesbar, verwende letzten Stand.")
+    gesamt = mit_sperren(infos, lies(F_SPERREN, {}) or {}, schedule, st)
+    fehlende = fehlende_spieler(schedule)
+    with open(F_FEHLENDE, "w", encoding="utf-8") as f:
+        json.dump(fehlende, f, ensure_ascii=False, indent=1)
+    with open(F_GESAMT, "w", encoding="utf-8") as f:
+        json.dump(gesamt, f, ensure_ascii=False, indent=1)
+
+    # 5. Rechnen
+    os.makedirs(os.path.dirname(F_SEITE), exist_ok=True)
+    subprocess.run([py, os.path.join(ROOT, "scripts", "optimize.py"), "--input", F_GESAMT,
                     "--out", F_AUF], check=True)
+
+    # 6. Spieler der Aufstellung, die zuletzt ohne bekannten Grund fehlten, als Risiko
+    auf = lies(F_AUF, {})
+    bekannt = set(gesamt.get("availability", {}))
+    for p in auf.get("aufstellung", []):
+        f = fehlende.get(str(p["spieler_id"]))
+        if f and str(p["spieler_id"]) not in bekannt:
+            gesamt.setdefault("risiken", []).insert(0, {
+                "text": f"{p['name']} ({p['team']}) fehlte im letzten Spiel. "
+                        f"Zuletzt eingesetzt am {f['zuletzt_gespielt']}, Grund nicht recherchiert.",
+                "schwer": True})
+    with open(F_GESAMT, "w", encoding="utf-8") as f:
+        json.dump(gesamt, f, ensure_ascii=False, indent=1)
     subprocess.run([py, os.path.join(ROOT, "scripts", "seite.py"), "--aufstellung", F_AUF,
-                    "--infos", F_INFOS, "--out", F_SEITE], check=True)
+                    "--infos", F_GESAMT, "--out", F_SEITE], check=True)
+
+
+def mit_sperren(infos, sperren, schedule, st):
+    """Gesperrte Spieler fuer die Spiele dieses Spieltags auf availability 0 setzen."""
+    gesamt = json.loads(json.dumps(infos))
+    av = gesamt.setdefault("availability", {})
+    risiken = gesamt.setdefault("risiken", [])
+    quellen = gesamt.setdefault("quellen", [])
+    runde = [g for g in schedule if g["spieltag"] and int(g["spieltag"]) == st]
+    for s in sperren.get("sperren", []):
+        tage = {g["datum"] for g in runde if s["team_id"] in (g["heim_id"], g["gast_id"])}
+        if tage & set(s["gesperrte_spiele"]):
+            av[str(s["spieler_id"])] = 0
+            letzter = max(s["gesperrte_spiele"])
+            risiken.append({"text": f"{s['name']} gesperrt. {s['spiele']} Spiel(e) laut DEL-Strafbank "
+                                    f"(gemeldet {s['gemeldet']}), letztes gesperrtes Spiel am {letzter}.",
+                            "schwer": True})
+            quellen.append({"titel": "DEL-Strafbank: " + s["titel"], "url": s["url"]})
+            print(f"Sperre beruecksichtigt: {s['name']}")
+    return gesamt
+
+
+def fehlende_spieler(schedule):
+    """Spieler, die in mindestens 2 der letzten 5 Teamspiele dabei waren, aber im letzten fehlten."""
+    rows = read_csv(os.path.join(DATA, "spielerspiele.csv"))
+    spiele_team = {}
+    for r in rows:
+        spiele_team.setdefault(r["team_id"], {}).setdefault((r["datum"], r["game_id"]), []).append(r)
+    out = {}
+    for team, spiele in spiele_team.items():
+        folge = sorted(spiele)
+        if len(folge) < 2:
+            continue
+        letzte5 = folge[-5:]
+        im_letzten = {r["spieler_id"] for r in spiele[folge[-1]] if r["gespielt"] == "True"}
+        zaehler, zuletzt, namen = {}, {}, {}
+        for key in letzte5[:-1]:
+            for r in spiele[key]:
+                if r["gespielt"] == "True" and r["pos"] != "goal":  # Torhueter rotieren
+                    zaehler[r["spieler_id"]] = zaehler.get(r["spieler_id"], 0) + 1
+                    zuletzt[r["spieler_id"]] = key[0]
+                    namen[r["spieler_id"]] = r["name"]
+        for sid, n in zaehler.items():
+            if n >= 2 and sid not in im_letzten:
+                out[sid] = {"name": namen[sid], "team_id": team, "zuletzt_gespielt": zuletzt[sid],
+                            "verpasst": folge[-1][0]}
+    return out
 
 
 if __name__ == "__main__":
