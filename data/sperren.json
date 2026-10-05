@@ -1,0 +1,43 @@
+{
+ "stand": "2026-10-05 11:43",
+ "sperren": [
+  {
+   "spieler_id": "1785",
+   "name": "Riley Sheen",
+   "team_id": "1",
+   "spiele": 1,
+   "gemeldet": "2026-09-26",
+   "gesperrte_spiele": [
+    "2026-09-27"
+   ],
+   "titel": "Geldstrafe und Sperre für Spieler des ERC Ingolstadts",
+   "url": "https://www.penny-del.org/fair-play/strafbank/detail/geldstrafe-und-sperre-fuer-spieler-des-erc-ingolstadts"
+  },
+  {
+   "spieler_id": "2813",
+   "name": "Kenny Agostino",
+   "team_id": "1",
+   "spiele": 1,
+   "gemeldet": "2026-09-26",
+   "gesperrte_spiele": [
+    "2026-09-27"
+   ],
+   "titel": "Geldstrafe und Sperre für Spieler des ERC Ingolstadts",
+   "url": "https://www.penny-del.org/fair-play/strafbank/detail/geldstrafe-und-sperre-fuer-spieler-des-erc-ingolstadts"
+  },
+  {
+   "spieler_id": "3407",
+   "name": "Matthew Abt",
+   "team_id": "9",
+   "spiele": 3,
+   "gemeldet": "2026-09-21",
+   "gesperrte_spiele": [
+    "2026-09-25",
+    "2026-09-27",
+    "2026-10-02"
+   ],
+   "titel": "Drei Spiele Sperre für Bremerhavens Matthew Abt",
+   "url": "https://www.penny-del.org/fair-play/strafbank/detail/drei-spiele-sperre-fuer-bremerhavens-matthew-abt"
+  }
+ ]
+}
