@@ -13,7 +13,8 @@
   "1655": 0,
   "3958": 0,
   "4346": 0,
-  "516": 0.5
+  "516": 0.5,
+  "2501": 0
  },
  "goalie_start": {},
  "notizen": {},
@@ -42,6 +43,11 @@
    "text": "Kölner Torhüter Felix Brückmann angeschlagen. Am 27.09. in Augsburg verletzt ausgewechselt, Juvonen dürfte weiter starten.",
    "schwer": false,
    "bis": "2026-10-11"
+  },
+  {
+   "text": "Kris Bennett (Mannheim) fällt vier bis sechs Wochen aus. Laut Mannheimer Morgen; letzter Einsatz am 25.09.2026.",
+   "schwer": true,
+   "bis": "2026-11-06"
   }
  ],
  "quellen": [
@@ -60,6 +66,10 @@
   {
    "titel": "Straubing Tigers: Vorschau Bremerhaven und Schwenningen",
    "url": "https://www.straubing-tigers.de/nach-fuenf-punkte-wochenende-tigers-treffen-auf-bremerhaven-und-schwenningen/"
+  },
+  {
+   "titel": "Mannheimer Morgen: Stürmer Bennett fällt vier bis sechs Wochen aus",
+   "url": "https://www.mannheimer-morgen.de/orte/mannheim_artikel,-mannheim-adler-mannheim-stuermer-bennett-faellt-vier-bis-sechs-wochen-aus-_arid,2402757.html"
   }
  ],
  "odds": {},

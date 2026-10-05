@@ -288,6 +288,7 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 1983,Nathan Burns,ERC Ingolstadt,for,2,True,0.0,0.0,EHC Red Bull München,False,0,0.9,Einsatzquote 0%,0.71,1.0,0.87,0.0,,,,
 4146,Bartholomäus Oswald,ERC Ingolstadt,goal,1,True,-0.0,-0.0,EHC Red Bull München,False,0,0.3,,,,,,0.0,0.22,3.77,29.3
 2175,Felix Noack,Adler Mannheim,goal,1,True,-0.0,-0.0,Nürnberg Ice Tigers,False,0,0.6,,,,,,0.0,0.26,3.38,27.1
+2501,Kris Bennett,Adler Mannheim,for,3,False,-0.0,-0.0,Nürnberg Ice Tigers,False,4,3.5,faellt aus,-0.27,0.99,0.87,0,,,,
 2754,Lukas Kälble,Adler Mannheim,def,4,True,0.0,0.0,Nürnberg Ice Tigers,False,0,4.0,Einsatzquote 0%,1.34,1.0,0.87,0.0,,,,
 3564,Colin Schlenker,Adler Mannheim,def,1,True,0.0,0.0,Nürnberg Ice Tigers,False,0,2.4,Einsatzquote 0%,0.44,1.0,0.87,0.0,,,,
 2510,Noel Saffran,Eisbären Berlin,for,1,True,0.0,0.0,Grizzlys Wolfsburg,True,0,2.6,Einsatzquote 0%,0.39,1.0,1.11,0.0,,,,
@@ -358,7 +359,6 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 3307,Paul Vinzens,ERC Ingolstadt,for,1,True,-0.09,-0.09,EHC Red Bull München,False,4,0.6,Einsatzquote 67%,-0.16,0.96,0.87,0.67,,,,
 1985,Jake Hildebrand,Adler Mannheim,goal,2,True,-0.11,-0.06,Nürnberg Ice Tigers,False,4,17.2,,,,,,0.6,0.26,3.38,27.1
 83,Andreas Jenike,Iserlohn Roosters,goal,2,True,-0.11,-0.06,Straubing Tigers,False,3,2.0,,,,,,0.4,0.23,3.42,27.4
-2501,Kris Bennett,Adler Mannheim,for,3,False,-0.13,-0.04,Nürnberg Ice Tigers,False,4,3.5,Einsatzquote 57%,-0.27,0.99,0.87,0.57,,,,
 4337,Curtis Valk,Schwenninger Wild Wings,for,3,False,-0.13,-0.04,Kölner Haie,False,6,1.5,,-0.13,1.01,0.97,1.0,,,,
 998,Hendrik Hane,Iserlohn Roosters,goal,2,True,-0.16,-0.08,Straubing Tigers,False,3,3.7,,,,,,0.6,0.23,3.42,27.4
 157,Hannibal Weitzmann,Grizzlys Wolfsburg,goal,1,True,-0.19,-0.19,Eisbären Berlin,False,3,2.7,,,,,,0.4,0.3,3.6,27.3
