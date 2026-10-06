@@ -6,20 +6,95 @@
   "4308": 0,
   "1704": 0,
   "3391": 0,
-  "990": 0,
   "1790": 0,
   "1763": 0,
   "1901": 0,
   "1655": 0,
   "3958": 0,
-  "4346": 0,
-  "516": 0.5,
   "2501": 0,
+  "516": 0,
+  "3575": 0,
+  "1609": 0,
+  "1653": 0,
+  "3695": 0,
+  "1983": 0,
+  "130": 0,
+  "2133": 0,
+  "1075": 0,
+  "2754": 0.5,
+  "1404": 0.5,
+  "3411": 0.5,
+  "1823": 0.5,
+  "1360": 0.5,
+  "513": 0.5,
+  "3122": 0.5,
+  "1771": 0.5,
+  "537": 0.5,
+  "1836": 0.5,
+  "2916": 0.5,
+  "3408": 0.5,
+  "1345": 0.5,
+  "2199": 0.5,
+  "143": 0.5,
+  "2191": 0.5,
+  "4323": 0.5,
+  "1764": 0.5,
+  "3572": 0.5,
+  "3167": 0.5,
+  "2835": 0.5,
+  "3309": 0.5,
   "1666": 0
  },
- "goalie_start": {},
- "notizen": {},
+ "goalie_start": {
+  "1211": 0.65,
+  "3593": 0.35,
+  "4157": 0.9,
+  "516": 0.0
+ },
+ "notizen": {
+  "2804": "Fußverletzung, 4–6 Wochen ab 24.09.",
+  "3575": "Knieverletzung vom 02.10., ca. 6 Wochen",
+  "1609": "verletzt seit 18.09., bis auf Weiteres",
+  "2754": "verletzt, Einsatz laut Verein Ende Sept. noch zu früh",
+  "1404": "fehlte 01.10. und 04.10., Grund unbekannt",
+  "3411": "angeschlagen, fehlte 02.10. und 04.10.",
+  "1823": "am 04.10. per Kniecheck verletzt, Ausmaß unklar",
+  "1360": "fehlte zuletzt, Grund unbekannt",
+  "513": "fehlte zuletzt, Grund unbekannt",
+  "3122": "fehlte zuletzt, Grund unbekannt",
+  "1771": "Fußverletzung, Reha mit wöchentlicher Neubewertung",
+  "537": "fehlte zuletzt, Grund unbekannt",
+  "1836": "fehlte zuletzt, Grund unbekannt",
+  "2916": "überzähliger Ausländer am 04.10.",
+  "3408": "fehlte zuletzt, Grund unbekannt",
+  "1345": "Unterkörperverletzung seit August, kein Update seit 17.09.",
+  "2199": "fehlte zuletzt, Grund unbekannt",
+  "143": "verletzungsbedingt gefehlt am 04.10., Dauer unbekannt",
+  "2191": "fehlte zuletzt, Grund unbekannt",
+  "4323": "fehlte 02.10. und 04.10., Grund offiziell nicht genannt",
+  "1764": "überzählig (Rotation mit Glötzl)",
+  "3572": "fehlte zuletzt, Grund unbekannt",
+  "3167": "überzählig (Extra) am 02.10. und 04.10.",
+  "2835": "überzählig (Extra) am 04.10.",
+  "3309": "überzählig am 02.10. und 04.10., Eiszeit zuvor stark gesunken",
+  "516": "am 27.09. verletzt ausgewechselt, seither nicht gespielt",
+  "1211": "startete 02.10. und 04.10.",
+  "3593": "zuletzt zweimal nur Backup hinter Ancicka"
+ },
  "risiken": [
+  {
+   "text": "Peyton Jones (Augsburg) ist als Starter unsicher. Ancicka startete am 02.10. und 04.10. mit Bestätigung derselben Formation; Jones nicht verletzt, eher Rotation. Gleich teure Alternative: Tobias Ancicka (1 Puck, nicht in der Alternativliste); aus der Alternativliste am günstigsten Jonas Neffin (Berlin, 2 Pucks, drei Starts in Folge) bzw. Adam Scheel (2).",
+   "schwer": true
+  },
+  {
+   "text": "Moritz Warnecke (München) war zuletzt zweimal überzählig. Am 02.10. und 04.10. nicht eingesetzt, Eiszeit zuvor auf 3:27 Min. gefallen; keine Verletzung gemeldet.",
+   "schwer": true
+  },
+  {
+   "text": "Chris Jandric (Nürnberg) fällt rund sechs Wochen aus. Knieverletzung vom 02.10., gemeldet am 04.10.",
+   "schwer": true,
+   "bis": "2026-11-13"
+  },
   {
    "text": "Jakob Weber (Nürnberg) fällt 4–6 Wochen aus. Fußverletzung, gemeldet am 24.09.2026, Rückkehr frühestens Ende Oktober.",
    "schwer": true,
@@ -31,24 +106,82 @@
    "bis": "2026-10-21"
   },
   {
-   "text": "Bremerhaven weiter mit vielen Ausfällen. Broadhurst und Kechter mehrere Wochen raus, Boos und N. B. Jensen auf unbestimmte Zeit, Rausch und Roßmy Saison-Aus.",
-   "schwer": true,
-   "bis": "2026-10-25"
-  },
-  {
-   "text": "Straubing ohne Leonhardt, Jentzsch und Kukuk. Leonhardt rund drei Wochen (gemeldet 28.09.), Kukuk krank auf unbestimmte Zeit.",
+   "text": "Philipp Krening (München) fällt bis Mitte November aus. Unterkörperverletzung, Rückkehr nach der Deutschland-Cup-Pause.",
    "schwer": false,
-   "bis": "2026-10-19"
+   "bis": "2026-11-15"
   },
   {
-   "text": "Kölner Torhüter Felix Brückmann angeschlagen. Am 27.09. in Augsburg verletzt ausgewechselt, Juvonen dürfte weiter starten.",
+   "text": "Bremerhaven weiter mit vielen Ausfällen. Broadhurst mehrere Wochen, Kechter und Boos nach OP länger raus, Rausch und Roßmy Saison-Aus; Krämmer fehlte am 04.10. verletzt. N. B. Jensen ist zurück.",
+   "schwer": true,
+   "bis": "2026-10-27"
+  },
+  {
+   "text": "Kechter und Boos (Bremerhaven) nach Operationen länger raus. Kein Rückkehrdatum genannt.",
+   "schwer": true,
+   "bis": "2026-11-10"
+  },
+  {
+   "text": "Rausch und Roßmy (Bremerhaven) Saison-Aus. Schwere Knieverletzungen.",
+   "schwer": true,
+   "bis": "2027-03-07"
+  },
+  {
+   "text": "Straubing ohne Leonhardt, Jentzsch und Kukuk. Laut Vorbericht vom 05.10. weiter raus; Leonhardt ca. 3 Wochen ab 25.09., Jentzsch ca. 6 Wochen ab 02.09.",
+   "schwer": false,
+   "bis": "2026-10-16"
+  },
+  {
+   "text": "Moritz Kukuk (Straubing) langfristig krank. Rückkehr laut Verein nicht absehbar.",
+   "schwer": false,
+   "bis": "2026-10-31"
+  },
+  {
+   "text": "Kölner Torhüter Felix Brückmann angeschlagen. Am 27.09. in Augsburg verletzt ausgewechselt, Juvonen startete seither.",
    "schwer": false,
    "bis": "2026-10-11"
   },
   {
-   "text": "Kris Bennett (Mannheim) fällt vier bis sechs Wochen aus. Laut Mannheimer Morgen; letzter Einsatz am 25.09.2026.",
+   "text": "Dominik Bokk (Köln) weiter ohne DEL-Einsatz. Schulterverletzung vom 03.09., mehrere Wochen, kein Comeback gemeldet.",
+   "schwer": false,
+   "bis": "2026-10-15"
+  },
+  {
+   "text": "Kris Bennett (Mannheim) fällt vier bis sechs Wochen aus. Unterkörperverletzung vom 25.09., vom Verein bestätigt.",
    "schwer": true,
    "bis": "2026-11-06"
+  },
+  {
+   "text": "Mannheim ohne Michaelis, fraglich Kälble und Schütz. Michaelis seit 18.09. verletzt, Kälble verletzt, Schütz fehlte zuletzt ohne genannten Grund.",
+   "schwer": false,
+   "bis": "2026-10-16"
+  },
+  {
+   "text": "Julian Chrobot (Wolfsburg) fällt monatelang aus. Schwere Kreuzbandverletzung aus der Vorbereitung.",
+   "schwer": false,
+   "bis": "2027-01-31"
+  },
+  {
+   "text": "Ingolstadt ohne Smallwood und Burns. Smallwood mehrmonatige Pause (Oberkörper), Burns unbestimmt; Rosa-Preto fraglich.",
+   "schwer": false,
+   "bis": "2026-10-31"
+  },
+  {
+   "text": "Jakin Smallwood (Ingolstadt) mehrere Monate raus. Oberkörperverletzung vom Saisonauftakt.",
+   "schwer": false,
+   "bis": "2026-12-15"
+  },
+  {
+   "text": "Phil Hungerecker (Schwenningen) weiter verletzt. Fuß-OP am 27.08., zuletzt am 04.10. als Injured gelistet.",
+   "schwer": false,
+   "bis": "2026-10-31"
+  },
+  {
+   "text": "Manuel Wiederer (Berlin) fraglich. Am 04.10. nach Kniecheck von Karrer ausgeschieden, Ausmaß unklar; Fontaine ebenfalls angeschlagen.",
+   "schwer": false
+  },
+  {
+   "text": "Torhüter-Rotation bei mehreren Gegnern offen. Wolfsburg (Weitzmann zuletzt statt Strahlmeier), Ingolstadt (Stettmer/Williams), Schwenningen (Wolf zuletzt statt Eriksson), Straubing (Skarek zuletzt), Mannheim (Hildebrand zweimal in Folge).",
+   "schwer": false
   },
   {
    "text": "Julius Karrer gesperrt. 1 Spiel(e) laut DEL-Strafbank (gemeldet 2026-10-05), letztes gesperrtes Spiel am 2026-10-09.",
@@ -57,24 +190,112 @@
  ],
  "quellen": [
   {
+   "titel": "t-online: Knieverletzung Jandric",
+   "url": "https://nuernberg.t-online.de/region/nuernberg/id_101465442/knieverletzung-nuernberg-ice-tigers-muessen-wochen-auf-jandric-verzichten.html"
+  },
+  {
    "titel": "t-online: Weber fällt wochenlang aus",
    "url": "https://nuernberg.t-online.de/region/nuernberg/id_101451512/nuernberg-ice-tigers-dauerbrenner-jakob-weber-faellt-wochenlang-aus.html"
   },
   {
-   "titel": "Abendzeitung: München-Stürmer DeSousa fehlt mehrere Wochen",
-   "url": "https://www.abendzeitung-muenchen.de/sport/ehc/ehc-muenchen-stuermer-fehlt-mehrere-wochen-art-1160615"
+   "titel": "AEV: Panther feiern zweiten Heimsieg",
+   "url": "https://www.aev-panther.de/artikel/panther-feiern-zweiten-heimsieg/01a0fd63-885b-7b83-bc32-fd03b188e665"
   },
   {
-   "titel": "Weser-Kurier: Personalnot der Fischtown Pinguins",
-   "url": "https://weser-kurier.de/sport/eishockey/personalnot-der-fischtown-pinguins-sechs-verletzte-ein-gesperrter-doc87tplo4rax1m3rec5t8"
+   "titel": "AEV: Keine Punkte im Derby",
+   "url": "https://www.aev-panther.de/artikel/keine-punkte-im-derby/01a107d0-d422-737b-9826-b77dbeda9e0b"
   },
   {
-   "titel": "Straubing Tigers: Vorschau Bremerhaven und Schwenningen",
-   "url": "https://www.straubing-tigers.de/nach-fuenf-punkte-wochenende-tigers-treffen-auf-bremerhaven-und-schwenningen/"
+   "titel": "Fischtown: Kechter und Broadhurst verletzt, Saison-Aus für Rausch",
+   "url": "https://fischtown-pinguins.de/roman-kechter-und-alexander-broadhurst-fallen-verletzt-aus-saison-fuer-maxim-rausch-beendet/"
   },
   {
-   "titel": "Mannheimer Morgen: Stürmer Bennett fällt vier bis sechs Wochen aus",
-   "url": "https://www.mannheimer-morgen.de/orte/mannheim_artikel,-mannheim-adler-mannheim-stuermer-bennett-faellt-vier-bis-sechs-wochen-aus-_arid,2402757.html"
+   "titel": "Fischtown: trotz Verletzungssorgen siegreich gegen Frankfurt",
+   "url": "https://fischtown-pinguins.de/fischtown-pinguins-trotz-verletzungssorgen-siegreich-gegen-frankfurt/"
+  },
+  {
+   "titel": "Weser-Kurier: Knapper Erfolg dank Gudlevskis",
+   "url": "https://weser-kurier.de/sport/eishockey/fischtown-pinguins-knapper-erfolg-dank-goalie-gudlevskis-doc87vwbryhl4w1hk4irazp"
+  },
+  {
+   "titel": "buten un binnen: Roßmy fällt wohl Saison aus",
+   "url": "https://www.butenunbinnen.de/sport/eishockey-pinguins-rossmy-verletzung-102.html"
+  },
+  {
+   "titel": "Straubing Tigers: Vorschau Iserlohn/Mannheim",
+   "url": "https://www.straubing-tigers.de/mit-vier-siegen-in-folge-tigers-empfangen-iserlohn-und-gastieren-in-mannheim/"
+  },
+  {
+   "titel": "Straubing Tigers: Kukuk fällt langfristig aus",
+   "url": "https://www.straubing-tigers.de/moritz-kukuk-faellt-krankheitsbedingt-langfristig-aus/"
+  },
+  {
+   "titel": "Adler Mannheim: Bennett fällt vier bis sechs Wochen aus",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/09/-6"
+  },
+  {
+   "titel": "Adler Mannheim: Vom Start weg",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/09/vom-start-weg"
+  },
+  {
+   "titel": "Adler Mannheim: Teamcheck Grizzlys Wolfsburg",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/10/teamcheck-grizzlys-wolfsburg"
+  },
+  {
+   "titel": "eisbaerlin.de: 2:0 in Frankfurt",
+   "url": "https://eisbaerlin.de/blog/2026/10/02/20-auswaertssieg-in-frankfurt-liam-kirk-scort-weiter-und-jonas-neffin-holt-das-naechste-shutout/"
+  },
+  {
+   "titel": "Berliner Abendblatt: Eisbären reisen nach Salzburg",
+   "url": "https://berliner-abendblatt.de/berlin-news/chl-eisbaeren-berlin-reisen-mit-rueckenwind-nach-salzburg-id350501"
+  },
+  {
+   "titel": "ERC Ingolstadt: Verletzungsupdate",
+   "url": "https://www.erc-ingolstadt.de/saison/verletzungsupdate"
+  },
+  {
+   "titel": "Red Bull München: DeSousa mehrere Wochen verletzt",
+   "url": "https://www.redbullmuenchen.de/de/news/ehc-red-bull-muenchen-chris-desousa-mehrere-wochen-verletzt"
+  },
+  {
+   "titel": "PENNY DEL: Spielerdetails Warnecke",
+   "url": "https://www.penny-del.org/statistik/spielerdetails/hauptrunde-2627/moritz_warnecke-3309/details"
+  },
+  {
+   "titel": "Kölner Haie: Bokk fällt mehrere Wochen aus",
+   "url": "https://www.haie.de/?p=201004"
+  },
+  {
+   "titel": "Kölner Haie: 6:3 in Ingolstadt",
+   "url": "https://www.haie.de/news/6-haie-gewinnen-63-beim-erc-ingolstadt/"
+  },
+  {
+   "titel": "Wild Wings: Verletzungsberichte",
+   "url": "https://www.schwenninger-wildwings.de/aktuell/verletzungsberichte/"
+  },
+  {
+   "titel": "Wild Wings: Spielbericht 04.10.",
+   "url": "https://www.schwenninger-wildwings.de/spielbericht/wild-wings-kommen-zu-spaet-auf-touren/"
+  },
+  {
+   "titel": "Wetterauer Zeitung: Löwen verlieren zweimal knapp",
+   "url": "https://www.wetterauer-zeitung.de/sport/lokalsport/loewen-frankfurt-verlieren-zweimal-knapp-aber-pokel-sagt-wir-verstecken-uns-nicht-94524233.html"
+  },
+  {
+   "titel": "Löwen Frankfurt: Uher fällt verletzungsbedingt aus",
+   "url": "https://www.loewen-frankfurt.de/saison/aktuelles/details/dominik-uher-faellt-verletzungsbedingt-aus"
+  },
+  {
+   "titel": "Iserlohn Roosters: 3:2 gegen Krefeld",
+   "url": "https://iserlohn-roosters.de/2026/10/04/32-roosters-sieg-gegen-krefeld/"
+  },
+  {
+   "titel": "Krefeld Pinguine: zweiter Sieg in Folge",
+   "url": "https://krefeld-pinguine.de/news/krefeld-pinguine-fahren-zweiten-sieg-in-folge-ein/"
+  },
+  {
+   "titel": "RNZ: Adler 1:4 in Wolfsburg",
+   "url": "https://www.rnz.de/sport/sportregional_artikel,-Adler-Mannheim-gegen-Wolfsburg-Auswaertsschwaeche-setzt-sich-beim-14-bei-Grizzlys-fort-_arid,2446555.html"
   },
   {
    "titel": "DEL-Strafbank: Ein Spiel Sperre für Nürnbergs Julius Karrer",
