@@ -1,7 +1,7 @@
 {
  "spieltag": 7,
  "deadline": "Thu 08.10.2026 19:30",
- "erstellt": "06.10.2026 13:28",
+ "erstellt": "06.10.2026 18:34",
  "budget": 60,
  "pucks": 60,
  "auslaender": 9,
@@ -12,10 +12,10 @@
    "datum": "2026-10-08",
    "uhrzeit": "19:30",
    "quelle": "Quoten",
-   "xg_heim": 3.02,
-   "xg_gast": 2.74,
-   "p_heim_60": 0.461,
-   "p_gast_60": 0.37
+   "xg_heim": 3.07,
+   "xg_gast": 2.72,
+   "p_heim_60": 0.474,
+   "p_gast_60": 0.358
   },
   {
    "spiel": "Augsburger Panther - Pinguins Bremerhaven",
@@ -214,7 +214,7 @@
    "dt_pass": false,
    "gewaehlt_pct": 18.9,
    "spiele": 6,
-   "xp": 2.04,
+   "xp": 2.03,
    "gegner_id": 44,
    "heim": false,
    "hinweis": "",
@@ -224,7 +224,7 @@
    "p_einsatz": 1.0,
    "team": "Krefeld Pinguine",
    "gegner": "Löwen Frankfurt",
-   "wert_pro_puck": 1.02
+   "wert_pro_puck": 1.01
   },
   {
    "spieler_id": 1811,
@@ -616,17 +616,17 @@
     "dt_pass": false,
     "gewaehlt_pct": 7.6,
     "spiele": 4,
-    "xp": 0.92,
+    "xp": 0.97,
     "gegner_id": 5,
     "heim": true,
     "hinweis": "",
     "p_start": 0.6,
-    "p_sieg60": 0.46,
-    "xga": 2.74,
-    "xsv": 25.4,
+    "p_sieg60": 0.47,
+    "xga": 2.72,
+    "xsv": 25.3,
     "team": "Löwen Frankfurt",
     "gegner": "Krefeld Pinguine",
-    "wert_pro_puck": 0.46
+    "wert_pro_puck": 0.48
    }
   ],
   "def": [
@@ -809,7 +809,7 @@
     "dt_pass": false,
     "gewaehlt_pct": 15.7,
     "spiele": 6,
-    "xp": 2.05,
+    "xp": 2.03,
     "gegner_id": 44,
     "heim": false,
     "hinweis": "",
@@ -830,7 +830,7 @@
     "dt_pass": false,
     "gewaehlt_pct": 9.4,
     "spiele": 6,
-    "xp": 1.98,
+    "xp": 1.97,
     "gegner_id": 44,
     "heim": false,
     "hinweis": "",
