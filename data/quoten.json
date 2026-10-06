@@ -1,94 +1,97 @@
 {
- "stand": "04.10.2026 13:04",
+ "stand": "06.10.2026 13:27",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
-  "bet365"
+  "bet365",
+  "unibet"
  ],
  "spiele": {
-  "3-14": {
-   "spiel": "Eisbären Berlin - Nürnberg Ice Tigers",
-   "beginn": "04.10.2026 14:00",
+  "44-5": {
+   "spiel": "Löwen Frankfurt - Krefeld Pinguine",
+   "beginn": "08.10.2026 19:30",
    "buchmacher": [
-    "pinnacle"
+    "pinnacle",
+    "bet365",
+    "unibet"
    ],
-   "p_home60": 0.573,
-   "p_draw60": 0.207,
-   "p_away60": 0.22,
-   "p_home_inkl_ot": 0.693,
-   "total": 6.05
-  },
-  "9-44": {
-   "spiel": "Pinguins Bremerhaven - Löwen Frankfurt",
-   "beginn": "04.10.2026 14:00",
-   "buchmacher": [
-    "pinnacle"
-   ],
-   "p_home60": 0.541,
-   "p_draw60": 0.223,
-   "p_away60": 0.236,
-   "p_home_inkl_ot": 0.668,
-   "total": 5.89
-  },
-  "15-6": {
-   "spiel": "Schwenninger Wild Wings - Straubing Tigers",
-   "beginn": "04.10.2026 14:00",
-   "buchmacher": [
-    "pinnacle"
-   ],
-   "p_home60": 0.331,
+   "p_home60": 0.427,
    "p_draw60": 0.237,
-   "p_away60": 0.432,
-   "p_home_inkl_ot": 0.444,
-   "total": 5.92
+   "p_away60": 0.336,
+   "p_home_inkl_ot": 0.55,
+   "total": 5.76
   },
-  "1-11": {
-   "spiel": "ERC Ingolstadt - Kölner Haie",
-   "beginn": "04.10.2026 16:30",
+  "11-15": {
+   "spiel": "Kölner Haie - Schwenninger Wild Wings",
+   "beginn": "09.10.2026 19:30",
    "buchmacher": [
-    "pinnacle"
+    "bet365"
    ],
-   "p_home60": 0.319,
-   "p_draw60": 0.225,
-   "p_away60": 0.456,
-   "p_home_inkl_ot": 0.424,
-   "total": 6.32
+   "p_home60": 0.677,
+   "p_draw60": 0.155,
+   "p_away60": 0.169,
+   "p_home_inkl_ot": 0.766,
+   "total": 6.19
   },
-  "7-5": {
-   "spiel": "Iserlohn Roosters - Krefeld Pinguine",
-   "beginn": "04.10.2026 16:30",
+  "3-8": {
+   "spiel": "Eisbären Berlin - Grizzlys Wolfsburg",
+   "beginn": "09.10.2026 19:30",
    "buchmacher": [
-    "pinnacle"
+    "bet365"
    ],
-   "p_home60": 0.297,
-   "p_draw60": 0.236,
-   "p_away60": 0.467,
-   "p_home_inkl_ot": 0.402,
+   "p_home60": 0.568,
+   "p_draw60": 0.186,
+   "p_away60": 0.245,
+   "p_home_inkl_ot": 0.668,
+   "total": 6.19
+  },
+  "14-2": {
+   "spiel": "Nürnberg Ice Tigers - Adler Mannheim",
+   "beginn": "09.10.2026 19:30",
+   "buchmacher": [
+    "bet365"
+   ],
+   "p_home60": 0.347,
+   "p_draw60": 0.208,
+   "p_away60": 0.446,
+   "p_home_inkl_ot": 0.446,
+   "total": 5.79
+  },
+  "13-9": {
+   "spiel": "Augsburger Panther - Pinguins Bremerhaven",
+   "beginn": "09.10.2026 19:30",
+   "buchmacher": [
+    "bet365"
+   ],
+   "p_home60": 0.369,
+   "p_draw60": 0.222,
+   "p_away60": 0.409,
+   "p_home_inkl_ot": 0.48,
    "total": 5.73
   },
-  "8-2": {
-   "spiel": "Grizzlys Wolfsburg - Adler Mannheim",
-   "beginn": "04.10.2026 16:30",
+  "12-1": {
+   "spiel": "EHC Red Bull München - ERC Ingolstadt",
+   "beginn": "09.10.2026 19:30",
    "buchmacher": [
-    "pinnacle"
+    "bet365"
    ],
-   "p_home60": 0.286,
-   "p_draw60": 0.234,
-   "p_away60": 0.481,
-   "p_home_inkl_ot": 0.389,
-   "total": 5.92
+   "p_home60": 0.548,
+   "p_draw60": 0.195,
+   "p_away60": 0.257,
+   "p_home_inkl_ot": 0.644,
+   "total": 6.19
   },
-  "12-13": {
-   "spiel": "EHC Red Bull München - Augsburger Panther",
-   "beginn": "04.10.2026 19:00",
+  "6-7": {
+   "spiel": "Straubing Tigers - Iserlohn Roosters",
+   "beginn": "09.10.2026 19:30",
    "buchmacher": [
-    "pinnacle"
+    "bet365"
    ],
-   "p_home60": 0.639,
-   "p_draw60": 0.192,
-   "p_away60": 0.169,
-   "p_home_inkl_ot": 0.753,
-   "total": 6.26
+   "p_home60": 0.627,
+   "p_draw60": 0.168,
+   "p_away60": 0.205,
+   "p_home_inkl_ot": 0.725,
+   "total": 5.73
   }
  }
 }
