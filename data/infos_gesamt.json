@@ -21,7 +21,7 @@
   "130": 0,
   "2133": 0,
   "1075": 0,
-  "2754": 0.5,
+  "2754": 0,
   "1404": 0.5,
   "3411": 0.5,
   "1823": 0.5,
@@ -37,58 +37,128 @@
   "2199": 0.5,
   "143": 0.5,
   "2191": 0.5,
-  "4323": 0.5,
+  "4323": 0,
   "1764": 0.5,
   "3572": 0.5,
   "3167": 0.5,
   "2835": 0.5,
   "3309": 0.5,
+  "92": 0.5,
+  "3412": 0.5,
+  "4344": 0,
+  "4317": 0.5,
+  "2425": 0.5,
   "1666": 0
  },
  "goalie_start": {
+  "1069": 0.65,
+  "4312": 0.35,
+  "416": 0.55,
+  "157": 0.45,
+  "4157": 0.85,
+  "516": 0.0,
+  "1594": 0.6,
+  "3424": 0.4,
+  "122": 0.7,
+  "4154": 0.3,
+  "2351": 0.55,
+  "1459": 0.45,
+  "599": 0.9,
+  "1985": 0.6,
+  "500": 0.4,
+  "4319": 0.75,
+  "1904": 0.25,
+  "998": 0.55,
+  "83": 0.45,
   "1211": 0.65,
   "3593": 0.35,
-  "4157": 0.9,
-  "516": 0.0
+  "1547": 0.8,
+  "1451": 0.2,
+  "4338": 0.75,
+  "1088": 0.2,
+  "1825": 0.05,
+  "4342": 0.8,
+  "102": 0.2
  },
  "notizen": {
   "2804": "Fußverletzung, 4–6 Wochen ab 24.09.",
   "3575": "Knieverletzung vom 02.10., ca. 6 Wochen",
   "1609": "verletzt seit 18.09., bis auf Weiteres",
-  "2754": "verletzt, Einsatz laut Verein Ende Sept. noch zu früh",
+  "2754": "verletzt, fehlte zuletzt; keine Rückkehrmeldung",
   "1404": "fehlte 01.10. und 04.10., Grund unbekannt",
-  "3411": "angeschlagen, fehlte 02.10. und 04.10.",
-  "1823": "am 04.10. per Kniecheck verletzt, Ausmaß unklar",
+  "3411": "fehlte 02.10. und 04.10., Grund nicht genannt",
+  "1823": "Kniecheck 04.10., angeschlagen, geschont, nicht mit nach Salzburg; keine Diagnose",
   "1360": "fehlte zuletzt, Grund unbekannt",
   "513": "fehlte zuletzt, Grund unbekannt",
   "3122": "fehlte zuletzt, Grund unbekannt",
-  "1771": "Fußverletzung, Reha mit wöchentlicher Neubewertung",
+  "1771": "Fußverletzung, Aufbautraining mit wöchentlicher Neubewertung",
   "537": "fehlte zuletzt, Grund unbekannt",
   "1836": "fehlte zuletzt, Grund unbekannt",
   "2916": "überzähliger Ausländer am 04.10.",
   "3408": "fehlte zuletzt, Grund unbekannt",
-  "1345": "Unterkörperverletzung seit August, kein Update seit 17.09.",
+  "1345": "Unterkörperverletzung seit 19.08., kein Update seit 17.09.",
   "2199": "fehlte zuletzt, Grund unbekannt",
-  "143": "verletzungsbedingt gefehlt am 04.10., Dauer unbekannt",
-  "2191": "fehlte zuletzt, Grund unbekannt",
-  "4323": "fehlte 02.10. und 04.10., Grund offiziell nicht genannt",
+  "143": "fehlte 04.10. verletzungsbedingt, Art und Dauer unbekannt",
+  "2191": "fehlte 04.10., Grund nicht genannt",
+  "4323": "verletzt seit 02.10. (Sport in Augsburg), Dauer unbekannt",
   "1764": "überzählig (Rotation mit Glötzl)",
   "3572": "fehlte zuletzt, Grund unbekannt",
   "3167": "überzählig (Extra) am 02.10. und 04.10.",
   "2835": "überzählig (Extra) am 04.10.",
-  "3309": "überzählig am 02.10. und 04.10., Eiszeit zuvor stark gesunken",
-  "516": "am 27.09. verletzt ausgewechselt, seither nicht gespielt",
+  "3309": "zuletzt zweimal überzählig, keine Verletzung gemeldet",
+  "516": "am 27.09. verletzt ausgewechselt, keine Rückkehrmeldung",
   "1211": "startete 02.10. und 04.10.",
-  "3593": "zuletzt zweimal nur Backup hinter Ancicka"
+  "3593": "zuletzt zweimal Backup hinter Ancicka, nicht verletzt",
+  "92": "angeschlagen, geschont, nicht mit zur CHL nach Salzburg (07.10.)",
+  "3412": "verpasst CHL wegen bevorstehender Geburt seines Kindes; Einsatz 09.10. offen",
+  "4344": "Vertrag am 22.09. aufgelöst, nicht mehr im Kader",
+  "4317": "fehlte 04.10. im Aufgebot, Grund unbekannt",
+  "2425": "Einsatz am 04.10. laut Verein fraglich, aktueller Stand unbekannt",
+  "1666": "gesperrt für 09.10. (Kniecheck gegen Wiederer)",
+  "1069": "startete 27.09., 02.10., 04.10. (zwei Shutouts); CHL in Salzburg am 07.10.",
+  "4312": "zuletzt am 25.09.",
+  "4157": "Starter seit Brückmanns Verletzung",
+  "1594": "startete 25.09., 27.09., 02.10.",
+  "3424": "startete 04.10.",
+  "122": "startete 02.10. und 04.10.",
+  "2351": "Rotation: wäre dran (Stettmer 04.10.)",
+  "1985": "startete 01.10. und 04.10.; CHL am 07.10. beachten",
+  "4319": "startete 4 der letzten 5 Spiele; Bugl nur 02.10.",
+  "998": "Rotation: wäre dran (Jenike 04.10.)",
+  "1547": "startete 02.10. und 04.10.",
+  "4338": "startete 02.10. und 04.10., Nummer eins",
+  "4342": "startete die letzten vier Spiele",
+  "416": "Wechsel mit Weitzmann (04.10.)"
  },
  "risiken": [
   {
-   "text": "Peyton Jones (Augsburg) ist als Starter unsicher. Ancicka startete am 02.10. und 04.10. mit Bestätigung derselben Formation; Jones nicht verletzt, eher Rotation. Gleich teure Alternative: Tobias Ancicka (1 Puck, nicht in der Alternativliste); aus der Alternativliste am günstigsten Jonas Neffin (Berlin, 2 Pucks, drei Starts in Folge) bzw. Adam Scheel (2).",
+   "text": "Jonas Neffin (Berlin) ist nicht sicher als Starter. Er startete die letzten drei DEL-Spiele, Berlin spielt aber am 07.10. CHL in Salzburg und rotiert bei LaFontaine; Startchance ca. 65 %. Gleich teure Alternative: Adam Scheel (Frankfurt, 2 Pucks, ca. 75 %, Nummer eins).",
    "schwer": true
   },
   {
-   "text": "Moritz Warnecke (München) war zuletzt zweimal überzählig. Am 02.10. und 04.10. nicht eingesetzt, Eiszeit zuvor auf 3:27 Min. gefallen; keine Verletzung gemeldet.",
-   "schwer": true
+   "text": "Jakub Skarek (Straubing) Startchance ca. 75 %. Er startete vier der letzten fünf Spiele, Bugl nur am 02.10.; am Sonntag folgt Mannheim. Günstigere Alternative: Adam Scheel (Frankfurt, 2 Pucks).",
+   "schwer": false
+  },
+  {
+   "text": "Peyton Jones (Augsburg) zuletzt nur Backup. Ancicka startete am 02.10. und 04.10. und überzeugte; Jones nicht verletzt.",
+   "schwer": false
+  },
+  {
+   "text": "Nürnberg gegen Mannheim ohne drei Verteidiger. Jandric und Weber verletzt, Karrer für den 09.10. gesperrt; schon in Berlin nur fünf Verteidiger.",
+   "schwer": false
+  },
+  {
+   "text": "Berlin, Köln und Mannheim spielen am 07.10. CHL. Torhüterwahl dort kann den Starter am 09.10. beeinflussen; Pföderl und Wiederer blieben angeschlagen in Berlin.",
+   "schwer": false
+  },
+  {
+   "text": "Kevin Wall nicht mehr in Krefeld. Vertrag am 22.09. aufgelöst; Nachfolger Phil Varone noch ohne Fantasy-ID.",
+   "schwer": false,
+   "bis": "2027-03-07"
+  },
+  {
+   "text": "Sean Malone (Augsburg) verletzt. Fehlt seit 02.10., Dauer nicht genannt.",
+   "schwer": false
   },
   {
    "text": "Chris Jandric (Nürnberg) fällt rund sechs Wochen aus. Knieverletzung vom 02.10., gemeldet am 04.10.",
@@ -136,11 +206,6 @@
    "bis": "2026-10-31"
   },
   {
-   "text": "Kölner Torhüter Felix Brückmann angeschlagen. Am 27.09. in Augsburg verletzt ausgewechselt, Juvonen startete seither.",
-   "schwer": false,
-   "bis": "2026-10-11"
-  },
-  {
    "text": "Dominik Bokk (Köln) weiter ohne DEL-Einsatz. Schulterverletzung vom 03.09., mehrere Wochen, kein Comeback gemeldet.",
    "schwer": false,
    "bis": "2026-10-15"
@@ -176,11 +241,16 @@
    "bis": "2026-10-31"
   },
   {
-   "text": "Manuel Wiederer (Berlin) fraglich. Am 04.10. nach Kniecheck von Karrer ausgeschieden, Ausmaß unklar; Fontaine ebenfalls angeschlagen.",
+   "text": "Kölner Torhüter Felix Brückmann weiter verletzt. Am 27.09. ausgewechselt, keine Rückkehrmeldung; Juvonen startet.",
+   "schwer": false,
+   "bis": "2026-10-14"
+  },
+  {
+   "text": "Moritz Warnecke (München) zuletzt zweimal überzählig. Keine Verletzung gemeldet.",
    "schwer": false
   },
   {
-   "text": "Torhüter-Rotation bei mehreren Gegnern offen. Wolfsburg (Weitzmann zuletzt statt Strahlmeier), Ingolstadt (Stettmer/Williams), Schwenningen (Wolf zuletzt statt Eriksson), Straubing (Skarek zuletzt), Mannheim (Hildebrand zweimal in Folge).",
+   "text": "Torhüter-Rotation bei mehreren Teams offen. Wolfsburg (Strahlmeier/Weitzmann), Ingolstadt (Williams/Stettmer), Schwenningen (Eriksson/Wolf), Iserlohn (Hane/Jenike), Mannheim (Hildebrand/Franzreb).",
    "schwer": false
   },
   {
@@ -296,6 +366,102 @@
   {
    "titel": "RNZ: Adler 1:4 in Wolfsburg",
    "url": "https://www.rnz.de/sport/sportregional_artikel,-Adler-Mannheim-gegen-Wolfsburg-Auswaertsschwaeche-setzt-sich-beim-14-bei-Grizzlys-fort-_arid,2446555.html"
+  },
+  {
+   "titel": "Eisbären: Internationaler Prüfstein auf CHL-Eis",
+   "url": "https://www.eisbaeren.de/news/detail/internationaler-pruefstein-auf-chl-eis"
+  },
+  {
+   "titel": "Eisbären: Klarer Sieg über Nürnberg",
+   "url": "https://www.eisbaeren.de/news/detail/klarer-sieg-ueber-nuernberg-perfekter-start-in-pink-in-the-rink-2026"
+  },
+  {
+   "titel": "Tagesspiegel: Eisbären reisen nach Salzburg",
+   "url": "https://www.tagesspiegel.de/berlin/dpa-deutsche-eishockey-liga-chl-eisbaren-berlin-reisen-mit-ruckenwind-nach-salzburg-16124948.html"
+  },
+  {
+   "titel": "Krefeld Pinguine: Kevin Wall geht",
+   "url": "https://krefeld-pinguine.de/news/krefeld-pinguine-und-kevin-wall-gehen-getrennte-wege/"
+  },
+  {
+   "titel": "Krefeld Pinguine: Verpflichtung Phil Varone",
+   "url": "https://www.krefeld-pinguine.de/news/krefeld-pinguine-verpflichten-ex-nhl-stuermer-phil-varone/"
+  },
+  {
+   "titel": "Krefeld Pinguine: Niederlage in Iserlohn",
+   "url": "https://www.krefeld-pinguine.de/news/pinguine-unterliegen-den-iserlohn-roosters/"
+  },
+  {
+   "titel": "Löwen Frankfurt: in Bremerhaven punktelos",
+   "url": "https://www.loewen-frankfurt.de/saison/aktuelles/details/loewen-bleiben-in-bremerhaven-punktelos"
+  },
+  {
+   "titel": "Eishockey-Magazin: Adam Scheel neue Nummer eins",
+   "url": "https://eishockey-magazin.de/ein-moderner-torhueter-der-mit-seiner-groesse-beweglichkeit-und-ruhe-ueberzeugt-neue-nummer-eins-der-loewen-frankfurt-wird-adam-scheel/archives/317385"
+  },
+  {
+   "titel": "Sport in Augsburg: Panther siegen gegen Wolfsburg",
+   "url": "https://www.sport-in-augsburg.de/panther-siegen-gegen-den-tabellenzweiten-wolfsburg/142081/"
+  },
+  {
+   "titel": "Straubing Tigers: Vierter Sieg in Folge in Schwenningen",
+   "url": "https://www.straubing-tigers.de/tigers-feiern-vierten-sieg-in-folge-in-schwenningen/"
+  },
+  {
+   "titel": "Straubing Tigers: Leonhardt fällt drei Wochen aus",
+   "url": "https://www.straubing-tigers.de/danjo-leonhardt-faellt-voraussichtlich-drei-wochen-aus/"
+  },
+  {
+   "titel": "Iserlohn Roosters: Spieltag 6 Vorbericht",
+   "url": "https://iserlohn-roosters.de/2026/10/04/spieltag-6-roosters-vs-krefeld/"
+  },
+  {
+   "titel": "Fischtown: Verletzungsupdate",
+   "url": "https://fischtown-pinguins.de/verletzungsupdate-fischtown-pinguins-bremerhaven/"
+  },
+  {
+   "titel": "Weser-Kurier: Personalnot der Fischtown Pinguins",
+   "url": "https://weser-kurier.de/sport/eishockey/personalnot-der-fischtown-pinguins-sechs-verletzte-ein-gesperrter-doc87tplo4rax1m3rec5t8"
+  },
+  {
+   "titel": "Adler Mannheim: Drei Spiele, zwei Wettbewerbe, ein Ziel",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/10/drei-spiele-zwei-wettbewerbe-ein-ziel"
+  },
+  {
+   "titel": "Adler Mannheim: Adler vorerst ohne Michaelis",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/09/adler-vorerst-ohne-michaelis"
+  },
+  {
+   "titel": "Adler Mannheim: Keine Punkte in Wolfsburg",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/10/keine-punkte-in-wolfsburg"
+  },
+  {
+   "titel": "Nürnberger Nachrichten: Niederlage im Spitzenspiel",
+   "url": "https://www.nn.de/sport/ice-tigers/der-meister-ist-effizienter-die-nurnberg-ice-tigers-aber-sorgen-fur-ein-spitzenspiel-1.15303384"
+  },
+  {
+   "titel": "Abendzeitung: Ice Tigers wochenlang ohne Verteidiger",
+   "url": "https://www.abendzeitung-muenchen.de/bayern/nuernberg-ice-tigers-wochenlang-ohne-verletzten-verteidiger-art-1163284"
+  },
+  {
+   "titel": "Red Bull München: Drei Punkte im Wiesn-Derby",
+   "url": "https://www.redbullmuenchen.de/de/news/del-6-spieltag-ehc-red-bull-muenchen-gewinnt-gegen-ausgburger-panther"
+  },
+  {
+   "titel": "ERC Ingolstadt: ERC unterliegt Köln",
+   "url": "https://www.erc-ingolstadt.de/saison/erc-unterliegt-koeln"
+  },
+  {
+   "titel": "Kölner Haie: Bokk fällt mehrere Wochen aus",
+   "url": "https://www.haie.de/news/dominik-bokk-faellt-mehrere-wochen-aus-maxi-kammerer-koennte-am-wochenende-wieder-spielen/"
+  },
+  {
+   "titel": "Kölner Haie: CHL gegen Herning",
+   "url": "https://www.haie.de/news/der-daenische-meister-zu-gast-chl-heimspiel-gegen-herning-am-mittwoch/"
+  },
+  {
+   "titel": "PENNY DEL: News (Sperre Karrer)",
+   "url": "https://www.penny-del.org/news"
   },
   {
    "titel": "DEL-Strafbank: Ein Spiel Sperre für Nürnbergs Julius Karrer",
