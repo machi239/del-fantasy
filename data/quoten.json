@@ -1,5 +1,5 @@
 {
- "stand": "07.10.2026 13:28",
+ "stand": "07.10.2026 18:35",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -12,14 +12,13 @@
    "beginn": "08.10.2026 19:30",
    "buchmacher": [
     "pinnacle",
-    "bet365",
-    "unibet"
+    "bet365"
    ],
-   "p_home60": 0.436,
-   "p_draw60": 0.235,
-   "p_away60": 0.328,
-   "p_home_inkl_ot": 0.564,
-   "total": 5.76
+   "p_home60": 0.451,
+   "p_draw60": 0.229,
+   "p_away60": 0.32,
+   "p_home_inkl_ot": 0.578,
+   "total": 5.79
   },
   "11-15": {
    "spiel": "Kölner Haie - Schwenninger Wild Wings",
