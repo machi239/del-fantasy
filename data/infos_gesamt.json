@@ -1,5 +1,5 @@
 {
- "spieltag": 7,
+ "spieltag": 8,
  "availability": {
   "2804": 0,
   "1753": 0,
@@ -48,132 +48,9 @@
   "1397": 0,
   "1982": 0
  },
- "goalie_start": {
-  "1069": 0.8,
-  "4312": 0.2,
-  "416": 0.55,
-  "157": 0.45,
-  "4157": 0.85,
-  "516": 0.0,
-  "1594": 0.6,
-  "3424": 0.4,
-  "122": 0.85,
-  "4154": 0.15,
-  "2351": 0.55,
-  "1459": 0.45,
-  "599": 0.85,
-  "1985": 0.7,
-  "500": 0.3,
-  "4319": 0.75,
-  "1904": 0.25,
-  "998": 0.55,
-  "83": 0.45,
-  "1211": 0.65,
-  "3593": 0.35,
-  "1547": 0.85,
-  "1451": 0.2,
-  "4338": 0.75,
-  "1088": 0.2,
-  "1825": 0.05,
-  "4342": 0.8,
-  "102": 0.2,
-  "4241": 0.15
- },
- "notizen": {
-  "2804": "Fußverletzung, 4–6 Wochen ab 24.09.",
-  "3575": "Knieverletzung vom 02.10., ca. 6 Wochen",
-  "1404": "verletzt, fehlte 01.10., 04.10. und 07.10. (CHL); Dauer unbekannt",
-  "1823": "angeschlagen nach Kniecheck 04.10., geschont, nicht mit nach Salzburg; Einsatz 09.10. offen",
-  "1360": "fehlte 04.10., Grund unbekannt",
-  "513": "fehlte 04.10., Grund unbekannt",
-  "3122": "fehlte 04.10., Grund unbekannt",
-  "1771": "Fußverletzung, Aufbautraining, wöchentliche Neubewertung (Stand 24.09.)",
-  "537": "fehlt seit 25.09. (drei Spiele), Grund unbekannt",
-  "1836": "fehlte 04.10., Grund unbekannt",
-  "2916": "Ausländer-Rotation, am 04.10. überzählig",
-  "3408": "fehlte 04.10., Grund unbekannt",
-  "2199": "fehlte 04.10., Grund unbekannt",
-  "143": "schwere Knieverletzung, Saison-Aus (Verein 07.10.)",
-  "2191": "muss operiert werden, fällt mehrere Wochen aus (Verein 07.10.)",
-  "4323": "verletzt seit 02.10. (laut Forum kleine Fußverletzung, \"nur fürs Wochenende\"); Einsatz 09.10. offen",
-  "1764": "überzählig (Rotation mit Glötzl)",
-  "3167": "überzählig (Extra) am 02.10. und 04.10.",
-  "2835": "überzählig (Extra) am 04.10.",
-  "3309": "zuletzt zweimal überzählig, keine Verletzung gemeldet",
-  "516": "am 27.09. verletzt ausgewechselt, keine Rückkehrmeldung",
-  "1211": "startete 02.10. und 04.10.",
-  "3593": "zuletzt zweimal Backup hinter Ancicka, nicht verletzt",
-  "92": "angeschlagen, geschont, nicht mit zur CHL nach Salzburg (07.10.); Einsatz 09.10. offen",
-  "3412": "verpasste CHL wegen bevorstehender Geburt seines Kindes, nicht verletzt; Einsatz 09.10. offen",
-  "4344": "Vertrag am 22.09. aufgelöst, nicht mehr im Kader",
-  "4317": "fehlte 04.10. im Aufgebot, Grund unbekannt",
-  "1666": "gesperrt für 09.10. (Kniecheck gegen Wiederer)",
-  "1069": "startete 27.09., 02.10., 04.10. (zwei Shutouts); LaFontaine spielte CHL 07.10.",
-  "4312": "startete CHL in Salzburg 07.10.",
-  "4157": "startete 02.10. und 04.10.; Wiens spielte CHL 07.10.",
-  "1594": "startete 25.09., 27.09., 02.10.",
-  "3424": "startete 04.10.; Eriksson 3 der letzten 4",
-  "122": "4 Siege in 4 Starts; Trainer: bleibt drin, solange er gewinnt",
-  "2351": "startete 27.09. und 02.10.",
-  "1985": "startete 01.10. und 04.10.; Franzreb spielte CHL 07.10.",
-  "4319": "startete 04.10.; am 02.10. nicht im Kader (Bugl startete)",
-  "998": "startete 01.10.; Rotation mit Jenike",
-  "1547": "startete 02.10. und 04.10.",
-  "4338": "startete 02.10. und 04.10., Nummer eins; Löwen spielen am Wochenende in Ingolstadt",
-  "4342": "startete alle Spiele seit 26.09.",
-  "416": "startete 27.09. und 02.10. (dort nach 29:30 ausgewechselt)",
-  "1659": "Unterkörperverletzung vom 04.10., fällt bis nach der Deutschland-Cup-Pause aus",
-  "2510": "fehlte 02.10., 04.10. und 07.10., Grund unbekannt",
-  "4241": "CHL-Debüt 07.10. (Shutout)",
-  "500": "startete CHL 07.10.",
-  "157": "startete 25.09. und 04.10. (Sieg gegen Mannheim)",
-  "599": "startete 04.10. in Berlin",
-  "83": "startete 04.10. (erster Saisonsieg)",
-  "1459": "startete 25.09. und 04.10.",
-  "1397": "verletzt (Verein 08.10.), fällt gegen Krefeld aus",
-  "1982": "verletzt (Verein 08.10.), fällt gegen Krefeld aus"
- },
+ "goalie_start": {},
+ "notizen": {},
  "risiken": [
-  {
-   "text": "Last-Minute-Stand 18:17. Offizielle Aufstellungen berücksichtigt: keine.",
-   "schwer": false
-  },
-  {
-   "text": "Aufstellung von Löwen Frankfurt noch nicht veröffentlicht. DEL-Boxscore (Spiel 4432) um 18:17 noch leer, kein Lineup-Post gefunden.",
-   "schwer": false
-  },
-  {
-   "text": "Aufstellung von Krefeld Pinguine noch nicht veröffentlicht. Für Davis Vandane (Krefeld) gibt es keine Ausfallmeldung.",
-   "schwer": false
-  },
-  {
-   "text": "Frankfurt ohne Daniel Pfaffengut und Daniel Wirt. Laut Verein (08.10.) fallen beide verletzungsbedingt aus; Dauer nicht genannt.",
-   "schwer": false
-  },
-  {
-   "text": "Jakub Skarek (Straubing) Startchance ca. 75 %. Er startete am 04.10., am 02.10. stand er ohne genannten Grund nicht im Kader (Bugl startete); kein Starter angekündigt. Alternative gleichen Preises: Mathias Niederberger (München, 3 Pucks, ca. 85 %, Trainer will ihn drinlassen, solange er gewinnt).",
-   "schwer": true
-  },
-  {
-   "text": "Jonas Neffin (Berlin) wahrscheinlicher Starter. LaFontaine spielte die CHL in Salzburg am 07.10., Neffin die letzten drei DEL-Spiele; offiziell nicht angekündigt, Startchance ca. 80 %.",
-   "schwer": false
-  },
-  {
-   "text": "Berlin bangt um Pföderl, Wiederer und Reinke. Pföderl und Wiederer blieben angeschlagen in Berlin, Reinke fehlte in der CHL wegen der Geburt seines Kindes; Fontaine ist zurück.",
-   "schwer": false
-  },
-  {
-   "text": "Peyton Jones (Augsburg) zuletzt nur Backup. Ancicka startete am 02.10. und 04.10.; Jones nicht verletzt.",
-   "schwer": false
-  },
-  {
-   "text": "Nürnberg gegen Mannheim ohne drei Verteidiger. Jandric und Weber verletzt, Karrer für den 09.10. gesperrt.",
-   "schwer": false
-  },
-  {
-   "text": "Mannheim weiter ohne Schütz und Bennett. Schütz laut RNZ weiter verletzt (auch 07.10. nicht dabei); Michaelis und Kälble kehrten am 07.10. in der CHL zurück.",
-   "schwer": false
-  },
   {
    "text": "Iserlohn ohne Maximilian Eisenmenger. Unterkörperverletzung vom 04.10., Ausfall bis nach der Deutschland-Cup-Pause.",
    "schwer": false,
@@ -183,18 +60,6 @@
    "text": "Bremerhaven mit weiteren Ausfällen. Krämmer Saison-Aus (Knie), Bettahar muss operiert werden und fehlt mehrere Wochen; Neuzugang Washkurak noch ohne Spielberechtigung. Nur zehn fitte Stürmer am 04.10.",
    "schwer": true,
    "bis": "2026-11-08"
-  },
-  {
-   "text": "Wolfsburg-Torhüter offen. Strahlmeier und Weitzmann wechselten sich zuletzt ab, Weitzmann gewann am 04.10.; Möser, Ziegler und Veber fehlten am 04.10. ohne genannten Grund.",
-   "schwer": false
-  },
-  {
-   "text": "Torhüter-Rotation bei mehreren Teams offen. Ingolstadt (Williams/Stettmer), Schwenningen (Eriksson/Wolf), Iserlohn (Hane/Jenike); kein Verein hat für den 09.10. einen Starter angekündigt.",
-   "schwer": false
-  },
-  {
-   "text": "Moritz Warnecke (München) zuletzt zweimal überzählig. Keine Verletzung gemeldet.",
-   "schwer": false
   },
   {
    "text": "Chris Jandric (Nürnberg) fällt rund sechs Wochen aus. Knieverletzung vom 02.10., gemeldet am 04.10.",
@@ -280,10 +145,6 @@
    "text": "Nicolas Krämmer (Bremerhaven) Saison-Aus. Schwere Knieverletzung, vom Verein am 07.10. bestätigt.",
    "schwer": true,
    "bis": "2027-03-07"
-  },
-  {
-   "text": "Julius Karrer gesperrt. 1 Spiel(e) laut DEL-Strafbank (gemeldet 2026-10-05), letztes gesperrtes Spiel am 2026-10-09.",
-   "schwer": true
   }
  ],
  "quellen": [
@@ -594,10 +455,6 @@
   {
    "titel": "PENNY DEL: Iserlohn - Krefeld 04.10.",
    "url": "https://www.penny-del.org/statistik/spieldetails/04102026_iserlohn-roosters_gg_krefeld-pinguine_4428"
-  },
-  {
-   "titel": "DEL-Strafbank: Ein Spiel Sperre für Nürnbergs Julius Karrer",
-   "url": "https://www.penny-del.org/fair-play/strafbank/detail/ein-spiel-sperre-fuer-nuernbergs-julius-karrer"
   }
  ],
  "odds": {},
