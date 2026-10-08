@@ -1,5 +1,5 @@
 {
- "stand": "08.10.2026 13:29",
+ "stand": "08.10.2026 18:36",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -15,11 +15,11 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.431,
-   "p_draw60": 0.235,
-   "p_away60": 0.333,
-   "p_home_inkl_ot": 0.554,
-   "total": 5.76
+   "p_home60": 0.423,
+   "p_draw60": 0.237,
+   "p_away60": 0.34,
+   "p_home_inkl_ot": 0.545,
+   "total": 5.66
   },
   "11-15": {
    "spiel": "Kölner Haie - Schwenninger Wild Wings",
@@ -29,10 +29,10 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.64,
-   "p_draw60": 0.18,
-   "p_away60": 0.18,
-   "p_home_inkl_ot": 0.742,
+   "p_home60": 0.643,
+   "p_draw60": 0.179,
+   "p_away60": 0.179,
+   "p_home_inkl_ot": 0.744,
    "total": 6.07
   },
   "3-8": {
@@ -59,9 +59,9 @@
    ],
    "p_home60": 0.329,
    "p_draw60": 0.217,
-   "p_away60": 0.453,
-   "p_home_inkl_ot": 0.432,
-   "total": 5.81
+   "p_away60": 0.454,
+   "p_home_inkl_ot": 0.433,
+   "total": 5.84
   },
   "13-9": {
    "spiel": "Augsburger Panther - Pinguins Bremerhaven",
