@@ -1,7 +1,7 @@
 {
  "spieltag": 7,
  "deadline": "Thu 08.10.2026 19:30",
- "erstellt": "08.10.2026 18:07",
+ "erstellt": "08.10.2026 18:28",
  "budget": 60,
  "pucks": 60,
  "auslaender": 9,
@@ -164,27 +164,6 @@
    "wert_pro_puck": 0.66
   },
   {
-   "spieler_id": 2113,
-   "name": "Brady Austin",
-   "team_id": 11,
-   "pos": "def",
-   "preis": 5,
-   "dt_pass": false,
-   "gewaehlt_pct": 7.2,
-   "spiele": 5,
-   "xp": 2.6,
-   "gegner_id": 15,
-   "heim": true,
-   "hinweis": "Einsatzquote 83%",
-   "ppg": 2.61,
-   "toi_faktor": 1.04,
-   "matchup": 1.15,
-   "p_einsatz": 0.83,
-   "team": "Kölner Haie",
-   "gegner": "Schwenninger Wild Wings",
-   "wert_pro_puck": 0.52
-  },
-  {
    "spieler_id": 4333,
    "name": "Jérémie Poirier",
    "team_id": 2,
@@ -225,6 +204,27 @@
    "team": "Krefeld Pinguine",
    "gegner": "Löwen Frankfurt",
    "wert_pro_puck": 1.02
+  },
+  {
+   "spieler_id": 506,
+   "name": "Jonas Müller",
+   "team_id": 3,
+   "pos": "def",
+   "preis": 3,
+   "dt_pass": true,
+   "gewaehlt_pct": 32.6,
+   "spiele": 6,
+   "xp": 1.49,
+   "gegner_id": 8,
+   "heim": true,
+   "hinweis": "",
+   "ppg": 1.36,
+   "toi_faktor": 0.99,
+   "matchup": 1.11,
+   "p_einsatz": 1.0,
+   "team": "Eisbären Berlin",
+   "gegner": "Grizzlys Wolfsburg",
+   "wert_pro_puck": 0.5
   },
   {
    "spieler_id": 3533,
@@ -374,6 +374,27 @@
    "wert_pro_puck": 0.83
   },
   {
+   "spieler_id": 2935,
+   "name": "Max Newton",
+   "team_id": 5,
+   "pos": "for",
+   "preis": 3,
+   "dt_pass": false,
+   "gewaehlt_pct": 15.7,
+   "spiele": 6,
+   "xp": 2.04,
+   "gegner_id": 44,
+   "heim": false,
+   "hinweis": "",
+   "ppg": 2.22,
+   "toi_faktor": 0.98,
+   "matchup": 0.94,
+   "p_einsatz": 1.0,
+   "team": "Krefeld Pinguine",
+   "gegner": "Löwen Frankfurt",
+   "wert_pro_puck": 0.68
+  },
+  {
    "spieler_id": 4316,
    "name": "Spencer Kersten",
    "team_id": 6,
@@ -498,27 +519,6 @@
    "team": "Augsburger Panther",
    "gegner": "Pinguins Bremerhaven",
    "wert_pro_puck": 0.94
-  },
-  {
-   "spieler_id": 1856,
-   "name": "Lennard Nieleck",
-   "team_id": 2,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "gewaehlt_pct": 3.2,
-   "spiele": 6,
-   "xp": 0.93,
-   "gegner_id": 14,
-   "heim": false,
-   "hinweis": "Eiszeit steigt, Einsatzquote 86%",
-   "ppg": 0.9,
-   "toi_faktor": 1.19,
-   "matchup": 1.01,
-   "p_einsatz": 0.86,
-   "team": "Adler Mannheim",
-   "gegner": "Nürnberg Ice Tigers",
-   "wert_pro_puck": 0.93
   }
  ],
  "alternativen": {
@@ -631,6 +631,27 @@
   ],
   "def": [
    {
+    "spieler_id": 2113,
+    "name": "Brady Austin",
+    "team_id": 11,
+    "pos": "def",
+    "preis": 5,
+    "dt_pass": false,
+    "gewaehlt_pct": 7.2,
+    "spiele": 5,
+    "xp": 2.6,
+    "gegner_id": 15,
+    "heim": true,
+    "hinweis": "Einsatzquote 83%",
+    "ppg": 2.61,
+    "toi_faktor": 1.04,
+    "matchup": 1.15,
+    "p_einsatz": 0.83,
+    "team": "Kölner Haie",
+    "gegner": "Schwenninger Wild Wings",
+    "wert_pro_puck": 0.52
+   },
+   {
     "spieler_id": 2411,
     "name": "Nicolas Mattinen",
     "team_id": 2,
@@ -713,27 +734,6 @@
     "team": "Kölner Haie",
     "gegner": "Schwenninger Wild Wings",
     "wert_pro_puck": 0.54
-   },
-   {
-    "spieler_id": 1611,
-    "name": "Leon Gawanke",
-    "team_id": 2,
-    "pos": "def",
-    "preis": 5,
-    "dt_pass": true,
-    "gewaehlt_pct": 12.1,
-    "spiele": 7,
-    "xp": 2.14,
-    "gegner_id": 14,
-    "heim": false,
-    "hinweis": "",
-    "ppg": 2.13,
-    "toi_faktor": 0.99,
-    "matchup": 1.01,
-    "p_einsatz": 1.0,
-    "team": "Adler Mannheim",
-    "gegner": "Nürnberg Ice Tigers",
-    "wert_pro_puck": 0.43
    }
   ],
   "for": [
@@ -801,27 +801,6 @@
     "wert_pro_puck": 0.41
    },
    {
-    "spieler_id": 2935,
-    "name": "Max Newton",
-    "team_id": 5,
-    "pos": "for",
-    "preis": 3,
-    "dt_pass": false,
-    "gewaehlt_pct": 15.7,
-    "spiele": 6,
-    "xp": 2.04,
-    "gegner_id": 44,
-    "heim": false,
-    "hinweis": "",
-    "ppg": 2.22,
-    "toi_faktor": 0.98,
-    "matchup": 0.94,
-    "p_einsatz": 1.0,
-    "team": "Krefeld Pinguine",
-    "gegner": "Löwen Frankfurt",
-    "wert_pro_puck": 0.68
-   },
-   {
     "spieler_id": 3950,
     "name": "Mathew Santos",
     "team_id": 5,
@@ -841,6 +820,27 @@
     "team": "Krefeld Pinguine",
     "gegner": "Löwen Frankfurt",
     "wert_pro_puck": 0.66
+   },
+   {
+    "spieler_id": 1553,
+    "name": "Alexander Blank",
+    "team_id": 13,
+    "pos": "for",
+    "preis": 5,
+    "dt_pass": true,
+    "gewaehlt_pct": 6.6,
+    "spiele": 6,
+    "xp": 1.91,
+    "gegner_id": 9,
+    "heim": true,
+    "hinweis": "",
+    "ppg": 1.82,
+    "toi_faktor": 1.05,
+    "matchup": 1.0,
+    "p_einsatz": 1.0,
+    "team": "Augsburger Panther",
+    "gegner": "Pinguins Bremerhaven",
+    "wert_pro_puck": 0.38
    }
   ]
  }

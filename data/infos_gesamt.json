@@ -44,7 +44,9 @@
   "4317": 0.5,
   "1666": 0,
   "1659": 0,
-  "2510": 0.5
+  "2510": 0.5,
+  "1397": 0,
+  "1982": 0
  },
  "goalie_start": {
   "1069": 0.8,
@@ -127,9 +129,27 @@
   "157": "startete 25.09. und 04.10. (Sieg gegen Mannheim)",
   "599": "startete 04.10. in Berlin",
   "83": "startete 04.10. (erster Saisonsieg)",
-  "1459": "startete 25.09. und 04.10."
+  "1459": "startete 25.09. und 04.10.",
+  "1397": "verletzt (Verein 08.10.), fällt gegen Krefeld aus",
+  "1982": "verletzt (Verein 08.10.), fällt gegen Krefeld aus"
  },
  "risiken": [
+  {
+   "text": "Last-Minute-Stand 18:17. Offizielle Aufstellungen berücksichtigt: keine.",
+   "schwer": false
+  },
+  {
+   "text": "Aufstellung von Löwen Frankfurt noch nicht veröffentlicht. DEL-Boxscore (Spiel 4432) um 18:17 noch leer, kein Lineup-Post gefunden.",
+   "schwer": false
+  },
+  {
+   "text": "Aufstellung von Krefeld Pinguine noch nicht veröffentlicht. Für Davis Vandane (Krefeld) gibt es keine Ausfallmeldung.",
+   "schwer": false
+  },
+  {
+   "text": "Frankfurt ohne Daniel Pfaffengut und Daniel Wirt. Laut Verein (08.10.) fallen beide verletzungsbedingt aus; Dauer nicht genannt.",
+   "schwer": false
+  },
   {
    "text": "Jakub Skarek (Straubing) Startchance ca. 75 %. Er startete am 04.10., am 02.10. stand er ohne genannten Grund nicht im Kader (Bugl startete); kein Starter angekündigt. Alternative gleichen Preises: Mathias Niederberger (München, 3 Pucks, ca. 85 %, Trainer will ihn drinlassen, solange er gewinnt).",
    "schwer": true
@@ -267,6 +287,18 @@
   }
  ],
  "quellen": [
+  {
+   "titel": "PENNY DEL Boxscore Löwen Frankfurt – Krefeld Pinguine 08.10.2026",
+   "url": "https://www.penny-del.org/statistik/spieldetails/08102026_loewen-frankfurt_gg_krefeld-pinguine_4432/boxscore"
+  },
+  {
+   "titel": "Löwen Frankfurt: Pfaffengut und Wirt fallen verletzungsbedingt aus",
+   "url": "https://www.loewen-frankfurt.de/"
+  },
+  {
+   "titel": "Krefeld Pinguine Startseite",
+   "url": "https://krefeld-pinguine.de/"
+  },
   {
    "titel": "t-online: Knieverletzung Jandric",
    "url": "https://nuernberg.t-online.de/region/nuernberg/id_101465442/knieverletzung-nuernberg-ice-tigers-muessen-wochen-auf-jandric-verzichten.html"
