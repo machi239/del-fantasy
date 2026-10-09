@@ -25,10 +25,8 @@
   "1360": 0.5,
   "513": 0.5,
   "3122": 0.5,
-  "1771": 0.5,
+  "1771": 0,
   "537": 0.5,
-  "1836": 0.5,
-  "2916": 0.5,
   "3408": 0.5,
   "2199": 0.5,
   "143": 0,
@@ -37,20 +35,57 @@
   "1764": 0.5,
   "3167": 0.5,
   "2835": 0.5,
-  "3309": 0.5,
   "92": 0.5,
   "3412": 0.5,
   "4344": 0,
   "4317": 0.5,
-  "1666": 0,
   "1659": 0,
   "2510": 0.5,
   "1397": 0,
-  "1982": 0
+  "1982": 0,
+  "1674": 0.5
  },
  "goalie_start": {},
- "notizen": {},
+ "notizen": {
+  "3167": "überzählig (Extra) am 02. und 04.10.",
+  "2835": "überzählig (Extra) am 04.10.",
+  "1397": "Oberkörperverletzung, 2–4 Wochen (Meldung 08.10.)",
+  "1982": "Oberkörperverletzung, Dauer offen (Meldung 08.10.)",
+  "4317": "fehlte zuletzt, Grund unbekannt (erst 1 Saisonspiel)",
+  "1771": "Fußverletzung, Aufbautraining, kein Rückkehrdatum",
+  "3408": "fehlte zuletzt, Grund unbekannt (nicht im Kader 04. und 08.10.)",
+  "1823": "angeschlagen, in CHL am 07.10. geschont (nach Kniecheck von Karrer)",
+  "92": "angeschlagen, in CHL am 07.10. geschont",
+  "3412": "Geburt seines Kindes steht bevor, fehlte am 07.10.",
+  "2510": "bisher ohne Einsatz, vermutlich überzählig",
+  "1404": "verletzt, Art und Dauer unbekannt (Stand 07.10.)",
+  "1674": "fehlte zuletzt, Grund unbekannt (nicht im Kader 08.10.)",
+  "537": "fehlte zuletzt, Grund unbekannt (nicht im Kader 08.10.)",
+  "1360": "fehlte zuletzt, Grund unbekannt",
+  "513": "fehlte zuletzt, Grund unbekannt",
+  "3122": "fehlte zuletzt, Grund unbekannt (vermutlich überzählig)",
+  "2199": "fehlte zuletzt, Grund unbekannt (nur 04.10. verpasst)",
+  "4323": "fehlte 02. und 04.10., Grund nicht genannt",
+  "1764": "fehlte zuletzt, Grund unbekannt (vermutlich überzählig)",
+  "4308": "verletzt seit 27.09., mehrere Wochen",
+  "1069": "startete die letzten drei DEL-Spiele, LaFontaine spielte am 07.10. in der CHL",
+  "1825": "spielte am 08.10. gegen Krefeld, Scheel am 04.10. – Wechsel",
+  "4342": "Bick stand am 08.10. im Tor, Jatkola Backup",
+  "157": "startete am 04.10. gegen Mannheim",
+  "3411": "zurück, traf am 07.10. in der CHL",
+  "3572": "zurück, zwei Tore am 07.10. in der CHL",
+  "1609": "Comeback am 07.10. in der CHL",
+  "4157": "klare Nummer 1, Brückmann verletzt"
+ },
  "risiken": [
+  {
+   "text": "Torhüter-Risiko Jonas Neffin (Berlin, p_start 0.6). Startete die letzten drei DEL-Spiele, Berlin spielt aber Freitag und Sonntag; LaFontaine spielte am 07.10. in der CHL. Alternative gleichen Preises: Niklas Treutle (Nürnberg, 2 Pucks, sicherer Starter).",
+   "schwer": false
+  },
+  {
+   "text": "Torhüter-Risiko Nico Pertuch (Frankfurt, p_start 0.4). Frankfurt wechselte zuletzt zwischen Scheel (04.10.) und Pertuch (08.10.); keine Ansage für Sonntag. Alternative gleichen Preises: Hannibal Weitzmann (Wolfsburg, 1 Puck, startete am 04.10.), ebenfalls unsicher; sicherer: Treutle (2 Pucks).",
+   "schwer": false
+  },
   {
    "text": "Iserlohn ohne Maximilian Eisenmenger. Unterkörperverletzung vom 04.10., Ausfall bis nach der Deutschland-Cup-Pause.",
    "schwer": false,
@@ -117,7 +152,7 @@
    "bis": "2027-01-31"
   },
   {
-   "text": "Ingolstadt ohne Smallwood und Burns. Smallwood mehrmonatige Pause (Oberkörper), Burns unbestimmt; Rosa-Preto fraglich.",
+   "text": "Ingolstadt ohne Smallwood, Burns und Rosa-Preto. Smallwood mehrmonatige Pause (Oberkörper), Burns unbestimmt (Oberkörper), Rosa-Preto Fußverletzung im Aufbautraining; Stand Vorbericht 09.10.",
    "schwer": false,
    "bis": "2026-10-31"
   },
@@ -145,6 +180,30 @@
    "text": "Nicolas Krämmer (Bremerhaven) Saison-Aus. Schwere Knieverletzung, vom Verein am 07.10. bestätigt.",
    "schwer": true,
    "bis": "2027-03-07"
+  },
+  {
+   "text": "Daniel Pfaffengut (Frankfurt) fällt zwei bis vier Wochen aus. Oberkörperverletzung aus dem Spiel in Bremerhaven am 04.10., Meldung vom 08.10.",
+   "schwer": false,
+   "bis": "2026-10-22"
+  },
+  {
+   "text": "Daniel Wirt (Frankfurt) fällt weiter aus. Oberkörperverletzung, Dauer vom Verein nicht genannt.",
+   "schwer": false,
+   "bis": "2026-10-18"
+  },
+  {
+   "text": "Justin Schütz (Mannheim) weiter verletzt. Laut RNZ vom 07.10. weiterhin verletzt, Art und Dauer unbekannt; Michaelis und Kälble dagegen zurück.",
+   "schwer": false,
+   "bis": "2026-10-16"
+  },
+  {
+   "text": "Alexander Broadhurst (Bremerhaven) fällt mehrere Wochen aus. Verletzt am 27.09. in Wolfsburg, kein Rückkehrdatum.",
+   "schwer": false,
+   "bis": "2026-10-25"
+  },
+  {
+   "text": "Unklare Ausfälle ohne Begründung. Wolfsburg (Möser, Ziegler, Veber), Augsburg (Malone, Pilu), Krefeld (Proske, Weiß), Iserlohn (Panocha) fehlten zuletzt ohne genannten Grund; Aufstellungen vom Freitag abwarten.",
+   "schwer": false
   }
  ],
  "quellen": [
@@ -455,6 +514,94 @@
   {
    "titel": "PENNY DEL: Iserlohn - Krefeld 04.10.",
    "url": "https://www.penny-del.org/statistik/spieldetails/04102026_iserlohn-roosters_gg_krefeld-pinguine_4428"
+  },
+  {
+   "titel": "Löwen Frankfurt: Pfaffengut und Wirt fallen verletzungsbedingt aus",
+   "url": "https://www.loewen-frankfurt.de/saison/aktuelles/details/daniel-pfaffengut-und-daniel-wirt-fallen-verletzungsbedingt-aus"
+  },
+  {
+   "titel": "ERC Ingolstadt: Neuauflage des Viertelfinals",
+   "url": "https://www.erc-ingolstadt.de/saison/neuauflage-des-viertelfinals"
+  },
+  {
+   "titel": "Red Bull München: Vorschau 7. Spieltag",
+   "url": "https://www.redbullmuenchen.de/de/news/del-vorschau-7-spieltag-red-bull-muenchen-empfaengt-den-erc-ingolstadt"
+  },
+  {
+   "titel": "Schwarzwälder Bote: DEL-News Nürnberg",
+   "url": "https://www.schwarzwaelder-bote.de/sport/sport-schwarzwald-baar/schwenninger-wild-wings-del-news-schlechte-nachrichten-fuer-spitzenreiter-nuernberg-duesseldorf-wird-in-krefeld-fuendig-79538829.html"
+  },
+  {
+   "titel": "Wild Wings: Schritt für Schritt",
+   "url": "https://www.schwenninger-wildwings.de/aktuell/schritt-fuer-schritt/"
+  },
+  {
+   "titel": "Straubing Tigers: erster Saisonsieg gegen Ingolstadt",
+   "url": "https://www.straubing-tigers.de/straubing-tigers-erkaempfen-sich-gegen-ingolstadt-ersten-saisonsieg/"
+  },
+  {
+   "titel": "PENNY DEL: Lineup Frankfurt – Krefeld 08.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/08102026_loewen-frankfurt_gg_krefeld-pinguine_4432/lineup"
+  },
+  {
+   "titel": "PENNY DEL: Lineup München – Augsburg 04.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/04102026_ehc-red-bull-muenchen_gg_augsburger-panther_4431/lineup"
+  },
+  {
+   "titel": "eisbaerlin.de: 4:3 in Salzburg",
+   "url": "https://eisbaerlin.de/blog/2026/10/07/43-sieg-in-salzburg-nach-einer-40-fuehrung-machen-es-die-eisbaeren-nochmal-unnoetig-spannend/"
+  },
+  {
+   "titel": "Adler Mannheim: Performance-Check Nürnberg",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/10/performance-check-nuernberg-ice-tigers"
+  },
+  {
+   "titel": "ran.joyn: Ticker Ingolstadt – Köln",
+   "url": "https://ran.joyn.de/sports/ticker/ma12189457-erc-ingolstadt-koelner-haie"
+  },
+  {
+   "titel": "ran.joyn: Ticker Frankfurt – Krefeld",
+   "url": "https://ran.joyn.de/sports/ticker/ma12189469-loewen-frankfurt-krefeld-pinguine"
+  },
+  {
+   "titel": "ran.joyn: Ticker Wolfsburg – Mannheim",
+   "url": "https://ran.joyn.de/sports/ticker/ma12189463-grizzlys-wolfsburg-adler-mannheim"
+  },
+  {
+   "titel": "Krefeld Pinguine: bändigen Löwen Frankfurt",
+   "url": "https://krefeld-pinguine.de/news/krefeld-pinguine-baendigen-loewen-frankfurt/"
+  },
+  {
+   "titel": "eishockey-online.news: 10 Tore in Augsburg",
+   "url": "https://www.eishockey-online.news/del/2026/09/28/10-tore-in-augsburg-auswaertssieg-fuer-koelner-haie/"
+  },
+  {
+   "titel": "Iserlohn Roosters: Spieltag 7 Straubing",
+   "url": "https://iserlohn-roosters.de/2026/10/09/spieltag-7-roosters-straubing/"
+  },
+  {
+   "titel": "Fischtown: Sonntag gegen den Meister",
+   "url": "https://fischtown-pinguins.de/sonntag-16-30-uhr-der-meister-kommt-an-die-unterweser/"
+  },
+  {
+   "titel": "Fischtown: Knappe Niederlage in Straubing",
+   "url": "https://fischtown-pinguins.de/knappe-niederlage-am-straubinger-pulverturm/"
+  },
+  {
+   "titel": "Weser-Kurier: Roßmy",
+   "url": "https://weser-kurier.de/bremen/sport/fischtown-pinguins-wie-bennet-rossmy-seinen-langen-ausfall-verkraftet-doc87wszm3dtkj12y35d3tq"
+  },
+  {
+   "titel": "Grizzlys: Spielbericht",
+   "url": "https://www.grizzlys.de/news_2810.html"
+  },
+  {
+   "titel": "PENNY DEL: Mannheim – Iserlohn 01.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/01102026_adler-mannheim_gg_iserlohn-roosters_4418"
+  },
+  {
+   "titel": "Abendzeitung: EHC Derbysieg gegen Augsburg",
+   "url": "https://www.abendzeitung-muenchen.de/sport/ehc/haben-in-fuenf-von-sechs-spielen-gepunktet-ehc-red-bull-muenchen-feiert-derbysieg-gegen-augsburg-art-1163375"
   }
  ],
  "odds": {},
