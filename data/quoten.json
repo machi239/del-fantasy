@@ -1,5 +1,5 @@
 {
- "stand": "10.10.2026 13:25",
+ "stand": "10.10.2026 18:30",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -57,11 +57,11 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.578,
-   "p_draw60": 0.204,
-   "p_away60": 0.218,
-   "p_home_inkl_ot": 0.692,
-   "total": 6.15
+   "p_home60": 0.576,
+   "p_draw60": 0.205,
+   "p_away60": 0.219,
+   "p_home_inkl_ot": 0.691,
+   "total": 6.14
   },
   "7-8": {
    "spiel": "Iserlohn Roosters - Grizzlys Wolfsburg",
@@ -71,10 +71,10 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.287,
-   "p_draw60": 0.207,
-   "p_away60": 0.506,
-   "p_home_inkl_ot": 0.384,
+   "p_home60": 0.295,
+   "p_draw60": 0.208,
+   "p_away60": 0.497,
+   "p_home_inkl_ot": 0.394,
    "total": 5.82
   },
   "15-12": {
