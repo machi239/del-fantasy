@@ -43,12 +43,12 @@ spieltag,datum,uhrzeit,heim,gast,heim_id,gast_id,tore_heim,tore_gast,entscheidun
 6,2026-10-04,16:30,Iserlohn Roosters,Krefeld Pinguine,7,5,3,2,REG,beendet,4428,/statistik/spieldetails/04102026_iserlohn-roosters_gg_krefeld-pinguine_4428,ja
 6,2026-10-04,19:00,EHC Red Bull München,Augsburger Panther,12,13,4,2,REG,beendet,4431,/statistik/spieldetails/04102026_ehc-red-bull-muenchen_gg_augsburger-panther_4431,ja
 7,2026-10-08,19:30,Löwen Frankfurt,Krefeld Pinguine,44,5,2,5,REG,beendet,4432,/statistik/spieldetails/08102026_loewen-frankfurt_gg_krefeld-pinguine_4432,ja
-7,2026-10-09,19:30,Augsburger Panther,Pinguins Bremerhaven,13,9,,,,offen,,,
-7,2026-10-09,19:30,EHC Red Bull München,ERC Ingolstadt,12,1,,,,offen,,,
-7,2026-10-09,19:30,Eisbären Berlin,Grizzlys Wolfsburg,3,8,,,,offen,,,
-7,2026-10-09,19:30,Kölner Haie,Schwenninger Wild Wings,11,15,,,,offen,,,
-7,2026-10-09,19:30,Nürnberg Ice Tigers,Adler Mannheim,14,2,,,,offen,,,
-7,2026-10-09,19:30,Straubing Tigers,Iserlohn Roosters,6,7,,,,offen,,,
+7,2026-10-09,19:30,Augsburger Panther,Pinguins Bremerhaven,13,9,3,0,REG,beendet,4436,/statistik/spieldetails/09102026_augsburger-panther_gg_pinguins-bremerhaven_4436,ja
+7,2026-10-09,19:30,EHC Red Bull München,ERC Ingolstadt,12,1,1,5,REG,beendet,4437,/statistik/spieldetails/09102026_ehc-red-bull-muenchen_gg_erc-ingolstadt_4437,ja
+7,2026-10-09,19:30,Eisbären Berlin,Grizzlys Wolfsburg,3,8,5,0,REG,beendet,4434,/statistik/spieldetails/09102026_eisbaeren-berlin_gg_grizzlys-wolfsburg_4434,ja
+7,2026-10-09,19:30,Kölner Haie,Schwenninger Wild Wings,11,15,1,4,REG,beendet,4433,/statistik/spieldetails/09102026_koelner-haie_gg_schwenninger-wild-wings_4433,ja
+7,2026-10-09,19:30,Nürnberg Ice Tigers,Adler Mannheim,14,2,2,5,REG,beendet,4435,/statistik/spieldetails/09102026_nuernberg-ice-tigers_gg_adler-mannheim_4435,ja
+7,2026-10-09,19:30,Straubing Tigers,Iserlohn Roosters,6,7,11,4,REG,beendet,4438,/statistik/spieldetails/09102026_straubing-tigers_gg_iserlohn-roosters_4438,ja
 8,2026-10-11,14:00,ERC Ingolstadt,Löwen Frankfurt,1,44,,,,offen,,,
 8,2026-10-11,14:00,Krefeld Pinguine,Augsburger Panther,5,13,,,,offen,,,
 8,2026-10-11,16:30,Iserlohn Roosters,Grizzlys Wolfsburg,7,8,,,,offen,,,
