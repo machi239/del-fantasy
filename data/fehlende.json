@@ -1,51 +1,57 @@
 {
- "3411": {
-  "name": "Gabriel Fontaine",
+ "92": {
+  "name": "Leonhard Pföderl",
   "team_id": "3",
-  "zuletzt_gespielt": "2026-09-27",
-  "verpasst": "2026-10-04"
+  "zuletzt_gespielt": "2026-10-04",
+  "verpasst": "2026-10-09"
  },
- "3572": {
-  "name": "Patrick Russell",
+ "2420": {
+  "name": "Linus Brandl",
+  "team_id": "6",
+  "zuletzt_gespielt": "2026-10-04",
+  "verpasst": "2026-10-09"
+ },
+ "2172": {
+  "name": "Ryan MacInnis",
   "team_id": "11",
-  "zuletzt_gespielt": "2026-10-02",
-  "verpasst": "2026-10-04"
- },
- "1360": {
-  "name": "Janik Möser",
-  "team_id": "8",
-  "zuletzt_gespielt": "2026-09-27",
-  "verpasst": "2026-10-04"
- },
- "513": {
-  "name": "Sven Ziegler",
-  "team_id": "8",
-  "zuletzt_gespielt": "2026-09-27",
-  "verpasst": "2026-10-04"
+  "zuletzt_gespielt": "2026-10-04",
+  "verpasst": "2026-10-09"
  },
  "3122": {
   "name": "Robin Veber",
   "team_id": "8",
   "zuletzt_gespielt": "2026-09-27",
-  "verpasst": "2026-10-04"
+  "verpasst": "2026-10-09"
  },
- "1764": {
-  "name": "Fabrizio Pilu",
-  "team_id": "13",
+ "513": {
+  "name": "Sven Ziegler",
+  "team_id": "8",
   "zuletzt_gespielt": "2026-09-27",
-  "verpasst": "2026-10-04"
+  "verpasst": "2026-10-09"
+ },
+ "3530": {
+  "name": "Jimmy Lambert",
+  "team_id": "13",
+  "zuletzt_gespielt": "2026-10-04",
+  "verpasst": "2026-10-09"
  },
  "4323": {
   "name": "Sean Malone",
   "team_id": "13",
   "zuletzt_gespielt": "2026-09-27",
-  "verpasst": "2026-10-04"
+  "verpasst": "2026-10-09"
  },
  "3575": {
   "name": "Chris Jandric",
   "team_id": "14",
   "zuletzt_gespielt": "2026-10-02",
-  "verpasst": "2026-10-04"
+  "verpasst": "2026-10-09"
+ },
+ "1666": {
+  "name": "Julius Karrer",
+  "team_id": "14",
+  "zuletzt_gespielt": "2026-10-04",
+  "verpasst": "2026-10-09"
  },
  "1674": {
   "name": "Yannick Proske",
@@ -57,61 +63,73 @@
   "name": "Maxim Rausch",
   "team_id": "9",
   "zuletzt_gespielt": "2026-09-27",
-  "verpasst": "2026-10-04"
+  "verpasst": "2026-10-09"
  },
  "2191": {
   "name": "Rayan Bettahar",
   "team_id": "9",
   "zuletzt_gespielt": "2026-10-02",
-  "verpasst": "2026-10-04"
+  "verpasst": "2026-10-09"
  },
  "4308": {
   "name": "Alexander Broadhurst",
   "team_id": "9",
   "zuletzt_gespielt": "2026-09-27",
-  "verpasst": "2026-10-04"
+  "verpasst": "2026-10-09"
  },
  "143": {
   "name": "Nicolas Krämmer",
   "team_id": "9",
   "zuletzt_gespielt": "2026-10-02",
-  "verpasst": "2026-10-04"
+  "verpasst": "2026-10-09"
  },
  "1704": {
   "name": "Roman Kechter",
   "team_id": "9",
   "zuletzt_gespielt": "2026-09-27",
-  "verpasst": "2026-10-04"
+  "verpasst": "2026-10-09"
  },
- "2199": {
-  "name": "Norwin Panocha",
+ "3307": {
+  "name": "Paul Vinzens",
+  "team_id": "1",
+  "zuletzt_gespielt": "2026-10-04",
+  "verpasst": "2026-10-09"
+ },
+ "1659": {
+  "name": "Maximilian Eisenmenger",
   "team_id": "7",
-  "zuletzt_gespielt": "2026-10-01",
-  "verpasst": "2026-10-04"
+  "zuletzt_gespielt": "2026-10-04",
+  "verpasst": "2026-10-09"
+ },
+ "4333": {
+  "name": "Jérémie Poirier",
+  "team_id": "2",
+  "zuletzt_gespielt": "2026-10-04",
+  "verpasst": "2026-10-09"
  },
  "1404": {
   "name": "Justin Schütz",
   "team_id": "2",
   "zuletzt_gespielt": "2026-09-27",
-  "verpasst": "2026-10-04"
+  "verpasst": "2026-10-09"
  },
- "2501": {
-  "name": "Kris Bennett",
+ "1903": {
+  "name": "Hayden Shaw",
   "team_id": "2",
-  "zuletzt_gespielt": "2026-09-25",
-  "verpasst": "2026-10-04"
+  "zuletzt_gespielt": "2026-10-04",
+  "verpasst": "2026-10-09"
  },
- "3167": {
-  "name": "Bode Wilde",
+ "426": {
+  "name": "Alex Trivellato",
   "team_id": "15",
-  "zuletzt_gespielt": "2026-09-27",
-  "verpasst": "2026-10-04"
+  "zuletzt_gespielt": "2026-10-04",
+  "verpasst": "2026-10-09"
  },
- "2835": {
-  "name": "Thomas Schemitsch",
+ "1705": {
+  "name": "Arkadiusz Dziambor",
   "team_id": "15",
-  "zuletzt_gespielt": "2026-10-02",
-  "verpasst": "2026-10-04"
+  "zuletzt_gespielt": "2026-10-04",
+  "verpasst": "2026-10-09"
  },
  "1397": {
   "name": "Daniel Pfaffengut",
