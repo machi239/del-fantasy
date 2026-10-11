@@ -1,5 +1,5 @@
 {
- "spieltag": 8,
+ "spieltag": 9,
  "availability": {
   "2804": 0,
   "1753": 0,
@@ -46,46 +46,8 @@
   "1674": 0.5
  },
  "goalie_start": {},
- "notizen": {
-  "3167": "überzählig (Extra) am 02. und 04.10.",
-  "2835": "überzählig (Extra) am 04.10.",
-  "1397": "Oberkörperverletzung, 2–4 Wochen (Meldung 08.10.)",
-  "1982": "Oberkörperverletzung, Dauer offen (Meldung 08.10.)",
-  "4317": "fehlte zuletzt, Grund unbekannt (erst 1 Saisonspiel)",
-  "1771": "Fußverletzung, Aufbautraining, kein Rückkehrdatum",
-  "3408": "fehlte zuletzt, Grund unbekannt (nicht im Kader 04. und 08.10.)",
-  "1823": "angeschlagen, in CHL am 07.10. geschont (nach Kniecheck von Karrer)",
-  "92": "angeschlagen, in CHL am 07.10. geschont",
-  "3412": "Geburt seines Kindes steht bevor, fehlte am 07.10.",
-  "2510": "bisher ohne Einsatz, vermutlich überzählig",
-  "1404": "verletzt, Art und Dauer unbekannt (Stand 07.10.)",
-  "1674": "fehlte zuletzt, Grund unbekannt (nicht im Kader 08.10.)",
-  "537": "fehlte zuletzt, Grund unbekannt (nicht im Kader 08.10.)",
-  "1360": "fehlte zuletzt, Grund unbekannt",
-  "513": "fehlte zuletzt, Grund unbekannt",
-  "3122": "fehlte zuletzt, Grund unbekannt (vermutlich überzählig)",
-  "2199": "fehlte zuletzt, Grund unbekannt (nur 04.10. verpasst)",
-  "4323": "fehlte 02. und 04.10., Grund nicht genannt",
-  "1764": "fehlte zuletzt, Grund unbekannt (vermutlich überzählig)",
-  "4308": "verletzt seit 27.09., mehrere Wochen",
-  "1069": "startete die letzten drei DEL-Spiele, LaFontaine spielte am 07.10. in der CHL",
-  "1825": "spielte am 08.10. gegen Krefeld, Scheel am 04.10. – Wechsel",
-  "4342": "Bick stand am 08.10. im Tor, Jatkola Backup",
-  "157": "startete am 04.10. gegen Mannheim",
-  "3411": "zurück, traf am 07.10. in der CHL",
-  "3572": "zurück, zwei Tore am 07.10. in der CHL",
-  "1609": "Comeback am 07.10. in der CHL",
-  "4157": "klare Nummer 1, Brückmann verletzt"
- },
+ "notizen": {},
  "risiken": [
-  {
-   "text": "Torhüter-Risiko Jonas Neffin (Berlin, p_start 0.6). Startete die letzten drei DEL-Spiele, Berlin spielt aber Freitag und Sonntag; LaFontaine spielte am 07.10. in der CHL. Alternative gleichen Preises: Niklas Treutle (Nürnberg, 2 Pucks, sicherer Starter).",
-   "schwer": false
-  },
-  {
-   "text": "Torhüter-Risiko Nico Pertuch (Frankfurt, p_start 0.4). Frankfurt wechselte zuletzt zwischen Scheel (04.10.) und Pertuch (08.10.); keine Ansage für Sonntag. Alternative gleichen Preises: Hannibal Weitzmann (Wolfsburg, 1 Puck, startete am 04.10.), ebenfalls unsicher; sicherer: Treutle (2 Pucks).",
-   "schwer": false
-  },
   {
    "text": "Iserlohn ohne Maximilian Eisenmenger. Unterkörperverletzung vom 04.10., Ausfall bis nach der Deutschland-Cup-Pause.",
    "schwer": false,
@@ -200,10 +162,6 @@
    "text": "Alexander Broadhurst (Bremerhaven) fällt mehrere Wochen aus. Verletzt am 27.09. in Wolfsburg, kein Rückkehrdatum.",
    "schwer": false,
    "bis": "2026-10-25"
-  },
-  {
-   "text": "Unklare Ausfälle ohne Begründung. Wolfsburg (Möser, Ziegler, Veber), Augsburg (Malone, Pilu), Krefeld (Proske, Weiß), Iserlohn (Panocha) fehlten zuletzt ohne genannten Grund; Aufstellungen vom Freitag abwarten.",
-   "schwer": false
   }
  ],
  "quellen": [
