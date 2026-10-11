@@ -1,5 +1,5 @@
 {
- "stand": "11.10.2026 13:26",
+ "stand": "11.10.2026 18:31",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -7,90 +7,6 @@
   "unibet"
  ],
  "spiele": {
-  "5-13": {
-   "spiel": "Krefeld Pinguine - Augsburger Panther",
-   "beginn": "11.10.2026 14:00",
-   "buchmacher": [
-    "pinnacle",
-    "bet365",
-    "unibet"
-   ],
-   "p_home60": 0.464,
-   "p_draw60": 0.227,
-   "p_away60": 0.308,
-   "p_home_inkl_ot": 0.588,
-   "total": 5.94
-  },
-  "1-44": {
-   "spiel": "ERC Ingolstadt - Löwen Frankfurt",
-   "beginn": "11.10.2026 14:00",
-   "buchmacher": [
-    "pinnacle",
-    "bet365",
-    "unibet"
-   ],
-   "p_home60": 0.634,
-   "p_draw60": 0.172,
-   "p_away60": 0.194,
-   "p_home_inkl_ot": 0.736,
-   "total": 6.22
-  },
-  "9-3": {
-   "spiel": "Pinguins Bremerhaven - Eisbären Berlin",
-   "beginn": "11.10.2026 16:30",
-   "buchmacher": [
-    "pinnacle",
-    "bet365",
-    "unibet"
-   ],
-   "p_home60": 0.312,
-   "p_draw60": 0.218,
-   "p_away60": 0.47,
-   "p_home_inkl_ot": 0.415,
-   "total": 5.57
-  },
-  "11-14": {
-   "spiel": "Kölner Haie - Nürnberg Ice Tigers",
-   "beginn": "11.10.2026 16:30",
-   "buchmacher": [
-    "pinnacle",
-    "bet365",
-    "unibet"
-   ],
-   "p_home60": 0.588,
-   "p_draw60": 0.201,
-   "p_away60": 0.21,
-   "p_home_inkl_ot": 0.7,
-   "total": 6.27
-  },
-  "7-8": {
-   "spiel": "Iserlohn Roosters - Grizzlys Wolfsburg",
-   "beginn": "11.10.2026 16:30",
-   "buchmacher": [
-    "pinnacle",
-    "bet365",
-    "unibet"
-   ],
-   "p_home60": 0.3,
-   "p_draw60": 0.21,
-   "p_away60": 0.49,
-   "p_home_inkl_ot": 0.4,
-   "total": 5.82
-  },
-  "15-12": {
-   "spiel": "Schwenninger Wild Wings - EHC Red Bull München",
-   "beginn": "11.10.2026 16:30",
-   "buchmacher": [
-    "pinnacle",
-    "bet365",
-    "unibet"
-   ],
-   "p_home60": 0.271,
-   "p_draw60": 0.205,
-   "p_away60": 0.524,
-   "p_home_inkl_ot": 0.369,
-   "total": 5.97
-  },
   "2-6": {
    "spiel": "Adler Mannheim - Straubing Tigers",
    "beginn": "11.10.2026 19:00",
@@ -99,11 +15,11 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.539,
-   "p_draw60": 0.204,
-   "p_away60": 0.257,
-   "p_home_inkl_ot": 0.649,
-   "total": 5.92
+   "p_home60": 0.517,
+   "p_draw60": 0.207,
+   "p_away60": 0.275,
+   "p_home_inkl_ot": 0.625,
+   "total": 5.89
   }
  }
 }
