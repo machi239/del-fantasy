@@ -1,5 +1,5 @@
 {
- "stand": "11.10.2026 18:31",
+ "stand": "13.10.2026 13:31",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -7,19 +7,91 @@
   "unibet"
  ],
  "spiele": {
-  "2-6": {
-   "spiel": "Adler Mannheim - Straubing Tigers",
-   "beginn": "11.10.2026 19:00",
+  "8-5": {
+   "spiel": "Grizzlys Wolfsburg - Krefeld Pinguine",
+   "beginn": "15.10.2026 19:30",
    "buchmacher": [
     "pinnacle",
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.517,
+   "p_home60": 0.533,
+   "p_draw60": 0.197,
+   "p_away60": 0.271,
+   "p_home_inkl_ot": 0.634,
+   "total": 5.93
+  },
+  "7-11": {
+   "spiel": "Iserlohn Roosters - Kölner Haie",
+   "beginn": "16.10.2026 19:30",
+   "buchmacher": [
+    "bet365"
+   ],
+   "p_home60": 0.275,
+   "p_draw60": 0.197,
+   "p_away60": 0.528,
+   "p_home_inkl_ot": 0.373,
+   "total": 5.79
+  },
+  "3-12": {
+   "spiel": "Eisbären Berlin - EHC Red Bull München",
+   "beginn": "16.10.2026 19:30",
+   "buchmacher": [
+    "bet365"
+   ],
+   "p_home60": 0.54,
+   "p_draw60": 0.195,
+   "p_away60": 0.265,
+   "p_home_inkl_ot": 0.634,
+   "total": 5.79
+  },
+  "44-6": {
+   "spiel": "Löwen Frankfurt - Straubing Tigers",
+   "beginn": "16.10.2026 19:30",
+   "buchmacher": [
+    "bet365"
+   ],
+   "p_home60": 0.368,
+   "p_draw60": 0.224,
+   "p_away60": 0.408,
+   "p_home_inkl_ot": 0.493,
+   "total": 5.79
+  },
+  "13-2": {
+   "spiel": "Augsburger Panther - Adler Mannheim",
+   "beginn": "16.10.2026 19:30",
+   "buchmacher": [
+    "bet365"
+   ],
+   "p_home60": 0.332,
    "p_draw60": 0.207,
-   "p_away60": 0.275,
-   "p_home_inkl_ot": 0.625,
-   "total": 5.89
+   "p_away60": 0.461,
+   "p_home_inkl_ot": 0.437,
+   "total": 5.79
+  },
+  "9-14": {
+   "spiel": "Pinguins Bremerhaven - Nürnberg Ice Tigers",
+   "beginn": "16.10.2026 19:30",
+   "buchmacher": [
+    "bet365"
+   ],
+   "p_home60": 0.418,
+   "p_draw60": 0.221,
+   "p_away60": 0.361,
+   "p_home_inkl_ot": 0.52,
+   "total": 5.51
+  },
+  "15-1": {
+   "spiel": "Schwenninger Wild Wings - ERC Ingolstadt",
+   "beginn": "16.10.2026 19:30",
+   "buchmacher": [
+    "bet365"
+   ],
+   "p_home60": 0.347,
+   "p_draw60": 0.208,
+   "p_away60": 0.446,
+   "p_home_inkl_ot": 0.46,
+   "total": 6.31
   }
  }
 }
