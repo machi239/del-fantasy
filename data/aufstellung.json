@@ -1,11 +1,11 @@
 {
  "spieltag": 9,
  "deadline": "Thu 15.10.2026 19:30",
- "erstellt": "13.10.2026 13:32",
+ "erstellt": "13.10.2026 18:37",
  "budget": 60,
  "pucks": 60,
  "auslaender": 9,
- "xp_gesamt": 44.6,
+ "xp_gesamt": 46.2,
  "spiele": [
   {
    "spiel": "Grizzlys Wolfsburg - Krefeld Pinguine",
@@ -61,11 +61,11 @@
    "spiel": "Pinguins Bremerhaven - Nürnberg Ice Tigers",
    "datum": "2026-10-16",
    "uhrzeit": "19:30",
-   "quelle": "Quoten",
-   "xg_heim": 2.84,
-   "xg_gast": 2.67,
-   "p_heim_60": 0.442,
-   "p_gast_60": 0.385
+   "quelle": "Saisonwerte",
+   "xg_heim": 2.07,
+   "xg_gast": 2.7,
+   "p_heim_60": 0.297,
+   "p_gast_60": 0.521
   },
   {
    "spiel": "Schwenninger Wild Wings - ERC Ingolstadt",
@@ -79,6 +79,27 @@
   }
  ],
  "aufstellung": [
+  {
+   "spieler_id": 599,
+   "name": "Niklas Treutle",
+   "team_id": 14,
+   "pos": "goal",
+   "preis": 2,
+   "dt_pass": true,
+   "gewaehlt_pct": 15.1,
+   "spiele": 9,
+   "xp": 2.83,
+   "gegner_id": 9,
+   "heim": false,
+   "hinweis": "",
+   "p_start": 1.0,
+   "p_sieg60": 0.52,
+   "xga": 2.07,
+   "xsv": 22.7,
+   "team": "Nürnberg Ice Tigers",
+   "gegner": "Pinguins Bremerhaven",
+   "wert_pro_puck": 1.42
+  },
   {
    "spieler_id": 1069,
    "name": "Jonas Neffin",
@@ -99,27 +120,6 @@
    "team": "Eisbären Berlin",
    "gegner": "EHC Red Bull München",
    "wert_pro_puck": 1.13
-  },
-  {
-   "spieler_id": 599,
-   "name": "Niklas Treutle",
-   "team_id": 14,
-   "pos": "goal",
-   "preis": 2,
-   "dt_pass": true,
-   "gewaehlt_pct": 15.1,
-   "spiele": 9,
-   "xp": 1.25,
-   "gegner_id": 9,
-   "heim": false,
-   "hinweis": "",
-   "p_start": 1.0,
-   "p_sieg60": 0.38,
-   "xga": 2.84,
-   "xsv": 26.3,
-   "team": "Nürnberg Ice Tigers",
-   "gegner": "Pinguins Bremerhaven",
-   "wert_pro_puck": 0.62
   },
   {
    "spieler_id": 2411,
@@ -545,27 +545,6 @@
     "wert_pro_puck": 0.32
    },
    {
-    "spieler_id": 1547,
-    "name": "Kristers Gudlevskis",
-    "team_id": 9,
-    "pos": "goal",
-    "preis": 4,
-    "dt_pass": false,
-    "gewaehlt_pct": 17.4,
-    "spiele": 7,
-    "xp": 1.31,
-    "gegner_id": 14,
-    "heim": true,
-    "hinweis": "",
-    "p_start": 0.8,
-    "p_sieg60": 0.44,
-    "xga": 2.67,
-    "xsv": 25.4,
-    "team": "Pinguins Bremerhaven",
-    "gegner": "Nürnberg Ice Tigers",
-    "wert_pro_puck": 0.33
-   },
-   {
     "spieler_id": 4157,
     "name": "Janne Juvonen",
     "team_id": 11,
@@ -627,6 +606,27 @@
     "team": "Straubing Tigers",
     "gegner": "Löwen Frankfurt",
     "wert_pro_puck": 0.35
+   },
+   {
+    "spieler_id": 1547,
+    "name": "Kristers Gudlevskis",
+    "team_id": 9,
+    "pos": "goal",
+    "preis": 4,
+    "dt_pass": false,
+    "gewaehlt_pct": 17.4,
+    "spiele": 7,
+    "xp": 0.92,
+    "gegner_id": 14,
+    "heim": true,
+    "hinweis": "",
+    "p_start": 0.8,
+    "p_sieg60": 0.3,
+    "xga": 2.7,
+    "xsv": 25.5,
+    "team": "Pinguins Bremerhaven",
+    "gegner": "Nürnberg Ice Tigers",
+    "wert_pro_puck": 0.23
    }
   ],
   "def": [
@@ -673,27 +673,6 @@
     "wert_pro_puck": 0.44
    },
    {
-    "spieler_id": 4149,
-    "name": "Akito Hirose",
-    "team_id": 9,
-    "pos": "def",
-    "preis": 4,
-    "dt_pass": false,
-    "gewaehlt_pct": 7.5,
-    "spiele": 8,
-    "xp": 1.98,
-    "gegner_id": 14,
-    "heim": true,
-    "hinweis": "",
-    "ppg": 2.02,
-    "toi_faktor": 1.01,
-    "matchup": 0.97,
-    "p_einsatz": 1.0,
-    "team": "Pinguins Bremerhaven",
-    "gegner": "Nürnberg Ice Tigers",
-    "wert_pro_puck": 0.49
-   },
-   {
     "spieler_id": 2868,
     "name": "Sam Ruopp",
     "team_id": 1,
@@ -713,6 +692,27 @@
     "team": "ERC Ingolstadt",
     "gegner": "Schwenninger Wild Wings",
     "wert_pro_puck": 0.48
+   },
+   {
+    "spieler_id": 3445,
+    "name": "Owen Headrick",
+    "team_id": 14,
+    "pos": "def",
+    "preis": 5,
+    "dt_pass": false,
+    "gewaehlt_pct": 4.9,
+    "spiele": 9,
+    "xp": 1.86,
+    "gegner_id": 9,
+    "heim": false,
+    "hinweis": "Eiszeit steigt",
+    "ppg": 1.74,
+    "toi_faktor": 1.13,
+    "matchup": 0.94,
+    "p_einsatz": 1.0,
+    "team": "Nürnberg Ice Tigers",
+    "gegner": "Pinguins Bremerhaven",
+    "wert_pro_puck": 0.37
    },
    {
     "spieler_id": 4251,
