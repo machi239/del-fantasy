@@ -9,7 +9,7 @@
   "1790": 0,
   "1763": 0,
   "1901": 0,
-  "1655": 0,
+  "1655": 0.5,
   "3958": 0,
   "2501": 0,
   "516": 0,
@@ -60,18 +60,18 @@
   "4333": 0.5,
   "426": 0.5,
   "3530": 0,
-  "1904": 0,
-  "990": 0
+  "1904": 0.5,
+  "990": 1
  },
  "goalie_start": {
   "4319": 0.85,
-  "1904": 0.0
+  "1904": 0.15
  },
  "notizen": {
   "3950": "angeschlagen, fehlte am 11.10.; Einsatz am 15.10. in Wolfsburg fraglich",
-  "3412": "fehlte wegen bevorstehender Geburt seines Kindes, kurzfristig",
-  "3411": "leicht angeschlagen, fehlte am 11.10.",
-  "92": "angeschlagen, fehlt seit 07.10., Entscheidung von Tag zu Tag",
+  "3412": "fehlte am 11.10. wegen Geburt seines Kindes; Rückkehr bald erwartet, kein Datum",
+  "3411": "leicht angeschlagen, fehlte am 11.10.; kurzfristig",
+  "92": "angeschlagen, fehlte 07.–11.10., Entscheidung von Tag zu Tag",
   "2510": "fehlt seit 07.10., Grund unbekannt",
   "1168": "am 11.10. wohl überzählig nach Rückkehr von Fabio Wagner",
   "1313": "fehlte zuletzt, Grund unbekannt (Nürnberg mit 7 Verteidigern)",
@@ -81,47 +81,47 @@
   "2198": "fehlte zuletzt, Grund unbekannt",
   "1674": "fehlte zuletzt, Grund unbekannt",
   "4316": "fehlte zuletzt, Grund unbekannt",
-  "2019": "fehlte zuletzt, Grund unbekannt",
+  "2019": "fehlte am 11.10., Grund unbekannt (evtl. Leistungsgründe nach dem 4:11 in Straubing)",
   "442": "fehlte zuletzt, Grund unbekannt",
-  "4341": "fehlte zuletzt, Grund unbekannt",
+  "4341": "blockte am 08.10. einen Schuss, fehlte am 11.10. in Ingolstadt; Einsatz am 16.10. fraglich",
   "1903": "pausiert (Rotation), nicht verletzt",
   "4333": "pausiert (Rotation), nicht verletzt",
   "3167": "zuletzt überzählig (Extra), nicht verletzt",
   "426": "zuletzt überzählig (Extra), nicht verletzt",
-  "4323": "verletzt, Dauer unbekannt",
-  "3530": "verletzt, Dauer unbekannt",
-  "1904": "am 09.10. verletzt, Dauer unbekannt",
-  "990": "verletzt, kein Rückkehrtermin",
+  "4323": "verletzt seit Ende September, Dauer unbekannt",
+  "3530": "verletzt seit ca. 09.10., Dauer unbekannt",
+  "1904": "am 09.10. verletzt ausgeschieden (ohne Fremdeinwirkung); in Straubinger Vorschau vom 12.10. nicht als Ausfall genannt, Status unklar",
   "516": "verletzt seit 27.09., keine Rückkehrmeldung",
   "130": "Schulterverletzung, weiter ohne Einsatz",
-  "4319": "Bugl verletzt, Skarek startete am 11.10.",
+  "4319": "Bugl angeschlagen/unklar, Skarek startete am 11.10. und bleibt wahrscheinlich im Tor",
   "2351": "startete am 11.10., Stettmer am 09.10.; Rotation wahrscheinlich",
-  "4157": "am 09.10. krank, am 11.10. wieder im Tor"
+  "4157": "am 09.10. krank, am 11.10. wieder im Tor",
+  "1655": "Unterkörperverletzung seit 02.09. (ca. 6 Wochen); in Vorschau 12.10. nicht mehr als Ausfall genannt, Rückkehr möglich",
+  "1404": "verletzt/angeschlagen, fehlte 07.–11.10., Dauer unbekannt"
  },
  "risiken": [
   {
-   "text": "Mathew Santos (Krefeld, in der Aufstellung) ist angeschlagen. Fehlte am 11.10. gegen Augsburg laut Vereinsbericht; Einsatz am 15.10. in Wolfsburg fraglich. Alternative: Jean-Christophe Beaudin (Straubing, 3 Pucks) oder vor der Deadline prüfen.",
-   "schwer": true
-  },
-  {
-   "text": "Straubings Torhüter Florian Bugl verletzt. Am 09.10. ohne Fremdeinwirkung ausgeschieden, Dauer unbekannt; Jakub Skarek startete am 11.10. und dürfte die Nummer eins sein.",
+   "text": "Mathew Santos (Krefeld) ist angeschlagen. Fehlte am 11.10. gegen Augsburg laut Vereinsbericht, keine Dauer genannt; Einsatz am 15.10. in Wolfsburg fraglich. Betrifft die Krefelder Reihen um Newton, Payerl und Gogulla nur indirekt.",
    "schwer": false
   },
   {
-   "text": "Augsburg weiter ohne Sean Malone und Jimmy Lambert. Beide verletzt, keine Dauer genannt.",
+   "text": "Straubings Torhüter Florian Bugl angeschlagen, Status unklar. Am 09.10. ohne Fremdeinwirkung ausgeschieden, in der Vereinsvorschau vom 12.10. nicht als Ausfall genannt; Jakub Skarek startete am 11.10. und bleibt wahrscheinlich die Nummer eins.",
    "schwer": false
   },
   {
-   "text": "Berlin ohne Reinke, Pföderl und Fontaine unsicher. Reinke fehlt wegen bevorstehender Geburt, Pföderl und Fontaine angeschlagen; Wiederer ist zurück.",
+   "text": "Augsburg weiter ohne Sean Malone und Jimmy Lambert. Beide verletzt, keine Dauer genannt; Lambert fehlt seit 09.10., Malone seit Ende September. Mayhew und Busdeker spielten am 09. und 11.10.",
    "schwer": false
   },
   {
-   "text": "Nicholas B. Jensen (Bremerhaven) weiter verletzt. Langsame Fortschritte, kein Rückkehrtermin; erneut prüfen.",
-   "schwer": false,
-   "bis": "2026-10-25"
+   "text": "Berlin ohne Reinke, Pföderl und Fontaine unsicher. Reinke fehlte am 11.10. wegen der Geburt seines Kindes (Rückkehr bald erwartet), Pföderl ist seit 07.10. angeschlagen (von Tag zu Tag), Fontaine leicht angeschlagen; alle Berliner der Aufstellung spielten am 11.10.",
+   "schwer": false
   },
   {
-   "text": "Torhüter-Rotation in München und Ingolstadt. Bibeau (München) und Devin Williams (Ingolstadt) starteten am 11.10. jeweils im zweiten Wochenendspiel; Frankfurt wechselt zwischen Scheel und Pertuch.",
+   "text": "Brandon Biro (Frankfurt) fraglich. Blockte am 08.10. einen Schuss und fehlte am 11.10. in Ingolstadt; keine Vereinsmeldung zur Dauer.",
+   "schwer": false
+  },
+  {
+   "text": "Torhüter-Rotation in München, Ingolstadt und Frankfurt. München: Niederberger (09.10.) und Bibeau (11.10.), Trainer nennt Niederberger die Nummer eins; Ingolstadt: Stettmer und Devin Williams im Wechsel; Frankfurt: Scheel (eher Nummer eins) und Pertuch.",
    "schwer": false
   },
   {
@@ -130,7 +130,7 @@
    "bis": "2026-11-15"
   },
   {
-   "text": "Bremerhaven mit weiteren Ausfällen. Krämmer Saison-Aus (Knie), Bettahar muss operiert werden und fehlt mehrere Wochen; Neuzugang Washkurak spielt seit 11.10.; dazu fehlt Verteidiger Nicholas B. Jensen.",
+   "text": "Bremerhaven mit weiteren Ausfällen. Krämmer Saison-Aus (Knie), Bettahar muss operiert werden und fehlt mehrere Wochen; Neuzugang Washkurak spielt seit 09.10., Verteidiger Nicholas B. Jensen ist wieder dabei.",
    "schwer": true,
    "bis": "2026-11-08"
   },
@@ -165,7 +165,7 @@
    "bis": "2027-03-07"
   },
   {
-   "text": "Straubing ohne Leonhardt, Jentzsch und Kukuk. Laut Vorbericht vom 05.10. weiter raus; Leonhardt ca. 3 Wochen ab 25.09., Jentzsch ca. 6 Wochen ab 02.09.",
+   "text": "Straubing ohne Leonhardt und Kukuk. Laut Vereinsvorschau vom 12.10. weiter raus; Leonhardt ca. 3 Wochen ab 25.09., Taro Jentzsch dort nicht mehr als Ausfall genannt (Rückkehr möglich).",
    "schwer": false,
    "bis": "2026-10-16"
   },
@@ -748,6 +748,78 @@
   {
    "titel": "eishockey-online.news: Straubing – Iserlohn 11:4",
    "url": "https://eishockey-online.news/del/2026/10/09/ein-feuerwerk-an-toren-straubing-tigers-fegen-iserlohn-roosters-aus-der-halle"
+  },
+  {
+   "titel": "Wetterauer Zeitung: Scheel hält alle sechs Penalties (12.10.)",
+   "url": "https://www.wetterauer-zeitung.de/sport/lokalsport/scheel-haelt-alle-sechs-penalties-loewen-frankfurt-enden-negativserie-94537540.html"
+  },
+  {
+   "titel": "Straubing Tigers: Vorschau Frankfurt/Wolfsburg (12.10.)",
+   "url": "https://www.straubing-tigers.de/tigers-vor-auswaertsspiel-in-frankfurt-und-kinder-jugendtag-gegen-wolfsburg/"
+  },
+  {
+   "titel": "eishockey-online: Eisbären in Bremerhaven 11.10.",
+   "url": "https://www.eishockey-online.news/del/2026/10/11/eisbaeren-berlin-beenden-ihre-durststrecke-gegen-bremerhaven-und-entfuehren-drei-punkte-aus-dem-hohen-norden-vierter-shutout-fuer-jonas-neffin/"
+  },
+  {
+   "titel": "Eisbären: 3:0-Auswärtssieg an der Waterkant",
+   "url": "https://www.eisbaeren.de/news/detail/30-auswaertssieg-an-der-waterkant"
+  },
+  {
+   "titel": "Eisbären: Sprung an die Tabellenspitze",
+   "url": "https://www.eisbaeren.de/news/detail/sprung-an-die-tabellenspitze"
+  },
+  {
+   "titel": "PENNY DEL: News-Update Kaderplanung",
+   "url": "https://www.penny-del.org/news/detail/news-update-kaderplanung-in-der-penny-del-1"
+  },
+  {
+   "titel": "Red Bull München: Neue Reihen nach Sieg in Schwenningen",
+   "url": "https://www.redbullmuenchen.de/de/news/ehc-red-bull-muenchen-starke-zahlen-nach-dem-sieg-in-schwenningen"
+  },
+  {
+   "titel": "Ice Tigers: Spielbericht Köln 11.10.",
+   "url": "https://icetigers.de/news/spielberichte/spielbericht-koeln-111026"
+  },
+  {
+   "titel": "Iserlohn Roosters: Absolut inakzeptables 4:11",
+   "url": "https://iserlohn-roosters.de/2026/10/09/absolut-inakzeptables-411-gegen-straubing/"
+  },
+  {
+   "titel": "Iserlohn Roosters: Spieltag 8 Vorbericht",
+   "url": "https://iserlohn-roosters.de/2026/10/11/spieltag-8-roosters-vs-wolfsburg/"
+  },
+  {
+   "titel": "AEV: Shutout! Ancicka sichert nächsten Heimsieg",
+   "url": "https://www.aev-panther.de/artikel/shutout-ancicka-sichert-aev-naechsten-heimsieg/01a121e5-0e0e-7c5f-a45b-476682ec0dc0"
+  },
+  {
+   "titel": "AEV: Panther erwarten die Fischtown Pinguins",
+   "url": "https://www.aev-panther.de/artikel/panther-erwarten-die-fischtown-pinguins-im-cfs/01a11bfb-6a27-79c4-8f44-ad8fe85a71eb"
+  },
+  {
+   "titel": "Wochenblatt-Reporter: Adler Auswärtssieg Nürnberg, Heimsieg Straubing",
+   "url": "https://www.wochenblatt-reporter.de/mannheim/c-sport/dem-einzug-in-die-chl-play-offs-folgte-der-auswaertssieg-in-nuernberg-21-heimsieg-gegen-straubing_a903257"
+  },
+  {
+   "titel": "Grizzlys: Spielbericht Iserlohn",
+   "url": "https://www.grizzlys.de/news_2818.html"
+  },
+  {
+   "titel": "Fischtown: Unglückliche Niederlage in Augsburg",
+   "url": "https://fischtown-pinguins.de/unglueckliche-niederlage-in-augsburg-pinguins-belohnen-sich-nicht/"
+  },
+  {
+   "titel": "hessenschau: Löwen Befreiungsschlag in Ingolstadt",
+   "url": "https://www.hessenschau.de/sport/eishockey/loewen-frankfurt-schaffen-befreiungsschlag-in-ingolstadt-v1,loewen-ingolstadt-bericht-100.html"
+  },
+  {
+   "titel": "ERC Ingolstadt: Familientag gegen Frankfurt",
+   "url": "https://www.erc-ingolstadt.de/saison/familientag-gegen-frankfurt"
+  },
+  {
+   "titel": "Schwarzwälder Bote: Wild Wings in Köln",
+   "url": "https://schwarzwaelder-bote.de/sport/schwenninger-wild-wings/schwenninger-wild-wings-in-koeln-schwaene-erkaempfen-sich-verdient-einen-eminent-wichtigen-sieg-79553966.html"
   }
  ],
  "odds": {},
