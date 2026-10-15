@@ -122,7 +122,10 @@ def main():
     with open(F_GESAMT, "w", encoding="utf-8") as f:
         json.dump(gesamt, f, ensure_ascii=False, indent=1)
 
-    # 5. Rechnen
+    # 5. Neubewertung schaetzen (Auf-/Abwertungskandidaten), dann rechnen
+    r = subprocess.run([py, os.path.join(ROOT, "scripts", "bewertung.py")])
+    if r.returncode != 0:
+        print("WARNUNG: Neubewertung nicht berechnet.")
     os.makedirs(os.path.dirname(F_SEITE), exist_ok=True)
     subprocess.run([py, os.path.join(ROOT, "scripts", "optimize.py"), "--input", F_GESAMT,
                     "--out", F_AUF], check=True)

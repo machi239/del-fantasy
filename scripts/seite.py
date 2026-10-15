@@ -159,6 +159,41 @@ def main():
             for p in d["alternativen"][pos])
         alts += f'<div class="alt"><h3>{POSNAME[pos]}</h3><ol>{items}</ol></div>'
 
+    # Neubewertung: Auf- und Abwertungskandidaten (data/bewertung.json aus bewertung.py)
+    bew = load(os.path.join(a.data, "bewertung.json"), {}) or {}
+    bew_html = ""
+    if bew.get("positionen"):
+        teamname = {}
+        with open(os.path.join(a.data, "spielplan.csv"), encoding="utf-8") as f:
+            for g in csv.DictReader(f):
+                teamname[g["heim_id"]], teamname[g["gast_id"]] = g["heim"], g["gast"]
+        im_kader = {str(p["spieler_id"]) for p in L}
+
+        def kand(p, richtung):
+            pfeil = "▲" if richtung == "auf" else "▼"
+            kader = '<span class="tag">im Kader</span>' if p["id"] in im_kader else ""
+            unsicher = p["sicherheit"] != "deutlich"
+            schnitt = num(p["schnitt"], 2) if p["schnitt"] is not None else "–"
+            return (f'<li><span class="nm">{E(p["name"])}{"<span class=flag>A</span>" if not p["dt_pass"] else ""}</span>'
+                    f'<span class="tm">{E(teamname.get(p["team_id"], ""))} · Ø {schnitt} in {p["spiele"]} Sp.</span>'
+                    f'<span class="bw {richtung}">{p["preis"]} {pfeil} {p["fair"]}</span>'
+                    f'<span class="tags"><span class="tag{" warn" if unsicher else ""}">{"knapp" if unsicher else "deutlich"}</span>{kader}</span></li>')
+
+        spalten = ""
+        for pos in ("goal", "def", "for"):
+            v = bew["positionen"][pos]
+            auf = "".join(kand(p, "auf") for p in v["aufwertung"][:6]) or "<li>Keine Kandidaten.</li>"
+            ab = "".join(kand(p, "ab") for p in v["abwertung"][:6]) or "<li>Keine Kandidaten.</li>"
+            spalten += (f'<div class="alt bew"><h3>{POSNAME[pos]}</h3><h4 class="auf">Aufwertung</h4><ol>{auf}</ol>'
+                        f'<h4 class="ab">Abwertung</h4><ol>{ab}</ol></div>')
+        bew_html = (f'<section class="sec"><h2>Neubewertung nach Spieltag {bew["neubewertung_nach"]}</h2>'
+                    f'<p>Schätzung nach Spieltag {bew["stand_spieltag"]}: Rangfolge je Position nach Fantasy-Punkten pro Spiel, '
+                    f'hochgerechnet bis Spieltag {bew["neubewertung_nach"]}, Preisstufen so verteilt wie heute. Die DEL veröffentlicht '
+                    f'ihre Formel nicht. <b>Aufwertung:</b> Wer den Spieler vorher kauft und hält, hat danach einen höher bewerteten '
+                    f'Spieler zum alten Preis. <b>Abwertung:</b> Für Besitzer kostenlos, da der Verkauf den Kaufpreis erstattet; '
+                    f'wer neu kauft, wartet besser auf den niedrigeren Preis.</p>'
+                    f'<div class="alts">{spalten}</div></section>')
+
     src = [{"titel": "Spielerstatistiken: offizielle Spielberichte von penny-del.org, täglich ausgewertet",
             "url": "https://github.com/machi239/del-fantasy"}]
     if q_games:
@@ -177,6 +212,13 @@ def main():
 td.t .d{{display:block;font-family:var(--body);font-size:.75rem;font-weight:400;color:var(--muted)}}
 .risks li.none{{border-left-color:var(--ok)}}
 .upd{{font-size:.85rem;color:var(--muted)}}
+.bew h4{{font-family:var(--display);text-transform:uppercase;letter-spacing:.08em;font-size:.8rem;margin:12px 0 4px}}
+.bew h4.auf{{color:var(--ok)}} .bew h4.ab{{color:var(--red)}}
+.bw{{font-family:var(--display);font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap}}
+.bw.auf{{color:var(--ok)}} .bw.ab{{color:var(--red)}}
+.bew li{{display:grid;grid-template-columns:1fr auto;grid-template-areas:"nm bw" "tm tm" "tg tg";column-gap:10px;row-gap:2px;align-items:baseline}}
+.bew li .nm{{grid-area:nm}} .bew li .bw{{grid-area:bw}} .bew li .tm{{grid-area:tm}}
+.bew li .tags{{grid-area:tg;display:flex;gap:4px;flex-wrap:wrap;margin-top:2px}}
 </style>
 <div class="wrap">
 <header class="top">
@@ -200,6 +242,7 @@ td.t .d{{display:block;font-family:var(--body);font-size:.75rem;font-weight:400;
 <section class="sec"><h2>Beste Alternativen</h2>
   <p>Die stärksten Spieler je Position, die nicht in der Aufstellung stehen. Beim Tausch auf Pucks und das Ausländerlimit achten.</p>
   <div class="alts">{alts}</div></section>
+{bew_html}
 <section class="sec"><h2>Quellen</h2><ul class="sources">{src_html}</ul></section>
 <script type="application/json" id="recherche">{infos_json}</script>
 <footer>Erwartete Punkte sind Schätzungen aus Saisonschnitt, Form, Eiszeit-Trend, Matchup und Einsatzwahrscheinlichkeit. Bei Torhütern fließen Startchance, Siegchance, Gegentore und Saves ein.</footer>
