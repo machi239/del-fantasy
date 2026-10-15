@@ -1,5 +1,5 @@
 {
- "stand": "15.10.2026 13:41",
+ "stand": "15.10.2026 18:48",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -15,11 +15,11 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.526,
-   "p_draw60": 0.2,
-   "p_away60": 0.274,
-   "p_home_inkl_ot": 0.63,
-   "total": 5.75
+   "p_home60": 0.522,
+   "p_draw60": 0.201,
+   "p_away60": 0.278,
+   "p_home_inkl_ot": 0.626,
+   "total": 5.8
   },
   "7-11": {
    "spiel": "Iserlohn Roosters - Kölner Haie",
@@ -60,7 +60,7 @@
    "p_home60": 0.329,
    "p_draw60": 0.225,
    "p_away60": 0.447,
-   "p_home_inkl_ot": 0.441,
+   "p_home_inkl_ot": 0.442,
    "total": 5.9
   },
   "13-2": {
@@ -99,10 +99,10 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.377,
-   "p_draw60": 0.213,
-   "p_away60": 0.41,
-   "p_home_inkl_ot": 0.489,
+   "p_home60": 0.391,
+   "p_draw60": 0.214,
+   "p_away60": 0.395,
+   "p_home_inkl_ot": 0.495,
    "total": 6.14
   }
  }
