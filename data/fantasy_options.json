@@ -10,9 +10,9 @@
             "position": "for",
             "price": 5,
             "short_name": "D Pietta",
-            "stat_perc_picked": 6.2,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.0,
+            "stat_perc_picked": 5.1,
+            "stat_prev_score": -0.9,
+            "stat_score_sum": 0.2,
             "team": "1"
         },
         {
@@ -27,7 +27,7 @@
             "short_name": "D Schmölz",
             "stat_perc_picked": 2.0,
             "stat_prev_score": 0.0,
-            "stat_score_sum": -2.2,
+            "stat_score_sum": 4.4,
             "team": "1"
         },
         {
@@ -40,9 +40,9 @@
             "position": "def",
             "price": 5,
             "short_name": "M Ellis",
-            "stat_perc_picked": 2.1,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -1.1,
+            "stat_perc_picked": 1.9,
+            "stat_prev_score": 2.9,
+            "stat_score_sum": 5.7,
             "team": "1"
         },
         {
@@ -55,9 +55,9 @@
             "position": "goal",
             "price": 3,
             "short_name": "J Stettmer",
-            "stat_perc_picked": 13.1,
-            "stat_prev_score": null,
-            "stat_score_sum": -5.6,
+            "stat_perc_picked": 8.4,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": -1.8,
             "team": "1"
         },
         {
@@ -70,9 +70,9 @@
             "position": "def",
             "price": 2,
             "short_name": "N Appendino",
-            "stat_perc_picked": 4.2,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.2,
+            "stat_perc_picked": 3.3,
+            "stat_prev_score": 0.7,
+            "stat_score_sum": 4.4,
             "team": "1"
         },
         {
@@ -85,9 +85,9 @@
             "position": "def",
             "price": 5,
             "short_name": "L Hüttl",
-            "stat_perc_picked": 6.0,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 3.3,
+            "stat_perc_picked": 5.2,
+            "stat_prev_score": 0.3,
+            "stat_score_sum": 8.6,
             "team": "1"
         },
         {
@@ -100,7 +100,7 @@
             "position": "def",
             "price": 2,
             "short_name": "P Rosa-Preto",
-            "stat_perc_picked": 1.4,
+            "stat_perc_picked": 0.8,
             "stat_prev_score": null,
             "stat_score_sum": null,
             "team": "1"
@@ -115,9 +115,9 @@
             "position": "for",
             "price": 3,
             "short_name": "R Sheen",
-            "stat_perc_picked": 8.4,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 6.4,
+            "stat_perc_picked": 5.3,
+            "stat_prev_score": 0.2,
+            "stat_score_sum": 9.0,
             "team": "1"
         },
         {
@@ -130,7 +130,7 @@
             "position": "for",
             "price": 2,
             "short_name": "N Burns",
-            "stat_perc_picked": 0.9,
+            "stat_perc_picked": 0.7,
             "stat_prev_score": null,
             "stat_score_sum": null,
             "team": "1"
@@ -145,9 +145,9 @@
             "position": "def",
             "price": 2,
             "short_name": "E Tropmann",
-            "stat_perc_picked": 17.2,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.0,
+            "stat_perc_picked": 13.7,
+            "stat_prev_score": -1.0,
+            "stat_score_sum": 4.4,
             "team": "1"
         },
         {
@@ -160,9 +160,9 @@
             "position": "for",
             "price": 1,
             "short_name": "N Schindler",
-            "stat_perc_picked": 0.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.1,
+            "stat_perc_picked": 1.4,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": 1.9,
             "team": "1"
         },
         {
@@ -175,9 +175,9 @@
             "position": "goal",
             "price": 3,
             "short_name": "D Williams",
-            "stat_perc_picked": 1.8,
-            "stat_prev_score": null,
-            "stat_score_sum": 0.2,
+            "stat_perc_picked": 3.6,
+            "stat_prev_score": 0.4,
+            "stat_score_sum": 6.4,
             "team": "1"
         },
         {
@@ -190,9 +190,9 @@
             "position": "for",
             "price": 4,
             "short_name": "K Agostino",
-            "stat_perc_picked": 2.1,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 4.1,
+            "stat_perc_picked": 1.1,
+            "stat_prev_score": -0.8,
+            "stat_score_sum": -12.1,
             "team": "1"
         },
         {
@@ -205,9 +205,9 @@
             "position": "def",
             "price": 4,
             "short_name": "S Ruopp",
-            "stat_perc_picked": 0.8,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 4.4,
+            "stat_prev_score": -0.3,
+            "stat_score_sum": 16.6,
             "team": "1"
         },
         {
@@ -220,9 +220,9 @@
             "position": "def",
             "price": 5,
             "short_name": "A Breton",
-            "stat_perc_picked": 10.4,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.3,
+            "stat_perc_picked": 6.8,
+            "stat_prev_score": 1.7,
+            "stat_score_sum": 2.9,
             "team": "1"
         },
         {
@@ -235,9 +235,9 @@
             "position": "for",
             "price": 4,
             "short_name": "M Powell",
-            "stat_perc_picked": 0.8,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -1.8,
+            "stat_perc_picked": 0.6,
+            "stat_prev_score": -0.7,
+            "stat_score_sum": -2.1,
             "team": "1"
         },
         {
@@ -250,9 +250,9 @@
             "position": "for",
             "price": 3,
             "short_name": "A Girduckis",
-            "stat_perc_picked": 3.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -4.8,
+            "stat_perc_picked": 3.0,
+            "stat_prev_score": -1.0,
+            "stat_score_sum": -6.4,
             "team": "1"
         },
         {
@@ -265,9 +265,9 @@
             "position": "for",
             "price": 4,
             "short_name": "A Keating",
-            "stat_perc_picked": 5.5,
+            "stat_perc_picked": 2.6,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 7.3,
+            "stat_score_sum": 5.3,
             "team": "1"
         },
         {
@@ -281,8 +281,8 @@
             "price": 1,
             "short_name": "P Vinzens",
             "stat_perc_picked": 0.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_prev_score": 0.9,
+            "stat_score_sum": -1.9,
             "team": "1"
         },
         {
@@ -295,9 +295,9 @@
             "position": "for",
             "price": 5,
             "short_name": "R Barber",
-            "stat_perc_picked": 9.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -1.1,
+            "stat_perc_picked": 9.4,
+            "stat_prev_score": 2.7,
+            "stat_score_sum": 15.7,
             "team": "1"
         },
         {
@@ -310,7 +310,7 @@
             "position": "for",
             "price": 1,
             "short_name": "J Smallwood",
-            "stat_perc_picked": 3.7,
+            "stat_perc_picked": 2.3,
             "stat_prev_score": 0.0,
             "stat_score_sum": 3.0,
             "team": "1"
@@ -325,9 +325,9 @@
             "position": "for",
             "price": 4,
             "short_name": "P Abbandonato",
-            "stat_perc_picked": 0.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.8,
+            "stat_perc_picked": 1.7,
+            "stat_prev_score": 0.7,
+            "stat_score_sum": 15.8,
             "team": "1"
         },
         {
@@ -340,7 +340,7 @@
             "position": "def",
             "price": 1,
             "short_name": "D Zerhoch",
-            "stat_perc_picked": 0.7,
+            "stat_perc_picked": 0.5,
             "stat_prev_score": 0.0,
             "stat_score_sum": 0.1,
             "team": "1"
@@ -355,8 +355,8 @@
             "position": "goal",
             "price": 1,
             "short_name": "B Oswald",
-            "stat_perc_picked": 0.3,
-            "stat_prev_score": null,
+            "stat_perc_picked": 0.2,
+            "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "1"
         },
@@ -370,9 +370,9 @@
             "position": "for",
             "price": 1,
             "short_name": "E Pul",
-            "stat_perc_picked": 4.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 3.2,
+            "stat_perc_picked": 4.8,
+            "stat_prev_score": -0.8,
+            "stat_score_sum": 4.5,
             "team": "1"
         },
         {
@@ -385,9 +385,9 @@
             "position": "def",
             "price": 2,
             "short_name": "E Wasenden",
-            "stat_perc_picked": 2.3,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.4,
+            "stat_perc_picked": 2.2,
+            "stat_prev_score": 1.1,
+            "stat_score_sum": 6.7,
             "team": "1"
         },
         {
@@ -400,9 +400,9 @@
             "position": "for",
             "price": 4,
             "short_name": "M Plachta",
-            "stat_perc_picked": 6.4,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.0,
+            "stat_perc_picked": 12.0,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": 15.2,
             "team": "2"
         },
         {
@@ -415,9 +415,9 @@
             "position": "goal",
             "price": 5,
             "short_name": "M Franzreb",
-            "stat_perc_picked": 9.2,
-            "stat_prev_score": null,
-            "stat_score_sum": 0.2,
+            "stat_perc_picked": 6.8,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": 10.0,
             "team": "2"
         },
         {
@@ -430,9 +430,9 @@
             "position": "for",
             "price": 4,
             "short_name": "B Macek",
-            "stat_perc_picked": 8.8,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.3,
+            "stat_perc_picked": 5.5,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": 6.9,
             "team": "2"
         },
         {
@@ -445,9 +445,9 @@
             "position": "for",
             "price": 4,
             "short_name": "J Schütz",
-            "stat_perc_picked": 27.0,
+            "stat_perc_picked": 13.7,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 4.9,
+            "stat_score_sum": 6.3,
             "team": "2"
         },
         {
@@ -460,9 +460,9 @@
             "position": "for",
             "price": 3,
             "short_name": "A Ehl",
-            "stat_perc_picked": 8.4,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -1.8,
+            "stat_perc_picked": 8.1,
+            "stat_prev_score": 2.8,
+            "stat_score_sum": 8.4,
             "team": "2"
         },
         {
@@ -475,9 +475,9 @@
             "position": "for",
             "price": 4,
             "short_name": "M Michaelis",
-            "stat_perc_picked": 2.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.1,
+            "stat_perc_picked": 2.4,
+            "stat_prev_score": 0.3,
+            "stat_score_sum": 0.7,
             "team": "2"
         },
         {
@@ -490,9 +490,9 @@
             "position": "def",
             "price": 5,
             "short_name": "L Gawanke",
-            "stat_perc_picked": 12.1,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.8,
+            "stat_perc_picked": 14.5,
+            "stat_prev_score": -0.7,
+            "stat_score_sum": 18.4,
             "team": "2"
         },
         {
@@ -505,9 +505,9 @@
             "position": "for",
             "price": 1,
             "short_name": "L Nieleck",
-            "stat_perc_picked": 3.2,
+            "stat_perc_picked": 11.5,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_score_sum": 8.9,
             "team": "2"
         },
         {
@@ -520,9 +520,9 @@
             "position": "def",
             "price": 2,
             "short_name": "H Shaw",
-            "stat_perc_picked": 6.7,
+            "stat_perc_picked": 4.6,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 0.8,
+            "stat_score_sum": 1.5,
             "team": "2"
         },
         {
@@ -535,9 +535,9 @@
             "position": "goal",
             "price": 2,
             "short_name": "J Hildebrand",
-            "stat_perc_picked": 17.2,
-            "stat_prev_score": null,
-            "stat_score_sum": 1.6,
+            "stat_perc_picked": 14.9,
+            "stat_prev_score": 5.4,
+            "stat_score_sum": 12.8,
             "team": "2"
         },
         {
@@ -550,9 +550,9 @@
             "position": "for",
             "price": 3,
             "short_name": "M Heim",
-            "stat_perc_picked": 1.6,
+            "stat_perc_picked": 1.5,
             "stat_prev_score": 0.0,
-            "stat_score_sum": -1.0,
+            "stat_score_sum": 4.0,
             "team": "2"
         },
         {
@@ -565,7 +565,7 @@
             "position": "goal",
             "price": 1,
             "short_name": "F Noack",
-            "stat_perc_picked": 0.6,
+            "stat_perc_picked": 0.5,
             "stat_prev_score": null,
             "stat_score_sum": null,
             "team": "2"
@@ -580,9 +580,9 @@
             "position": "def",
             "price": 5,
             "short_name": "N Mattinen",
-            "stat_perc_picked": 38.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 9.1,
+            "stat_perc_picked": 41.0,
+            "stat_prev_score": -1.8,
+            "stat_score_sum": 29.8,
             "team": "2"
         },
         {
@@ -595,9 +595,9 @@
             "position": "def",
             "price": 4,
             "short_name": "J Gilmour",
-            "stat_perc_picked": 3.0,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.8,
+            "stat_perc_picked": 2.4,
+            "stat_prev_score": 1.1,
+            "stat_score_sum": 5.3,
             "team": "2"
         },
         {
@@ -610,9 +610,9 @@
             "position": "for",
             "price": 3,
             "short_name": "K Bennett",
-            "stat_perc_picked": 3.5,
+            "stat_perc_picked": 1.9,
             "stat_prev_score": 0.0,
-            "stat_score_sum": -1.7,
+            "stat_score_sum": -1.4,
             "team": "2"
         },
         {
@@ -625,9 +625,9 @@
             "position": "for",
             "price": 3,
             "short_name": "T Kühnhackl",
-            "stat_perc_picked": 13.0,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 5.1,
+            "stat_perc_picked": 10.1,
+            "stat_prev_score": 2.5,
+            "stat_score_sum": 11.5,
             "team": "2"
         },
         {
@@ -640,9 +640,9 @@
             "position": "def",
             "price": 4,
             "short_name": "L Kälble",
-            "stat_perc_picked": 4.0,
+            "stat_perc_picked": 3.2,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_score_sum": 1.8,
             "team": "2"
         },
         {
@@ -655,9 +655,9 @@
             "position": "for",
             "price": 2,
             "short_name": "L Esposito",
-            "stat_perc_picked": 11.0,
+            "stat_perc_picked": 8.5,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 1.0,
+            "stat_score_sum": 3.3,
             "team": "2"
         },
         {
@@ -670,8 +670,8 @@
             "position": "def",
             "price": 1,
             "short_name": "T Fohrler",
-            "stat_perc_picked": 8.5,
-            "stat_prev_score": 0.0,
+            "stat_perc_picked": 6.9,
+            "stat_prev_score": 0.1,
             "stat_score_sum": -1.3,
             "team": "2"
         },
@@ -685,9 +685,9 @@
             "position": "for",
             "price": 4,
             "short_name": "K Reichel",
-            "stat_perc_picked": 2.2,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.6,
+            "stat_perc_picked": 2.8,
+            "stat_prev_score": -1.7,
+            "stat_score_sum": 12.6,
             "team": "2"
         },
         {
@@ -700,9 +700,9 @@
             "position": "for",
             "price": 1,
             "short_name": "M Calce",
-            "stat_perc_picked": 38.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 5.5,
+            "stat_perc_picked": 37.3,
+            "stat_prev_score": 2.5,
+            "stat_score_sum": 6.3,
             "team": "2"
         },
         {
@@ -715,9 +715,9 @@
             "position": "def",
             "price": 4,
             "short_name": "D Renouf",
-            "stat_perc_picked": 1.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.7,
+            "stat_perc_picked": 2.0,
+            "stat_prev_score": 3.3,
+            "stat_score_sum": 11.4,
             "team": "2"
         },
         {
@@ -730,7 +730,7 @@
             "position": "def",
             "price": 1,
             "short_name": "C Schlenker",
-            "stat_perc_picked": 2.4,
+            "stat_perc_picked": 1.9,
             "stat_prev_score": null,
             "stat_score_sum": 0.0,
             "team": "2"
@@ -745,9 +745,9 @@
             "position": "for",
             "price": 4,
             "short_name": "Z Solow",
-            "stat_perc_picked": 3.3,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.8,
+            "stat_perc_picked": 3.4,
+            "stat_prev_score": 2.1,
+            "stat_score_sum": 13.5,
             "team": "2"
         },
         {
@@ -760,9 +760,9 @@
             "position": "for",
             "price": 5,
             "short_name": "A Greco",
-            "stat_perc_picked": 4.3,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.6,
+            "stat_perc_picked": 4.2,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": 13.0,
             "team": "2"
         },
         {
@@ -775,9 +775,9 @@
             "position": "for",
             "price": 4,
             "short_name": "P Brown",
-            "stat_perc_picked": 1.8,
+            "stat_perc_picked": 0.9,
             "stat_prev_score": 0.0,
-            "stat_score_sum": -0.1,
+            "stat_score_sum": 4.2,
             "team": "2"
         },
         {
@@ -790,9 +790,9 @@
             "position": "def",
             "price": 3,
             "short_name": "J Poirier",
-            "stat_perc_picked": 15.2,
+            "stat_perc_picked": 14.8,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 5.1,
+            "stat_score_sum": 16.7,
             "team": "2"
         },
         {
@@ -805,9 +805,9 @@
             "position": "for",
             "price": 4,
             "short_name": "L Pföderl",
-            "stat_perc_picked": 9.8,
+            "stat_perc_picked": 8.0,
             "stat_prev_score": 0.0,
-            "stat_score_sum": -0.8,
+            "stat_score_sum": 5.8,
             "team": "3"
         },
         {
@@ -820,9 +820,9 @@
             "position": "def",
             "price": 3,
             "short_name": "J Müller",
-            "stat_perc_picked": 32.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 5.5,
+            "stat_perc_picked": 39.3,
+            "stat_prev_score": 8.9,
+            "stat_score_sum": 21.0,
             "team": "3"
         },
         {
@@ -835,9 +835,9 @@
             "position": "def",
             "price": 4,
             "short_name": "K Wissmann",
-            "stat_perc_picked": 13.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.1,
+            "stat_perc_picked": 13.2,
+            "stat_prev_score": 1.0,
+            "stat_score_sum": 7.1,
             "team": "3"
         },
         {
@@ -850,9 +850,9 @@
             "position": "for",
             "price": 4,
             "short_name": "A Eder",
-            "stat_perc_picked": 7.2,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.4,
+            "stat_perc_picked": 10.0,
+            "stat_prev_score": 4.0,
+            "stat_score_sum": 12.9,
             "team": "3"
         },
         {
@@ -865,9 +865,9 @@
             "position": "goal",
             "price": 2,
             "short_name": "J Neffin",
-            "stat_perc_picked": 3.2,
-            "stat_prev_score": null,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 39.2,
+            "stat_prev_score": 13.2,
+            "stat_score_sum": 56.6,
             "team": "3"
         },
         {
@@ -880,9 +880,9 @@
             "position": "for",
             "price": 4,
             "short_name": "F Tiffels",
-            "stat_perc_picked": 14.3,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.3,
+            "stat_perc_picked": 23.7,
+            "stat_prev_score": 3.3,
+            "stat_score_sum": 20.3,
             "team": "3"
         },
         {
@@ -895,9 +895,9 @@
             "position": "def",
             "price": 4,
             "short_name": "E Mik",
-            "stat_perc_picked": 11.3,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 5.0,
+            "stat_perc_picked": 12.6,
+            "stat_prev_score": 3.6,
+            "stat_score_sum": 16.8,
             "team": "3"
         },
         {
@@ -910,9 +910,9 @@
             "position": "def",
             "price": 3,
             "short_name": "K Geibel",
-            "stat_perc_picked": 11.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.3,
+            "stat_perc_picked": 10.8,
+            "stat_prev_score": 4.2,
+            "stat_score_sum": 9.5,
             "team": "3"
         },
         {
@@ -925,9 +925,9 @@
             "position": "for",
             "price": 2,
             "short_name": "Y Veilleux",
-            "stat_perc_picked": 8.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.6,
+            "stat_perc_picked": 6.4,
+            "stat_prev_score": 1.7,
+            "stat_score_sum": -1.2,
             "team": "3"
         },
         {
@@ -940,9 +940,9 @@
             "position": "for",
             "price": 4,
             "short_name": "M Vikingstad",
-            "stat_perc_picked": 2.4,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -1.0,
+            "stat_perc_picked": 2.6,
+            "stat_prev_score": 0.8,
+            "stat_score_sum": 5.7,
             "team": "3"
         },
         {
@@ -955,9 +955,9 @@
             "position": "for",
             "price": 2,
             "short_name": "M Wiederer",
-            "stat_perc_picked": 14.2,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 4.3,
+            "stat_perc_picked": 15.2,
+            "stat_prev_score": 3.1,
+            "stat_score_sum": 10.0,
             "team": "3"
         },
         {
@@ -970,9 +970,9 @@
             "position": "for",
             "price": 2,
             "short_name": "E Hördler",
-            "stat_perc_picked": 14.3,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 4.4,
+            "stat_perc_picked": 13.9,
+            "stat_prev_score": 0.8,
+            "stat_score_sum": 8.8,
             "team": "3"
         },
         {
@@ -985,9 +985,9 @@
             "position": "for",
             "price": 5,
             "short_name": "T Ronning",
-            "stat_perc_picked": 49.4,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 12.3,
+            "stat_perc_picked": 60.1,
+            "stat_prev_score": 2.2,
+            "stat_score_sum": 38.4,
             "team": "3"
         },
         {
@@ -1000,7 +1000,7 @@
             "position": "for",
             "price": 1,
             "short_name": "N Saffran",
-            "stat_perc_picked": 2.6,
+            "stat_perc_picked": 2.0,
             "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "3"
@@ -1015,9 +1015,9 @@
             "position": "for",
             "price": 5,
             "short_name": "L Kirk",
-            "stat_perc_picked": 34.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 9.9,
+            "stat_perc_picked": 52.4,
+            "stat_prev_score": 1.0,
+            "stat_score_sum": 39.9,
             "team": "3"
         },
         {
@@ -1030,9 +1030,9 @@
             "position": "for",
             "price": 3,
             "short_name": "G Fontaine",
-            "stat_perc_picked": 7.3,
+            "stat_perc_picked": 6.4,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 0.1,
+            "stat_score_sum": 6.7,
             "team": "3"
         },
         {
@@ -1045,9 +1045,9 @@
             "position": "def",
             "price": 3,
             "short_name": "M Reinke",
-            "stat_perc_picked": 3.2,
+            "stat_perc_picked": 3.3,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 3.5,
+            "stat_score_sum": 10.9,
             "team": "3"
         },
         {
@@ -1060,7 +1060,7 @@
             "position": "def",
             "price": 1,
             "short_name": "M Kretzschmar",
-            "stat_perc_picked": 7.7,
+            "stat_perc_picked": 5.2,
             "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "3"
@@ -1075,9 +1075,9 @@
             "position": "def",
             "price": 2,
             "short_name": "A Smith",
-            "stat_perc_picked": 8.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.8,
+            "stat_perc_picked": 12.4,
+            "stat_prev_score": 0.7,
+            "stat_score_sum": 13.4,
             "team": "3"
         },
         {
@@ -1090,8 +1090,8 @@
             "position": "goal",
             "price": 1,
             "short_name": "L Neiße",
-            "stat_perc_picked": 0.5,
-            "stat_prev_score": null,
+            "stat_perc_picked": 0.4,
+            "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "3"
         },
@@ -1106,7 +1106,7 @@
             "price": 1,
             "short_name": "N Wolter",
             "stat_perc_picked": 0.3,
-            "stat_prev_score": null,
+            "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "3"
         },
@@ -1120,9 +1120,9 @@
             "position": "for",
             "price": 1,
             "short_name": "R Griva",
-            "stat_perc_picked": 2.8,
+            "stat_perc_picked": 2.1,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 0.1,
+            "stat_score_sum": 0.2,
             "team": "3"
         },
         {
@@ -1135,9 +1135,9 @@
             "position": "for",
             "price": 1,
             "short_name": "T Krestan",
-            "stat_perc_picked": 5.3,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 4.6,
+            "stat_prev_score": 0.9,
+            "stat_score_sum": 1.7,
             "team": "3"
         },
         {
@@ -1150,9 +1150,9 @@
             "position": "goal",
             "price": 2,
             "short_name": "J LaFontaine",
-            "stat_perc_picked": 17.7,
-            "stat_prev_score": null,
-            "stat_score_sum": 1.2,
+            "stat_perc_picked": 8.2,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": -1.4,
             "team": "3"
         },
         {
@@ -1165,9 +1165,9 @@
             "position": "def",
             "price": 2,
             "short_name": "O Mebus",
-            "stat_perc_picked": 4.4,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.5,
+            "stat_perc_picked": 8.3,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": 9.0,
             "team": "5"
         },
         {
@@ -1180,9 +1180,9 @@
             "position": "goal",
             "price": 2,
             "short_name": "F Bick",
-            "stat_perc_picked": 6.3,
-            "stat_prev_score": null,
-            "stat_score_sum": 2.6,
+            "stat_perc_picked": 5.3,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": 7.4,
             "team": "5"
         },
         {
@@ -1195,9 +1195,9 @@
             "position": "for",
             "price": 2,
             "short_name": "A Weiß",
-            "stat_perc_picked": 4.4,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.5,
+            "stat_perc_picked": 3.3,
+            "stat_prev_score": 0.9,
+            "stat_score_sum": 2.0,
             "team": "5"
         },
         {
@@ -1210,9 +1210,9 @@
             "position": "for",
             "price": 3,
             "short_name": "M Müller",
-            "stat_perc_picked": 6.2,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 5.2,
+            "stat_perc_picked": 7.3,
+            "stat_prev_score": 0.8,
+            "stat_score_sum": 10.2,
             "team": "5"
         },
         {
@@ -1225,9 +1225,9 @@
             "position": "def",
             "price": 2,
             "short_name": "M Köhler",
-            "stat_perc_picked": 2.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.8,
+            "stat_perc_picked": 3.2,
+            "stat_prev_score": 2.4,
+            "stat_score_sum": 5.1,
             "team": "5"
         },
         {
@@ -1240,9 +1240,9 @@
             "position": "for",
             "price": 2,
             "short_name": "P Gogulla",
-            "stat_perc_picked": 11.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 6.1,
+            "stat_perc_picked": 18.8,
+            "stat_prev_score": 0.4,
+            "stat_score_sum": 15.2,
             "team": "5"
         },
         {
@@ -1255,9 +1255,9 @@
             "position": "for",
             "price": 2,
             "short_name": "A Payerl",
-            "stat_perc_picked": 4.0,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -3.6,
+            "stat_perc_picked": 12.8,
+            "stat_prev_score": 1.4,
+            "stat_score_sum": 13.9,
             "team": "5"
         },
         {
@@ -1270,7 +1270,7 @@
             "position": "def",
             "price": 1,
             "short_name": "E Buschmann",
-            "stat_perc_picked": 3.5,
+            "stat_perc_picked": 2.6,
             "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "5"
@@ -1285,9 +1285,9 @@
             "position": "for",
             "price": 2,
             "short_name": "Y Proske",
-            "stat_perc_picked": 3.9,
+            "stat_perc_picked": 2.8,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_score_sum": -0.7,
             "team": "5"
         },
         {
@@ -1300,9 +1300,9 @@
             "position": "for",
             "price": 1,
             "short_name": "L Hauf",
-            "stat_perc_picked": 2.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.1,
+            "stat_perc_picked": 3.6,
+            "stat_prev_score": 2.1,
+            "stat_score_sum": 4.1,
             "team": "5"
         },
         {
@@ -1315,9 +1315,9 @@
             "position": "for",
             "price": 1,
             "short_name": "D Bruch",
-            "stat_perc_picked": 5.0,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.8,
+            "stat_perc_picked": 4.8,
+            "stat_prev_score": 0.8,
+            "stat_score_sum": 4.0,
             "team": "5"
         },
         {
@@ -1330,9 +1330,9 @@
             "position": "def",
             "price": 2,
             "short_name": "D Vandane",
-            "stat_perc_picked": 18.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 6.1,
+            "stat_perc_picked": 33.6,
+            "stat_prev_score": 2.3,
+            "stat_score_sum": 23.5,
             "team": "5"
         },
         {
@@ -1345,8 +1345,8 @@
             "position": "goal",
             "price": 1,
             "short_name": "J Schulte",
-            "stat_perc_picked": 0.6,
-            "stat_prev_score": null,
+            "stat_perc_picked": 0.5,
+            "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "5"
         },
@@ -1360,9 +1360,9 @@
             "position": "def",
             "price": 2,
             "short_name": "M Gildon",
-            "stat_perc_picked": 5.1,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.9,
+            "stat_perc_picked": 5.0,
+            "stat_prev_score": -0.1,
+            "stat_score_sum": 8.3,
             "team": "5"
         },
         {
@@ -1375,7 +1375,7 @@
             "position": "def",
             "price": 1,
             "short_name": "C Konze",
-            "stat_perc_picked": 1.6,
+            "stat_perc_picked": 1.3,
             "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "5"
@@ -1390,9 +1390,9 @@
             "position": "for",
             "price": 3,
             "short_name": "M Newton",
-            "stat_perc_picked": 15.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 9.6,
+            "stat_perc_picked": 26.5,
+            "stat_prev_score": -0.6,
+            "stat_score_sum": 23.2,
             "team": "5"
         },
         {
@@ -1405,9 +1405,9 @@
             "position": "for",
             "price": 1,
             "short_name": "T Schütz",
-            "stat_perc_picked": 6.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.7,
+            "stat_perc_picked": 5.5,
+            "stat_prev_score": 0.2,
+            "stat_score_sum": 1.2,
             "team": "5"
         },
         {
@@ -1421,7 +1421,7 @@
             "price": 1,
             "short_name": "O Blumenkamp",
             "stat_perc_picked": 0.3,
-            "stat_prev_score": null,
+            "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "5"
         },
@@ -1435,9 +1435,9 @@
             "position": "for",
             "price": 1,
             "short_name": "C Suess",
-            "stat_perc_picked": 8.8,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.2,
+            "stat_perc_picked": 13.5,
+            "stat_prev_score": 0.2,
+            "stat_score_sum": 10.3,
             "team": "5"
         },
         {
@@ -1450,8 +1450,8 @@
             "position": "def",
             "price": 1,
             "short_name": "Z Dybowski",
-            "stat_perc_picked": 6.9,
-            "stat_prev_score": 0.0,
+            "stat_perc_picked": 5.5,
+            "stat_prev_score": 0.1,
             "stat_score_sum": -0.1,
             "team": "5"
         },
@@ -1465,9 +1465,9 @@
             "position": "for",
             "price": 3,
             "short_name": "M Santos",
-            "stat_perc_picked": 9.4,
+            "stat_perc_picked": 19.0,
             "stat_prev_score": 0.0,
-            "stat_score_sum": -2.6,
+            "stat_score_sum": 18.8,
             "team": "5"
         },
         {
@@ -1480,9 +1480,9 @@
             "position": "for",
             "price": 4,
             "short_name": "T Kero",
-            "stat_perc_picked": 2.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -1.0,
+            "stat_perc_picked": 2.4,
+            "stat_prev_score": 0.8,
+            "stat_score_sum": 3.2,
             "team": "5"
         },
         {
@@ -1495,9 +1495,9 @@
             "position": "goal",
             "price": 2,
             "short_name": "J Jatkola",
-            "stat_perc_picked": 5.4,
-            "stat_prev_score": null,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 9.2,
+            "stat_prev_score": -0.4,
+            "stat_score_sum": 10.6,
             "team": "5"
         },
         {
@@ -1510,9 +1510,9 @@
             "position": "def",
             "price": 3,
             "short_name": "S Percy",
-            "stat_perc_picked": 7.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 8.7,
+            "stat_perc_picked": 13.5,
+            "stat_prev_score": 0.7,
+            "stat_score_sum": 20.3,
             "team": "5"
         },
         {
@@ -1525,7 +1525,7 @@
             "position": "for",
             "price": 2,
             "short_name": "K Wall",
-            "stat_perc_picked": 1.6,
+            "stat_perc_picked": 1.2,
             "stat_prev_score": null,
             "stat_score_sum": null,
             "team": "5"
@@ -1540,9 +1540,9 @@
             "position": "for",
             "price": 3,
             "short_name": "S Loibl",
-            "stat_perc_picked": 6.1,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.0,
+            "stat_perc_picked": 11.9,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": 15.2,
             "team": "6"
         },
         {
@@ -1555,9 +1555,9 @@
             "position": "def",
             "price": 5,
             "short_name": "M Brandt",
-            "stat_perc_picked": 13.0,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.3,
+            "stat_perc_picked": 17.9,
+            "stat_prev_score": 4.4,
+            "stat_score_sum": 22.7,
             "team": "6"
         },
         {
@@ -1570,9 +1570,9 @@
             "position": "def",
             "price": 3,
             "short_name": "S Daschner",
-            "stat_perc_picked": 2.0,
+            "stat_perc_picked": 1.9,
             "stat_prev_score": 0.0,
-            "stat_score_sum": -1.9,
+            "stat_score_sum": 1.6,
             "team": "6"
         },
         {
@@ -1585,9 +1585,9 @@
             "position": "for",
             "price": 2,
             "short_name": "T Brunnhuber",
-            "stat_perc_picked": 1.4,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -2.8,
+            "stat_perc_picked": 3.7,
+            "stat_prev_score": 1.0,
+            "stat_score_sum": 10.4,
             "team": "6"
         },
         {
@@ -1600,9 +1600,9 @@
             "position": "for",
             "price": 2,
             "short_name": "F Varejcka",
-            "stat_perc_picked": 10.3,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.3,
+            "stat_perc_picked": 7.0,
+            "stat_prev_score": 0.2,
+            "stat_score_sum": 1.5,
             "team": "6"
         },
         {
@@ -1615,7 +1615,7 @@
             "position": "for",
             "price": 1,
             "short_name": "T Jentzsch",
-            "stat_perc_picked": 4.3,
+            "stat_perc_picked": 3.1,
             "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "6"
@@ -1630,9 +1630,9 @@
             "position": "def",
             "price": 4,
             "short_name": "A Klein",
-            "stat_perc_picked": 3.4,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.7,
+            "stat_perc_picked": 2.6,
+            "stat_prev_score": -1.1,
+            "stat_score_sum": 5.0,
             "team": "6"
         },
         {
@@ -1645,9 +1645,9 @@
             "position": "def",
             "price": 2,
             "short_name": "M Zimmermann",
-            "stat_perc_picked": 2.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.5,
+            "stat_perc_picked": 11.2,
+            "stat_prev_score": 1.9,
+            "stat_score_sum": 12.0,
             "team": "6"
         },
         {
@@ -1660,7 +1660,7 @@
             "position": "for",
             "price": 3,
             "short_name": "D Leonhardt",
-            "stat_perc_picked": 4.4,
+            "stat_perc_picked": 2.4,
             "stat_prev_score": 0.0,
             "stat_score_sum": 0.2,
             "team": "6"
@@ -1675,9 +1675,9 @@
             "position": "goal",
             "price": 1,
             "short_name": "F Bugl",
-            "stat_perc_picked": 3.9,
-            "stat_prev_score": null,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 2.4,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": 1.4,
             "team": "6"
         },
         {
@@ -1690,9 +1690,9 @@
             "position": "for",
             "price": 2,
             "short_name": "S McKenzie",
-            "stat_perc_picked": 1.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.3,
+            "stat_perc_picked": 6.6,
+            "stat_prev_score": -2.0,
+            "stat_score_sum": 11.2,
             "team": "6"
         },
         {
@@ -1705,9 +1705,9 @@
             "position": "for",
             "price": 3,
             "short_name": "J Beaudin",
-            "stat_perc_picked": 1.4,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -1.0,
+            "stat_perc_picked": 10.4,
+            "stat_prev_score": 0.3,
+            "stat_score_sum": 21.9,
             "team": "6"
         },
         {
@@ -1720,9 +1720,9 @@
             "position": "for",
             "price": 1,
             "short_name": "L Brandl",
-            "stat_perc_picked": 2.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -1.7,
+            "stat_perc_picked": 2.8,
+            "stat_prev_score": 0.7,
+            "stat_score_sum": 2.5,
             "team": "6"
         },
         {
@@ -1735,9 +1735,9 @@
             "position": "for",
             "price": 1,
             "short_name": "S Seidl",
-            "stat_perc_picked": 2.1,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.3,
+            "stat_perc_picked": 3.4,
+            "stat_prev_score": 1.8,
+            "stat_score_sum": 5.5,
             "team": "6"
         },
         {
@@ -1750,9 +1750,9 @@
             "position": "def",
             "price": 4,
             "short_name": "A Green",
-            "stat_perc_picked": 1.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.9,
+            "stat_perc_picked": 1.8,
+            "stat_prev_score": -1.2,
+            "stat_score_sum": 10.5,
             "team": "6"
         },
         {
@@ -1765,9 +1765,9 @@
             "position": "goal",
             "price": 1,
             "short_name": "S Wieber",
-            "stat_perc_picked": 0.4,
-            "stat_prev_score": null,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 0.5,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": -1.0,
             "team": "6"
         },
         {
@@ -1780,9 +1780,9 @@
             "position": "def",
             "price": 3,
             "short_name": "N Beaudin",
-            "stat_perc_picked": 2.4,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.6,
+            "stat_perc_picked": 4.1,
+            "stat_prev_score": 2.9,
+            "stat_score_sum": 13.1,
             "team": "6"
         },
         {
@@ -1795,9 +1795,9 @@
             "position": "for",
             "price": 5,
             "short_name": "N Halloran",
-            "stat_perc_picked": 3.8,
+            "stat_perc_picked": 5.2,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 1.4,
+            "stat_score_sum": 15.5,
             "team": "6"
         },
         {
@@ -1810,9 +1810,9 @@
             "position": "for",
             "price": 4,
             "short_name": "T Madden",
-            "stat_perc_picked": 1.3,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.6,
+            "stat_perc_picked": 1.7,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": 10.8,
             "team": "6"
         },
         {
@@ -1840,9 +1840,9 @@
             "position": "def",
             "price": 1,
             "short_name": "M Bleicher",
-            "stat_perc_picked": 4.3,
+            "stat_perc_picked": 6.5,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 1.1,
+            "stat_score_sum": 4.6,
             "team": "6"
         },
         {
@@ -1855,9 +1855,9 @@
             "position": "def",
             "price": 2,
             "short_name": "J Duszak",
-            "stat_perc_picked": 2.4,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.7,
+            "stat_perc_picked": 9.5,
+            "stat_prev_score": -1.0,
+            "stat_score_sum": 17.4,
             "team": "6"
         },
         {
@@ -1870,9 +1870,9 @@
             "position": "for",
             "price": 2,
             "short_name": "S Kersten",
-            "stat_perc_picked": 1.1,
+            "stat_perc_picked": 2.6,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 2.6,
+            "stat_score_sum": 13.0,
             "team": "6"
         },
         {
@@ -1885,9 +1885,9 @@
             "position": "for",
             "price": 2,
             "short_name": "H Elynuik",
-            "stat_perc_picked": 0.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 0.5,
+            "stat_prev_score": 0.7,
+            "stat_score_sum": 0.6,
             "team": "6"
         },
         {
@@ -1900,9 +1900,9 @@
             "position": "for",
             "price": 2,
             "short_name": "J Rees",
-            "stat_perc_picked": 3.1,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.0,
+            "stat_perc_picked": 5.4,
+            "stat_prev_score": -0.2,
+            "stat_score_sum": 14.6,
             "team": "6"
         },
         {
@@ -1915,9 +1915,9 @@
             "position": "goal",
             "price": 3,
             "short_name": "J Skarek",
-            "stat_perc_picked": 2.1,
-            "stat_prev_score": null,
-            "stat_score_sum": -6.8,
+            "stat_perc_picked": 4.1,
+            "stat_prev_score": 0.4,
+            "stat_score_sum": 7.2,
             "team": "6"
         },
         {
@@ -1930,9 +1930,9 @@
             "position": "goal",
             "price": 2,
             "short_name": "A Jenike",
-            "stat_perc_picked": 2.0,
+            "stat_perc_picked": 1.3,
             "stat_prev_score": 0.0,
-            "stat_score_sum": -4.6,
+            "stat_score_sum": -17.2,
             "team": "7"
         },
         {
@@ -1945,9 +1945,9 @@
             "position": "goal",
             "price": 2,
             "short_name": "H Hane",
-            "stat_perc_picked": 3.7,
-            "stat_prev_score": 1.2,
-            "stat_score_sum": 4.2,
+            "stat_perc_picked": 1.7,
+            "stat_prev_score": 3.2,
+            "stat_score_sum": -3.6,
             "team": "7"
         },
         {
@@ -1960,9 +1960,9 @@
             "position": "for",
             "price": 1,
             "short_name": "D Lobach",
-            "stat_perc_picked": 1.6,
-            "stat_prev_score": 0.3,
-            "stat_score_sum": -1.0,
+            "stat_perc_picked": 1.1,
+            "stat_prev_score": 1.3,
+            "stat_score_sum": -3.1,
             "team": "7"
         },
         {
@@ -1975,9 +1975,9 @@
             "position": "def",
             "price": 5,
             "short_name": "C Ugbekile",
-            "stat_perc_picked": 8.1,
-            "stat_prev_score": 0.7,
-            "stat_score_sum": 4.9,
+            "stat_perc_picked": 6.0,
+            "stat_prev_score": 6.1,
+            "stat_score_sum": 13.8,
             "team": "7"
         },
         {
@@ -1990,9 +1990,9 @@
             "position": "for",
             "price": 1,
             "short_name": "M Eisenmenger",
-            "stat_perc_picked": 4.0,
-            "stat_prev_score": 2.8,
-            "stat_score_sum": 5.1,
+            "stat_perc_picked": 3.1,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": 7.6,
             "team": "7"
         },
         {
@@ -2020,9 +2020,9 @@
             "position": "def",
             "price": 1,
             "short_name": "P Spornberger",
-            "stat_perc_picked": 2.6,
-            "stat_prev_score": 1.2,
-            "stat_score_sum": 1.7,
+            "stat_perc_picked": 1.8,
+            "stat_prev_score": 2.6,
+            "stat_score_sum": -0.9,
             "team": "7"
         },
         {
@@ -2035,9 +2035,9 @@
             "position": "for",
             "price": 1,
             "short_name": "J Borzecki",
-            "stat_perc_picked": 0.7,
+            "stat_perc_picked": 0.6,
             "stat_prev_score": 0.0,
-            "stat_score_sum": -0.9,
+            "stat_score_sum": -4.3,
             "team": "7"
         },
         {
@@ -2050,9 +2050,9 @@
             "position": "for",
             "price": 1,
             "short_name": "K Bicker",
-            "stat_perc_picked": 0.9,
-            "stat_prev_score": 0.1,
-            "stat_score_sum": 0.2,
+            "stat_perc_picked": 0.7,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": -6.3,
             "team": "7"
         },
         {
@@ -2065,9 +2065,9 @@
             "position": "for",
             "price": 2,
             "short_name": "D Neumann",
-            "stat_perc_picked": 1.2,
-            "stat_prev_score": 0.2,
-            "stat_score_sum": 2.4,
+            "stat_perc_picked": 0.8,
+            "stat_prev_score": 2.1,
+            "stat_score_sum": -0.5,
             "team": "7"
         },
         {
@@ -2080,9 +2080,9 @@
             "position": "def",
             "price": 1,
             "short_name": "N Panocha",
-            "stat_perc_picked": 2.4,
-            "stat_prev_score": 1.1,
-            "stat_score_sum": 1.1,
+            "stat_perc_picked": 2.5,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": 2.7,
             "team": "7"
         },
         {
@@ -2095,9 +2095,9 @@
             "position": "def",
             "price": 2,
             "short_name": "E Johansson",
-            "stat_perc_picked": 3.6,
-            "stat_prev_score": -0.7,
-            "stat_score_sum": 0.6,
+            "stat_perc_picked": 1.9,
+            "stat_prev_score": -0.3,
+            "stat_score_sum": 0.2,
             "team": "7"
         },
         {
@@ -2110,9 +2110,9 @@
             "position": "for",
             "price": 3,
             "short_name": "C Maier",
-            "stat_perc_picked": 4.7,
-            "stat_prev_score": 1.5,
-            "stat_score_sum": 5.7,
+            "stat_perc_picked": 2.7,
+            "stat_prev_score": -1.1,
+            "stat_score_sum": 9.2,
             "team": "7"
         },
         {
@@ -2126,8 +2126,8 @@
             "price": 4,
             "short_name": "J Scott",
             "stat_perc_picked": 0.9,
-            "stat_prev_score": 5.2,
-            "stat_score_sum": 5.2,
+            "stat_prev_score": 5.3,
+            "stat_score_sum": 10.6,
             "team": "7"
         },
         {
@@ -2140,9 +2140,9 @@
             "position": "def",
             "price": 2,
             "short_name": "L Niehus",
-            "stat_perc_picked": 2.0,
-            "stat_prev_score": 0.1,
-            "stat_score_sum": -0.9,
+            "stat_perc_picked": 1.8,
+            "stat_prev_score": 3.1,
+            "stat_score_sum": 0.5,
             "team": "7"
         },
         {
@@ -2155,9 +2155,9 @@
             "position": "for",
             "price": 4,
             "short_name": "T Boland",
-            "stat_perc_picked": 1.5,
-            "stat_prev_score": 1.6,
-            "stat_score_sum": 6.6,
+            "stat_perc_picked": 1.1,
+            "stat_prev_score": 5.1,
+            "stat_score_sum": 14.9,
             "team": "7"
         },
         {
@@ -2170,9 +2170,9 @@
             "position": "for",
             "price": 2,
             "short_name": "J Krauß",
-            "stat_perc_picked": 2.1,
-            "stat_prev_score": 1.1,
-            "stat_score_sum": -0.1,
+            "stat_perc_picked": 1.7,
+            "stat_prev_score": 2.8,
+            "stat_score_sum": 5.7,
             "team": "7"
         },
         {
@@ -2185,9 +2185,9 @@
             "position": "for",
             "price": 3,
             "short_name": "J Napravnik",
-            "stat_perc_picked": 2.9,
-            "stat_prev_score": 1.9,
-            "stat_score_sum": 4.3,
+            "stat_perc_picked": 1.9,
+            "stat_prev_score": 0.2,
+            "stat_score_sum": 2.1,
             "team": "7"
         },
         {
@@ -2200,7 +2200,7 @@
             "position": "def",
             "price": 1,
             "short_name": "M Bauer",
-            "stat_perc_picked": 0.4,
+            "stat_perc_picked": 0.3,
             "stat_prev_score": null,
             "stat_score_sum": null,
             "team": "7"
@@ -2217,7 +2217,7 @@
             "short_name": "D Geiger",
             "stat_perc_picked": 0.6,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_score_sum": -3.3,
             "team": "7"
         },
         {
@@ -2230,9 +2230,9 @@
             "position": "for",
             "price": 4,
             "short_name": "C Thomas",
-            "stat_perc_picked": 1.4,
-            "stat_prev_score": 0.1,
-            "stat_score_sum": 1.2,
+            "stat_perc_picked": 1.0,
+            "stat_prev_score": 1.2,
+            "stat_score_sum": 4.4,
             "team": "7"
         },
         {
@@ -2245,7 +2245,7 @@
             "position": "for",
             "price": 1,
             "short_name": "B Farkas",
-            "stat_perc_picked": 0.8,
+            "stat_perc_picked": 0.6,
             "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "7"
@@ -2260,9 +2260,9 @@
             "position": "def",
             "price": 2,
             "short_name": "R Norell",
-            "stat_perc_picked": 0.8,
-            "stat_prev_score": 1.6,
-            "stat_score_sum": 2.0,
+            "stat_perc_picked": 0.9,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": 5.1,
             "team": "7"
         },
         {
@@ -2275,7 +2275,7 @@
             "position": "def",
             "price": 1,
             "short_name": "G Radionovs",
-            "stat_perc_picked": 0.6,
+            "stat_perc_picked": 0.5,
             "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "7"
@@ -2290,9 +2290,9 @@
             "position": "def",
             "price": 3,
             "short_name": "M Hollowell",
-            "stat_perc_picked": 2.0,
-            "stat_prev_score": 0.1,
-            "stat_score_sum": -2.9,
+            "stat_perc_picked": 1.2,
+            "stat_prev_score": -0.8,
+            "stat_score_sum": -5.4,
             "team": "7"
         },
         {
@@ -2305,9 +2305,9 @@
             "position": "for",
             "price": 3,
             "short_name": "P Quenneville",
-            "stat_perc_picked": 1.6,
-            "stat_prev_score": 1.3,
-            "stat_score_sum": 4.0,
+            "stat_perc_picked": 1.0,
+            "stat_prev_score": -0.8,
+            "stat_score_sum": 9.0,
             "team": "7"
         },
         {
@@ -2350,9 +2350,9 @@
             "position": "goal",
             "price": 1,
             "short_name": "H Weitzmann",
-            "stat_perc_picked": 2.7,
-            "stat_prev_score": null,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 4.7,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": 9.2,
             "team": "8"
         },
         {
@@ -2365,9 +2365,9 @@
             "position": "goal",
             "price": 5,
             "short_name": "D Strahlmeier",
-            "stat_perc_picked": 11.5,
-            "stat_prev_score": null,
-            "stat_score_sum": 4.8,
+            "stat_perc_picked": 5.1,
+            "stat_prev_score": 0.4,
+            "stat_score_sum": -2.2,
             "team": "8"
         },
         {
@@ -2380,9 +2380,9 @@
             "position": "for",
             "price": 4,
             "short_name": "S Machacek",
-            "stat_perc_picked": 6.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 11.4,
+            "stat_perc_picked": 3.0,
+            "stat_prev_score": 0.2,
+            "stat_score_sum": 16.0,
             "team": "8"
         },
         {
@@ -2395,9 +2395,9 @@
             "position": "for",
             "price": 1,
             "short_name": "S Ziegler",
-            "stat_perc_picked": 1.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.9,
+            "stat_perc_picked": 1.3,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": 0.1,
             "team": "8"
         },
         {
@@ -2410,9 +2410,9 @@
             "position": "def",
             "price": 3,
             "short_name": "F Pfohl",
-            "stat_perc_picked": 7.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 5.3,
+            "stat_perc_picked": 4.3,
+            "stat_prev_score": 3.7,
+            "stat_score_sum": 6.1,
             "team": "8"
         },
         {
@@ -2425,9 +2425,9 @@
             "position": "for",
             "price": 4,
             "short_name": "J Feser",
-            "stat_perc_picked": 0.8,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -1.8,
+            "stat_perc_picked": 4.3,
+            "stat_prev_score": 2.3,
+            "stat_score_sum": 17.6,
             "team": "8"
         },
         {
@@ -2440,7 +2440,7 @@
             "position": "def",
             "price": 2,
             "short_name": "J Möser",
-            "stat_perc_picked": 3.2,
+            "stat_perc_picked": 1.5,
             "stat_prev_score": 0.0,
             "stat_score_sum": 1.7,
             "team": "8"
@@ -2455,9 +2455,9 @@
             "position": "goal",
             "price": 1,
             "short_name": "E Albrecht",
-            "stat_perc_picked": 0.2,
-            "stat_prev_score": null,
-            "stat_score_sum": null,
+            "stat_perc_picked": 0.1,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": 0.0,
             "team": "8"
         },
         {
@@ -2470,9 +2470,9 @@
             "position": "def",
             "price": 4,
             "short_name": "J Melchiori",
-            "stat_perc_picked": 7.7,
+            "stat_perc_picked": 4.8,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 9.2,
+            "stat_score_sum": 16.0,
             "team": "8"
         },
         {
@@ -2485,9 +2485,9 @@
             "position": "def",
             "price": 1,
             "short_name": "L Hafenrichter",
-            "stat_perc_picked": 3.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.7,
+            "stat_perc_picked": 2.2,
+            "stat_prev_score": -1.0,
+            "stat_score_sum": -3.0,
             "team": "8"
         },
         {
@@ -2500,9 +2500,9 @@
             "position": "for",
             "price": 2,
             "short_name": "L Schinko",
-            "stat_perc_picked": 23.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 12.5,
+            "stat_perc_picked": 16.9,
+            "stat_prev_score": -1.9,
+            "stat_score_sum": 9.5,
             "team": "8"
         },
         {
@@ -2515,9 +2515,9 @@
             "position": "for",
             "price": 4,
             "short_name": "T Gaudet",
-            "stat_perc_picked": 5.4,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 10.9,
+            "stat_perc_picked": 4.5,
+            "stat_prev_score": 3.2,
+            "stat_score_sum": 19.2,
             "team": "8"
         },
         {
@@ -2530,9 +2530,9 @@
             "position": "for",
             "price": 3,
             "short_name": "T Morley",
-            "stat_perc_picked": 3.0,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 7.9,
+            "stat_perc_picked": 1.5,
+            "stat_prev_score": 2.1,
+            "stat_score_sum": 9.5,
             "team": "8"
         },
         {
@@ -2545,9 +2545,9 @@
             "position": "for",
             "price": 1,
             "short_name": "T Ruckdäschel",
-            "stat_perc_picked": 1.8,
+            "stat_perc_picked": 1.2,
             "stat_prev_score": 0.0,
-            "stat_score_sum": -3.0,
+            "stat_score_sum": -5.6,
             "team": "8"
         },
         {
@@ -2560,9 +2560,9 @@
             "position": "def",
             "price": 3,
             "short_name": "L Lancaster",
-            "stat_perc_picked": 5.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.3,
+            "stat_perc_picked": 4.5,
+            "stat_prev_score": -6.0,
+            "stat_score_sum": -1.4,
             "team": "8"
         },
         {
@@ -2575,9 +2575,9 @@
             "position": "def",
             "price": 4,
             "short_name": "K Thompson",
-            "stat_perc_picked": 2.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 6.7,
+            "stat_perc_picked": 1.4,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": 13.8,
             "team": "8"
         },
         {
@@ -2590,9 +2590,9 @@
             "position": "for",
             "price": 1,
             "short_name": "R Veber",
-            "stat_perc_picked": 0.1,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 0.3,
+            "stat_prev_score": 0.7,
+            "stat_score_sum": 2.7,
             "team": "8"
         },
         {
@@ -2605,9 +2605,9 @@
             "position": "for",
             "price": 1,
             "short_name": "J Ramoser",
-            "stat_perc_picked": 1.2,
+            "stat_perc_picked": 1.0,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_score_sum": -2.9,
             "team": "8"
         },
         {
@@ -2620,9 +2620,9 @@
             "position": "for",
             "price": 1,
             "short_name": "W Graber",
-            "stat_perc_picked": 12.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 7.4,
+            "stat_perc_picked": 5.4,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": 4.0,
             "team": "8"
         },
         {
@@ -2635,9 +2635,9 @@
             "position": "for",
             "price": 1,
             "short_name": "D Willhöft",
-            "stat_perc_picked": 2.8,
+            "stat_perc_picked": 4.8,
             "stat_prev_score": 0.0,
-            "stat_score_sum": -1.2,
+            "stat_score_sum": 4.9,
             "team": "8"
         },
         {
@@ -2665,9 +2665,9 @@
             "position": "for",
             "price": 3,
             "short_name": "M Choupani",
-            "stat_perc_picked": 2.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.6,
+            "stat_perc_picked": 6.8,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": 10.1,
             "team": "8"
         },
         {
@@ -2680,9 +2680,9 @@
             "position": "for",
             "price": 3,
             "short_name": "R Lynch",
-            "stat_perc_picked": 17.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 15.8,
+            "stat_perc_picked": 9.0,
+            "stat_prev_score": 0.2,
+            "stat_score_sum": 16.6,
             "team": "8"
         },
         {
@@ -2695,9 +2695,9 @@
             "position": "def",
             "price": 2,
             "short_name": "T Pasanen",
-            "stat_perc_picked": 1.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.5,
+            "stat_perc_picked": 8.2,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": 9.1,
             "team": "8"
         },
         {
@@ -2710,9 +2710,9 @@
             "position": "def",
             "price": 3,
             "short_name": "M Bowey",
-            "stat_perc_picked": 10.8,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 10.9,
+            "stat_perc_picked": 3.6,
+            "stat_prev_score": -0.1,
+            "stat_score_sum": 10.0,
             "team": "8"
         },
         {
@@ -2725,7 +2725,7 @@
             "position": "goal",
             "price": 1,
             "short_name": "F Wild",
-            "stat_perc_picked": 0.1,
+            "stat_perc_picked": 0.0,
             "stat_prev_score": null,
             "stat_score_sum": null,
             "team": "8"
@@ -2740,7 +2740,7 @@
             "position": "def",
             "price": 1,
             "short_name": "D Kettler",
-            "stat_perc_picked": 0.4,
+            "stat_perc_picked": 0.5,
             "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "8"
@@ -2755,9 +2755,9 @@
             "position": "for",
             "price": 3,
             "short_name": "N Krämmer",
-            "stat_perc_picked": 2.3,
+            "stat_perc_picked": 1.0,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 4.3,
+            "stat_score_sum": 2.5,
             "team": "9"
         },
         {
@@ -2770,9 +2770,9 @@
             "position": "def",
             "price": 2,
             "short_name": "N Jensen",
-            "stat_perc_picked": 4.4,
-            "stat_prev_score": null,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 3.3,
+            "stat_prev_score": -0.9,
+            "stat_score_sum": 0.2,
             "team": "9"
         },
         {
@@ -2785,9 +2785,9 @@
             "position": "def",
             "price": 3,
             "short_name": "P Bruggisser",
-            "stat_perc_picked": 20.1,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 4.5,
+            "stat_perc_picked": 15.1,
+            "stat_prev_score": 0.7,
+            "stat_score_sum": 9.3,
             "team": "9"
         },
         {
@@ -2800,9 +2800,9 @@
             "position": "for",
             "price": 3,
             "short_name": "A Friesen",
-            "stat_perc_picked": 2.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -1.9,
+            "stat_perc_picked": 2.0,
+            "stat_prev_score": -0.1,
+            "stat_score_sum": -0.1,
             "team": "9"
         },
         {
@@ -2815,9 +2815,9 @@
             "position": "for",
             "price": 4,
             "short_name": "M Verlic",
-            "stat_perc_picked": 4.8,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 9.4,
+            "stat_perc_picked": 2.4,
+            "stat_prev_score": -0.7,
+            "stat_score_sum": 9.6,
             "team": "9"
         },
         {
@@ -2830,9 +2830,9 @@
             "position": "for",
             "price": 2,
             "short_name": "N Kinder",
-            "stat_perc_picked": 2.2,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.8,
+            "stat_perc_picked": 2.1,
+            "stat_prev_score": -1.0,
+            "stat_score_sum": 4.6,
             "team": "9"
         },
         {
@@ -2845,9 +2845,9 @@
             "position": "goal",
             "price": 2,
             "short_name": "L Hungerecker",
-            "stat_perc_picked": 2.0,
-            "stat_prev_score": null,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 1.5,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": -1.2,
             "team": "9"
         },
         {
@@ -2860,9 +2860,9 @@
             "position": "goal",
             "price": 4,
             "short_name": "K Gudlevskis",
-            "stat_perc_picked": 17.4,
-            "stat_prev_score": null,
-            "stat_score_sum": 11.2,
+            "stat_perc_picked": 9.5,
+            "stat_prev_score": 0.4,
+            "stat_score_sum": 19.6,
             "team": "9"
         },
         {
@@ -2875,9 +2875,9 @@
             "position": "def",
             "price": 4,
             "short_name": "V Eminger",
-            "stat_perc_picked": 1.0,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 3.2,
+            "stat_perc_picked": 0.7,
+            "stat_prev_score": -1.2,
+            "stat_score_sum": 4.9,
             "team": "9"
         },
         {
@@ -2891,8 +2891,8 @@
             "price": 3,
             "short_name": "M Görtz",
             "stat_perc_picked": 0.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.1,
+            "stat_prev_score": -0.8,
+            "stat_score_sum": 4.2,
             "team": "9"
         },
         {
@@ -2905,9 +2905,9 @@
             "position": "for",
             "price": 3,
             "short_name": "P Tuomie",
-            "stat_perc_picked": 7.4,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.8,
+            "stat_perc_picked": 4.9,
+            "stat_prev_score": -0.8,
+            "stat_score_sum": 2.5,
             "team": "9"
         },
         {
@@ -2920,9 +2920,9 @@
             "position": "for",
             "price": 1,
             "short_name": "R Kechter",
-            "stat_perc_picked": 8.9,
+            "stat_perc_picked": 7.7,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 2.8,
+            "stat_score_sum": 8.9,
             "team": "9"
         },
         {
@@ -2935,7 +2935,7 @@
             "position": "for",
             "price": 2,
             "short_name": "B Roßmy",
-            "stat_perc_picked": 5.8,
+            "stat_perc_picked": 3.5,
             "stat_prev_score": null,
             "stat_score_sum": null,
             "team": "9"
@@ -2950,9 +2950,9 @@
             "position": "def",
             "price": 2,
             "short_name": "M Rausch",
-            "stat_perc_picked": 1.6,
+            "stat_perc_picked": 1.1,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 0.2,
+            "stat_score_sum": 0.9,
             "team": "9"
         },
         {
@@ -2965,9 +2965,9 @@
             "position": "for",
             "price": 2,
             "short_name": "C Wejse",
-            "stat_perc_picked": 19.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 5.8,
+            "stat_perc_picked": 17.8,
+            "stat_prev_score": 0.8,
+            "stat_score_sum": 11.6,
             "team": "9"
         },
         {
@@ -2980,9 +2980,9 @@
             "position": "def",
             "price": 3,
             "short_name": "R Bettahar",
-            "stat_perc_picked": 1.6,
+            "stat_perc_picked": 1.0,
             "stat_prev_score": 0.0,
-            "stat_score_sum": -1.2,
+            "stat_score_sum": 0.9,
             "team": "9"
         },
         {
@@ -2995,9 +2995,9 @@
             "position": "def",
             "price": 4,
             "short_name": "L Byström",
-            "stat_perc_picked": 1.2,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.7,
+            "stat_perc_picked": 0.9,
+            "stat_prev_score": -1.8,
+            "stat_score_sum": 2.5,
             "team": "9"
         },
         {
@@ -3010,9 +3010,9 @@
             "position": "for",
             "price": 2,
             "short_name": "A Miele",
-            "stat_perc_picked": 7.4,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 4.2,
+            "stat_perc_picked": 3.3,
+            "stat_prev_score": -0.9,
+            "stat_score_sum": -2.6,
             "team": "9"
         },
         {
@@ -3025,9 +3025,9 @@
             "position": "for",
             "price": 3,
             "short_name": "C Conrad",
-            "stat_perc_picked": 1.0,
-            "stat_prev_score": null,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 1.1,
+            "stat_prev_score": 0.7,
+            "stat_score_sum": 2.1,
             "team": "9"
         },
         {
@@ -3040,7 +3040,7 @@
             "position": "for",
             "price": 1,
             "short_name": "L Boos",
-            "stat_perc_picked": 2.5,
+            "stat_perc_picked": 1.7,
             "stat_prev_score": 0.0,
             "stat_score_sum": 1.1,
             "team": "9"
@@ -3055,9 +3055,9 @@
             "position": "def",
             "price": 4,
             "short_name": "M Abt",
-            "stat_perc_picked": 1.2,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -9.6,
+            "stat_perc_picked": 0.8,
+            "stat_prev_score": -0.8,
+            "stat_score_sum": -10.5,
             "team": "9"
         },
         {
@@ -3070,8 +3070,8 @@
             "position": "goal",
             "price": 1,
             "short_name": "C Strasen",
-            "stat_perc_picked": 0.3,
-            "stat_prev_score": null,
+            "stat_perc_picked": 0.2,
+            "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "9"
         },
@@ -3085,9 +3085,9 @@
             "position": "def",
             "price": 4,
             "short_name": "A Hirose",
-            "stat_perc_picked": 7.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 5.5,
+            "stat_perc_picked": 5.8,
+            "stat_prev_score": 1.6,
+            "stat_score_sum": 17.2,
             "team": "9"
         },
         {
@@ -3100,9 +3100,9 @@
             "position": "for",
             "price": 3,
             "short_name": "C Smith",
-            "stat_perc_picked": 4.8,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 4.3,
+            "stat_perc_picked": 2.4,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": 1.5,
             "team": "9"
         },
         {
@@ -3117,7 +3117,7 @@
             "short_name": "F Reinwald",
             "stat_perc_picked": 0.4,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_score_sum": 1.0,
             "team": "9"
         },
         {
@@ -3130,9 +3130,9 @@
             "position": "for",
             "price": 3,
             "short_name": "A Broadhurst",
-            "stat_perc_picked": 2.0,
+            "stat_perc_picked": 0.9,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 1.3,
+            "stat_score_sum": -0.4,
             "team": "9"
         },
         {
@@ -3145,9 +3145,9 @@
             "position": "for",
             "price": 4,
             "short_name": "M Kammerer",
-            "stat_perc_picked": 2.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.0,
+            "stat_perc_picked": 2.4,
+            "stat_prev_score": -0.1,
+            "stat_score_sum": 1.1,
             "team": "11"
         },
         {
@@ -3160,7 +3160,7 @@
             "position": "for",
             "price": 4,
             "short_name": "D Bokk",
-            "stat_perc_picked": 5.3,
+            "stat_perc_picked": 4.0,
             "stat_prev_score": null,
             "stat_score_sum": 0.0,
             "team": "11"
@@ -3175,9 +3175,9 @@
             "position": "def",
             "price": 3,
             "short_name": "M Müller",
-            "stat_perc_picked": 13.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -1.1,
+            "stat_perc_picked": 10.9,
+            "stat_prev_score": -0.3,
+            "stat_score_sum": 0.6,
             "team": "11"
         },
         {
@@ -3190,9 +3190,9 @@
             "position": "for",
             "price": 3,
             "short_name": "D Fischbuch",
-            "stat_perc_picked": 28.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 3.1,
+            "stat_perc_picked": 18.2,
+            "stat_prev_score": -0.7,
+            "stat_score_sum": 1.3,
             "team": "11"
         },
         {
@@ -3205,9 +3205,9 @@
             "position": "for",
             "price": 3,
             "short_name": "M Noebels",
-            "stat_perc_picked": 34.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -2.4,
+            "stat_perc_picked": 50.9,
+            "stat_prev_score": 3.1,
+            "stat_score_sum": 18.6,
             "team": "11"
         },
         {
@@ -3220,9 +3220,9 @@
             "position": "goal",
             "price": 2,
             "short_name": "F Brückmann",
-            "stat_perc_picked": 2.3,
-            "stat_prev_score": null,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 2.0,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": 2.0,
             "team": "11"
         },
         {
@@ -3235,9 +3235,9 @@
             "position": "for",
             "price": 4,
             "short_name": "L Aubry",
-            "stat_perc_picked": 3.0,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.0,
+            "stat_perc_picked": 5.2,
+            "stat_prev_score": 6.4,
+            "stat_score_sum": 12.4,
             "team": "11"
         },
         {
@@ -3250,9 +3250,9 @@
             "position": "for",
             "price": 3,
             "short_name": "T Fleischer",
-            "stat_perc_picked": 2.8,
+            "stat_perc_picked": 2.3,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 3.1,
+            "stat_score_sum": 4.8,
             "team": "11"
         },
         {
@@ -3265,9 +3265,9 @@
             "position": "for",
             "price": 3,
             "short_name": "F Storm",
-            "stat_perc_picked": 4.4,
+            "stat_perc_picked": 4.7,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 0.8,
+            "stat_score_sum": 6.9,
             "team": "11"
         },
         {
@@ -3280,9 +3280,9 @@
             "position": "for",
             "price": 2,
             "short_name": "K Niedenz",
-            "stat_perc_picked": 16.0,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 5.5,
+            "stat_perc_picked": 10.3,
+            "stat_prev_score": 0.3,
+            "stat_score_sum": 4.1,
             "team": "11"
         },
         {
@@ -3295,9 +3295,9 @@
             "position": "def",
             "price": 3,
             "short_name": "J Sennhenn",
-            "stat_perc_picked": 7.0,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -1.2,
+            "stat_perc_picked": 6.9,
+            "stat_prev_score": 5.3,
+            "stat_score_sum": 5.5,
             "team": "11"
         },
         {
@@ -3310,9 +3310,9 @@
             "position": "for",
             "price": 5,
             "short_name": "G MacLeod",
-            "stat_perc_picked": 20.0,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.3,
+            "stat_perc_picked": 19.0,
+            "stat_prev_score": 1.6,
+            "stat_score_sum": 13.7,
             "team": "11"
         },
         {
@@ -3325,9 +3325,9 @@
             "position": "def",
             "price": 5,
             "short_name": "B Austin",
-            "stat_perc_picked": 7.2,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.8,
+            "stat_perc_picked": 8.8,
+            "stat_prev_score": -0.9,
+            "stat_score_sum": 15.1,
             "team": "11"
         },
         {
@@ -3340,9 +3340,9 @@
             "position": "for",
             "price": 4,
             "short_name": "R MacInnis",
-            "stat_perc_picked": 1.1,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.4,
+            "stat_perc_picked": 1.4,
+            "stat_prev_score": 1.1,
+            "stat_score_sum": 6.3,
             "team": "11"
         },
         {
@@ -3355,9 +3355,9 @@
             "position": "for",
             "price": 1,
             "short_name": "M Münzenberger",
-            "stat_perc_picked": 4.2,
+            "stat_perc_picked": 3.9,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 0.2,
+            "stat_score_sum": 2.6,
             "team": "11"
         },
         {
@@ -3370,9 +3370,9 @@
             "position": "def",
             "price": 5,
             "short_name": "V Kemiläinen",
-            "stat_perc_picked": 8.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 5.3,
+            "stat_perc_picked": 9.3,
+            "stat_prev_score": 5.0,
+            "stat_score_sum": 14.0,
             "team": "11"
         },
         {
@@ -3385,9 +3385,9 @@
             "position": "for",
             "price": 3,
             "short_name": "J Tyrväinen",
-            "stat_perc_picked": 4.4,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -2.8,
+            "stat_perc_picked": 3.8,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": 0.6,
             "team": "11"
         },
         {
@@ -3400,8 +3400,8 @@
             "position": "for",
             "price": 1,
             "short_name": "M Späth",
-            "stat_perc_picked": 0.8,
-            "stat_prev_score": null,
+            "stat_perc_picked": 0.7,
+            "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "11"
         },
@@ -3415,9 +3415,9 @@
             "position": "def",
             "price": 4,
             "short_name": "V Vittasmäki",
-            "stat_perc_picked": 4.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.9,
+            "stat_perc_picked": 3.9,
+            "stat_prev_score": 3.3,
+            "stat_score_sum": 4.7,
             "team": "11"
         },
         {
@@ -3430,7 +3430,7 @@
             "position": "def",
             "price": 1,
             "short_name": "N Münzenberger",
-            "stat_perc_picked": 2.3,
+            "stat_perc_picked": 2.2,
             "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "11"
@@ -3445,8 +3445,8 @@
             "position": "def",
             "price": 1,
             "short_name": "L Münzenberger",
-            "stat_perc_picked": 3.2,
-            "stat_prev_score": null,
+            "stat_perc_picked": 2.2,
+            "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "11"
         },
@@ -3460,8 +3460,8 @@
             "position": "goal",
             "price": 1,
             "short_name": "A Kaiser",
-            "stat_perc_picked": 0.6,
-            "stat_prev_score": null,
+            "stat_perc_picked": 0.4,
+            "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "11"
         },
@@ -3475,9 +3475,9 @@
             "position": "for",
             "price": 5,
             "short_name": "P Russell",
-            "stat_perc_picked": 14.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.6,
+            "stat_perc_picked": 14.9,
+            "stat_prev_score": 6.0,
+            "stat_score_sum": 15.4,
             "team": "11"
         },
         {
@@ -3490,9 +3490,9 @@
             "position": "goal",
             "price": 5,
             "short_name": "J Juvonen",
-            "stat_perc_picked": 17.4,
-            "stat_prev_score": null,
-            "stat_score_sum": -11.0,
+            "stat_perc_picked": 10.9,
+            "stat_prev_score": 1.2,
+            "stat_score_sum": -12.2,
             "team": "11"
         },
         {
@@ -3505,9 +3505,9 @@
             "position": "for",
             "price": 1,
             "short_name": "T Brandt",
-            "stat_perc_picked": 1.5,
-            "stat_prev_score": null,
-            "stat_score_sum": null,
+            "stat_perc_picked": 1.3,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": 0.0,
             "team": "11"
         },
         {
@@ -3520,9 +3520,9 @@
             "position": "goal",
             "price": 1,
             "short_name": "N Wiens",
-            "stat_perc_picked": 0.4,
-            "stat_prev_score": null,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 1.1,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": 1.0,
             "team": "11"
         },
         {
@@ -3535,9 +3535,9 @@
             "position": "def",
             "price": 1,
             "short_name": "C Händel",
-            "stat_perc_picked": 14.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.6,
+            "stat_perc_picked": 13.3,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": 2.0,
             "team": "11"
         },
         {
@@ -3550,9 +3550,9 @@
             "position": "def",
             "price": 4,
             "short_name": "R Press",
-            "stat_perc_picked": 10.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 5.2,
+            "stat_perc_picked": 9.8,
+            "stat_prev_score": 4.2,
+            "stat_score_sum": 15.7,
             "team": "11"
         },
         {
@@ -3580,9 +3580,9 @@
             "position": "for",
             "price": 3,
             "short_name": "M Ljungh",
-            "stat_perc_picked": 3.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 5.1,
+            "stat_perc_picked": 4.5,
+            "stat_prev_score": 2.3,
+            "stat_score_sum": 11.0,
             "team": "11"
         },
         {
@@ -3595,9 +3595,9 @@
             "position": "def",
             "price": 4,
             "short_name": "F Wagner",
-            "stat_perc_picked": 2.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 2.5,
+            "stat_prev_score": 1.0,
+            "stat_score_sum": 1.0,
             "team": "12"
         },
         {
@@ -3610,9 +3610,9 @@
             "position": "for",
             "price": 4,
             "short_name": "Y Ehliz",
-            "stat_perc_picked": 4.0,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 3.7,
+            "stat_perc_picked": 3.1,
+            "stat_prev_score": 4.1,
+            "stat_score_sum": 11.7,
             "team": "12"
         },
         {
@@ -3625,9 +3625,9 @@
             "position": "goal",
             "price": 3,
             "short_name": "M Niederberger",
-            "stat_perc_picked": 8.2,
-            "stat_prev_score": null,
-            "stat_score_sum": 4.0,
+            "stat_perc_picked": 9.2,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": 17.2,
             "team": "12"
         },
         {
@@ -3640,9 +3640,9 @@
             "position": "for",
             "price": 4,
             "short_name": "P Hager",
-            "stat_perc_picked": 1.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 1.5,
+            "stat_prev_score": 2.9,
+            "stat_score_sum": 2.5,
             "team": "12"
         },
         {
@@ -3655,9 +3655,9 @@
             "position": "for",
             "price": 4,
             "short_name": "D Kahun",
-            "stat_perc_picked": 42.2,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 8.6,
+            "stat_perc_picked": 28.9,
+            "stat_prev_score": 5.3,
+            "stat_score_sum": 13.8,
             "team": "12"
         },
         {
@@ -3670,9 +3670,9 @@
             "position": "def",
             "price": 2,
             "short_name": "M Kastner",
-            "stat_perc_picked": 21.2,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.9,
+            "stat_perc_picked": 13.4,
+            "stat_prev_score": -0.9,
+            "stat_score_sum": 1.6,
             "team": "12"
         },
         {
@@ -3685,9 +3685,9 @@
             "position": "def",
             "price": 2,
             "short_name": "M Daubner",
-            "stat_perc_picked": 3.7,
+            "stat_perc_picked": 4.0,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 0.1,
+            "stat_score_sum": 1.4,
             "team": "12"
         },
         {
@@ -3700,9 +3700,9 @@
             "position": "for",
             "price": 4,
             "short_name": "M Eisenschmid",
-            "stat_perc_picked": 1.3,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.4,
+            "stat_perc_picked": 1.2,
+            "stat_prev_score": 0.7,
+            "stat_score_sum": 6.5,
             "team": "12"
         },
         {
@@ -3715,7 +3715,7 @@
             "position": "for",
             "price": 4,
             "short_name": "C DeSousa",
-            "stat_perc_picked": 3.9,
+            "stat_perc_picked": 3.1,
             "stat_prev_score": 0.0,
             "stat_score_sum": 3.3,
             "team": "12"
@@ -3730,9 +3730,9 @@
             "position": "for",
             "price": 3,
             "short_name": "V Oswald",
-            "stat_perc_picked": 13.3,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 3.4,
+            "stat_perc_picked": 7.0,
+            "stat_prev_score": -0.9,
+            "stat_score_sum": 0.5,
             "team": "12"
         },
         {
@@ -3745,7 +3745,7 @@
             "position": "for",
             "price": 1,
             "short_name": "P Krening",
-            "stat_perc_picked": 2.4,
+            "stat_perc_picked": 1.9,
             "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "12"
@@ -3760,9 +3760,9 @@
             "position": "for",
             "price": 4,
             "short_name": "E Hede",
-            "stat_perc_picked": 1.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.6,
+            "stat_perc_picked": 1.3,
+            "stat_prev_score": -0.9,
+            "stat_score_sum": 1.1,
             "team": "12"
         },
         {
@@ -3775,7 +3775,7 @@
             "position": "def",
             "price": 1,
             "short_name": "R Kaiser",
-            "stat_perc_picked": 2.5,
+            "stat_perc_picked": 2.2,
             "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "12"
@@ -3790,8 +3790,8 @@
             "position": "goal",
             "price": 1,
             "short_name": "M Bittner",
-            "stat_perc_picked": 0.6,
-            "stat_prev_score": null,
+            "stat_perc_picked": 0.5,
+            "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "12"
         },
@@ -3805,9 +3805,9 @@
             "position": "for",
             "price": 4,
             "short_name": "T Rieder",
-            "stat_perc_picked": 3.4,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.4,
+            "stat_perc_picked": 7.1,
+            "stat_prev_score": 1.1,
+            "stat_score_sum": 17.0,
             "team": "12"
         },
         {
@@ -3820,9 +3820,9 @@
             "position": "def",
             "price": 1,
             "short_name": "M Warnecke",
-            "stat_perc_picked": 14.6,
+            "stat_perc_picked": 20.1,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 4.2,
+            "stat_score_sum": 7.5,
             "team": "12"
         },
         {
@@ -3835,9 +3835,9 @@
             "position": "for",
             "price": 5,
             "short_name": "T Hirose",
-            "stat_perc_picked": 3.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.1,
+            "stat_perc_picked": 4.0,
+            "stat_prev_score": 3.2,
+            "stat_score_sum": 13.3,
             "team": "12"
         },
         {
@@ -3850,9 +3850,9 @@
             "position": "for",
             "price": 4,
             "short_name": "J McKenna",
-            "stat_perc_picked": 2.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.5,
+            "stat_perc_picked": 2.1,
+            "stat_prev_score": 2.4,
+            "stat_score_sum": 3.4,
             "team": "12"
         },
         {
@@ -3865,9 +3865,9 @@
             "position": "for",
             "price": 3,
             "short_name": "B Ferguson",
-            "stat_perc_picked": 1.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.2,
+            "stat_perc_picked": 2.2,
+            "stat_prev_score": -0.9,
+            "stat_score_sum": 4.2,
             "team": "12"
         },
         {
@@ -3880,9 +3880,9 @@
             "position": "def",
             "price": 5,
             "short_name": "R Murphy",
-            "stat_perc_picked": 3.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 6.1,
+            "stat_perc_picked": 3.6,
+            "stat_prev_score": -0.2,
+            "stat_score_sum": 16.3,
             "team": "12"
         },
         {
@@ -3895,9 +3895,9 @@
             "position": "def",
             "price": 5,
             "short_name": "V Pokka",
-            "stat_perc_picked": 1.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.5,
+            "stat_perc_picked": 1.1,
+            "stat_prev_score": 1.3,
+            "stat_score_sum": 4.1,
             "team": "12"
         },
         {
@@ -3910,9 +3910,9 @@
             "position": "goal",
             "price": 5,
             "short_name": "A Bibeau",
-            "stat_perc_picked": 2.4,
-            "stat_prev_score": null,
-            "stat_score_sum": -2.4,
+            "stat_perc_picked": 1.9,
+            "stat_prev_score": 2.4,
+            "stat_score_sum": -2.2,
             "team": "12"
         },
         {
@@ -3925,9 +3925,9 @@
             "position": "for",
             "price": 1,
             "short_name": "L Becker",
-            "stat_perc_picked": 0.8,
+            "stat_perc_picked": 0.7,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_score_sum": -2.8,
             "team": "12"
         },
         {
@@ -3940,8 +3940,8 @@
             "position": "goal",
             "price": 1,
             "short_name": "M Bolle",
-            "stat_perc_picked": 0.2,
-            "stat_prev_score": null,
+            "stat_perc_picked": 0.1,
+            "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "12"
         },
@@ -3955,9 +3955,9 @@
             "position": "def",
             "price": 3,
             "short_name": "L Klok",
-            "stat_perc_picked": 3.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.1,
+            "stat_perc_picked": 2.7,
+            "stat_prev_score": 0.7,
+            "stat_score_sum": 4.1,
             "team": "12"
         },
         {
@@ -3970,9 +3970,9 @@
             "position": "def",
             "price": 3,
             "short_name": "T Carrick",
-            "stat_perc_picked": 4.0,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.7,
+            "stat_perc_picked": 3.7,
+            "stat_prev_score": -2.5,
+            "stat_score_sum": 5.6,
             "team": "12"
         },
         {
@@ -3985,9 +3985,9 @@
             "position": "for",
             "price": 2,
             "short_name": "L Thaler",
-            "stat_perc_picked": 2.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.0,
+            "stat_perc_picked": 5.8,
+            "stat_prev_score": 2.2,
+            "stat_score_sum": 12.9,
             "team": "12"
         },
         {
@@ -4000,9 +4000,9 @@
             "position": "for",
             "price": 1,
             "short_name": "T Parkes",
-            "stat_perc_picked": 19.4,
+            "stat_perc_picked": 16.7,
             "stat_prev_score": 0.1,
-            "stat_score_sum": 4.3,
+            "stat_score_sum": 7.2,
             "team": "13"
         },
         {
@@ -4015,9 +4015,9 @@
             "position": "def",
             "price": 4,
             "short_name": "R Button",
-            "stat_perc_picked": 2.1,
-            "stat_prev_score": 2.8,
-            "stat_score_sum": 5.6,
+            "stat_perc_picked": 1.5,
+            "stat_prev_score": 1.4,
+            "stat_score_sum": 7.0,
             "team": "13"
         },
         {
@@ -4030,9 +4030,9 @@
             "position": "goal",
             "price": 1,
             "short_name": "T Ancicka",
-            "stat_perc_picked": 6.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -1.8,
+            "stat_perc_picked": 9.4,
+            "stat_prev_score": 9.2,
+            "stat_score_sum": 25.2,
             "team": "13"
         },
         {
@@ -4045,9 +4045,9 @@
             "position": "for",
             "price": 2,
             "short_name": "T Wohlgemuth",
-            "stat_perc_picked": 5.8,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.5,
+            "stat_perc_picked": 6.6,
+            "stat_prev_score": -2.0,
+            "stat_score_sum": 8.6,
             "team": "13"
         },
         {
@@ -4060,9 +4060,9 @@
             "position": "def",
             "price": 1,
             "short_name": "M Glötzl",
-            "stat_perc_picked": 2.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 5.0,
+            "stat_prev_score": 1.4,
+            "stat_score_sum": 4.9,
             "team": "13"
         },
         {
@@ -4076,8 +4076,8 @@
             "price": 5,
             "short_name": "A Blank",
             "stat_perc_picked": 6.6,
-            "stat_prev_score": 1.1,
-            "stat_score_sum": 2.8,
+            "stat_prev_score": 1.2,
+            "stat_score_sum": 16.8,
             "team": "13"
         },
         {
@@ -4090,9 +4090,9 @@
             "position": "for",
             "price": 2,
             "short_name": "E Henriquez Morales",
-            "stat_perc_picked": 5.5,
-            "stat_prev_score": 1.1,
-            "stat_score_sum": 4.1,
+            "stat_perc_picked": 3.8,
+            "stat_prev_score": 1.7,
+            "stat_score_sum": 7.5,
             "team": "13"
         },
         {
@@ -4105,9 +4105,9 @@
             "position": "for",
             "price": 1,
             "short_name": "M Elias",
-            "stat_perc_picked": 4.4,
-            "stat_prev_score": -1.0,
-            "stat_score_sum": 0.9,
+            "stat_perc_picked": 2.6,
+            "stat_prev_score": -0.7,
+            "stat_score_sum": -2.6,
             "team": "13"
         },
         {
@@ -4120,9 +4120,9 @@
             "position": "def",
             "price": 2,
             "short_name": "F Pilu",
-            "stat_perc_picked": 2.9,
-            "stat_prev_score": 2.2,
-            "stat_score_sum": 3.1,
+            "stat_perc_picked": 2.6,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": 4.7,
             "team": "13"
         },
         {
@@ -4135,9 +4135,9 @@
             "position": "def",
             "price": 3,
             "short_name": "A McCrea",
-            "stat_perc_picked": 3.9,
-            "stat_prev_score": 4.5,
-            "stat_score_sum": 9.9,
+            "stat_perc_picked": 4.3,
+            "stat_prev_score": -0.3,
+            "stat_score_sum": 16.6,
             "team": "13"
         },
         {
@@ -4150,9 +4150,9 @@
             "position": "for",
             "price": 1,
             "short_name": "P Krauß",
-            "stat_perc_picked": 9.9,
-            "stat_prev_score": 0.7,
-            "stat_score_sum": 3.5,
+            "stat_perc_picked": 9.8,
+            "stat_prev_score": 1.2,
+            "stat_score_sum": 7.5,
             "team": "13"
         },
         {
@@ -4165,9 +4165,9 @@
             "position": "for",
             "price": 1,
             "short_name": "C Hanke",
-            "stat_perc_picked": 1.9,
-            "stat_prev_score": -0.2,
-            "stat_score_sum": 0.9,
+            "stat_perc_picked": 1.4,
+            "stat_prev_score": 1.0,
+            "stat_score_sum": 1.5,
             "team": "13"
         },
         {
@@ -4180,9 +4180,9 @@
             "position": "for",
             "price": 2,
             "short_name": "F Scheel",
-            "stat_perc_picked": 1.2,
-            "stat_prev_score": -1.0,
-            "stat_score_sum": 0.4,
+            "stat_perc_picked": 1.1,
+            "stat_prev_score": 2.0,
+            "stat_score_sum": 6.2,
             "team": "13"
         },
         {
@@ -4210,9 +4210,9 @@
             "position": "for",
             "price": 4,
             "short_name": "D Busdeker",
-            "stat_perc_picked": 3.6,
-            "stat_prev_score": 2.2,
-            "stat_score_sum": 3.9,
+            "stat_perc_picked": 10.0,
+            "stat_prev_score": 1.7,
+            "stat_score_sum": 25.4,
             "team": "13"
         },
         {
@@ -4225,9 +4225,9 @@
             "position": "for",
             "price": 3,
             "short_name": "J Lambert",
-            "stat_perc_picked": 3.8,
-            "stat_prev_score": 0.1,
-            "stat_score_sum": 4.1,
+            "stat_perc_picked": 2.2,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": 9.0,
             "team": "13"
         },
         {
@@ -4240,9 +4240,9 @@
             "position": "for",
             "price": 1,
             "short_name": "S Zwickl",
-            "stat_perc_picked": 0.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 0.8,
+            "stat_prev_score": 4.1,
+            "stat_score_sum": 4.2,
             "team": "13"
         },
         {
@@ -4255,9 +4255,9 @@
             "position": "goal",
             "price": 1,
             "short_name": "P Jones",
-            "stat_perc_picked": 4.9,
-            "stat_prev_score": 2.8,
-            "stat_score_sum": 5.0,
+            "stat_perc_picked": 1.2,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": -3.4,
             "team": "13"
         },
         {
@@ -4270,9 +4270,9 @@
             "position": "def",
             "price": 4,
             "short_name": "K Mayhew",
-            "stat_perc_picked": 3.4,
-            "stat_prev_score": 5.0,
-            "stat_score_sum": 10.8,
+            "stat_perc_picked": 10.9,
+            "stat_prev_score": 2.7,
+            "stat_score_sum": 26.4,
             "team": "13"
         },
         {
@@ -4300,9 +4300,9 @@
             "position": "def",
             "price": 4,
             "short_name": "K Wood",
-            "stat_perc_picked": 1.1,
-            "stat_prev_score": -0.7,
-            "stat_score_sum": 2.4,
+            "stat_perc_picked": 1.2,
+            "stat_prev_score": 1.1,
+            "stat_score_sum": 16.2,
             "team": "13"
         },
         {
@@ -4330,9 +4330,9 @@
             "position": "def",
             "price": 2,
             "short_name": "N Hoefenmayer",
-            "stat_perc_picked": 4.9,
-            "stat_prev_score": 1.4,
-            "stat_score_sum": 4.6,
+            "stat_perc_picked": 3.9,
+            "stat_prev_score": -1.3,
+            "stat_score_sum": 10.5,
             "team": "13"
         },
         {
@@ -4345,9 +4345,9 @@
             "position": "for",
             "price": 3,
             "short_name": "C Wright",
-            "stat_perc_picked": 0.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 1.4,
+            "stat_prev_score": -1.5,
+            "stat_score_sum": 4.8,
             "team": "13"
         },
         {
@@ -4360,9 +4360,9 @@
             "position": "for",
             "price": 2,
             "short_name": "S Malone",
-            "stat_perc_picked": 1.9,
-            "stat_prev_score": 2.5,
-            "stat_score_sum": 3.8,
+            "stat_perc_picked": 1.0,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": 5.0,
             "team": "13"
         },
         {
@@ -4375,9 +4375,9 @@
             "position": "for",
             "price": 2,
             "short_name": "L Toporowski",
-            "stat_perc_picked": 1.9,
-            "stat_prev_score": 0.5,
-            "stat_score_sum": 2.9,
+            "stat_perc_picked": 1.6,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": 8.8,
             "team": "13"
         },
         {
@@ -4390,9 +4390,9 @@
             "position": "def",
             "price": 3,
             "short_name": "C Braun",
-            "stat_perc_picked": 4.3,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.8,
+            "stat_perc_picked": 3.6,
+            "stat_prev_score": -2.0,
+            "stat_score_sum": 1.5,
             "team": "14"
         },
         {
@@ -4405,9 +4405,9 @@
             "position": "def",
             "price": 3,
             "short_name": "M Weber",
-            "stat_perc_picked": 4.3,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.5,
+            "stat_perc_picked": 5.4,
+            "stat_prev_score": 5.8,
+            "stat_score_sum": 9.8,
             "team": "14"
         },
         {
@@ -4420,9 +4420,9 @@
             "position": "goal",
             "price": 2,
             "short_name": "N Treutle",
-            "stat_perc_picked": 15.1,
-            "stat_prev_score": null,
-            "stat_score_sum": 12.2,
+            "stat_perc_picked": 18.6,
+            "stat_prev_score": 0.6,
+            "stat_score_sum": 29.6,
             "team": "14"
         },
         {
@@ -4435,9 +4435,9 @@
             "position": "def",
             "price": 2,
             "short_name": "R Jones",
-            "stat_perc_picked": 2.1,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.9,
+            "stat_perc_picked": 2.8,
+            "stat_prev_score": -0.6,
+            "stat_score_sum": 5.8,
             "team": "14"
         },
         {
@@ -4450,9 +4450,9 @@
             "position": "for",
             "price": 2,
             "short_name": "J Ustorf",
-            "stat_perc_picked": 1.5,
+            "stat_perc_picked": 1.8,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_score_sum": 5.1,
             "team": "14"
         },
         {
@@ -4465,9 +4465,9 @@
             "position": "def",
             "price": 5,
             "short_name": "J Karrer",
-            "stat_perc_picked": 3.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 4.2,
+            "stat_perc_picked": 3.0,
+            "stat_prev_score": 1.9,
+            "stat_score_sum": 6.0,
             "team": "14"
         },
         {
@@ -4480,9 +4480,9 @@
             "position": "for",
             "price": 4,
             "short_name": "T Heigl",
-            "stat_perc_picked": 7.8,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 9.7,
+            "stat_perc_picked": 7.0,
+            "stat_prev_score": 1.1,
+            "stat_score_sum": 17.8,
             "team": "14"
         },
         {
@@ -4495,9 +4495,9 @@
             "position": "for",
             "price": 1,
             "short_name": "J Eham",
-            "stat_perc_picked": 1.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -2.0,
+            "stat_perc_picked": 1.5,
+            "stat_prev_score": -0.9,
+            "stat_score_sum": -1.0,
             "team": "14"
         },
         {
@@ -4511,8 +4511,8 @@
             "price": 1,
             "short_name": "M Merkl",
             "stat_perc_picked": 0.8,
-            "stat_prev_score": null,
-            "stat_score_sum": null,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": 0.0,
             "team": "14"
         },
         {
@@ -4525,9 +4525,9 @@
             "position": "for",
             "price": 5,
             "short_name": "E Barratt",
-            "stat_perc_picked": 13.3,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 6.8,
+            "stat_perc_picked": 11.2,
+            "stat_prev_score": -0.1,
+            "stat_score_sum": 15.9,
             "team": "14"
         },
         {
@@ -4540,9 +4540,9 @@
             "position": "for",
             "price": 1,
             "short_name": "N Heigl",
-            "stat_perc_picked": 9.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 3.1,
+            "stat_perc_picked": 6.6,
+            "stat_prev_score": -0.3,
+            "stat_score_sum": 2.4,
             "team": "14"
         },
         {
@@ -4555,7 +4555,7 @@
             "position": "def",
             "price": 2,
             "short_name": "J Weber",
-            "stat_perc_picked": 13.5,
+            "stat_perc_picked": 7.7,
             "stat_prev_score": 0.0,
             "stat_score_sum": 8.0,
             "team": "14"
@@ -4570,9 +4570,9 @@
             "position": "for",
             "price": 5,
             "short_name": "S Dove-McFalls",
-            "stat_perc_picked": 9.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 6.1,
+            "stat_perc_picked": 7.3,
+            "stat_prev_score": 2.3,
+            "stat_score_sum": 14.5,
             "team": "14"
         },
         {
@@ -4585,9 +4585,9 @@
             "position": "def",
             "price": 5,
             "short_name": "O Headrick",
-            "stat_perc_picked": 4.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 3.6,
+            "stat_perc_picked": 4.4,
+            "stat_prev_score": 3.4,
+            "stat_score_sum": 14.2,
             "team": "14"
         },
         {
@@ -4600,9 +4600,9 @@
             "position": "def",
             "price": 1,
             "short_name": "C Jandric",
-            "stat_perc_picked": 9.9,
+            "stat_perc_picked": 4.9,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 3.7,
+            "stat_score_sum": 4.0,
             "team": "14"
         },
         {
@@ -4615,9 +4615,9 @@
             "position": "for",
             "price": 1,
             "short_name": "T Bakos",
-            "stat_perc_picked": 0.9,
+            "stat_perc_picked": 0.7,
             "stat_prev_score": 0.0,
-            "stat_score_sum": -0.9,
+            "stat_score_sum": -0.8,
             "team": "14"
         },
         {
@@ -4630,9 +4630,9 @@
             "position": "for",
             "price": 2,
             "short_name": "G Meireles",
-            "stat_perc_picked": 2.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 3.8,
+            "stat_perc_picked": 3.8,
+            "stat_prev_score": -0.9,
+            "stat_score_sum": 9.4,
             "team": "14"
         },
         {
@@ -4645,9 +4645,9 @@
             "position": "for",
             "price": 3,
             "short_name": "T Spezia",
-            "stat_perc_picked": 5.1,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 4.4,
+            "stat_perc_picked": 3.2,
+            "stat_prev_score": -0.3,
+            "stat_score_sum": 8.1,
             "team": "14"
         },
         {
@@ -4660,9 +4660,9 @@
             "position": "for",
             "price": 1,
             "short_name": "N Samanski",
-            "stat_perc_picked": 16.0,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.0,
+            "stat_perc_picked": 16.1,
+            "stat_prev_score": 0.7,
+            "stat_score_sum": 5.5,
             "team": "14"
         },
         {
@@ -4675,9 +4675,9 @@
             "position": "for",
             "price": 2,
             "short_name": "W Dufour",
-            "stat_perc_picked": 0.5,
-            "stat_prev_score": null,
-            "stat_score_sum": null,
+            "stat_perc_picked": 1.4,
+            "stat_prev_score": -2.8,
+            "stat_score_sum": -3.3,
             "team": "14"
         },
         {
@@ -4690,8 +4690,8 @@
             "position": "goal",
             "price": 2,
             "short_name": "L Janett",
-            "stat_perc_picked": 0.9,
-            "stat_prev_score": null,
+            "stat_perc_picked": 0.8,
+            "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "14"
         },
@@ -4705,9 +4705,9 @@
             "position": "for",
             "price": 2,
             "short_name": "A Magera",
-            "stat_perc_picked": 9.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 4.6,
+            "stat_perc_picked": 12.8,
+            "stat_prev_score": -3.0,
+            "stat_score_sum": 10.6,
             "team": "14"
         },
         {
@@ -4720,9 +4720,9 @@
             "position": "for",
             "price": 2,
             "short_name": "J Cates",
-            "stat_perc_picked": 2.0,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 3.1,
+            "stat_perc_picked": 2.3,
+            "stat_prev_score": 1.1,
+            "stat_score_sum": 10.7,
             "team": "14"
         },
         {
@@ -4735,9 +4735,9 @@
             "position": "for",
             "price": 2,
             "short_name": "M Höfflin",
-            "stat_perc_picked": 2.0,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 3.0,
+            "stat_perc_picked": 4.7,
+            "stat_prev_score": 3.2,
+            "stat_score_sum": 15.6,
             "team": "15"
         },
         {
@@ -4750,9 +4750,9 @@
             "position": "def",
             "price": 3,
             "short_name": "A Trivellato",
-            "stat_perc_picked": 2.6,
+            "stat_perc_picked": 2.0,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 0.2,
+            "stat_score_sum": 0.7,
             "team": "15"
         },
         {
@@ -4765,9 +4765,9 @@
             "position": "def",
             "price": 2,
             "short_name": "D Bittner",
-            "stat_perc_picked": 3.1,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 3.0,
+            "stat_prev_score": 1.6,
+            "stat_score_sum": 4.8,
             "team": "15"
         },
         {
@@ -4780,9 +4780,9 @@
             "position": "for",
             "price": 3,
             "short_name": "A Karachun",
-            "stat_perc_picked": 7.6,
-            "stat_prev_score": null,
-            "stat_score_sum": null,
+            "stat_perc_picked": 6.0,
+            "stat_prev_score": 2.2,
+            "stat_score_sum": 3.7,
             "team": "15"
         },
         {
@@ -4795,9 +4795,9 @@
             "position": "for",
             "price": 1,
             "short_name": "S Uvira",
-            "stat_perc_picked": 7.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -1.7,
+            "stat_perc_picked": 6.3,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": -0.7,
             "team": "15"
         },
         {
@@ -4810,7 +4810,7 @@
             "position": "for",
             "price": 3,
             "short_name": "P Hungerecker",
-            "stat_perc_picked": 1.2,
+            "stat_perc_picked": 1.0,
             "stat_prev_score": null,
             "stat_score_sum": null,
             "team": "15"
@@ -4825,9 +4825,9 @@
             "position": "def",
             "price": 2,
             "short_name": "W Weber",
-            "stat_perc_picked": 2.1,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.3,
+            "stat_perc_picked": 1.8,
+            "stat_prev_score": 1.2,
+            "stat_score_sum": 2.8,
             "team": "15"
         },
         {
@@ -4840,9 +4840,9 @@
             "position": "for",
             "price": 2,
             "short_name": "B Bassen",
-            "stat_perc_picked": 1.6,
+            "stat_perc_picked": 1.3,
             "stat_prev_score": 0.0,
-            "stat_score_sum": -2.6,
+            "stat_score_sum": -1.1,
             "team": "15"
         },
         {
@@ -4855,9 +4855,9 @@
             "position": "for",
             "price": 2,
             "short_name": "A Ortega",
-            "stat_perc_picked": 10.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -1.3,
+            "stat_perc_picked": 8.4,
+            "stat_prev_score": 0.7,
+            "stat_score_sum": 4.4,
             "team": "15"
         },
         {
@@ -4870,9 +4870,9 @@
             "position": "goal",
             "price": 4,
             "short_name": "J Eriksson",
-            "stat_perc_picked": 2.5,
-            "stat_prev_score": null,
-            "stat_score_sum": -8.0,
+            "stat_perc_picked": 2.0,
+            "stat_prev_score": -3.2,
+            "stat_score_sum": -12.0,
             "team": "15"
         },
         {
@@ -4886,8 +4886,8 @@
             "price": 4,
             "short_name": "E Cornel",
             "stat_perc_picked": 0.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.8,
+            "stat_prev_score": -0.2,
+            "stat_score_sum": 8.8,
             "team": "15"
         },
         {
@@ -4900,9 +4900,9 @@
             "position": "for",
             "price": 1,
             "short_name": "H Hänelt",
-            "stat_perc_picked": 2.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -2.7,
+            "stat_perc_picked": 2.2,
+            "stat_prev_score": 1.0,
+            "stat_score_sum": 0.7,
             "team": "15"
         },
         {
@@ -4915,9 +4915,9 @@
             "position": "def",
             "price": 3,
             "short_name": "A Dziambor",
-            "stat_perc_picked": 2.1,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.8,
+            "stat_perc_picked": 1.5,
+            "stat_prev_score": -9.4,
+            "stat_score_sum": -7.9,
             "team": "15"
         },
         {
@@ -4930,9 +4930,9 @@
             "position": "for",
             "price": 1,
             "short_name": "P Feist",
-            "stat_perc_picked": 3.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 3.5,
+            "stat_perc_picked": 5.1,
+            "stat_prev_score": 2.2,
+            "stat_score_sum": 9.2,
             "team": "15"
         },
         {
@@ -4945,9 +4945,9 @@
             "position": "def",
             "price": 1,
             "short_name": "N Hübner",
-            "stat_perc_picked": 1.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.2,
+            "stat_perc_picked": 1.6,
+            "stat_prev_score": -1.0,
+            "stat_score_sum": 0.6,
             "team": "15"
         },
         {
@@ -4960,9 +4960,9 @@
             "position": "for",
             "price": 3,
             "short_name": "K Platzer",
-            "stat_perc_picked": 1.8,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.7,
+            "stat_perc_picked": 1.4,
+            "stat_prev_score": 0.8,
+            "stat_score_sum": 5.6,
             "team": "15"
         },
         {
@@ -4976,8 +4976,8 @@
             "price": 4,
             "short_name": "T Schemitsch",
             "stat_perc_picked": 1.1,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.6,
+            "stat_prev_score": 2.4,
+            "stat_score_sum": 8.3,
             "team": "15"
         },
         {
@@ -4990,9 +4990,9 @@
             "position": "def",
             "price": 2,
             "short_name": "B Wilde",
-            "stat_perc_picked": 1.4,
+            "stat_perc_picked": 1.2,
             "stat_prev_score": 0.0,
-            "stat_score_sum": -0.4,
+            "stat_score_sum": 2.1,
             "team": "15"
         },
         {
@@ -5005,9 +5005,9 @@
             "position": "for",
             "price": 1,
             "short_name": "V Schreiner",
-            "stat_perc_picked": 2.3,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.8,
+            "stat_perc_picked": 1.8,
+            "stat_prev_score": -0.9,
+            "stat_score_sum": 0.6,
             "team": "15"
         },
         {
@@ -5020,9 +5020,9 @@
             "position": "goal",
             "price": 1,
             "short_name": "S Wolf",
-            "stat_perc_picked": 1.8,
-            "stat_prev_score": null,
-            "stat_score_sum": -6.2,
+            "stat_perc_picked": 1.5,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": -13.2,
             "team": "15"
         },
         {
@@ -5035,7 +5035,7 @@
             "position": "def",
             "price": 1,
             "short_name": "N Hempel",
-            "stat_perc_picked": 0.6,
+            "stat_perc_picked": 0.4,
             "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "15"
@@ -5050,9 +5050,9 @@
             "position": "def",
             "price": 4,
             "short_name": "E Martinsson",
-            "stat_perc_picked": 1.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.8,
+            "stat_perc_picked": 1.6,
+            "stat_prev_score": 1.7,
+            "stat_score_sum": 4.6,
             "team": "15"
         },
         {
@@ -5066,7 +5066,7 @@
             "price": 1,
             "short_name": "G Bäuml",
             "stat_perc_picked": 0.1,
-            "stat_prev_score": null,
+            "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "15"
         },
@@ -5080,9 +5080,9 @@
             "position": "def",
             "price": 2,
             "short_name": "A Peters",
-            "stat_perc_picked": 0.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -6.7,
+            "stat_perc_picked": 0.8,
+            "stat_prev_score": 0.1,
+            "stat_score_sum": -4.4,
             "team": "15"
         },
         {
@@ -5095,9 +5095,9 @@
             "position": "for",
             "price": 2,
             "short_name": "R Lebster",
-            "stat_perc_picked": 2.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -4.2,
+            "stat_perc_picked": 1.6,
+            "stat_prev_score": 1.1,
+            "stat_score_sum": 0.0,
             "team": "15"
         },
         {
@@ -5110,9 +5110,9 @@
             "position": "for",
             "price": 3,
             "short_name": "C Valk",
-            "stat_perc_picked": 1.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -4.2,
+            "stat_perc_picked": 1.4,
+            "stat_prev_score": 2.3,
+            "stat_score_sum": 3.6,
             "team": "15"
         },
         {
@@ -5125,9 +5125,9 @@
             "position": "def",
             "price": 2,
             "short_name": "B Krupp",
-            "stat_perc_picked": 12.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 6.5,
+            "stat_perc_picked": 8.4,
+            "stat_prev_score": 0.7,
+            "stat_score_sum": 7.6,
             "team": "44"
         },
         {
@@ -5140,9 +5140,9 @@
             "position": "def",
             "price": 3,
             "short_name": "K Abeltshauser",
-            "stat_perc_picked": 12.4,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 5.6,
+            "stat_perc_picked": 8.7,
+            "stat_prev_score": 2.1,
+            "stat_score_sum": 8.9,
             "team": "44"
         },
         {
@@ -5155,8 +5155,8 @@
             "position": "goal",
             "price": 1,
             "short_name": "C Brenner",
-            "stat_perc_picked": 1.5,
-            "stat_prev_score": null,
+            "stat_perc_picked": 1.2,
+            "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "44"
         },
@@ -5170,9 +5170,9 @@
             "position": "for",
             "price": 2,
             "short_name": "D Uher",
-            "stat_perc_picked": 1.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 1.2,
+            "stat_prev_score": -1.9,
+            "stat_score_sum": 0.3,
             "team": "44"
         },
         {
@@ -5185,9 +5185,9 @@
             "position": "for",
             "price": 3,
             "short_name": "D Pfaffengut",
-            "stat_perc_picked": 5.6,
+            "stat_perc_picked": 4.1,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 4.2,
+            "stat_score_sum": 7.3,
             "team": "44"
         },
         {
@@ -5200,9 +5200,9 @@
             "position": "for",
             "price": 2,
             "short_name": "R van Calster",
-            "stat_perc_picked": 1.1,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 2.4,
+            "stat_perc_picked": 0.9,
+            "stat_prev_score": 0.7,
+            "stat_score_sum": 2.0,
             "team": "44"
         },
         {
@@ -5215,9 +5215,9 @@
             "position": "goal",
             "price": 1,
             "short_name": "N Pertuch",
-            "stat_perc_picked": 0.5,
-            "stat_prev_score": null,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 1.4,
+            "stat_prev_score": 0.0,
+            "stat_score_sum": 4.6,
             "team": "44"
         },
         {
@@ -5230,7 +5230,7 @@
             "position": "def",
             "price": 2,
             "short_name": "D Wirt",
-            "stat_perc_picked": 2.2,
+            "stat_perc_picked": 1.5,
             "stat_prev_score": 0.0,
             "stat_score_sum": 2.6,
             "team": "44"
@@ -5246,8 +5246,8 @@
             "price": 1,
             "short_name": "N Dunham",
             "stat_perc_picked": 0.8,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.9,
+            "stat_prev_score": 1.0,
+            "stat_score_sum": 2.5,
             "team": "44"
         },
         {
@@ -5260,9 +5260,9 @@
             "position": "for",
             "price": 3,
             "short_name": "C Brace",
-            "stat_perc_picked": 1.2,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -2.0,
+            "stat_perc_picked": 2.0,
+            "stat_prev_score": 0.2,
+            "stat_score_sum": 8.4,
             "team": "44"
         },
         {
@@ -5275,9 +5275,9 @@
             "position": "def",
             "price": 4,
             "short_name": "M Matushkin",
-            "stat_perc_picked": 2.8,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 5.5,
+            "stat_perc_picked": 3.0,
+            "stat_prev_score": 3.9,
+            "stat_score_sum": 17.6,
             "team": "44"
         },
         {
@@ -5290,9 +5290,9 @@
             "position": "for",
             "price": 1,
             "short_name": "M Schweiger",
-            "stat_perc_picked": 1.4,
+            "stat_perc_picked": 1.6,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 0.7,
+            "stat_score_sum": 2.5,
             "team": "44"
         },
         {
@@ -5305,9 +5305,9 @@
             "position": "def",
             "price": 1,
             "short_name": "P Bidoul",
-            "stat_perc_picked": 1.2,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_perc_picked": 1.3,
+            "stat_prev_score": -1.0,
+            "stat_score_sum": -1.0,
             "team": "44"
         },
         {
@@ -5321,8 +5321,8 @@
             "price": 3,
             "short_name": "L Fröberg",
             "stat_perc_picked": 1.8,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 3.3,
+            "stat_prev_score": 4.5,
+            "stat_score_sum": 10.9,
             "team": "44"
         },
         {
@@ -5335,9 +5335,9 @@
             "position": "for",
             "price": 1,
             "short_name": "M Leden",
-            "stat_perc_picked": 0.8,
+            "stat_perc_picked": 0.6,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_score_sum": 0.1,
             "team": "44"
         },
         {
@@ -5350,9 +5350,9 @@
             "position": "for",
             "price": 2,
             "short_name": "E Uba",
-            "stat_perc_picked": 14.9,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 12.5,
+            "stat_perc_picked": 6.0,
+            "stat_prev_score": -0.6,
+            "stat_score_sum": 7.2,
             "team": "44"
         },
         {
@@ -5365,9 +5365,9 @@
             "position": "for",
             "price": 1,
             "short_name": "T Kose",
-            "stat_perc_picked": 2.0,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.9,
+            "stat_perc_picked": 6.6,
+            "stat_prev_score": 2.1,
+            "stat_score_sum": 8.4,
             "team": "44"
         },
         {
@@ -5380,9 +5380,9 @@
             "position": "def",
             "price": 2,
             "short_name": "F Kose",
-            "stat_perc_picked": 1.5,
+            "stat_perc_picked": 1.7,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 0.0,
+            "stat_score_sum": 1.9,
             "team": "44"
         },
         {
@@ -5396,8 +5396,8 @@
             "price": 3,
             "short_name": "M Joyaux",
             "stat_perc_picked": 0.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.0,
+            "stat_prev_score": 2.0,
+            "stat_score_sum": 1.9,
             "team": "44"
         },
         {
@@ -5410,9 +5410,9 @@
             "position": "for",
             "price": 1,
             "short_name": "M Wedman",
-            "stat_perc_picked": 7.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 10.4,
+            "stat_perc_picked": 2.1,
+            "stat_prev_score": 0.2,
+            "stat_score_sum": 2.6,
             "team": "44"
         },
         {
@@ -5425,9 +5425,9 @@
             "position": "for",
             "price": 1,
             "short_name": "T Glover",
-            "stat_perc_picked": 1.7,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.1,
+            "stat_perc_picked": 1.3,
+            "stat_prev_score": 2.7,
+            "stat_score_sum": -0.1,
             "team": "44"
         },
         {
@@ -5440,9 +5440,9 @@
             "position": "goal",
             "price": 2,
             "short_name": "A Scheel",
-            "stat_perc_picked": 7.6,
-            "stat_prev_score": null,
-            "stat_score_sum": 12.4,
+            "stat_perc_picked": 4.5,
+            "stat_prev_score": 4.8,
+            "stat_score_sum": 17.8,
             "team": "44"
         },
         {
@@ -5455,9 +5455,9 @@
             "position": "for",
             "price": 2,
             "short_name": "A Romano",
-            "stat_perc_picked": 2.2,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 3.7,
+            "stat_perc_picked": 1.5,
+            "stat_prev_score": 0.8,
+            "stat_score_sum": 2.0,
             "team": "44"
         },
         {
@@ -5470,9 +5470,9 @@
             "position": "for",
             "price": 3,
             "short_name": "A Wagner",
-            "stat_perc_picked": 1.0,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 1.0,
+            "stat_perc_picked": 1.2,
+            "stat_prev_score": 3.9,
+            "stat_score_sum": 8.7,
             "team": "44"
         },
         {
@@ -5485,9 +5485,9 @@
             "position": "for",
             "price": 2,
             "short_name": "B Biro",
-            "stat_perc_picked": 3.3,
+            "stat_perc_picked": 1.4,
             "stat_prev_score": 0.0,
-            "stat_score_sum": 4.4,
+            "stat_score_sum": 2.7,
             "team": "44"
         },
         {
@@ -5500,9 +5500,9 @@
             "position": "def",
             "price": 3,
             "short_name": "B Davidson",
-            "stat_perc_picked": 7.6,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 7.0,
+            "stat_perc_picked": 9.1,
+            "stat_prev_score": -1.0,
+            "stat_score_sum": 15.1,
             "team": "3"
         },
         {
@@ -5545,9 +5545,9 @@
             "position": "for",
             "price": 2,
             "short_name": "R Mauermann",
-            "stat_perc_picked": 2.1,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": -0.1,
+            "stat_perc_picked": 3.2,
+            "stat_prev_score": -2.2,
+            "stat_score_sum": 3.4,
             "team": "8"
         },
         {
@@ -5560,9 +5560,9 @@
             "position": "for",
             "price": 2,
             "short_name": "R Mäkitalo",
-            "stat_perc_picked": 1.5,
-            "stat_prev_score": 0.0,
-            "stat_score_sum": 0.1,
+            "stat_perc_picked": 1.4,
+            "stat_prev_score": 0.4,
+            "stat_score_sum": 0.7,
             "team": "5"
         },
         {
@@ -5590,8 +5590,8 @@
             "position": "goal",
             "price": 1,
             "short_name": "M Leister",
-            "stat_perc_picked": 0.2,
-            "stat_prev_score": null,
+            "stat_perc_picked": 0.1,
+            "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "2"
         },
@@ -5605,8 +5605,8 @@
             "position": "goal",
             "price": 1,
             "short_name": "O Erthel",
-            "stat_perc_picked": 0.1,
-            "stat_prev_score": null,
+            "stat_perc_picked": 0.2,
+            "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "8"
         },
@@ -5621,7 +5621,7 @@
             "price": 1,
             "short_name": "J Krautloher",
             "stat_perc_picked": 0.1,
-            "stat_prev_score": null,
+            "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
             "team": "14"
         },
@@ -5650,11 +5650,86 @@
             "position": "for",
             "price": 3,
             "short_name": "J Foudy",
-            "stat_perc_picked": 0.2,
+            "stat_perc_picked": 5.5,
+            "stat_prev_score": 2.8,
+            "stat_score_sum": 10.2,
+            "team": "3"
+        },
+        {
+            "active": true,
+            "country_abbr": "CAN",
+            "german_license": false,
+            "id": "2631",
+            "image_url": "/packs/media/images/athletes/2631-cb98bc87ff270c5ad112f21e08a296c7.png",
+            "name": "Phil Varone",
+            "position": "for",
+            "price": 3,
+            "short_name": "P Varone",
+            "stat_perc_picked": 0.6,
+            "stat_prev_score": -0.7,
+            "stat_score_sum": -0.8,
+            "team": "5"
+        },
+        {
+            "active": false,
+            "country_abbr": "",
+            "german_license": false,
+            "id": "4890",
+            "image_url": "/packs/media/images/athletes/default-0da022fdc47eda10a12e594f4a027d2c.png",
+            "name": "Patrik Mühlberger",
+            "position": "goal",
+            "price": 0,
+            "short_name": "P Mühlberger",
+            "stat_perc_picked": null,
+            "stat_prev_score": null,
+            "stat_score_sum": null,
+            "team": "14"
+        },
+        {
+            "active": true,
+            "country_abbr": "CAN",
+            "german_license": false,
+            "id": "4897",
+            "image_url": "/packs/media/images/athletes/default-0da022fdc47eda10a12e594f4a027d2c.png",
+            "name": "Keean Washkurak",
+            "position": "for",
+            "price": 2,
+            "short_name": "K Washkurak",
+            "stat_perc_picked": 0.1,
+            "stat_prev_score": -2.0,
+            "stat_score_sum": -3.0,
+            "team": "9"
+        },
+        {
+            "active": true,
+            "country_abbr": "GER",
+            "german_license": true,
+            "id": "4898",
+            "image_url": "/packs/media/images/athletes/default-0da022fdc47eda10a12e594f4a027d2c.png",
+            "name": "Alrik Ehlers",
+            "position": "goal",
+            "price": 1,
+            "short_name": "A Ehlers",
+            "stat_perc_picked": null,
             "stat_prev_score": 0.0,
             "stat_score_sum": 0.0,
-            "team": "3"
+            "team": "11"
+        },
+        {
+            "active": true,
+            "country_abbr": "GER",
+            "german_license": true,
+            "id": "486",
+            "image_url": "/packs/media/images/athletes/486-b878fb9efa81d2eee6deccc94639d4c1.png",
+            "name": "Mirko Pantkowski",
+            "position": "goal",
+            "price": 1,
+            "short_name": "M Pantkowski",
+            "stat_perc_picked": 0.0,
+            "stat_prev_score": null,
+            "stat_score_sum": null,
+            "team": "6"
         }
     ],
-    "options_version": "d833d9be"
+    "options_version": "aa47a911"
 }
