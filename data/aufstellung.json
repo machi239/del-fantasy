@@ -1,7 +1,7 @@
 {
  "spieltag": 9,
  "deadline": "Thu 15.10.2026 19:30",
- "erstellt": "15.10.2026 18:18",
+ "erstellt": "15.10.2026 18:49",
  "budget": 60,
  "pucks": 60,
  "auslaender": 9,
@@ -12,10 +12,10 @@
    "datum": "2026-10-15",
    "uhrzeit": "19:30",
    "quelle": "Quoten",
-   "xg_heim": 3.27,
-   "xg_gast": 2.48,
-   "p_heim_60": 0.545,
-   "p_gast_60": 0.293
+   "xg_heim": 3.28,
+   "xg_gast": 2.52,
+   "p_heim_60": 0.541,
+   "p_gast_60": 0.297
   },
   {
    "spiel": "Augsburger Panther - Adler Mannheim",
@@ -72,10 +72,10 @@
    "datum": "2026-10-16",
    "uhrzeit": "19:30",
    "quelle": "Quoten",
-   "xg_heim": 3.02,
-   "xg_gast": 3.12,
-   "p_heim_60": 0.401,
-   "p_gast_60": 0.434
+   "xg_heim": 3.06,
+   "xg_gast": 3.08,
+   "p_heim_60": 0.416,
+   "p_gast_60": 0.42
   }
  ],
  "aufstellung": [
@@ -172,7 +172,7 @@
    "dt_pass": false,
    "gewaehlt_pct": 33.6,
    "spiele": 8,
-   "xp": 2.11,
+   "xp": 2.13,
    "gegner_id": 8,
    "heim": false,
    "hinweis": "",
@@ -182,7 +182,7 @@
    "p_einsatz": 1.0,
    "team": "Krefeld Pinguine",
    "gegner": "Grizzlys Wolfsburg",
-   "wert_pro_puck": 1.05
+   "wert_pro_puck": 1.06
   },
   {
    "spieler_id": 506,
@@ -382,7 +382,7 @@
    "dt_pass": true,
    "gewaehlt_pct": 4.3,
    "spiele": 8,
-   "xp": 2.37,
+   "xp": 2.38,
    "gegner_id": 5,
    "heim": true,
    "hinweis": "",
@@ -424,7 +424,7 @@
    "dt_pass": true,
    "gewaehlt_pct": 12.8,
    "spiele": 8,
-   "xp": 1.72,
+   "xp": 1.73,
    "gegner_id": 8,
    "heim": false,
    "hinweis": "",
@@ -445,17 +445,17 @@
    "dt_pass": true,
    "gewaehlt_pct": 4.7,
    "spiele": 8,
-   "xp": 1.47,
+   "xp": 1.48,
    "gegner_id": 1,
    "heim": true,
    "hinweis": "",
    "ppg": 1.51,
    "toi_faktor": 0.97,
-   "matchup": 1.01,
+   "matchup": 1.02,
    "p_einsatz": 1.0,
    "team": "Schwenninger Wild Wings",
    "gegner": "ERC Ingolstadt",
-   "wert_pro_puck": 0.73
+   "wert_pro_puck": 0.74
   },
   {
    "spieler_id": 1476,
@@ -508,17 +508,17 @@
    "dt_pass": true,
    "gewaehlt_pct": 5.1,
    "spiele": 8,
-   "xp": 0.87,
+   "xp": 0.88,
    "gegner_id": 1,
    "heim": true,
    "hinweis": "",
    "ppg": 0.93,
    "toi_faktor": 0.92,
-   "matchup": 1.01,
+   "matchup": 1.02,
    "p_einsatz": 1.0,
    "team": "Schwenninger Wild Wings",
    "gegner": "ERC Ingolstadt",
-   "wert_pro_puck": 0.87
+   "wert_pro_puck": 0.88
   }
  ],
  "alternativen": {
@@ -532,17 +532,17 @@
     "dt_pass": true,
     "gewaehlt_pct": 5.1,
     "spiele": 6,
-    "xp": 1.67,
+    "xp": 1.61,
     "gegner_id": 5,
     "heim": true,
     "hinweis": "",
     "p_start": 0.8,
     "p_sieg60": 0.54,
-    "xga": 2.48,
-    "xsv": 23.9,
+    "xga": 2.52,
+    "xsv": 24.1,
     "team": "Grizzlys Wolfsburg",
     "gegner": "Krefeld Pinguine",
-    "wert_pro_puck": 0.33
+    "wert_pro_puck": 0.32
    },
    {
     "spieler_id": 4157,
@@ -746,13 +746,13 @@
     "dt_pass": false,
     "gewaehlt_pct": 9.4,
     "spiele": 8,
-    "xp": 2.36,
+    "xp": 2.33,
     "gegner_id": 15,
     "heim": false,
     "hinweis": "",
     "ppg": 2.29,
     "toi_faktor": 1.0,
-    "matchup": 1.03,
+    "matchup": 1.02,
     "p_einsatz": 1.0,
     "team": "ERC Ingolstadt",
     "gegner": "Schwenninger Wild Wings",
@@ -809,7 +809,7 @@
     "dt_pass": false,
     "gewaehlt_pct": 26.5,
     "spiele": 8,
-    "xp": 2.05,
+    "xp": 2.07,
     "gegner_id": 8,
     "heim": false,
     "hinweis": "",
@@ -819,7 +819,7 @@
     "p_einsatz": 1.0,
     "team": "Krefeld Pinguine",
     "gegner": "Grizzlys Wolfsburg",
-    "wert_pro_puck": 0.68
+    "wert_pro_puck": 0.69
    },
    {
     "spieler_id": 3704,
@@ -830,17 +830,17 @@
     "dt_pass": false,
     "gewaehlt_pct": 1.7,
     "spiele": 8,
-    "xp": 1.99,
+    "xp": 1.97,
     "gegner_id": 15,
     "heim": false,
     "hinweis": "",
     "ppg": 1.94,
     "toi_faktor": 1.0,
-    "matchup": 1.03,
+    "matchup": 1.02,
     "p_einsatz": 1.0,
     "team": "ERC Ingolstadt",
     "gegner": "Schwenninger Wild Wings",
-    "wert_pro_puck": 0.5
+    "wert_pro_puck": 0.49
    }
   ]
  }
