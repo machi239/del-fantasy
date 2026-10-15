@@ -1,5 +1,5 @@
 {
- "spieltag": 9,
+ "spieltag": 10,
  "availability": {
   "2804": 0,
   "1753": 0,
@@ -63,67 +63,9 @@
   "1904": 0.5,
   "990": 1
  },
- "goalie_start": {
-  "4319": 0.85,
-  "1904": 0.15
- },
- "notizen": {
-  "3950": "angeschlagen, fehlte am 11.10.; Einsatz am 15.10. in Wolfsburg fraglich",
-  "3412": "fehlte am 11.10. wegen Geburt seines Kindes; Rückkehr bald erwartet, kein Datum",
-  "3411": "leicht angeschlagen, fehlte am 11.10.; kurzfristig",
-  "92": "angeschlagen, fehlte 07.–11.10., Entscheidung von Tag zu Tag",
-  "2510": "fehlt seit 07.10., Grund unbekannt",
-  "1168": "am 11.10. wohl überzählig nach Rückkehr von Fabio Wagner",
-  "1313": "fehlte zuletzt, Grund unbekannt (Nürnberg mit 7 Verteidigern)",
-  "1491": "fehlte zuletzt, Grund unbekannt",
-  "1587": "fehlte zuletzt, Grund unbekannt",
-  "3128": "fehlte zuletzt, Grund unbekannt",
-  "2198": "fehlte zuletzt, Grund unbekannt",
-  "1674": "fehlte zuletzt, Grund unbekannt",
-  "4316": "fehlte zuletzt, Grund unbekannt",
-  "2019": "fehlte am 11.10., Grund unbekannt (evtl. Leistungsgründe nach dem 4:11 in Straubing)",
-  "442": "fehlte zuletzt, Grund unbekannt",
-  "4341": "blockte am 08.10. einen Schuss, fehlte am 11.10. in Ingolstadt; Einsatz am 16.10. fraglich",
-  "1903": "pausiert (Rotation), nicht verletzt",
-  "4333": "pausiert (Rotation), nicht verletzt",
-  "3167": "zuletzt überzählig (Extra), nicht verletzt",
-  "426": "zuletzt überzählig (Extra), nicht verletzt",
-  "4323": "verletzt seit Ende September, Dauer unbekannt",
-  "3530": "verletzt seit ca. 09.10., Dauer unbekannt",
-  "1904": "am 09.10. verletzt ausgeschieden (ohne Fremdeinwirkung); in Straubinger Vorschau vom 12.10. nicht als Ausfall genannt, Status unklar",
-  "516": "verletzt seit 27.09., keine Rückkehrmeldung",
-  "130": "Schulterverletzung, weiter ohne Einsatz",
-  "4319": "Bugl angeschlagen/unklar, Skarek startete am 11.10. und bleibt wahrscheinlich im Tor",
-  "2351": "startete am 11.10., Stettmer am 09.10.; Rotation wahrscheinlich",
-  "4157": "am 09.10. krank, am 11.10. wieder im Tor",
-  "1655": "Unterkörperverletzung seit 02.09. (ca. 6 Wochen); in Vorschau 12.10. nicht mehr als Ausfall genannt, Rückkehr möglich",
-  "1404": "verletzt/angeschlagen, fehlte 07.–11.10., Dauer unbekannt"
- },
+ "goalie_start": {},
+ "notizen": {},
  "risiken": [
-  {
-   "text": "Mathew Santos (Krefeld) ist angeschlagen. Fehlte am 11.10. gegen Augsburg laut Vereinsbericht, keine Dauer genannt; Einsatz am 15.10. in Wolfsburg fraglich. Betrifft die Krefelder Reihen um Newton, Payerl und Gogulla nur indirekt.",
-   "schwer": false
-  },
-  {
-   "text": "Straubings Torhüter Florian Bugl angeschlagen, Status unklar. Am 09.10. ohne Fremdeinwirkung ausgeschieden, in der Vereinsvorschau vom 12.10. nicht als Ausfall genannt; Jakub Skarek startete am 11.10. und bleibt wahrscheinlich die Nummer eins.",
-   "schwer": false
-  },
-  {
-   "text": "Augsburg weiter ohne Sean Malone und Jimmy Lambert. Beide verletzt, keine Dauer genannt; Lambert fehlt seit 09.10., Malone seit Ende September. Mayhew und Busdeker spielten am 09. und 11.10.",
-   "schwer": false
-  },
-  {
-   "text": "Berlin ohne Reinke, Pföderl und Fontaine unsicher. Reinke fehlte am 11.10. wegen der Geburt seines Kindes (Rückkehr bald erwartet), Pföderl ist seit 07.10. angeschlagen (von Tag zu Tag), Fontaine leicht angeschlagen; alle Berliner der Aufstellung spielten am 11.10.",
-   "schwer": false
-  },
-  {
-   "text": "Brandon Biro (Frankfurt) fraglich. Blockte am 08.10. einen Schuss und fehlte am 11.10. in Ingolstadt; keine Vereinsmeldung zur Dauer.",
-   "schwer": false
-  },
-  {
-   "text": "Torhüter-Rotation in München, Ingolstadt und Frankfurt. München: Niederberger (09.10.) und Bibeau (11.10.), Trainer nennt Niederberger die Nummer eins; Ingolstadt: Stettmer und Devin Williams im Wechsel; Frankfurt: Scheel (eher Nummer eins) und Pertuch.",
-   "schwer": false
-  },
   {
    "text": "Iserlohn ohne Maximilian Eisenmenger. Unterkörperverletzung vom 04.10., Ausfall bis nach der Deutschland-Cup-Pause.",
    "schwer": false,
