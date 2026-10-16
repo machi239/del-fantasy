@@ -8,7 +8,7 @@
   "3391": 0,
   "1790": 0,
   "1763": 0,
-  "1901": 0,
+  "1901": 0.5,
   "1655": 0.5,
   "3958": 0,
   "2501": 0,
@@ -24,18 +24,18 @@
   "1823": 1,
   "1360": 1,
   "513": 1,
-  "3122": 1,
+  "3122": 0.5,
   "1771": 0,
-  "537": 1,
+  "537": 0.5,
   "3408": 1,
   "2199": 1,
   "143": 0,
   "2191": 0,
-  "4323": 0,
+  "4323": 0.5,
   "1764": 1,
   "3167": 0.5,
   "2835": 1,
-  "92": 0.5,
+  "92": 1,
   "3412": 0.5,
   "4344": 0,
   "4317": 1,
@@ -44,28 +44,119 @@
   "1397": 0,
   "1982": 0,
   "1674": 0.5,
-  "3950": 0.5,
+  "3950": 1,
   "3411": 0.5,
   "1168": 0.5,
   "1313": 0.5,
   "1491": 0.5,
   "1587": 0.5,
   "3128": 0.5,
-  "2198": 0.5,
+  "2198": 1,
   "4316": 0.5,
   "2019": 0.5,
   "442": 0.5,
-  "4341": 0.5,
+  "4341": 1,
   "1903": 0.5,
   "4333": 0.5,
   "426": 0.5,
-  "3530": 0,
-  "1904": 0.5,
-  "990": 1
+  "3530": 0.5,
+  "1904": 0,
+  "990": 1,
+  "4319": 1,
+  "486": 1,
+  "1430": 0,
+  "4897": 0.5,
+  "4336": 0,
+  "1887": 1,
+  "3424": 1,
+  "1594": 1,
+  "4343": 0.5,
+  "2631": 1
  },
- "goalie_start": {},
- "notizen": {},
+ "goalie_start": {
+  "3424": 0.8,
+  "1594": 0.2,
+  "4319": 0.75,
+  "486": 0.25,
+  "1904": 0.0
+ },
+ "notizen": {
+  "1904": "langfristig verletzt (Unterkörper), Meldung 13.10.",
+  "1901": "Ausfall ca. 3 Wochen ab 25.09., Rückkehr möglich, nicht bestätigt",
+  "4319": "nach Bugl-Ausfall Nr. 1 in Straubing",
+  "486": "Neuzugang 13.10., Backup in Straubing",
+  "1430": "mehrere Wochen verletzt (seit 11.10.)",
+  "4897": "humpelte am 14.10. vom Eis, Schwere unklar",
+  "4336": "Muskelverletzung, fällt mehrere Wochen aus (Stand 15.10.)",
+  "1887": "rückt für Lebster in den Sturm",
+  "3424": "soll am 18.10. in Mannheim starten; krankheitsbedingt eine Einheit verpasst, wieder verfügbar",
+  "1594": "startet am 16.10. gegen Ingolstadt, am 18.10. voraussichtlich Wolf",
+  "92": "spielte am 14.10. (CHL) wieder",
+  "4341": "laut Löwen-Vorschau 15.10. wieder einsatzfähig",
+  "1397": "weiter verletzt (Löwen-Vorschau 15.10.)",
+  "1982": "weiter verletzt (Löwen-Vorschau 15.10.)",
+  "3412": "fehlte am 11.10. und 14.10. (CHL), Grund unbekannt",
+  "3411": "fehlte am 11.10. und 14.10. (CHL), Grund unbekannt",
+  "2510": "fehlte am 11.10. und 14.10. (CHL), Grund unbekannt",
+  "4343": "fehlte am 15.10. in Wolfsburg, Grund unbekannt",
+  "537": "fehlte am 15.10. in Wolfsburg, Grund unbekannt",
+  "1674": "fehlte zuletzt, Grund unbekannt",
+  "3950": "spielte am 15.10.",
+  "1587": "fehlte am 11.10. und 15.10., Grund unbekannt",
+  "3128": "fehlte am 11.10. und 15.10., Grund unbekannt",
+  "3122": "fehlte am 15.10., Grund unbekannt",
+  "2198": "spielte am 15.10.",
+  "3530": "laut Panther-Angaben (via AEV-Forum, 16.10.) weiter fraglich, Muskelproblem",
+  "4323": "laut Panther-Angaben (via AEV-Forum, 16.10.) weiter fraglich",
+  "3167": "fehlte zuletzt, nicht im Verletzungsbericht des Vereins (wohl überzählig)",
+  "426": "fehlte zuletzt, nicht im Verletzungsbericht des Vereins (wohl überzählig)",
+  "1168": "fehlte zuletzt, Grund unbekannt (Wagner nach Sperre zurück)",
+  "1313": "fehlte zuletzt, Grund unbekannt",
+  "1491": "fehlte zuletzt, Grund unbekannt",
+  "2019": "fehlte zuletzt, Grund unbekannt",
+  "442": "fehlte zuletzt, Grund unbekannt",
+  "1903": "fehlte zuletzt, Grund unbekannt",
+  "4333": "fehlte zuletzt, Grund unbekannt",
+  "4316": "fehlte zuletzt, Grund unbekannt",
+  "1655": "Rückkehr möglich, nicht bestätigt",
+  "2631": "Nachfolger von Kevin Wall, spielte am 15.10."
+ },
  "risiken": [
+  {
+   "text": "Straubing ohne Torhüter Florian Bugl. Unterkörperverletzung vom 09.10., fällt laut Verein langfristig aus; Skarek dürfte Nr. 1 sein, Neuzugang Mirko Pantkowski (Meldung 13.10.) ist Backup.",
+   "schwer": true,
+   "bis": "2026-11-30"
+  },
+  {
+   "text": "Nino Kinder (Bremerhaven) fällt mehrere Wochen aus. Verletzt am 11.10. gegen Berlin; Bremerhaven verpflichtet Eugen Alanov. Keean Washkurak humpelte am 14.10. vom Eis.",
+   "schwer": true,
+   "bis": "2026-11-08"
+  },
+  {
+   "text": "Reed Lebster (Schwenningen) fällt mehrere Wochen aus. Muskelverletzung vom 11.10. gegen München; Niklas Hübner rückt in den Sturm.",
+   "schwer": false,
+   "bis": "2026-11-08"
+  },
+  {
+   "text": "Schwenningen am Sonntag in Mannheim voraussichtlich mit Simon Wolf im Tor. Laut Vereinsvorbericht startet Eriksson am Freitag, Wolf am Sonntag.",
+   "schwer": false
+  },
+  {
+   "text": "Augsburg: Lambert und Malone weiter fraglich. Laut Panther-Angaben (zitiert im AEV-Forum, 16.10.).",
+   "schwer": false
+  },
+  {
+   "text": "Krefeld ohne Percy und Weiß am 15.10. in Wolfsburg. Grund nicht gemeldet; Status für Sonntag gegen Berlin offen.",
+   "schwer": false
+  },
+  {
+   "text": "Wolfsburg erneut ohne Melchiori, Ramoser und Veber (15.10.). Grund nicht gemeldet.",
+   "schwer": false
+  },
+  {
+   "text": "Mannheim rotiert im Tor zwischen Franzreb und Hildebrand. Zuletzt Franzreb freitags, Hildebrand sonntags; für Sonntag nicht bestätigt.",
+   "schwer": false
+  },
   {
    "text": "Iserlohn ohne Maximilian Eisenmenger. Unterkörperverletzung vom 04.10., Ausfall bis nach der Deutschland-Cup-Pause.",
    "schwer": false,
@@ -105,11 +196,6 @@
    "text": "Rausch und Roßmy (Bremerhaven) Saison-Aus. Schwere Knieverletzungen.",
    "schwer": true,
    "bis": "2027-03-07"
-  },
-  {
-   "text": "Straubing ohne Leonhardt und Kukuk. Laut Vereinsvorschau vom 12.10. weiter raus; Leonhardt ca. 3 Wochen ab 25.09., Taro Jentzsch dort nicht mehr als Ausfall genannt (Rückkehr möglich).",
-   "schwer": false,
-   "bis": "2026-10-16"
   },
   {
    "text": "Moritz Kukuk (Straubing) langfristig krank. Rückkehr laut Verein nicht absehbar.",
@@ -152,7 +238,7 @@
    "bis": "2026-10-25"
   },
   {
-   "text": "Kevin Wall nicht mehr in Krefeld. Vertrag am 22.09. aufgelöst; Nachfolger Phil Varone spielt seit 02.10., hat aber noch keine Fantasy-ID.",
+   "text": "Kevin Wall nicht mehr in Krefeld. Vertrag am 22.09. aufgelöst; Nachfolger Phil Varone (ID 2631) spielt seit 02.10.",
    "schwer": false,
    "bis": "2027-03-07"
   },
@@ -162,14 +248,14 @@
    "bis": "2027-03-07"
   },
   {
-   "text": "Daniel Pfaffengut (Frankfurt) fällt zwei bis vier Wochen aus. Oberkörperverletzung aus dem Spiel in Bremerhaven am 04.10., Meldung vom 08.10.",
+   "text": "Daniel Pfaffengut (Frankfurt) fällt zwei bis vier Wochen aus. Oberkörperverletzung aus dem Spiel in Bremerhaven am 04.10., Meldung vom 08.10. Laut Vorschau vom 15.10. weiter raus.",
    "schwer": false,
    "bis": "2026-10-22"
   },
   {
-   "text": "Daniel Wirt (Frankfurt) fällt weiter aus. Oberkörperverletzung, Dauer vom Verein nicht genannt.",
+   "text": "Daniel Wirt (Frankfurt) fällt weiter aus. Oberkörperverletzung, laut Löwen-Vorschau vom 15.10. auch am Wochenende nicht dabei.",
    "schwer": false,
-   "bis": "2026-10-18"
+   "bis": "2026-10-25"
   },
   {
    "text": "Justin Schütz (Mannheim) weiter verletzt. Laut RNZ vom 09.10. weiterhin verletzt, Dauer unbekannt; Poirier und Shaw zuletzt nur pausiert.",
@@ -183,6 +269,86 @@
   }
  ],
  "quellen": [
+  {
+   "titel": "Straubing Tigers: Florian Bugl fällt langfristig aus",
+   "url": "https://www.straubing-tigers.de/florian-bugl-faellt-langfristig-aus/"
+  },
+  {
+   "titel": "Straubing Tigers: Pressekonferenz vor Frankfurt und Wolfsburg",
+   "url": "https://www.straubing-tigers.de/pressekonferenz-vor-den-spielen-gegen-frankfurt-und-wolfsburg/"
+  },
+  {
+   "titel": "hockeyweb: Straubing verpflichtet Pantkowski",
+   "url": "https://www.hockeyweb.de/del/straubing-tigers-verpflichten-torh%C3%BCter-mirko-pantkowski-115465"
+  },
+  {
+   "titel": "buten un binnen: Kinder fehlt mehrere Wochen",
+   "url": "https://www.butenunbinnen.de/sport/eishockey-pinguins-bremerhaven-kinder-verletzung-100.html"
+  },
+  {
+   "titel": "buten un binnen: Jammern hilft nicht (14.10.)",
+   "url": "https://www.butenunbinnen.de/sport/eishockey-del-pinguins-neuzugang-bremerhaven-100.html"
+  },
+  {
+   "titel": "Fischtown: Alanov verpflichtet",
+   "url": "https://fischtown-pinguins.de/fischtown-pinguins-verpflichten-eugen-alanov/"
+  },
+  {
+   "titel": "Fischtown: Kurskorrektur am Wilhelm-Kaisen-Platz",
+   "url": "https://fischtown-pinguins.de/kurskorrektur-am-wilhelm-kaisen-platz/"
+  },
+  {
+   "titel": "Wild Wings: Selbstvertrauen und Details im Fokus",
+   "url": "https://www.schwenninger-wildwings.de/aktuell/selbstvertrauen-und-details-im-fokus/"
+  },
+  {
+   "titel": "PENNY DEL Boxscore Wolfsburg – Krefeld 15.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/15102026_grizzlys-wolfsburg_gg_krefeld-pinguine_4446/boxscore"
+  },
+  {
+   "titel": "Krefeld Pinguine: Punkt in Wolfsburg",
+   "url": "https://krefeld-pinguine.de/news/pinguine-holen-punkt-in-wolfsburg/"
+  },
+  {
+   "titel": "Löwen Frankfurt: Heimspiel-Doppelpack",
+   "url": "https://www.loewen-frankfurt.de/saison/aktuelles/details/heimspiel-doppelpack-tigers-und-roosters-fordern-die-loewen"
+  },
+  {
+   "titel": "Iserlohn Roosters: Spieltag 9 Vorbericht",
+   "url": "https://iserlohn-roosters.de/2026/10/16/spieltag-9-roosters-vs-koeln/"
+  },
+  {
+   "titel": "Iserlohn Roosters: Nättinen verpflichtet",
+   "url": "https://iserlohn-roosters.de/2026/10/15/roosters-verpflichten-joonas-naettinen/"
+  },
+  {
+   "titel": "Kölner Haie: Vorbericht Iserlohn",
+   "url": "https://www.haie.de/news/erstes-nrw-duell-der-neuen-saison-haie-am-freitag-in-iserlohn-gefordert/"
+  },
+  {
+   "titel": "Red Bull München: Vorschau 9. Spieltag",
+   "url": "https://www.redbullmuenchen.de/de/news/del-vorschau-9-spieltag-red-bull-muenchen-zu-gast-bei-den-eisbaeren-berlin"
+  },
+  {
+   "titel": "Eisbären: 2:1 gegen Klagenfurt (CHL)",
+   "url": "https://www.eisbaeren.de/news/detail/knapper-21-sieg-ueber-klagenfurter-ac"
+  },
+  {
+   "titel": "Adler Mannheim: Niederlage zum CHL-Vorrundenabschluss",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/10/niederlage-zum-chl-vorrundenabschluss"
+  },
+  {
+   "titel": "RNZ: Was bei den Adlern Bauchschmerzen bereitet",
+   "url": "https://www.rnz.de/sport/sportregional_artikel,-Adler-Mannheim-Was-bei-den-Adlern-momentan-Bauchschmerzen-bereitet-_arid,2455110.html"
+  },
+  {
+   "titel": "AEV-Forum: 9. Spieltag Augsburg – Mannheim",
+   "url": "https://www.aev-forum.de/viewtopic.php?p=1584483"
+  },
+  {
+   "titel": "hockeyweb: DEL-News",
+   "url": "https://www.hockeyweb.de/del"
+  },
   {
    "titel": "PENNY DEL Boxscore Löwen Frankfurt – Krefeld Pinguine 08.10.2026",
    "url": "https://www.penny-del.org/statistik/spieldetails/08102026_loewen-frankfurt_gg_krefeld-pinguine_4432/boxscore"

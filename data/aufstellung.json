@@ -1,7 +1,7 @@
 {
  "spieltag": 10,
  "deadline": "Sun 18.10.2026 14:00",
- "erstellt": "16.10.2026 11:30",
+ "erstellt": "16.10.2026 12:14",
  "budget": 60,
  "pucks": 60,
  "auslaender": 9,
@@ -566,6 +566,27 @@
     "wert_pro_puck": 0.88
    },
    {
+    "spieler_id": 4319,
+    "name": "Jakub Skarek",
+    "team_id": 6,
+    "pos": "goal",
+    "preis": 3,
+    "dt_pass": false,
+    "gewaehlt_pct": 4.1,
+    "spiele": 6,
+    "xp": 1.62,
+    "gegner_id": 8,
+    "heim": true,
+    "hinweis": "Startquote manuell",
+    "p_start": 0.75,
+    "p_sieg60": 0.56,
+    "xga": 2.87,
+    "xsv": 28.6,
+    "team": "Straubing Tigers",
+    "gegner": "Grizzlys Wolfsburg",
+    "wert_pro_puck": 0.54
+   },
+   {
     "spieler_id": 1211,
     "name": "Tobias Ancicka",
     "team_id": 13,
@@ -606,27 +627,6 @@
     "team": "Kölner Haie",
     "gegner": "Pinguins Bremerhaven",
     "wert_pro_puck": 0.26
-   },
-   {
-    "spieler_id": 4319,
-    "name": "Jakub Skarek",
-    "team_id": 6,
-    "pos": "goal",
-    "preis": 3,
-    "dt_pass": false,
-    "gewaehlt_pct": 4.1,
-    "spiele": 6,
-    "xp": 1.29,
-    "gegner_id": 8,
-    "heim": true,
-    "hinweis": "",
-    "p_start": 0.6,
-    "p_sieg60": 0.56,
-    "xga": 2.87,
-    "xsv": 28.6,
-    "team": "Straubing Tigers",
-    "gegner": "Grizzlys Wolfsburg",
-    "wert_pro_puck": 0.43
    }
   ],
   "def": [
@@ -822,25 +822,25 @@
     "wert_pro_puck": 0.44
    },
    {
-    "spieler_id": 1846,
-    "name": "Tyler Gaudet",
-    "team_id": 8,
+    "spieler_id": 3950,
+    "name": "Mathew Santos",
+    "team_id": 5,
     "pos": "for",
-    "preis": 4,
+    "preis": 3,
     "dt_pass": false,
-    "gewaehlt_pct": 4.5,
-    "spiele": 9,
-    "xp": 1.97,
-    "gegner_id": 6,
-    "heim": false,
+    "gewaehlt_pct": 19.0,
+    "spiele": 8,
+    "xp": 2.13,
+    "gegner_id": 3,
+    "heim": true,
     "hinweis": "",
-    "ppg": 1.96,
-    "toi_faktor": 1.02,
-    "matchup": 0.99,
-    "p_einsatz": 1.0,
-    "team": "Grizzlys Wolfsburg",
-    "gegner": "Straubing Tigers",
-    "wert_pro_puck": 0.49
+    "ppg": 2.51,
+    "toi_faktor": 1.03,
+    "matchup": 0.83,
+    "p_einsatz": 1,
+    "team": "Krefeld Pinguine",
+    "gegner": "Eisbären Berlin",
+    "wert_pro_puck": 0.71
    }
   ]
  }
