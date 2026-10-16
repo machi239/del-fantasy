@@ -1,5 +1,5 @@
 {
- "stand": "16.10.2026 13:40",
+ "stand": "16.10.2026 18:46",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -15,11 +15,11 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.239,
-   "p_draw60": 0.194,
-   "p_away60": 0.567,
-   "p_home_inkl_ot": 0.33,
-   "total": 6.13
+   "p_home60": 0.241,
+   "p_draw60": 0.193,
+   "p_away60": 0.565,
+   "p_home_inkl_ot": 0.332,
+   "total": 6.14
   },
   "3-12": {
    "spiel": "Eisbären Berlin - EHC Red Bull München",
@@ -29,11 +29,11 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.493,
-   "p_draw60": 0.224,
-   "p_away60": 0.283,
-   "p_home_inkl_ot": 0.611,
-   "total": 5.91
+   "p_home60": 0.487,
+   "p_draw60": 0.223,
+   "p_away60": 0.289,
+   "p_home_inkl_ot": 0.604,
+   "total": 5.92
   },
   "44-6": {
    "spiel": "Löwen Frankfurt - Straubing Tigers",
@@ -45,7 +45,7 @@
    ],
    "p_home60": 0.329,
    "p_draw60": 0.225,
-   "p_away60": 0.447,
+   "p_away60": 0.446,
    "p_home_inkl_ot": 0.442,
    "total": 5.9
   },
@@ -57,11 +57,11 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.288,
-   "p_draw60": 0.211,
-   "p_away60": 0.5,
-   "p_home_inkl_ot": 0.39,
-   "total": 6.02
+   "p_home60": 0.259,
+   "p_draw60": 0.206,
+   "p_away60": 0.534,
+   "p_home_inkl_ot": 0.357,
+   "total": 6.01
   },
   "9-14": {
    "spiel": "Pinguins Bremerhaven - Nürnberg Ice Tigers",
@@ -71,10 +71,10 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.423,
+   "p_home60": 0.419,
    "p_draw60": 0.229,
-   "p_away60": 0.348,
-   "p_home_inkl_ot": 0.538,
+   "p_away60": 0.352,
+   "p_home_inkl_ot": 0.533,
    "total": 5.71
   },
   "15-1": {
@@ -85,11 +85,11 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.384,
-   "p_draw60": 0.214,
-   "p_away60": 0.402,
-   "p_home_inkl_ot": 0.486,
-   "total": 6.13
+   "p_home60": 0.398,
+   "p_draw60": 0.212,
+   "p_away60": 0.39,
+   "p_home_inkl_ot": 0.502,
+   "total": 6.15
   }
  }
 }
