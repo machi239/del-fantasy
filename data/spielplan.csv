@@ -56,7 +56,7 @@ spieltag,datum,uhrzeit,heim,gast,heim_id,gast_id,tore_heim,tore_gast,entscheidun
 8,2026-10-11,16:30,Pinguins Bremerhaven,Eisbären Berlin,9,3,0,3,REG,beendet,4441,/statistik/spieldetails/11102026_pinguins-bremerhaven_gg_eisbaeren-berlin_4441,ja
 8,2026-10-11,16:30,Schwenninger Wild Wings,EHC Red Bull München,15,12,3,4,REG,beendet,4444,/statistik/spieldetails/11102026_schwenninger-wild-wings_gg_ehc-red-bull-muenchen_4444,ja
 8,2026-10-11,19:00,Adler Mannheim,Straubing Tigers,2,6,2,1,REG,beendet,4445,/statistik/spieldetails/11102026_adler-mannheim_gg_straubing-tigers_4445,ja
-9,2026-10-15,19:30,Grizzlys Wolfsburg,Krefeld Pinguine,8,5,,,,offen,,,
+9,2026-10-15,19:30,Grizzlys Wolfsburg,Krefeld Pinguine,8,5,2,1,SO,beendet,4446,/statistik/spieldetails/15102026_grizzlys-wolfsburg_gg_krefeld-pinguine_4446,ja
 9,2026-10-16,19:30,Augsburger Panther,Adler Mannheim,13,2,,,,offen,,,
 9,2026-10-16,19:30,Eisbären Berlin,EHC Red Bull München,3,12,,,,offen,,,
 9,2026-10-16,19:30,Iserlohn Roosters,Kölner Haie,7,11,,,,offen,,,
