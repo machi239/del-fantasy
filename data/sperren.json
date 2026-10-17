@@ -1,6 +1,18 @@
 {
- "stand": "2026-10-17 11:36",
+ "stand": "2026-10-17 16:43",
  "sperren": [
+  {
+   "spieler_id": "4349",
+   "name": "Austin Magera",
+   "team_id": "14",
+   "spiele": 1,
+   "gemeldet": "2026-10-17",
+   "gesperrte_spiele": [
+    "2026-10-18"
+   ],
+   "titel": "Ein Spiel Sperre für Austin Magera, Geldstrafen gegen Bremerhaven und Nürnberg",
+   "url": "https://www.penny-del.org/fair-play/strafbank/detail/ein-spiel-sperre-fuer-austin-magera-geldstrafen-gegen-bremerhaven-und-nuernberg"
+  },
   {
    "spieler_id": "1666",
    "name": "Julius Karrer",

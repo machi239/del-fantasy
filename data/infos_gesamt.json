@@ -71,7 +71,8 @@
   "3424": 1,
   "1594": 1,
   "4343": 0.5,
-  "2631": 1
+  "2631": 1,
+  "4349": 0
  },
  "goalie_start": {
   "3424": 0.8,
@@ -266,6 +267,10 @@
    "text": "Alexander Broadhurst (Bremerhaven) fällt mehrere Wochen aus. Verletzt am 27.09. in Wolfsburg, kein Rückkehrdatum.",
    "schwer": false,
    "bis": "2026-10-25"
+  },
+  {
+   "text": "Austin Magera gesperrt. 1 Spiel(e) laut DEL-Strafbank (gemeldet 2026-10-17), letztes gesperrtes Spiel am 2026-10-18.",
+   "schwer": true
   }
  ],
  "quellen": [
@@ -928,6 +933,10 @@
   {
    "titel": "Schwarzwälder Bote: Wild Wings in Köln",
    "url": "https://schwarzwaelder-bote.de/sport/schwenninger-wild-wings/schwenninger-wild-wings-in-koeln-schwaene-erkaempfen-sich-verdient-einen-eminent-wichtigen-sieg-79553966.html"
+  },
+  {
+   "titel": "DEL-Strafbank: Ein Spiel Sperre für Austin Magera, Geldstrafen gegen Bremerhaven und Nürnberg",
+   "url": "https://www.penny-del.org/fair-play/strafbank/detail/ein-spiel-sperre-fuer-austin-magera-geldstrafen-gegen-bremerhaven-und-nuernberg"
   }
  ],
  "odds": {},
