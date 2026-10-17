@@ -1,5 +1,5 @@
 {
- "stand": "17.10.2026 13:36",
+ "stand": "17.10.2026 18:43",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -12,13 +12,12 @@
    "beginn": "18.10.2026 14:00",
    "buchmacher": [
     "pinnacle",
-    "bet365",
     "unibet"
    ],
-   "p_home60": 0.229,
-   "p_draw60": 0.212,
-   "p_away60": 0.559,
-   "p_home_inkl_ot": 0.324,
+   "p_home60": 0.228,
+   "p_draw60": 0.225,
+   "p_away60": 0.547,
+   "p_home_inkl_ot": 0.326,
    "total": 5.8
   },
   "44-7": {
