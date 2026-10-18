@@ -1,5 +1,5 @@
 {
- "spieltag": 10,
+ "spieltag": 46,
  "availability": {
   "2804": 0,
   "1753": 0,
@@ -71,57 +71,10 @@
   "3424": 1,
   "1594": 1,
   "4343": 0.5,
-  "2631": 1,
-  "4349": 0
+  "2631": 1
  },
- "goalie_start": {
-  "3424": 0.8,
-  "1594": 0.2,
-  "4319": 0.75,
-  "486": 0.25,
-  "1904": 0.0
- },
- "notizen": {
-  "1904": "langfristig verletzt (Unterkörper), Meldung 13.10.",
-  "1901": "Ausfall ca. 3 Wochen ab 25.09., Rückkehr möglich, nicht bestätigt",
-  "4319": "nach Bugl-Ausfall Nr. 1 in Straubing",
-  "486": "Neuzugang 13.10., Backup in Straubing",
-  "1430": "mehrere Wochen verletzt (seit 11.10.)",
-  "4897": "humpelte am 14.10. vom Eis, Schwere unklar",
-  "4336": "Muskelverletzung, fällt mehrere Wochen aus (Stand 15.10.)",
-  "1887": "rückt für Lebster in den Sturm",
-  "3424": "soll am 18.10. in Mannheim starten; krankheitsbedingt eine Einheit verpasst, wieder verfügbar",
-  "1594": "startet am 16.10. gegen Ingolstadt, am 18.10. voraussichtlich Wolf",
-  "92": "spielte am 14.10. (CHL) wieder",
-  "4341": "laut Löwen-Vorschau 15.10. wieder einsatzfähig",
-  "1397": "weiter verletzt (Löwen-Vorschau 15.10.)",
-  "1982": "weiter verletzt (Löwen-Vorschau 15.10.)",
-  "3412": "fehlte am 11.10. und 14.10. (CHL), Grund unbekannt",
-  "3411": "fehlte am 11.10. und 14.10. (CHL), Grund unbekannt",
-  "2510": "fehlte am 11.10. und 14.10. (CHL), Grund unbekannt",
-  "4343": "fehlte am 15.10. in Wolfsburg, Grund unbekannt",
-  "537": "fehlte am 15.10. in Wolfsburg, Grund unbekannt",
-  "1674": "fehlte zuletzt, Grund unbekannt",
-  "3950": "spielte am 15.10.",
-  "1587": "fehlte am 11.10. und 15.10., Grund unbekannt",
-  "3128": "fehlte am 11.10. und 15.10., Grund unbekannt",
-  "3122": "fehlte am 15.10., Grund unbekannt",
-  "2198": "spielte am 15.10.",
-  "3530": "laut Panther-Angaben (via AEV-Forum, 16.10.) weiter fraglich, Muskelproblem",
-  "4323": "laut Panther-Angaben (via AEV-Forum, 16.10.) weiter fraglich",
-  "3167": "fehlte zuletzt, nicht im Verletzungsbericht des Vereins (wohl überzählig)",
-  "426": "fehlte zuletzt, nicht im Verletzungsbericht des Vereins (wohl überzählig)",
-  "1168": "fehlte zuletzt, Grund unbekannt (Wagner nach Sperre zurück)",
-  "1313": "fehlte zuletzt, Grund unbekannt",
-  "1491": "fehlte zuletzt, Grund unbekannt",
-  "2019": "fehlte zuletzt, Grund unbekannt",
-  "442": "fehlte zuletzt, Grund unbekannt",
-  "1903": "fehlte zuletzt, Grund unbekannt",
-  "4333": "fehlte zuletzt, Grund unbekannt",
-  "4316": "fehlte zuletzt, Grund unbekannt",
-  "1655": "Rückkehr möglich, nicht bestätigt",
-  "2631": "Nachfolger von Kevin Wall, spielte am 15.10."
- },
+ "goalie_start": {},
+ "notizen": {},
  "risiken": [
   {
    "text": "Straubing ohne Torhüter Florian Bugl. Unterkörperverletzung vom 09.10., fällt laut Verein langfristig aus; Skarek dürfte Nr. 1 sein, Neuzugang Mirko Pantkowski (Meldung 13.10.) ist Backup.",
@@ -137,26 +90,6 @@
    "text": "Reed Lebster (Schwenningen) fällt mehrere Wochen aus. Muskelverletzung vom 11.10. gegen München; Niklas Hübner rückt in den Sturm.",
    "schwer": false,
    "bis": "2026-11-08"
-  },
-  {
-   "text": "Schwenningen am Sonntag in Mannheim voraussichtlich mit Simon Wolf im Tor. Laut Vereinsvorbericht startet Eriksson am Freitag, Wolf am Sonntag.",
-   "schwer": false
-  },
-  {
-   "text": "Augsburg: Lambert und Malone weiter fraglich. Laut Panther-Angaben (zitiert im AEV-Forum, 16.10.).",
-   "schwer": false
-  },
-  {
-   "text": "Krefeld ohne Percy und Weiß am 15.10. in Wolfsburg. Grund nicht gemeldet; Status für Sonntag gegen Berlin offen.",
-   "schwer": false
-  },
-  {
-   "text": "Wolfsburg erneut ohne Melchiori, Ramoser und Veber (15.10.). Grund nicht gemeldet.",
-   "schwer": false
-  },
-  {
-   "text": "Mannheim rotiert im Tor zwischen Franzreb und Hildebrand. Zuletzt Franzreb freitags, Hildebrand sonntags; für Sonntag nicht bestätigt.",
-   "schwer": false
   },
   {
    "text": "Iserlohn ohne Maximilian Eisenmenger. Unterkörperverletzung vom 04.10., Ausfall bis nach der Deutschland-Cup-Pause.",
@@ -267,10 +200,6 @@
    "text": "Alexander Broadhurst (Bremerhaven) fällt mehrere Wochen aus. Verletzt am 27.09. in Wolfsburg, kein Rückkehrdatum.",
    "schwer": false,
    "bis": "2026-10-25"
-  },
-  {
-   "text": "Austin Magera gesperrt. 1 Spiel(e) laut DEL-Strafbank (gemeldet 2026-10-17), letztes gesperrtes Spiel am 2026-10-18.",
-   "schwer": true
   }
  ],
  "quellen": [
@@ -933,10 +862,6 @@
   {
    "titel": "Schwarzwälder Bote: Wild Wings in Köln",
    "url": "https://schwarzwaelder-bote.de/sport/schwenninger-wild-wings/schwenninger-wild-wings-in-koeln-schwaene-erkaempfen-sich-verdient-einen-eminent-wichtigen-sieg-79553966.html"
-  },
-  {
-   "titel": "DEL-Strafbank: Ein Spiel Sperre für Austin Magera, Geldstrafen gegen Bremerhaven und Nürnberg",
-   "url": "https://www.penny-del.org/fair-play/strafbank/detail/ein-spiel-sperre-fuer-austin-magera-geldstrafen-gegen-bremerhaven-und-nuernberg"
   }
  ],
  "odds": {},
