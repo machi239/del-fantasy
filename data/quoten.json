@@ -1,24 +1,36 @@
 {
- "stand": "18.10.2026 18:43",
+ "stand": "19.10.2026 13:41",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
-  "bet365",
   "unibet"
  ],
  "spiele": {
-  "14-12": {
-   "spiel": "Nürnberg Ice Tigers - EHC Red Bull München",
-   "beginn": "18.10.2026 19:00",
+  "1-8": {
+   "spiel": "ERC Ingolstadt - Grizzlys Wolfsburg",
+   "beginn": "20.10.2026 19:30",
    "buchmacher": [
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.303,
-   "p_draw60": 0.237,
-   "p_away60": 0.46,
-   "p_home_inkl_ot": 0.415,
-   "total": 6.03
+   "p_home60": 0.54,
+   "p_draw60": 0.199,
+   "p_away60": 0.261,
+   "p_home_inkl_ot": 0.651,
+   "total": 6.13
+  },
+  "11-15": {
+   "spiel": "Kölner Haie - Schwenninger Wild Wings",
+   "beginn": "20.10.2026 19:30",
+   "buchmacher": [
+    "pinnacle",
+    "unibet"
+   ],
+   "p_home60": 0.639,
+   "p_draw60": 0.175,
+   "p_away60": 0.187,
+   "p_home_inkl_ot": 0.737,
+   "total": 6.26
   }
  }
 }
