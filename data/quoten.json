@@ -1,5 +1,5 @@
 {
- "stand": "21.10.2026 13:41",
+ "stand": "21.10.2026 18:47",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -10,12 +10,13 @@
    "spiel": "Schwenninger Wild Wings - Pinguins Bremerhaven",
    "beginn": "23.10.2026 19:30",
    "buchmacher": [
-    "pinnacle"
+    "pinnacle",
+    "bet365"
    ],
-   "p_home60": 0.447,
-   "p_draw60": 0.239,
-   "p_away60": 0.314,
-   "p_home_inkl_ot": 0.58,
+   "p_home60": 0.473,
+   "p_draw60": 0.223,
+   "p_away60": 0.303,
+   "p_home_inkl_ot": 0.594,
    "total": 5.51
   },
   "3-13": {
@@ -38,33 +39,35 @@
     "pinnacle",
     "bet365"
    ],
-   "p_home60": 0.533,
-   "p_draw60": 0.21,
-   "p_away60": 0.258,
-   "p_home_inkl_ot": 0.646,
-   "total": 5.82
+   "p_home60": 0.526,
+   "p_draw60": 0.211,
+   "p_away60": 0.262,
+   "p_home_inkl_ot": 0.642,
+   "total": 5.81
   },
   "2-44": {
    "spiel": "Adler Mannheim - Löwen Frankfurt",
    "beginn": "23.10.2026 19:30",
    "buchmacher": [
-    "pinnacle"
+    "pinnacle",
+    "bet365"
    ],
-   "p_home60": 0.677,
-   "p_draw60": 0.177,
-   "p_away60": 0.146,
-   "p_home_inkl_ot": 0.783,
+   "p_home60": 0.702,
+   "p_draw60": 0.16,
+   "p_away60": 0.139,
+   "p_home_inkl_ot": 0.788,
    "total": 5.86
   },
   "12-7": {
    "spiel": "EHC Red Bull München - Iserlohn Roosters",
    "beginn": "23.10.2026 19:30",
    "buchmacher": [
-    "pinnacle"
+    "pinnacle",
+    "bet365"
    ],
-   "p_home60": 0.694,
-   "p_draw60": 0.166,
-   "p_away60": 0.14,
+   "p_home60": 0.705,
+   "p_draw60": 0.154,
+   "p_away60": 0.141,
    "p_home_inkl_ot": 0.793,
    "total": 6.27
   },
@@ -88,11 +91,11 @@
     "pinnacle",
     "bet365"
    ],
-   "p_home60": 0.333,
-   "p_draw60": 0.214,
-   "p_away60": 0.453,
-   "p_home_inkl_ot": 0.44,
-   "total": 6.07
+   "p_home60": 0.355,
+   "p_draw60": 0.216,
+   "p_away60": 0.429,
+   "p_home_inkl_ot": 0.461,
+   "total": 6.06
   }
  }
 }
