@@ -1,9 +1,10 @@
 {
- "stand": "21.10.2026 18:47",
+ "stand": "22.10.2026 13:41",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
-  "bet365"
+  "bet365",
+  "unibet"
  ],
  "spiele": {
   "15-9": {
@@ -11,91 +12,98 @@
    "beginn": "23.10.2026 19:30",
    "buchmacher": [
     "pinnacle",
-    "bet365"
+    "bet365",
+    "unibet"
    ],
-   "p_home60": 0.473,
-   "p_draw60": 0.223,
-   "p_away60": 0.303,
-   "p_home_inkl_ot": 0.594,
-   "total": 5.51
+   "p_home60": 0.455,
+   "p_draw60": 0.22,
+   "p_away60": 0.325,
+   "p_home_inkl_ot": 0.57,
+   "total": 5.61
   },
   "3-13": {
    "spiel": "Eisbären Berlin - Augsburger Panther",
    "beginn": "23.10.2026 19:30",
    "buchmacher": [
     "pinnacle",
-    "bet365"
+    "bet365",
+    "unibet"
    ],
-   "p_home60": 0.671,
-   "p_draw60": 0.166,
-   "p_away60": 0.162,
-   "p_home_inkl_ot": 0.769,
-   "total": 5.94
+   "p_home60": 0.659,
+   "p_draw60": 0.17,
+   "p_away60": 0.171,
+   "p_home_inkl_ot": 0.757,
+   "total": 6.06
   },
   "14-5": {
    "spiel": "Nürnberg Ice Tigers - Krefeld Pinguine",
    "beginn": "23.10.2026 19:30",
    "buchmacher": [
     "pinnacle",
-    "bet365"
+    "bet365",
+    "unibet"
    ],
-   "p_home60": 0.526,
-   "p_draw60": 0.211,
-   "p_away60": 0.262,
-   "p_home_inkl_ot": 0.642,
-   "total": 5.81
+   "p_home60": 0.518,
+   "p_draw60": 0.216,
+   "p_away60": 0.266,
+   "p_home_inkl_ot": 0.635,
+   "total": 5.88
   },
   "2-44": {
    "spiel": "Adler Mannheim - Löwen Frankfurt",
    "beginn": "23.10.2026 19:30",
    "buchmacher": [
     "pinnacle",
-    "bet365"
+    "bet365",
+    "unibet"
    ],
-   "p_home60": 0.702,
-   "p_draw60": 0.16,
-   "p_away60": 0.139,
-   "p_home_inkl_ot": 0.788,
-   "total": 5.86
+   "p_home60": 0.677,
+   "p_draw60": 0.167,
+   "p_away60": 0.156,
+   "p_home_inkl_ot": 0.769,
+   "total": 6.0
   },
   "12-7": {
    "spiel": "EHC Red Bull München - Iserlohn Roosters",
    "beginn": "23.10.2026 19:30",
    "buchmacher": [
     "pinnacle",
-    "bet365"
+    "bet365",
+    "unibet"
    ],
-   "p_home60": 0.705,
-   "p_draw60": 0.154,
-   "p_away60": 0.141,
-   "p_home_inkl_ot": 0.793,
-   "total": 6.27
+   "p_home60": 0.693,
+   "p_draw60": 0.163,
+   "p_away60": 0.143,
+   "p_home_inkl_ot": 0.787,
+   "total": 6.26
   },
   "6-11": {
    "spiel": "Straubing Tigers - Kölner Haie",
    "beginn": "23.10.2026 19:30",
    "buchmacher": [
     "pinnacle",
-    "bet365"
+    "bet365",
+    "unibet"
    ],
-   "p_home60": 0.415,
-   "p_draw60": 0.222,
-   "p_away60": 0.363,
-   "p_home_inkl_ot": 0.523,
-   "total": 6.28
+   "p_home60": 0.389,
+   "p_draw60": 0.225,
+   "p_away60": 0.385,
+   "p_home_inkl_ot": 0.5,
+   "total": 6.1
   },
   "8-1": {
    "spiel": "Grizzlys Wolfsburg - ERC Ingolstadt",
    "beginn": "23.10.2026 19:30",
    "buchmacher": [
     "pinnacle",
-    "bet365"
+    "bet365",
+    "unibet"
    ],
-   "p_home60": 0.355,
-   "p_draw60": 0.216,
-   "p_away60": 0.429,
-   "p_home_inkl_ot": 0.461,
-   "total": 6.06
+   "p_home60": 0.362,
+   "p_draw60": 0.212,
+   "p_away60": 0.426,
+   "p_home_inkl_ot": 0.467,
+   "total": 6.1
   }
  }
 }
