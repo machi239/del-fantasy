@@ -63,15 +63,15 @@ spieltag,datum,uhrzeit,heim,gast,heim_id,gast_id,tore_heim,tore_gast,entscheidun
 9,2026-10-16,19:30,Löwen Frankfurt,Straubing Tigers,44,6,1,4,REG,beendet,4449,/statistik/spieldetails/16102026_loewen-frankfurt_gg_straubing-tigers_4449,ja
 9,2026-10-16,19:30,Pinguins Bremerhaven,Nürnberg Ice Tigers,9,14,2,1,REG,beendet,4451,/statistik/spieldetails/16102026_pinguins-bremerhaven_gg_nuernberg-ice-tigers_4451,ja
 9,2026-10-16,19:30,Schwenninger Wild Wings,ERC Ingolstadt,15,1,3,4,OT,beendet,4452,/statistik/spieldetails/16102026_schwenninger-wild-wings_gg_erc-ingolstadt_4452,ja
-10,2026-10-18,14:00,Krefeld Pinguine,Eisbären Berlin,5,3,,,,offen,,,
-10,2026-10-18,14:00,Löwen Frankfurt,Iserlohn Roosters,44,7,,,,offen,,,
-10,2026-10-18,14:00,Straubing Tigers,Grizzlys Wolfsburg,6,8,,,,offen,,,
-10,2026-10-18,16:30,Adler Mannheim,Schwenninger Wild Wings,2,15,,,,offen,,,
-10,2026-10-18,16:30,ERC Ingolstadt,Augsburger Panther,1,13,,,,offen,,,
-10,2026-10-18,16:30,Kölner Haie,Pinguins Bremerhaven,11,9,,,,offen,,,
-10,2026-10-18,19:00,Nürnberg Ice Tigers,EHC Red Bull München,14,12,,,,offen,,,
-46,2026-10-20,19:30,ERC Ingolstadt,Grizzlys Wolfsburg,1,8,,,,offen,,,
-49,2026-10-20,19:30,Kölner Haie,Schwenninger Wild Wings,11,15,,,,offen,,,
+10,2026-10-18,14:00,Krefeld Pinguine,Eisbären Berlin,5,3,0,4,REG,beendet,4454,/statistik/spieldetails/18102026_krefeld-pinguine_gg_eisbaeren-berlin_4454,ja
+10,2026-10-18,14:00,Löwen Frankfurt,Iserlohn Roosters,44,7,4,1,REG,beendet,4455,/statistik/spieldetails/18102026_loewen-frankfurt_gg_iserlohn-roosters_4455,ja
+10,2026-10-18,14:00,Straubing Tigers,Grizzlys Wolfsburg,6,8,3,2,REG,beendet,4457,/statistik/spieldetails/18102026_straubing-tigers_gg_grizzlys-wolfsburg_4457,ja
+10,2026-10-18,16:30,Adler Mannheim,Schwenninger Wild Wings,2,15,1,2,REG,beendet,4456,/statistik/spieldetails/18102026_adler-mannheim_gg_schwenninger-wild-wings_4456,ja
+10,2026-10-18,16:30,ERC Ingolstadt,Augsburger Panther,1,13,6,3,REG,beendet,4458,/statistik/spieldetails/18102026_erc-ingolstadt_gg_augsburger-panther_4458,ja
+10,2026-10-18,16:30,Kölner Haie,Pinguins Bremerhaven,11,9,4,1,REG,beendet,4453,/statistik/spieldetails/18102026_koelner-haie_gg_pinguins-bremerhaven_4453,ja
+10,2026-10-18,19:00,Nürnberg Ice Tigers,EHC Red Bull München,14,12,6,2,REG,beendet,4459,/statistik/spieldetails/18102026_nuernberg-ice-tigers_gg_ehc-red-bull-muenchen_4459,ja
+46,2026-10-20,19:30,ERC Ingolstadt,Grizzlys Wolfsburg,1,8,3,2,REG,beendet,4460,/statistik/spieldetails/20102026_erc-ingolstadt_gg_grizzlys-wolfsburg_4460,ja
+49,2026-10-20,19:30,Kölner Haie,Schwenninger Wild Wings,11,15,2,3,OT,beendet,4731,/statistik/spieldetails/20102026_koelner-haie_gg_schwenninger-wild-wings_4731,ja
 11,2026-10-23,19:30,Adler Mannheim,Löwen Frankfurt,2,44,,,,offen,,,
 11,2026-10-23,19:30,EHC Red Bull München,Iserlohn Roosters,12,7,,,,offen,,,
 11,2026-10-23,19:30,Eisbären Berlin,Augsburger Panther,3,13,,,,offen,,,
