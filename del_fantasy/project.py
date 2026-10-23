@@ -187,11 +187,11 @@ def project(round_games, schedule, game_rows, options, odds=None, availability=N
 
     hist = defaultdict(list)
     for r in sorted(game_rows, key=lambda r: (r["datum"], int(r["game_id"]))):
-        if r["spieler_id"] and str(r["gespielt"]) == "True":
+        if str(r["spieler_id"]).isdigit() and str(r["gespielt"]) == "True":
             hist[int(r["spieler_id"])].append(r)
     dressed = defaultdict(list)   # alle Meldungen inkl. Backup-Torhueter
     for r in sorted(game_rows, key=lambda r: (r["datum"], int(r["game_id"]))):
-        if r["spieler_id"]:
+        if str(r["spieler_id"]).isdigit():
             dressed[int(r["spieler_id"])].append(r)
     team_games = defaultdict(set)
     for r in game_rows:
