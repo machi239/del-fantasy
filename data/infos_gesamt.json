@@ -1,5 +1,5 @@
 {
- "spieltag": 11,
+ "spieltag": 12,
  "availability": {
   "2804": 0,
   "1753": 0,
@@ -115,93 +115,9 @@
   "27": 1,
   "1850": 1
  },
- "goalie_start": {
-  "3424": 0.85,
-  "1594": 0.15,
-  "1985": 0.6,
-  "500": 0.4
- },
- "notizen": {
-  "442": "Nach Verletzungspause seit 18.10. zurück, traf am 20.10.",
-  "2881": "Fehlte nur am 16.10., seit 18.10. wieder dabei.",
-  "3576": "Laut ERC angeschlagen, fehlte am 18. und 20.10.",
-  "1404": "Am 18.10. nach dreiwöchiger Pause zurück.",
-  "2489": "Am 16. und 18.10. pausiert (überzählig), keine Verletzung gemeldet.",
-  "1903": "Seit 09.10. überzählig, keine Verletzung gemeldet.",
-  "4332": "Am 18.10. pausiert, Grund unbekannt.",
-  "3412": "Am 18.10. aus dem Kader rotiert (7. Verteidiger).",
-  "3411": "Leicht angeschlagen, fehlte am 16. und 18.10.",
-  "2510": "fehlte zuletzt, Grund unbekannt",
-  "1674": "fehlte zuletzt, Grund unbekannt (seit 11.10., auch am 18.10. nicht im Kader)",
-  "1901": "Oberkörperverletzung seit 25.09., fehlte noch am 18.10.; Rückkehr unklar.",
-  "1655": "Seit 16.10. nach Verletzung zurück.",
-  "4316": "fehlte zuletzt, Grund unbekannt (seit 11.10.)",
-  "2420": "fehlte zuletzt, Grund unbekannt (evtl. überzählig)",
-  "3528": "Wohl überzählig: laut Verein außer Eisenmenger voller Kader.",
-  "1587": "Seit 18.10. wieder im Lineup.",
-  "3128": "fehlte zuletzt, Grund unbekannt (seit 11.10.)",
-  "3122": "fehlte zuletzt, Grund unbekannt (18./20.10.)",
-  "1360": "fehlte zuletzt, Grund unbekannt (18./20.10.)",
-  "3553": "fehlte zuletzt, Grund unbekannt",
-  "4897": "Trotz Humpeln am 14.10. am 16. und 18.10. gespielt.",
-  "130": "Seit 16.10. nach Schulterverletzung zurück.",
-  "2172": "Laut Haie-Liveticker 20.10. verletzt, Dauer unbekannt.",
-  "1678": "Am 20.10. krank.",
-  "1799": "Am 20.10. krank.",
-  "3569": "Am 20.10. nicht dabei, Grund unbekannt.",
-  "3309": "Fehlte am 16.10. nur wegen verlorener Ausrüstung.",
-  "4323": "Kleine Verletzung seit 02.10.; laut Fan-Forum (inoffiziell) bis auf Weiteres raus.",
-  "3530": "Laut AEV-Fan-Forum (inoffiziell, 17:33) heute wieder dabei.",
-  "4324": "Am 16.10. verletzt (Knie), fehlte am 18.10.; fraglich.",
-  "1313": "Verletzt (Meldung 18.10.), Art und Dauer unbekannt.",
-  "2194": "Spielt per Förderlizenz in Ravensburg (DEL2).",
-  "4349": "Ein-Spiel-Sperre am 18.10. abgesessen.",
-  "3323": "Laut Wild-Wings-Vorschau 19.10. verletzt (wie Hungerecker, Lebster); Dauer unbekannt.",
-  "478": "Am 16.10. nur überzählig, seitdem wieder dabei.",
-  "4335": "Am 18.10. überzählig.",
-  "3585": "Fehlte nur am 16.10., seit 18.10. wieder dabei.",
-  "3424": "Start angekündigt (Vorbericht), offiziell noch nicht bestätigt.",
-  "1594": "Startete am 20.10. in Köln; laut Vereins-Vorbericht spielt am 23.10. Wolf.",
-  "1069": "Nr. 1, startete alle DEL-Spiele seit 02.10., Shutout am 18.10. in Krefeld.",
-  "1985": "Mannheim rotiert: Hildebrand 16.10., Franzreb 18.10. gegen Schwenningen; kein angekündigter Starter für 23.10.",
-  "599": "Nürnberg rotiert: Janett am 16.10., Treutle am 18.10.; ein Wett-Vorbericht erwartet Treutle (inoffiziell).",
-  "1982": "Nach OP (21.10.) zwei bis drei Monate raus.",
-  "88": "Fehlte am 18.10. in Krefeld (nicht im Boxscore), Grund unbekannt; zuvor jedes Spiel.",
-  "122": "Bibeau startete am 18.10. in Nürnberg und wurde nach 29 Min. durch Niederberger ersetzt; Starter für 23.10. nicht angekündigt.",
-  "4342": "Krefeld: Jatkola startete am 18.10. gegen Berlin; Starter für 23.10. offen (Bick Alternative).",
-  "2209": "Spielte am 18.10. in Krefeld (Starting Six), keine Ausfallmeldung.",
-  "3950": "Spielte am 18.10. gegen Berlin (21:55 Min.), keine Ausfallmeldung.",
-  "1211": "Laut AEV-Fan-Forum (inoffiziell, 17:33) heute im Tor."
- },
+ "goalie_start": {},
+ "notizen": {},
  "risiken": [
-  {
-   "text": "Last-Minute-Stand 18:52. Offizielle Aufstellungen berücksichtigt: keine.",
-   "schwer": false
-  },
-  {
-   "text": "Aufstellung von Adler Mannheim, Löwen Frankfurt, EHC Red Bull München, Iserlohn Roosters, Eisbären Berlin, Augsburger Panther, Grizzlys Wolfsburg, ERC Ingolstadt, Nürnberg Ice Tigers, Krefeld Pinguine, Schwenninger Wild Wings, Pinguins Bremerhaven, Straubing Tigers und Kölner Haie noch nicht veröffentlicht. DEL-Boxscore Mannheim–Frankfurt (ID 4464) auch im zweiten Durchgang um 18:52 leer; Medien-Ticker (sportschau, ran) zeigen nur Saisonkader.",
-   "schwer": false
-  },
-  {
-   "text": "Augsburg laut inoffizieller Fan-Meldung mit Ancicka im Tor. AEV-Forum 17:33: Ancicka startet, Lambert wieder dabei; nicht offiziell bestätigt.",
-   "schwer": false
-  },
-  {
-   "text": "Alle 21 Spieler der Aufstellung zuletzt im Einsatz. Boxscores vom 18.10. (Mannheim, Straubing, Berlin, Krefeld, München, Schwenningen) und Wild-Wings-Bericht vom 20.10. zeigen keine Ausfälle; Stand 23.10., 12 Uhr keine neuen Verletzungsmeldungen der betroffenen Vereine.",
-   "schwer": false
-  },
-  {
-   "text": "Krefeld ohne Oliver Mebus und Yannick Proske. Beide fehlten am 18.10. gegen Berlin ohne offizielle Begründung; Torhüter-Start (Jatkola oder Bick) offen.",
-   "schwer": false
-  },
-  {
-   "text": "Simon Wolf (Schwenningen) als Starter weiter nur angekündigt, nicht bestätigt. Laut Wild-Wings-Vorbericht spielt er gegen Bremerhaven; Bestätigung bis 18:52 nicht gefunden. Keine gleich teure Torhüter-Alternative in der Liste.",
-   "schwer": false
-  },
-  {
-   "text": "Frederik Tiffels (Berlin) erhielt gegen München eine Spieldauer-Disziplinarstrafe. Eine Sperre ist bisher nicht verhängt.",
-   "schwer": false
-  },
   {
    "text": "Dominik Kahun (München) fällt bis nach der Länderspielpause aus. Unterkörperverletzung, Rückkehr frühestens am 13.11.; verpasst auch den Deutschland Cup.",
    "schwer": true,
@@ -326,18 +242,6 @@
    "text": "Alexander Broadhurst (Bremerhaven) fällt mehrere Wochen aus. Verletzt am 27.09. in Wolfsburg, kein Rückkehrdatum.",
    "schwer": false,
    "bis": "2026-10-25"
-  },
-  {
-   "text": "Torhüter-Rotation bei mehreren Teams. Mannheim (Hildebrand 16.10., Franzreb 18.10.), Nürnberg (Janett 16.10., Treutle 18.10.), München (Bibeau startete 18.10., nach 29 Min. Niederberger), Krefeld (Jatkola/Bick), Augsburg (Ancicka/Jones) und Iserlohn (Hane/Jenike); Starter am 23.10. noch offen.",
-   "schwer": false
-  },
-  {
-   "text": "Augsburg mit drei angeschlagenen Stürmern vor Berlin. Malone, Lambert und Toporowski fehlten am 18.10. und sind für Freitag fraglich.",
-   "schwer": false
-  },
-  {
-   "text": "Datenstand im Repo veraltet. Die Spiele vom 18.10. stehen in spielplan.csv noch als offen, spielerspiele.csv endet am 16.10.; Formwerte berücksichtigen die letzten Spiele nicht.",
-   "schwer": false
   }
  ],
  "quellen": [
