@@ -2696,7 +2696,7 @@ game_id,spieltag,datum,team_id,gegner_id,heim,spieler_id,name,nr,pos,gespielt,st
 4454,10,2026-10-18,3,5,False,3533,Adam Smith,4,def,True,False,0,0,2,0,2,1,0,0,1011,4,226,24,0,0,0,,False,2.9
 4454,10,2026-10-18,3,5,False,4701,Brandon Davidson,44,def,True,False,0,1,2,0,0,0,0,0,992,0,227,24,0,0,0,,False,3.0
 4454,10,2026-10-18,3,5,False,1425,Eric Mik,12,def,True,False,0,1,1,0,3,1,0,0,1010,0,80,23,0,0,0,,False,3.0
-4454,10,2026-10-18,3,5,False,None,Gregor Stocker,46,def,True,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,False,0.0
+4454,10,2026-10-18,3,5,False,4160,Gregor Stocker,46,def,True,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,False,0.0
 4454,10,2026-10-18,3,5,False,506,Jonas Müller,18,def,True,True,0,0,1,2,4,1,0,0,1445,97,153,27,0,0,0,,False,1.1
 4454,10,2026-10-18,3,5,False,512,Kai Wissmann,6,def,True,True,0,0,1,0,2,0,0,0,1461,125,208,26,0,0,0,,False,1.2
 4454,10,2026-10-18,3,5,False,1738,Korbinian Geibel,40,def,True,False,0,0,1,0,4,0,0,0,976,0,29,22,0,0,0,,False,1.4
