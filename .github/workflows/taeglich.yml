@@ -34,6 +34,7 @@ jobs:
           SHEET_ID: ${{ secrets.SHEET_ID }}
         run: python scripts/update.py ${{ inputs.neu && '--neu' || '' }}
       - name: Ergebnisse speichern
+        if: ${{ !cancelled() }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
