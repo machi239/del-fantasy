@@ -128,7 +128,7 @@ def build_matrix(schedule, game_rows, options):
     per_player = defaultdict(list)
     info = {}
     for r in game_rows:
-        pid = int(r["spieler_id"]) if r["spieler_id"] else None
+        pid = int(r["spieler_id"]) if str(r["spieler_id"]).isdigit() else None
         if pid is None:
             continue
         per_player[pid].append(r)
@@ -188,7 +188,7 @@ def build_check(schedule, game_rows, options):
     counted = {g["game_id"] for g in schedule if g["game_id"] and g["spieltag"] <= current}
     calc = defaultdict(float)
     for r in game_rows:
-        if r["spieler_id"] and int(r["game_id"]) in counted:
+        if str(r["spieler_id"]).isdigit() and int(r["game_id"]) in counted:
             calc[int(r["spieler_id"])] += float(r["punkte"])
     out = []
     for pid, o in options.items():
@@ -200,6 +200,26 @@ def build_check(schedule, game_rows, options):
                     "fantasy": fs, "differenz": diff, "ok": "ja" if abs(diff) < 0.05 else "PRUEFEN"})
     out.sort(key=lambda r: (r["ok"] == "ja", -abs(r["differenz"])))
     return out, ["spieler_id", "name", "berechnet", "fantasy", "differenz", "ok"]
+
+
+def ids_ergaenzen(rows, options):
+    """Fehlende Spieler-IDs (Spieler ohne Profil-Link im Spielbericht) ueber Name und Team ergaenzen."""
+    nach_name_team = {(o["name"], str(o.get("team"))): pid for pid, o in options.items()}
+    nach_name = {}
+    for pid, o in options.items():
+        nach_name.setdefault(o["name"], []).append(pid)
+    for r in rows:
+        if str(r.get("spieler_id", "")).isdigit():
+            continue
+        pid = nach_name_team.get((r["name"], str(r["team_id"])))
+        if pid is None and len(nach_name.get(r["name"], [])) == 1:
+            pid = nach_name[r["name"]][0]
+        if pid is not None:
+            print(f"  Spieler-ID ergaenzt: {r['name']} -> {pid}")
+            r["spieler_id"] = str(pid)
+        else:
+            print(f"  WARNUNG: keine Spieler-ID fuer {r['name']} (Team {r['team_id']}), Zeile wird ignoriert")
+    return [r for r in rows if str(r.get("spieler_id", "")).isdigit()]
 
 
 def main():
@@ -230,6 +250,7 @@ def main():
         game_rows.extend({k: str(v) for k, v in r.items()} for r in rows)
         done.add(g["game_id"])
 
+    game_rows = ids_ergaenzen(game_rows, options)
     for g in schedule:
         g["ausgewertet"] = "ja" if g["game_id"] in done else ""
     game_rows.sort(key=lambda r: (r["datum"], int(r["game_id"]), r["team_id"], r["pos"], r["name"]))
