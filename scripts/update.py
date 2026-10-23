@@ -12,6 +12,7 @@ import csv
 import json
 import os
 import sys
+import traceback
 import time
 from collections import defaultdict
 from datetime import datetime, timedelta
@@ -214,11 +215,18 @@ def main():
 
     new_games = [g for g in schedule if is_final(g, now) and g["game_id"] not in done]
     print(f"Neu auszuwerten: {len(new_games)} Spiele")
+    fehler = []
     for g in new_games:
         print(f"  ST{g['spieltag']} {g['datum']} {g['heim']} - {g['gast']} {g['tore_heim']}:{g['tore_gast']}")
-        overview = parse_overview(fetch(g["url"]))
-        box = parse_boxscore(fetch(g["url"].rstrip("/") + "/boxscore"))
-        rows = score_game(g, box, overview, fantasy_pos)
+        try:
+            overview = parse_overview(fetch(g["url"]))
+            box = parse_boxscore(fetch(g["url"].rstrip("/") + "/boxscore"))
+            rows = score_game(g, box, overview, fantasy_pos)
+        except Exception as e:  # ein fehlerhaftes Spiel soll den Lauf nicht stoppen
+            fehler.append(f"ST{g['spieltag']} {g['datum']} {g['heim']} - {g['gast']}: {type(e).__name__}: {e}")
+            print(f"  FEHLER, wird beim naechsten Lauf erneut versucht: {fehler[-1]}")
+            traceback.print_exc()
+            continue
         game_rows.extend({k: str(v) for k, v in r.items()} for r in rows)
         done.add(g["game_id"])
 
@@ -249,11 +257,28 @@ def main():
             tables.append((config.TAB_MASTER, master_cols, list(options.values())))
         if check:
             tables.append((config.TAB_CHECK, ccols, check))
-        push_tables(tables, stamp=now.strftime("%d.%m.%Y %H:%M"))
-        print("Google Sheet aktualisiert.")
+        try:
+            push_tables(tables, stamp=now.strftime("%d.%m.%Y %H:%M"))
+            print("Google Sheet aktualisiert.")
+        except Exception as e:  # CSV-Dateien trotzdem speichern
+            fehler.append(f"Google Sheet: {type(e).__name__}: {e}")
+            print(f"FEHLER beim Google Sheet: {fehler[-1]}")
+            traceback.print_exc()
     else:
         print("Kein Google-Zugang gesetzt, nur CSV-Dateien geschrieben.")
+    if fehler:
+        with open(os.path.join(DATA, "fehler_datenabzug.txt"), "w", encoding="utf-8") as f:
+            f.write(now.strftime("%d.%m.%Y %H:%M") + "\n" + "\n".join(fehler) + "\n")
+        print(f"{len(fehler)} Fehler, Details in data/fehler_datenabzug.txt")
+        sys.exit(1)
+    elif os.path.exists(os.path.join(DATA, "fehler_datenabzug.txt")):
+        os.remove(os.path.join(DATA, "fehler_datenabzug.txt"))
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:  # unerwarteter Abbruch: Grund ins Repo schreiben, damit er lesbar ist
+        with open(os.path.join(DATA, "fehler_datenabzug.txt"), "w", encoding="utf-8") as f:
+            f.write(datetime.now(TZ).strftime("%d.%m.%Y %H:%M") + "\nAbbruch: " + traceback.format_exc())
+        raise
