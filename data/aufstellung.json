@@ -1,11 +1,11 @@
 {
  "spieltag": 11,
  "deadline": "Fri 23.10.2026 19:30",
- "erstellt": "23.10.2026 11:32",
+ "erstellt": "23.10.2026 11:58",
  "budget": 60,
  "pucks": 60,
  "auslaender": 9,
- "xp_gesamt": 50.1,
+ "xp_gesamt": 50.5,
  "spiele": [
   {
    "spiel": "Adler Mannheim - Löwen Frankfurt",
@@ -137,7 +137,7 @@
    "ppg": 2.82,
    "toi_faktor": 1.0,
    "matchup": 1.17,
-   "p_einsatz": 1.0,
+   "p_einsatz": 1,
    "team": "Adler Mannheim",
    "gegner": "Löwen Frankfurt",
    "wert_pro_puck": 0.66
@@ -158,7 +158,7 @@
    "ppg": 2.67,
    "toi_faktor": 1.01,
    "matchup": 1.17,
-   "p_einsatz": 1.0,
+   "p_einsatz": 1,
    "team": "Adler Mannheim",
    "gegner": "Löwen Frankfurt",
    "wert_pro_puck": 0.63
@@ -179,7 +179,7 @@
    "ppg": 2.5,
    "toi_faktor": 1.01,
    "matchup": 1.21,
-   "p_einsatz": 1.0,
+   "p_einsatz": 1,
    "team": "EHC Red Bull München",
    "gegner": "Iserlohn Roosters",
    "wert_pro_puck": 0.61
@@ -221,7 +221,7 @@
    "ppg": 2.33,
    "toi_faktor": 1.05,
    "matchup": 0.92,
-   "p_einsatz": 1.0,
+   "p_einsatz": 1,
    "team": "Krefeld Pinguine",
    "gegner": "Nürnberg Ice Tigers",
    "wert_pro_puck": 1.12
@@ -242,7 +242,7 @@
    "ppg": 2.0,
    "toi_faktor": 0.93,
    "matchup": 1.17,
-   "p_einsatz": 1.0,
+   "p_einsatz": 1,
    "team": "Eisbären Berlin",
    "gegner": "Augsburger Panther",
    "wert_pro_puck": 0.73
@@ -263,7 +263,7 @@
    "ppg": 1.68,
    "toi_faktor": 1.14,
    "matchup": 1.01,
-   "p_einsatz": 1.0,
+   "p_einsatz": 1,
    "team": "Straubing Tigers",
    "gegner": "Kölner Haie",
    "wert_pro_puck": 0.97
@@ -284,7 +284,7 @@
    "ppg": 4.17,
    "toi_faktor": 1.0,
    "matchup": 1.17,
-   "p_einsatz": 1.0,
+   "p_einsatz": 1,
    "team": "Eisbären Berlin",
    "gegner": "Augsburger Panther",
    "wert_pro_puck": 0.98
@@ -305,10 +305,31 @@
    "ppg": 3.58,
    "toi_faktor": 0.93,
    "matchup": 1.17,
-   "p_einsatz": 1.0,
+   "p_einsatz": 1,
    "team": "Eisbären Berlin",
    "gegner": "Augsburger Panther",
    "wert_pro_puck": 0.78
+  },
+  {
+   "spieler_id": 2121,
+   "name": "Jean-Christophe Beaudin",
+   "team_id": 6,
+   "pos": "for",
+   "preis": 3,
+   "dt_pass": false,
+   "gewaehlt_pct": 10.4,
+   "spiele": 8,
+   "xp": 2.61,
+   "gegner_id": 11,
+   "heim": true,
+   "hinweis": "",
+   "ppg": 2.53,
+   "toi_faktor": 1.02,
+   "matchup": 1.01,
+   "p_einsatz": 1,
+   "team": "Straubing Tigers",
+   "gegner": "Kölner Haie",
+   "wert_pro_puck": 0.87
   },
   {
    "spieler_id": 3950,
@@ -332,27 +353,6 @@
    "wert_pro_puck": 0.78
   },
   {
-   "spieler_id": 2121,
-   "name": "Jean-Christophe Beaudin",
-   "team_id": 6,
-   "pos": "for",
-   "preis": 3,
-   "dt_pass": false,
-   "gewaehlt_pct": 10.4,
-   "spiele": 8,
-   "xp": 2.32,
-   "gegner_id": 11,
-   "heim": true,
-   "hinweis": "Einsatzquote 89%",
-   "ppg": 2.53,
-   "toi_faktor": 1.02,
-   "matchup": 1.01,
-   "p_einsatz": 0.89,
-   "team": "Straubing Tigers",
-   "gegner": "Kölner Haie",
-   "wert_pro_puck": 0.77
-  },
-  {
    "spieler_id": 2504,
    "name": "Tom Kühnhackl",
    "team_id": 2,
@@ -368,7 +368,7 @@
    "ppg": 1.79,
    "toi_faktor": 1.01,
    "matchup": 1.17,
-   "p_einsatz": 1.0,
+   "p_einsatz": 1,
    "team": "Adler Mannheim",
    "gegner": "Löwen Frankfurt",
    "wert_pro_puck": 0.7
@@ -389,7 +389,7 @@
    "ppg": 1.96,
    "toi_faktor": 1.01,
    "matchup": 1.0,
-   "p_einsatz": 1.0,
+   "p_einsatz": 1,
    "team": "Schwenninger Wild Wings",
    "gegner": "Pinguins Bremerhaven",
    "wert_pro_puck": 0.98
@@ -410,7 +410,7 @@
    "ppg": 1.73,
    "toi_faktor": 0.94,
    "matchup": 1.17,
-   "p_einsatz": 1.0,
+   "p_einsatz": 1,
    "team": "Adler Mannheim",
    "gegner": "Löwen Frankfurt",
    "wert_pro_puck": 0.63
@@ -431,7 +431,7 @@
    "ppg": 2.01,
    "toi_faktor": 0.91,
    "matchup": 1.01,
-   "p_einsatz": 1.0,
+   "p_einsatz": 1,
    "team": "Straubing Tigers",
    "gegner": "Kölner Haie",
    "wert_pro_puck": 0.92
@@ -452,7 +452,7 @@
    "ppg": 1.66,
    "toi_faktor": 1.08,
    "matchup": 0.92,
-   "p_einsatz": 1.0,
+   "p_einsatz": 1,
    "team": "Krefeld Pinguine",
    "gegner": "Nürnberg Ice Tigers",
    "wert_pro_puck": 0.82
@@ -473,7 +473,7 @@
    "ppg": 1.52,
    "toi_faktor": 1.03,
    "matchup": 0.92,
-   "p_einsatz": 1.0,
+   "p_einsatz": 1,
    "team": "Krefeld Pinguine",
    "gegner": "Nürnberg Ice Tigers",
    "wert_pro_puck": 0.72
@@ -487,17 +487,17 @@
    "dt_pass": true,
    "gewaehlt_pct": 11.5,
    "spiele": 9,
-   "xp": 1.12,
+   "xp": 1.24,
    "gegner_id": 44,
    "heim": true,
-   "hinweis": "Eiszeit steigt, Einsatzquote 90%",
+   "hinweis": "Eiszeit steigt",
    "ppg": 0.96,
    "toi_faktor": 1.1,
    "matchup": 1.17,
-   "p_einsatz": 0.9,
+   "p_einsatz": 1,
    "team": "Adler Mannheim",
    "gegner": "Löwen Frankfurt",
-   "wert_pro_puck": 1.12
+   "wert_pro_puck": 1.24
   },
   {
    "spieler_id": 1850,
@@ -515,7 +515,7 @@
    "ppg": 1.21,
    "toi_faktor": 0.93,
    "matchup": 1.0,
-   "p_einsatz": 1.0,
+   "p_einsatz": 1,
    "team": "Schwenninger Wild Wings",
    "gegner": "Pinguins Bremerhaven",
    "wert_pro_puck": 1.11

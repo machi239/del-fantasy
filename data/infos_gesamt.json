@@ -95,7 +95,25 @@
   "478": 1,
   "4335": 0.5,
   "3585": 1,
-  "1345": 1
+  "1345": 1,
+  "88": 0.5,
+  "2411": 1,
+  "1611": 1,
+  "1525": 1,
+  "2504": 1,
+  "1856": 1,
+  "1987": 1,
+  "1350": 1,
+  "931": 1,
+  "506": 1,
+  "3410": 1,
+  "2209": 1,
+  "2121": 1,
+  "4318": 1,
+  "1811": 1,
+  "3557": 1,
+  "27": 1,
+  "1850": 1
  },
  "goalie_start": {
   "3424": 0.85,
@@ -114,7 +132,7 @@
   "3412": "Am 18.10. aus dem Kader rotiert (7. Verteidiger).",
   "3411": "Leicht angeschlagen, fehlte am 16. und 18.10.",
   "2510": "fehlte zuletzt, Grund unbekannt",
-  "1674": "fehlte zuletzt, Grund unbekannt (seit 11.10.)",
+  "1674": "fehlte zuletzt, Grund unbekannt (seit 11.10., auch am 18.10. nicht im Kader)",
   "1901": "Oberkörperverletzung seit 25.09., fehlte noch am 18.10.; Rückkehr unklar.",
   "1655": "Seit 16.10. nach Verletzung zurück.",
   "4316": "fehlte zuletzt, Grund unbekannt (seit 11.10.)",
@@ -142,14 +160,35 @@
   "478": "Am 16.10. nur überzählig, seitdem wieder dabei.",
   "4335": "Am 18.10. überzählig.",
   "3585": "Fehlte nur am 16.10., seit 18.10. wieder dabei.",
-  "3424": "Laut Vereins-Vorbericht soll Wolf am 23.10. gegen Bremerhaven spielen.",
-  "1594": "Laut Vereins-Vorbericht startet am 23.10. Wolf.",
-  "1069": "Nr. 1, startete alle DEL-Spiele seit 02.10.",
+  "3424": "Wolf startete am 18.10. gegen Mannheim (60 Min.), Eriksson am 20.10. in Köln; laut Vereins-Vorbericht soll Wolf am 23.10. gegen Bremerhaven spielen.",
+  "1594": "Startete am 20.10. in Köln; laut Vereins-Vorbericht spielt am 23.10. Wolf.",
+  "1069": "Nr. 1, startete alle DEL-Spiele seit 02.10., Shutout am 18.10. in Krefeld.",
   "1985": "Mannheim rotiert: Hildebrand 16.10., Franzreb 18.10. gegen Schwenningen; kein angekündigter Starter für 23.10.",
-  "599": "Nürnberg rotiert: Janett am 16.10., Treutle am 18.10.",
-  "1982": "Nach OP (21.10.) zwei bis drei Monate raus."
+  "599": "Nürnberg rotiert: Janett am 16.10., Treutle am 18.10.; ein Wett-Vorbericht erwartet Treutle (inoffiziell).",
+  "1982": "Nach OP (21.10.) zwei bis drei Monate raus.",
+  "88": "Fehlte am 18.10. in Krefeld (nicht im Boxscore), Grund unbekannt; zuvor jedes Spiel.",
+  "122": "Bibeau startete am 18.10. in Nürnberg und wurde nach 29 Min. durch Niederberger ersetzt; Starter für 23.10. nicht angekündigt.",
+  "4342": "Krefeld: Jatkola startete am 18.10. gegen Berlin; Starter für 23.10. offen (Bick Alternative).",
+  "2209": "Spielte am 18.10. in Krefeld (Starting Six), keine Ausfallmeldung.",
+  "3950": "Spielte am 18.10. gegen Berlin (21:55 Min.), keine Ausfallmeldung."
  },
  "risiken": [
+  {
+   "text": "Alle 21 Spieler der Aufstellung zuletzt im Einsatz. Boxscores vom 18.10. (Mannheim, Straubing, Berlin, Krefeld, München, Schwenningen) und Wild-Wings-Bericht vom 20.10. zeigen keine Ausfälle; Stand 23.10., 12 Uhr keine neuen Verletzungsmeldungen der betroffenen Vereine.",
+   "schwer": false
+  },
+  {
+   "text": "Krefeld ohne Oliver Mebus und Yannick Proske. Beide fehlten am 18.10. gegen Berlin ohne offizielle Begründung; Torhüter-Start (Jatkola oder Bick) offen.",
+   "schwer": false
+  },
+  {
+   "text": "Simon Wolf (Schwenningen) als Starter nur angekündigt, nicht bestätigt. Laut Wild-Wings-Vorbericht spielt er am 23.10. gegen Bremerhaven, nachdem Eriksson am 20.10. in Köln hielt; Bestätigung im Last-Minute-Lauf (18:15 Uhr).",
+   "schwer": false
+  },
+  {
+   "text": "Frederik Tiffels (Berlin) erhielt gegen München eine Spieldauer-Disziplinarstrafe. Eine Sperre ist bisher nicht verhängt.",
+   "schwer": false
+  },
   {
    "text": "Dominik Kahun (München) fällt bis nach der Länderspielpause aus. Unterkörperverletzung, Rückkehr frühestens am 13.11.; verpasst auch den Deutschland Cup.",
    "schwer": true,
@@ -276,15 +315,11 @@
    "bis": "2026-10-25"
   },
   {
-   "text": "Torhüter-Rotation bei mehreren Teams. Mannheim (Hildebrand/Franzreb), Nürnberg (Treutle/Janett), München (Niederberger/Bibeau), Ingolstadt (Stettmer/Williams), Iserlohn (Hane/Jenike), Augsburg (Ancicka/Jones) wechselten zuletzt; Starter am 23.10. noch offen.",
+   "text": "Torhüter-Rotation bei mehreren Teams. Mannheim (Hildebrand 16.10., Franzreb 18.10.), Nürnberg (Janett 16.10., Treutle 18.10.), München (Bibeau startete 18.10., nach 29 Min. Niederberger), Krefeld (Jatkola/Bick), Augsburg (Ancicka/Jones) und Iserlohn (Hane/Jenike); Starter am 23.10. noch offen.",
    "schwer": false
   },
   {
    "text": "Augsburg mit drei angeschlagenen Stürmern vor Berlin. Malone, Lambert und Toporowski fehlten am 18.10. und sind für Freitag fraglich.",
-   "schwer": false
-  },
-  {
-   "text": "Hildebrand (Mannheim) nicht sicher Starter (geschätzt 60 %). Franzreb startete zuletzt am 18.10. gegen Schwenningen, Hildebrand am 16.10.; kein Starter angekündigt. Günstigere Alternative mit angekündigtem Start: Simon Wolf (Schwenningen, 1 Puck) laut Wild-Wings-Vorschau gegen Bremerhaven; gleich teuer: Niklas Treutle (Nürnberg, 2 Pucks), dort aber Rotation mit Janett.",
    "schwer": false
   },
   {
@@ -452,6 +487,42 @@
   {
    "titel": "Red Bull München: Kahun fällt mehrere Wochen aus",
    "url": "https://www.redbullmuenchen.de/de/news/ehc-red-bull-muenchen-dominik-kahun-faellt-mehrere-wochen-verletzt-aus"
+  },
+  {
+   "titel": "DEL Boxscore Krefeld–Berlin 18.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/18102026_krefeld-pinguine_gg_eisbaeren-berlin_4454/boxscore"
+  },
+  {
+   "titel": "DEL Boxscore Mannheim–Schwenningen 18.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/18102026_adler-mannheim_gg_schwenninger-wild-wings_4456/boxscore"
+  },
+  {
+   "titel": "DEL Boxscore Straubing–Wolfsburg 18.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/18102026_straubing-tigers_gg_grizzlys-wolfsburg_4457/boxscore"
+  },
+  {
+   "titel": "DEL Boxscore Nürnberg–München 18.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/18102026_nuernberg-ice-tigers_gg_ehc-red-bull-muenchen_4459/boxscore"
+  },
+  {
+   "titel": "Straubing Tigers: Vorbericht Köln/Augsburg",
+   "url": "https://www.straubing-tigers.de/nach-sechs-punkte-wochenende-tigers-empfangen-koeln-und-gastieren-in-augsburg/"
+  },
+  {
+   "titel": "Haie: Vorbericht Straubing",
+   "url": "https://www.haie.de/news/haie-am-freitagabend-zu-gast-am-pulverturm-erstes-saison-duell-mit-den-straubing-tigers/"
+  },
+  {
+   "titel": "Red Bull München: Vorschau 11. Spieltag",
+   "url": "https://www.redbullmuenchen.de/en/news/del-vorschau-11-spieltag-red-bull-muenchen-empfaengt-die-iserlohn-roosters"
+  },
+  {
+   "titel": "tipsterio: Nürnberg–Krefeld Vorschau",
+   "url": "https://tipsterio.de/sportwetten-tipps/nuernberg-ice-tigers-vs-krefeld-pinguine-wett-tipp-prognose-23-10-2026"
+  },
+  {
+   "titel": "tipsterio: Berlin–Augsburg Vorschau",
+   "url": "https://tipsterio.de/sportwetten-tipps/eisbaeren-berlin-vs-augsburger-panther-wett-tipp-prognose-23-10-2026"
   }
  ],
  "odds": {},
