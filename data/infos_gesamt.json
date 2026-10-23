@@ -151,7 +151,7 @@
   "3569": "Am 20.10. nicht dabei, Grund unbekannt.",
   "3309": "Fehlte am 16.10. nur wegen verlorener Ausrüstung.",
   "4323": "Kleine Verletzung seit 02.10.; laut Fan-Forum (inoffiziell) bis auf Weiteres raus.",
-  "3530": "Muskelverletzung seit 09.10., wieder im Training; Rückkehr am 25.10. möglich.",
+  "3530": "Laut AEV-Fan-Forum (inoffiziell, 17:33) heute wieder dabei.",
   "4324": "Am 16.10. verletzt (Knie), fehlte am 18.10.; fraglich.",
   "1313": "Verletzt (Meldung 18.10.), Art und Dauer unbekannt.",
   "2194": "Spielt per Förderlizenz in Ravensburg (DEL2).",
@@ -160,7 +160,7 @@
   "478": "Am 16.10. nur überzählig, seitdem wieder dabei.",
   "4335": "Am 18.10. überzählig.",
   "3585": "Fehlte nur am 16.10., seit 18.10. wieder dabei.",
-  "3424": "Wolf startete am 18.10. gegen Mannheim (60 Min.), Eriksson am 20.10. in Köln; laut Vereins-Vorbericht soll Wolf am 23.10. gegen Bremerhaven spielen.",
+  "3424": "Start angekündigt (Vorbericht), offiziell noch nicht bestätigt.",
   "1594": "Startete am 20.10. in Köln; laut Vereins-Vorbericht spielt am 23.10. Wolf.",
   "1069": "Nr. 1, startete alle DEL-Spiele seit 02.10., Shutout am 18.10. in Krefeld.",
   "1985": "Mannheim rotiert: Hildebrand 16.10., Franzreb 18.10. gegen Schwenningen; kein angekündigter Starter für 23.10.",
@@ -170,15 +170,20 @@
   "122": "Bibeau startete am 18.10. in Nürnberg und wurde nach 29 Min. durch Niederberger ersetzt; Starter für 23.10. nicht angekündigt.",
   "4342": "Krefeld: Jatkola startete am 18.10. gegen Berlin; Starter für 23.10. offen (Bick Alternative).",
   "2209": "Spielte am 18.10. in Krefeld (Starting Six), keine Ausfallmeldung.",
-  "3950": "Spielte am 18.10. gegen Berlin (21:55 Min.), keine Ausfallmeldung."
+  "3950": "Spielte am 18.10. gegen Berlin (21:55 Min.), keine Ausfallmeldung.",
+  "1211": "Laut AEV-Fan-Forum (inoffiziell, 17:33) heute im Tor."
  },
  "risiken": [
   {
-   "text": "Last-Minute-Stand 18:39. Offizielle Aufstellungen berücksichtigt: keine.",
+   "text": "Last-Minute-Stand 18:52. Offizielle Aufstellungen berücksichtigt: keine.",
    "schwer": false
   },
   {
-   "text": "Aufstellung von Adler Mannheim, Löwen Frankfurt, EHC Red Bull München, Iserlohn Roosters, Eisbären Berlin, Augsburger Panther, Grizzlys Wolfsburg, ERC Ingolstadt, Nürnberg Ice Tigers, Krefeld Pinguine, Schwenninger Wild Wings, Pinguins Bremerhaven, Straubing Tigers und Kölner Haie noch nicht veröffentlicht. DEL-Boxscore (Mannheim–Frankfurt, ID 4464) um 18:20 noch leer; zweiter Last-Minute-Lauf um 18:50 geplant.",
+   "text": "Aufstellung von Adler Mannheim, Löwen Frankfurt, EHC Red Bull München, Iserlohn Roosters, Eisbären Berlin, Augsburger Panther, Grizzlys Wolfsburg, ERC Ingolstadt, Nürnberg Ice Tigers, Krefeld Pinguine, Schwenninger Wild Wings, Pinguins Bremerhaven, Straubing Tigers und Kölner Haie noch nicht veröffentlicht. DEL-Boxscore Mannheim–Frankfurt (ID 4464) auch im zweiten Durchgang um 18:52 leer; Medien-Ticker (sportschau, ran) zeigen nur Saisonkader.",
+   "schwer": false
+  },
+  {
+   "text": "Augsburg laut inoffizieller Fan-Meldung mit Ancicka im Tor. AEV-Forum 17:33: Ancicka startet, Lambert wieder dabei; nicht offiziell bestätigt.",
    "schwer": false
   },
   {
@@ -190,7 +195,7 @@
    "schwer": false
   },
   {
-   "text": "Simon Wolf (Schwenningen) als Starter nur angekündigt, nicht bestätigt. Laut Wild-Wings-Vorbericht spielt er am 23.10. gegen Bremerhaven, nachdem Eriksson am 20.10. in Köln hielt; Bestätigung im Last-Minute-Lauf (18:15 Uhr).",
+   "text": "Simon Wolf (Schwenningen) als Starter weiter nur angekündigt, nicht bestätigt. Laut Wild-Wings-Vorbericht spielt er gegen Bremerhaven; Bestätigung bis 18:52 nicht gefunden. Keine gleich teure Torhüter-Alternative in der Liste.",
    "schwer": false
   },
   {
@@ -535,6 +540,22 @@
   {
    "titel": "PENNY DEL Boxscore Adler Mannheim – Löwen Frankfurt (23.10.2026)",
    "url": "https://www.penny-del.org/statistik/spieldetails/23102026_adler-mannheim_gg_loewen-frankfurt_4464/boxscore"
+  },
+  {
+   "titel": "AEV-Forum: 11. Spieltag Berlin–Augsburg",
+   "url": "https://www.aev-forum.de/viewtopic.php?p=1585057"
+  },
+  {
+   "titel": "ran Ticker Schwenningen–Bremerhaven",
+   "url": "https://ran.joyn.de/sports/ticker/ma12189559-schwenninger-wild-wings-fischtown-pinguins"
+  },
+  {
+   "titel": "sportschau Kader Schwenningen–Bremerhaven",
+   "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189559/schwenninger-wild-wings_fischtown-pinguins/spiel-kader"
+  },
+  {
+   "titel": "sportschau Kader Berlin–Augsburg",
+   "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189562/eisbaeren-berlin_augsburger-panther/spiel-kader"
   }
  ],
  "odds": {},
