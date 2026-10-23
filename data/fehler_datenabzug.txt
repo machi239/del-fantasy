@@ -1,4 +1,4 @@
-23.10.2026 12:04
+23.10.2026 12:06
 Abbruch: Traceback (most recent call last):
   File "/home/runner/work/del-fantasy/del-fantasy/scripts/update.py", line 280, in <module>
     main()
