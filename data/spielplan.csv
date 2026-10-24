@@ -72,13 +72,13 @@ spieltag,datum,uhrzeit,heim,gast,heim_id,gast_id,tore_heim,tore_gast,entscheidun
 10,2026-10-18,19:00,Nürnberg Ice Tigers,EHC Red Bull München,14,12,6,2,REG,beendet,4459,/statistik/spieldetails/18102026_nuernberg-ice-tigers_gg_ehc-red-bull-muenchen_4459,ja
 46,2026-10-20,19:30,ERC Ingolstadt,Grizzlys Wolfsburg,1,8,3,2,REG,beendet,4460,/statistik/spieldetails/20102026_erc-ingolstadt_gg_grizzlys-wolfsburg_4460,ja
 49,2026-10-20,19:30,Kölner Haie,Schwenninger Wild Wings,11,15,2,3,OT,beendet,4731,/statistik/spieldetails/20102026_koelner-haie_gg_schwenninger-wild-wings_4731,ja
-11,2026-10-23,19:30,Adler Mannheim,Löwen Frankfurt,2,44,,,,offen,,,
-11,2026-10-23,19:30,EHC Red Bull München,Iserlohn Roosters,12,7,,,,offen,,,
-11,2026-10-23,19:30,Eisbären Berlin,Augsburger Panther,3,13,,,,offen,,,
-11,2026-10-23,19:30,Grizzlys Wolfsburg,ERC Ingolstadt,8,1,,,,offen,,,
-11,2026-10-23,19:30,Nürnberg Ice Tigers,Krefeld Pinguine,14,5,,,,offen,,,
-11,2026-10-23,19:30,Schwenninger Wild Wings,Pinguins Bremerhaven,15,9,,,,offen,,,
-11,2026-10-23,19:30,Straubing Tigers,Kölner Haie,6,11,,,,offen,,,
+11,2026-10-23,19:30,Adler Mannheim,Löwen Frankfurt,2,44,3,0,REG,beendet,4464,/statistik/spieldetails/23102026_adler-mannheim_gg_loewen-frankfurt_4464,ja
+11,2026-10-23,19:30,EHC Red Bull München,Iserlohn Roosters,12,7,3,2,REG,beendet,4465,/statistik/spieldetails/23102026_ehc-red-bull-muenchen_gg_iserlohn-roosters_4465,ja
+11,2026-10-23,19:30,Eisbären Berlin,Augsburger Panther,3,13,2,1,REG,beendet,4462,/statistik/spieldetails/23102026_eisbaeren-berlin_gg_augsburger-panther_4462,ja
+11,2026-10-23,19:30,Grizzlys Wolfsburg,ERC Ingolstadt,8,1,1,4,REG,beendet,4467,/statistik/spieldetails/23102026_grizzlys-wolfsburg_gg_erc-ingolstadt_4467,ja
+11,2026-10-23,19:30,Nürnberg Ice Tigers,Krefeld Pinguine,14,5,7,2,REG,beendet,4463,/statistik/spieldetails/23102026_nuernberg-ice-tigers_gg_krefeld-pinguine_4463,ja
+11,2026-10-23,19:30,Schwenninger Wild Wings,Pinguins Bremerhaven,15,9,4,2,REG,beendet,4461,/statistik/spieldetails/23102026_schwenninger-wild-wings_gg_pinguins-bremerhaven_4461,ja
+11,2026-10-23,19:30,Straubing Tigers,Kölner Haie,6,11,3,5,REG,beendet,4466,/statistik/spieldetails/23102026_straubing-tigers_gg_koelner-haie_4466,ja
 12,2026-10-25,14:00,Löwen Frankfurt,Grizzlys Wolfsburg,44,8,,,,offen,,,
 12,2026-10-25,14:00,Schwenninger Wild Wings,Eisbären Berlin,15,3,,,,offen,,,
 12,2026-10-25,16:30,Augsburger Panther,Straubing Tigers,13,6,,,,offen,,,
@@ -324,9 +324,9 @@ spieltag,datum,uhrzeit,heim,gast,heim_id,gast_id,tore_heim,tore_gast,entscheidun
 46,2027-02-19,19:30,Schwenninger Wild Wings,EHC Red Bull München,15,12,,,,offen,,,
 47,2027-02-21,14:00,Iserlohn Roosters,Straubing Tigers,7,6,,,,offen,,,
 47,2027-02-21,14:00,Kölner Haie,Krefeld Pinguine,11,5,,,,offen,,,
-47,2027-02-21,14:00,Pinguins Bremerhaven,Löwen Frankfurt,9,44,,,,offen,,,
 47,2027-02-21,16:30,Grizzlys Wolfsburg,Augsburger Panther,8,13,,,,offen,,,
 47,2027-02-21,16:30,Nürnberg Ice Tigers,Schwenninger Wild Wings,14,15,,,,offen,,,
+47,2027-02-21,16:30,Pinguins Bremerhaven,Löwen Frankfurt,9,44,,,,offen,,,
 47,2027-02-21,19:00,Adler Mannheim,Eisbären Berlin,2,3,,,,offen,,,
 47,2027-02-24,19:30,EHC Red Bull München,ERC Ingolstadt,12,1,,,,offen,,,
 48,2027-02-25,19:30,Schwenninger Wild Wings,Grizzlys Wolfsburg,15,8,,,,offen,,,
