@@ -1,5 +1,5 @@
 {
- "stand": "24.10.2026 13:37",
+ "stand": "24.10.2026 18:44",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -12,12 +12,13 @@
    "beginn": "25.10.2026 14:00",
    "buchmacher": [
     "pinnacle",
+    "bet365",
     "unibet"
    ],
-   "p_home60": 0.359,
-   "p_draw60": 0.235,
-   "p_away60": 0.406,
-   "p_home_inkl_ot": 0.476,
+   "p_home60": 0.368,
+   "p_draw60": 0.231,
+   "p_away60": 0.402,
+   "p_home_inkl_ot": 0.484,
    "total": 5.62
   },
   "15-3": {
@@ -32,7 +33,7 @@
    "p_draw60": 0.209,
    "p_away60": 0.55,
    "p_home_inkl_ot": 0.339,
-   "total": 5.81
+   "total": 5.78
   },
   "5-12": {
    "spiel": "Krefeld Pinguine - EHC Red Bull München",
@@ -53,12 +54,13 @@
    "beginn": "25.10.2026 16:30",
    "buchmacher": [
     "pinnacle",
+    "bet365",
     "unibet"
    ],
-   "p_home60": 0.338,
-   "p_draw60": 0.226,
-   "p_away60": 0.436,
-   "p_home_inkl_ot": 0.447,
+   "p_home60": 0.346,
+   "p_draw60": 0.221,
+   "p_away60": 0.433,
+   "p_home_inkl_ot": 0.455,
    "total": 5.96
   },
   "7-14": {
@@ -80,12 +82,13 @@
    "beginn": "25.10.2026 19:00",
    "buchmacher": [
     "pinnacle",
+    "bet365",
     "unibet"
    ],
-   "p_home60": 0.385,
-   "p_draw60": 0.215,
-   "p_away60": 0.399,
-   "p_home_inkl_ot": 0.492,
+   "p_home60": 0.374,
+   "p_draw60": 0.217,
+   "p_away60": 0.408,
+   "p_home_inkl_ot": 0.482,
    "total": 5.82
   }
  }
