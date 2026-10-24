@@ -8,7 +8,7 @@
   "3391": 0,
   "1790": 0,
   "1763": 0,
-  "1901": 0.5,
+  "1901": 0,
   "1655": 1,
   "3958": 0,
   "2501": 0,
@@ -23,22 +23,22 @@
   "1404": 1,
   "1823": 1,
   "1360": 0.5,
-  "513": 1,
+  "513": 0.5,
   "3122": 0.5,
   "1771": 0,
-  "537": 1,
+  "537": 0.5,
   "3408": 1,
   "2199": 1,
   "143": 0,
   "2191": 0,
-  "4323": 0.5,
+  "4323": 0,
   "1764": 1,
   "3167": 1,
   "2835": 1,
   "92": 1,
   "3412": 0.5,
   "4344": 0,
-  "4317": 1,
+  "4317": 0.5,
   "1659": 0,
   "2510": 0.5,
   "1397": 0,
@@ -55,7 +55,7 @@
   "4316": 0.5,
   "2019": 1,
   "442": 1,
-  "4341": 1,
+  "4341": 0.5,
   "1903": 0.5,
   "4333": 1,
   "426": 1,
@@ -91,7 +91,7 @@
   "2194": 0,
   "4349": 1,
   "1435": 0,
-  "3323": 0.5,
+  "3323": 0,
   "478": 1,
   "4335": 0.5,
   "3585": 1,
@@ -100,7 +100,7 @@
   "2411": 1,
   "1611": 1,
   "1525": 1,
-  "2504": 1,
+  "2504": 0.5,
   "1856": 1,
   "1987": 1,
   "1350": 1,
@@ -113,10 +113,84 @@
   "1811": 1,
   "3557": 1,
   "27": 1,
-  "1850": 1
+  "1850": 1,
+  "507": 0.5,
+  "531": 0.5,
+  "2122": 0.5,
+  "1489": 0.5,
+  "1564": 0.5,
+  "3428": 0.5,
+  "1069": 1,
+  "599": 1,
+  "100": 1,
+  "1072": 1,
+  "104": 1,
+  "4315": 1,
+  "59": 1,
+  "1863": 1,
+  "4350": 1,
+  "80": 1,
+  "648": 1,
+  "1684": 1
  },
- "goalie_start": {},
- "notizen": {},
+ "goalie_start": {
+  "1069": 0.95,
+  "4312": 0.05,
+  "599": 0.8,
+  "4347": 0.2,
+  "416": 0.9,
+  "157": 0.1,
+  "4338": 0.9,
+  "1594": 0.6,
+  "3424": 0.4,
+  "4319": 0.95,
+  "486": 0.05,
+  "1211": 0.6,
+  "3593": 0.4,
+  "122": 0.55,
+  "4154": 0.45,
+  "4342": 0.85,
+  "1459": 0.5,
+  "2351": 0.5,
+  "1547": 0.9,
+  "1451": 0.1,
+  "83": 0.65,
+  "998": 0.35,
+  "4157": 0.9,
+  "4241": 0.1,
+  "1985": 0.9
+ },
+ "notizen": {
+  "3412": "rotiert, frisch Vater geworden; am 18. und 23.10. nicht im Kader",
+  "4317": "fehlte zuletzt, Grund unbekannt (23.10. nicht in der Aufstellung)",
+  "1799": "fehlte zuletzt, Grund unbekannt (20. und 23.10.)",
+  "1678": "fehlte zuletzt, Grund unbekannt",
+  "507": "fehlte zuletzt, Grund unbekannt",
+  "2172": "fehlte zuletzt, Grund unbekannt",
+  "531": "fehlte zuletzt, Grund unbekannt",
+  "513": "fehlte zuletzt, Grund unbekannt",
+  "2122": "fehlte zuletzt, Grund unbekannt",
+  "4324": "angeschlagen seit 16.10., laut Verein gute Fortschritte",
+  "2194": "seit 11.10. nicht im DEL-Kader, kein Grund genannt",
+  "537": "fehlte zuletzt, Grund unbekannt",
+  "1489": "fehlte zuletzt, Grund unbekannt",
+  "1564": "fehlte am 23.10. angeschlagen (Nordsee-Zeitung)",
+  "3576": "angeschlagen seit 18.10., fehlte am 20. und 23.10.",
+  "3528": "fehlt seit 16.10., Grund unbekannt",
+  "3428": "rotiert (RNZ 23.10.)",
+  "2504": "rotiert (RNZ 23.10.)",
+  "4335": "überzählig (Extra) am 23.10.",
+  "4341": "Einsatz laut Löwen-Vorbericht fraglich",
+  "3530": "Rückkehr laut Verein an diesem Wochenende möglich",
+  "1901": "Oberkörperverletzung, fehlte am 23.10. weiter",
+  "122": "am 23.10. in der 51. Minute für Bibeau raus, Grund nicht genannt",
+  "1069": "startete jedes DEL-Spiel seit Debüt; Backup LaFontaine",
+  "599": "4 der letzten 5 Spiele gestartet, Backup Janett",
+  "4157": "startete 16., 18., 20. und 23.10.; Brückmann fehlt",
+  "1594": "Rotation mit Wolf (Wolf spielte 23.10.)",
+  "1211": "Nr. 1, bekam am Sonntag 18.10. nach Freitagsspiel Pause",
+  "1459": "Rotation mit Williams, startete 20. und 23.10."
+ },
  "risiken": [
   {
    "text": "Dominik Kahun (München) fällt bis nach der Länderspielpause aus. Unterkörperverletzung, Rückkehr frühestens am 13.11.; verpasst auch den Deutschland Cup.",
@@ -124,24 +198,24 @@
    "bis": "2026-11-13"
   },
   {
-   "text": "Austin Ortega (Schwenningen) fällt mehrere Wochen aus. Unaufschiebbare Operation, Meldung vom 19.10.; Neuzugang Connor Bunnaman soll am 23.10. debütieren.",
+   "text": "Austin Ortega (Schwenningen) fällt mehrere Wochen aus. Operation am 19.10. laut Verein gut verlaufen; Neuzugang Connor Bunnaman debütierte am 23.10.",
    "schwer": true,
    "bis": "2026-11-15"
   },
   {
-   "text": "Straubing ohne Torhüter Florian Bugl. Unterkörperverletzung vom 09.10., fällt laut Verein langfristig aus; Skarek dürfte Nr. 1 sein, Neuzugang Mirko Pantkowski (Meldung 13.10.) ist Backup.",
+   "text": "Schwenningen ohne Schreiner, Lebster und Hungerecker bis nach der Länderspielpause. Laut Vorbericht vom 22.10. stehen alle drei frühestens danach wieder zur Verfügung.",
+   "schwer": false,
+   "bis": "2026-11-13"
+  },
+  {
+   "text": "Straubing ohne Torhüter Florian Bugl. Unterkörperverletzung vom 09.10., fällt laut Verein langfristig aus; Skarek spielt seitdem jedes Spiel, Backup Pantkowski.",
    "schwer": true,
    "bis": "2026-11-30"
   },
   {
-   "text": "Nino Kinder (Bremerhaven) fällt bis zur Deutschland-Cup-Pause aus. Verletzt am 11.10. gegen Berlin, erhoffte Rückkehr am 13.11.; Washkurak spielte trotz Humpeln am 16. und 18.10.",
+   "text": "Nino Kinder (Bremerhaven) fällt bis zur Deutschland-Cup-Pause aus. Verletzt am 11.10., erhoffte Rückkehr am 13.11.",
    "schwer": true,
    "bis": "2026-11-13"
-  },
-  {
-   "text": "Reed Lebster (Schwenningen) fällt mehrere Wochen aus. Muskelverletzung vom 11.10. gegen München; Niklas Hübner rückt in den Sturm.",
-   "schwer": false,
-   "bis": "2026-11-08"
   },
   {
    "text": "Iserlohn ohne Maximilian Eisenmenger. Unterkörperverletzung vom 04.10., Ausfall bis nach der Deutschland-Cup-Pause.",
@@ -149,57 +223,69 @@
    "bis": "2026-11-15"
   },
   {
-   "text": "Bremerhaven mit weiteren Ausfällen. Krämmer Saison-Aus (Knie), Bettahar muss operiert werden und fehlt mehrere Wochen; Neuzugang Washkurak spielt seit 09.10., Verteidiger Nicholas B. Jensen ist wieder dabei.",
+   "text": "Bremerhaven mit vielen Ausfällen. Krämmer, Rausch und Roßmy Saison-Aus, Bettahar, Kechter, Boos und Broadhurst länger raus; Eminger fehlte am 23.10. angeschlagen.",
    "schwer": true,
    "bis": "2026-11-08"
   },
   {
-   "text": "Chris Jandric (Nürnberg) fällt rund sechs Wochen aus. Knieverletzung vom 02.10., gemeldet am 04.10.",
-   "schwer": true,
-   "bis": "2026-11-13"
-  },
-  {
-   "text": "Jakob Weber (Nürnberg) fällt 4–6 Wochen aus. Fußverletzung, gemeldet am 24.09.2026, Rückkehr frühestens Ende Oktober.",
-   "schwer": true,
-   "bis": "2026-11-05"
-  },
-  {
-   "text": "Chris DeSousa (München) fällt weiter aus. Oberkörperverletzung, fehlte auch am 16. und 18.10.; kein Rückkehrdatum, erneut prüfen.",
-   "schwer": true,
-   "bis": "2026-10-25"
-  },
-  {
-   "text": "Philipp Krening (München) fällt lange aus. Unterkörperverletzung; AZ spricht von monatelangem Ausfall.",
-   "schwer": false,
-   "bis": "2026-12-15"
-  },
-  {
-   "text": "Kechter und Boos (Bremerhaven) nach Operationen länger raus. Kein Rückkehrdatum genannt.",
-   "schwer": true,
-   "bis": "2026-11-10"
-  },
-  {
-   "text": "Rausch und Roßmy (Bremerhaven) Saison-Aus. Schwere Knieverletzungen.",
+   "text": "Rausch, Roßmy und Krämmer (Bremerhaven) Saison-Aus. Schwere Knieverletzungen.",
    "schwer": true,
    "bis": "2027-03-07"
   },
   {
-   "text": "Moritz Kukuk (Straubing) langfristig krank. Rückkehr laut Verein nicht absehbar.",
+   "text": "Chris Jandric (Nürnberg) fällt rund sechs Wochen aus. Knieverletzung vom 02.10.",
+   "schwer": true,
+   "bis": "2026-11-13"
+  },
+  {
+   "text": "Jakob Weber (Nürnberg) noch nicht zurück. Fußverletzung vom 24.09. (4–6 Wochen), fehlte auch am 23.10.; eher Rückkehr nach der Pause.",
+   "schwer": true,
+   "bis": "2026-11-05"
+  },
+  {
+   "text": "Chris DeSousa (München) fällt weiter aus. Oberkörperverletzung seit Saisonauftakt, laut Vorschau vom 21.10. kein Rückkehrdatum; am 23.10. nicht im Lineup.",
+   "schwer": true,
+   "bis": "2026-11-01"
+  },
+  {
+   "text": "Philipp Krening (München) fällt lange aus. Unterkörperverletzung, frühestens nach der Deutschland-Cup-Pause zurück.",
+   "schwer": false,
+   "bis": "2026-12-15"
+  },
+  {
+   "text": "Münchens Torhüterfrage offen. Niederberger musste am 23.10. in der 51. Minute vom Eis, Bibeau kam; Grund nicht genannt. Ehliz spielte am 23.10. normal.",
+   "schwer": false
+  },
+  {
+   "text": "Moritz Kukuk (Straubing) nach Krankheit vorerst in der DEL2. Er sammelt Spielpraxis bei den Eisbären Regensburg.",
    "schwer": false,
    "bis": "2026-10-31"
   },
   {
-   "text": "Kris Bennett (Mannheim) fällt vier bis sechs Wochen aus. Unterkörperverletzung vom 25.09., vom Verein bestätigt.",
+   "text": "Kris Bennett (Mannheim) fällt vier bis sechs Wochen aus. Unterkörperverletzung vom 25.09., Rückkehr noch nicht gemeldet.",
    "schwer": true,
    "bis": "2026-11-06"
   },
   {
-   "text": "Julian Chrobot (Wolfsburg) fällt monatelang aus. Schwere Kreuzbandverletzung aus der Vorbereitung.",
+   "text": "Mannheim rotiert. Am 23.10. saßen Fohrler und Kühnhackl draußen, Gilmour und Brown kehrten zurück.",
+   "schwer": false
+  },
+  {
+   "text": "Julian Chrobot (Wolfsburg) fällt monatelang aus. Kreuzbandverletzung aus der Vorbereitung.",
    "schwer": false,
    "bis": "2027-01-31"
   },
   {
-   "text": "Ingolstadt ohne Smallwood, Burns und Rosa-Preto. Smallwood mehrmonatige Pause (Oberkörper), Burns unbestimmt (Oberkörper), Rosa-Preto Fußverletzung im Aufbautraining; Stand Vorbericht 09.10.",
+   "text": "Wolfsburg: Pfohl, Ziegler und Morley fehlten am 23.10. ohne genannten Grund. Strahlmeier stand zuletzt viermal in Folge im Tor.",
+   "schwer": false
+  },
+  {
+   "text": "Köln weiter ohne Brückmann, MacLeod, Noebels, MacInnis und Niedenz. Gründe nicht genannt; Juvonen startete die letzten vier Spiele.",
+   "schwer": false,
+   "bis": "2026-10-28"
+  },
+  {
+   "text": "Ingolstadt: Barber angeschlagen, Smallwood mehrere Monate raus, Rosa-Preto fehlt. Torhüter Stettmer und Williams wechseln sich ab.",
    "schwer": false,
    "bis": "2026-10-31"
   },
@@ -209,14 +295,9 @@
    "bis": "2026-12-15"
   },
   {
-   "text": "Phil Hungerecker (Schwenningen) weiter verletzt. Fuß-OP am 27.08., zuletzt am 04.10. als Injured gelistet.",
+   "text": "Augsburg ohne Sean Malone bis nach dem Deutschland Cup. Toporowski angeschlagen, Lambert-Rückkehr möglich; Torhüter Ancicka oder Peyton Jones offen.",
    "schwer": false,
-   "bis": "2026-10-31"
-  },
-  {
-   "text": "Kölner Torhüter Felix Brückmann weiter verletzt. Laut Haie-Ticker 20.10. verletzt; Juvonen startete am 18. und 20.10., Backup Wiens.",
-   "schwer": false,
-   "bis": "2026-10-25"
+   "bis": "2026-11-13"
   },
   {
    "text": "Kevin Wall nicht mehr in Krefeld. Vertrag am 22.09. aufgelöst; Nachfolger Phil Varone (ID 2631) spielt seit 02.10.",
@@ -224,102 +305,96 @@
    "bis": "2027-03-07"
   },
   {
-   "text": "Nicolas Krämmer (Bremerhaven) Saison-Aus. Schwere Knieverletzung, vom Verein am 07.10. bestätigt.",
-   "schwer": true,
-   "bis": "2027-03-07"
-  },
-  {
-   "text": "Daniel Pfaffengut (Frankfurt) fällt weiter aus. Oberkörperverletzung vom 04.10. (2–4 Wochen), am 18.10. nicht im Lineup.",
+   "text": "Daniel Pfaffengut (Frankfurt) fällt weiter aus. Oberkörperverletzung vom 04.10., laut Vorbericht vom 22.10. für beide Wochenendspiele raus; Biro fraglich.",
    "schwer": false,
    "bis": "2026-11-01"
   },
   {
-   "text": "Daniel Wirt (Frankfurt) fällt zwei bis drei Monate aus. Oberkörperverletzung, am 21.10. erfolgreich operiert; Meldung der Löwen vom 21.10.",
+   "text": "Daniel Wirt (Frankfurt) fällt zwei bis drei Monate aus. Oberkörperverletzung, am 21.10. operiert.",
    "schwer": false,
    "bis": "2027-01-15"
   },
   {
-   "text": "Alexander Broadhurst (Bremerhaven) fällt mehrere Wochen aus. Verletzt am 27.09. in Wolfsburg, kein Rückkehrdatum.",
-   "schwer": false,
-   "bis": "2026-10-25"
+   "text": "Treutle (Nürnberg) nicht als Starter bestätigt. Er spielte 4 der letzten 5 Spiele, Janett ist möglich. Unter den Alternativen gibt es keinen Torhüter zum gleichen oder geringeren Preis (2).",
+   "schwer": false
+  },
+  {
+   "text": "Keine Quoten für die Saisonwerte-Spiele gefunden. Gesucht für Augsburg–Straubing, Iserlohn–Nürnberg, Bremerhaven–Ingolstadt und Köln–Mannheim.",
+   "schwer": false
   }
  ],
  "quellen": [
   {
-   "titel": "Wild Wings Vorbericht 23.10.",
-   "url": "https://www.schwenninger-wildwings.de/aktuell/mit-rueckenwind-und-neuen-herausforderungen/"
+   "titel": "Straubing Tigers: Heimniederlage gegen Köln (23.10.)",
+   "url": "https://www.straubing-tigers.de/straubing-tigers-verlieren-heimspiel-gegen-die-koelner-haie/"
   },
   {
-   "titel": "Wild Wings verpflichten Connor Bunnaman",
-   "url": "https://www.schwenninger-wildwings.de/aktuell/wild-wings-verpflichten-connor-bunnaman/"
+   "titel": "Haie: 5:3 in Straubing",
+   "url": "https://www.haie.de/news/11-haie-gewinnen-freitagabendspiel-bei-den-straubing-tigers-mit-53/"
   },
   {
-   "titel": "Wild Wings Spielbericht Köln 20.10.",
-   "url": "https://www.schwenninger-wildwings.de/spielbericht/dramatischer-sieg-in-koeln/"
+   "titel": "tipsterio: Straubing–Köln Vorschau",
+   "url": "https://tipsterio.de/sportwetten-tipps/straubing-tigers-vs-koelner-haie-wett-tipp-prognose-23-10-2026"
   },
   {
-   "titel": "Wild Wings Spielbericht 16.10.",
-   "url": "https://www.schwenninger-wildwings.de/spielbericht/aufholjagd-nicht-so-richtig-belohnt/"
+   "titel": "DEL Lineup Ingolstadt–Wolfsburg 20.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/20102026_erc-ingolstadt_gg_grizzlys-wolfsburg_4460"
   },
   {
-   "titel": "Schwarzwälder Bote: Höfflin macht es in der Overtime",
-   "url": "https://www.schwarzwaelder-bote.de/sport/schwenninger-wild-wings/schwenninger-wild-wings-in-koeln-mirko-hoefflin-macht-es-in-der-overtime-79588580.html"
+   "titel": "Grizzlys: Chance zur schnellen Revanche",
+   "url": "https://www.grizzlys.de/news_2829.html"
   },
   {
-   "titel": "eishockey-online: Nürnberg schlägt München",
-   "url": "https://www.eishockey-online.news/del/2026/10/18/nuernberg-beendet-mini-krise-und-schlaegt-muenchen-klar/"
+   "titel": "RNZ: Derbysieg für den Rekordspieler",
+   "url": "https://www.rnz.de/sport/sportregional_artikel,-Adler-Mannheim-gegen-Frankfurt-Derbysieg-fuer-den-Rekordspieler-_arid,2464190.html"
   },
   {
-   "titel": "eishockeynews: Sperre Magera",
-   "url": "https://www.eishockeynews.de/artikel/ein-spiel-sperre-fuer-magera-und-sechs-spieler-erhalten-eine-geldstrafe-1262338"
+   "titel": "Adler: Erstes Derby der Saison gewonnen",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/10/-3"
   },
   {
-   "titel": "DEL2 Spielerprofil Maximilian Merkl",
-   "url": "https://www.del-2.org/spieler/maximilian-merkl_6785"
+   "titel": "MM: Bennett fällt vier bis sechs Wochen aus",
+   "url": "https://www.mannheimer-morgen.de/orte/mannheim_artikel,-mannheim-adler-mannheim-stuermer-bennett-faellt-vier-bis-sechs-wochen-aus-_arid,2402757.html"
   },
   {
-   "titel": "DEL Boxscore Nürnberg–München 18.10.",
-   "url": "https://www.penny-del.org/statistik/spieldetails/18102026_nuernberg-ice-tigers_gg_ehc-red-bull-muenchen_4459"
+   "titel": "KEV: Bittere Auswärtsniederlage",
+   "url": "https://krefeld-pinguine.de/news/pinguine-muessen-bittere-auswaertsniederlage-hinnehmen/"
   },
   {
-   "titel": "DEL Lineup Frankfurt–Iserlohn 18.10.",
-   "url": "https://www.penny-del.org/statistik/spieldetails/18102026_loewen-frankfurt_gg_iserlohn-roosters_4455/lineup"
+   "titel": "NN: Die Heigl-Zwillinge zaubern",
+   "url": "https://www.nn.de/sport/ice-tigers/die-heigl-zwillinge-zaubern-nurnberg-ice-tigers-besiegen-den-starke-krefelder-souveran-1.15326937"
   },
   {
-   "titel": "Haie Liveticker 20.10.",
-   "url": "https://www.haie.de/liveticker/?tab=liveticker"
+   "titel": "Löwen: Erst Mannheim, dann Wolfsburg (22.10.)",
+   "url": "https://www.loewen-frankfurt.de/saison/aktuelles/details/derbyzeit-und-family-day-erst-mannheim-dann-wolfsburg"
   },
   {
-   "titel": "Haie: Niederlage in Iserlohn",
-   "url": "https://www.haie.de/news/9-24-niederlage-am-seilersee-haie-verlieren-in-iserlohn/"
+   "titel": "Löwen: Daniel Wirt fällt rund drei Monate aus",
+   "url": "https://www.loewen-frankfurt.de/saison/aktuelles/details/daniel-wirt-faellt-rund-drei-monate-aus"
   },
   {
-   "titel": "Haie: Heimsieg über Bremerhaven",
-   "url": "https://www.haie.de/news/10-41-heimsieg-ueber-fischtown-pinguins-bremerhaven-haie-setzen-sonntag-serie-fort/"
+   "titel": "Red Bull München: Sieg gegen Iserlohn (23.10.)",
+   "url": "https://www.redbullmuenchen.de/de/news/del-11-spieltag-ehc-red-bull-muenchen-gewinnt-gegen-iserlohn-roosters"
   },
   {
-   "titel": "sport1: Kahun fällt für Deutschland Cup aus",
-   "url": "https://www.sport1.de/news/eishockey/del/2026/10/eishockey-nationalspieler-kahun-faellt-fuer-deutschland-cup-aus"
+   "titel": "Red Bull München: Kahun fällt mehrere Wochen aus",
+   "url": "https://www.redbullmuenchen.de/de/news/ehc-red-bull-muenchen-dominik-kahun-faellt-mehrere-wochen-verletzt-aus"
   },
   {
-   "titel": "AZ: EHC-Star Kahun fällt lange aus",
-   "url": "https://www.abendzeitung-muenchen.de/sport/ehc/bitter-ehc-star-kahun-faellt-lange-aus-art-1167114"
+   "titel": "eishockey.info: Kahun fällt mehrere Wochen aus",
+   "url": "https://www.eishockey.info/eishockey/del/story/dominik-kahun-faellt-mehrere-wochen-aus/62049"
   },
   {
-   "titel": "Red Bull München Game-Blog 16.10.",
-   "url": "https://www.redbullmuenchen.de/de/spiel/6q7Q4XjiybnNozmmSjT2UF/blog"
+   "titel": "DEL Lineup München–Iserlohn 23.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/23102026_ehc-red-bull-muenchen_gg_iserlohn-roosters_4465/lineup"
   },
   {
-   "titel": "sport-in-augsburg: Heimniederlage",
-   "url": "https://www.sport-in-augsburg.de/heimniederlage-fuer-die-augsburger-panther-2/143463/"
+   "titel": "Straubing: Pantkowski verpflichtet",
+   "url": "https://www.straubing-tigers.de/straubing-tigers-verpflichten-torhueter-mirko-pantkowski/"
   },
   {
-   "titel": "AEV: Bittere Niederlage im Panther-Duell",
-   "url": "https://www.aev-panther.de/artikel/bittere-niederlage-im-panther-duell/01a14f32-4c92-7780-ac95-59a206947ad3"
-  },
-  {
-   "titel": "AEV-Forum Personal",
-   "url": "https://www.aev-forum.de/viewtopic.php?p=1585023"
+   "titel": "AEV: Panther müssen weiter auf Malone verzichten",
+   "url": "https://www.aev-panther.de/artikel/panther-muessen-weiter-auf-sean-malone-verzichten/01a167ef-be83-73e7-8fd1-7e26ef0b48d1"
   },
   {
    "titel": "ERC: Derbysieg gegen Augsburg",
@@ -327,139 +402,67 @@
   },
   {
    "titel": "eishockey-online: ERC schlägt Wolfsburg",
-   "url": "https://eishockey-online.news/del/2026/10/20/wolfsburg-bleibt-der-lieblingsgegner-des-erc-ingolstadt-der-einen-arbeitssieg-landet"
+   "url": "https://www.eishockey-online.news/del/2026/10/20/wolfsburg-bleibt-der-lieblingsgegner-des-erc-ingolstadt-der-einen-arbeitssieg-landet/"
   },
   {
-   "titel": "RNZ: Adler gegen Schwenningen",
-   "url": "https://www.rnz.de/sport/sportregional_artikel,-Adler-Mannheim-gegen-Schwenningen-Kein-Mittel-gegen-die-Wagenburg-_arid,2458407.html"
+   "titel": "DEL Lineup Wolfsburg–Ingolstadt 23.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/23102026_grizzlys-wolfsburg_gg_erc-ingolstadt_4467/lineup"
   },
   {
-   "titel": "RNZ: Adler gegen Augsburg",
-   "url": "https://www.rnz.de/sport/sportregional_artikel,-Adler-Mannheim-gegen-Augsburg-Die-Augsburg-Serie-der-Adler-haelt-an-_arid,2457661.html"
+   "titel": "eisbaerlin: 2:1 gegen Augsburg",
+   "url": "https://eisbaerlin.de/blog/2026/10/23/21-arbeitssieg-die-eisbaeren-muehen-sich-zum-heimsieg-gegen-unbequeme-augsburger/"
   },
   {
-   "titel": "Wochenblatt: Adler verlieren Landesduell",
-   "url": "https://www.wochenblatt-reporter.de/mannheim/c-sport/adler-verlieren-landesduell-gegen-schwenningen-am-freitag-kommt-frankfurt-zum-derby_a909059"
+   "titel": "DEL Boxscore Berlin–Augsburg 23.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/23102026_eisbaeren-berlin_gg_augsburger-panther_4462/boxscore"
   },
   {
-   "titel": "eisbaerlin: Auswärtssieg in Krefeld",
-   "url": "https://eisbaerlin.de/blog/2026/10/18/40-auswaertssieg-beim-starken-aufsteiger-krefeld-shutout-neffin-hat-wieder-zugeschlagen/"
+   "titel": "Wild Wings: Platzer-Dreierpack dreht die Partie",
+   "url": "https://www.schwenninger-wildwings.de/spielbericht/platzer-dreierpack-dreht-die-partie/"
   },
   {
-   "titel": "Straubing: Heimsieg gegen Wolfsburg",
-   "url": "https://www.straubing-tigers.de/straubing-tigers-feiern-knappen-32-heimsieg-gegen-wolfsburg/"
+   "titel": "Wild Wings: Vertrauen, Geduld und heimische Kulisse (22.10.)",
+   "url": "https://www.schwenninger-wildwings.de/aktuell/vertrauen-geduld-und-heimische-kulisse/"
   },
   {
-   "titel": "Straubing: Sieg in Frankfurt",
-   "url": "https://www.straubing-tigers.de/tigers-setzen-sich-mit-41-bei-den-loewen-frankfurt-durch/"
+   "titel": "Wild Wings: Ortega muss operiert werden",
+   "url": "https://www.schwenninger-wildwings.de/aktuell/austin-ortega-muss-sich-operativem-eingriff-unterziehen/"
   },
   {
-   "titel": "DEL Lineup Straubing–Wolfsburg 18.10.",
-   "url": "https://www.penny-del.org/statistik/spieldetails/18102026_straubing-tigers_gg_grizzlys-wolfsburg_4457/lineup"
+   "titel": "Nordsee-Zeitung: Die Krise der Pinguins dauert an",
+   "url": "https://www.nordsee-zeitung.de/sport/die-krise-der-fischtown-pinguins-dauert-weiter-an-425613.html"
   },
   {
-   "titel": "DEL Lineup Ingolstadt–Wolfsburg 20.10.",
-   "url": "https://www.penny-del.org/statistik/spieldetails/20102026_erc-ingolstadt_gg_grizzlys-wolfsburg_4460/lineup"
-  },
-  {
-   "titel": "Roosters Vorbericht Frankfurt",
-   "url": "https://iserlohn-roosters.de/2026/10/18/spieltag-10-roosters-frankfurt/"
-  },
-  {
-   "titel": "Roosters: Auswärtsniederlage Frankfurt",
-   "url": "https://iserlohn-roosters.de/2026/10/18/frankfurt-effizient-41-auswaertsniederlage-fuer-die-roosters/"
-  },
-  {
-   "titel": "Pinguins: Nun fällt auch noch Nino Kinder aus",
-   "url": "https://fischtown-pinguins.de/nun-faellt-auch-noch-nino-kinder-aus/"
-  },
-  {
-   "titel": "Pinguins: Köln gewinnt Duell der Tabellennachbarn",
-   "url": "https://fischtown-pinguins.de/koeln-gewinn-das-duell-der-tabellennachbarn/"
-  },
-  {
-   "titel": "DEL Strafbank",
-   "url": "https://www.penny-del.org/fair-play/strafbank"
-  },
-  {
-   "titel": "Löwen Frankfurt: Daniel Wirt fällt rund drei Monate aus",
-   "url": "https://www.loewen-frankfurt.de/saison/aktuelles/details/daniel-wirt-faellt-rund-drei-monate-aus"
-  },
-  {
-   "titel": "Adler Mannheim: Ein emotionsgeladenes Spiel (Vorbericht Frankfurt)",
-   "url": "https://www.adler-mannheim.de/aktuelles/2026/10/ein-emotionsgeladenes-spiel"
-  },
-  {
-   "titel": "DEL Lineup Mannheim – Schwenningen 18.10.",
-   "url": "https://www.penny-del.org/statistik/spieldetails/18102026_adler-mannheim_gg_schwenninger-wild-wings_4456/lineup"
-  },
-  {
-   "titel": "Haie: 2:3 n.V. gegen Schwenningen",
-   "url": "https://www.haie.de/news/49-haie-unterliegen-wild-wings-mit-23-nach-verlaengerung/"
-  },
-  {
-   "titel": "AEV-Forum Verletztenliste",
-   "url": "https://www.aev-forum.de/viewtopic.php?p=1585074"
-  },
-  {
-   "titel": "Red Bull München: Kahun fällt mehrere Wochen aus",
-   "url": "https://www.redbullmuenchen.de/de/news/ehc-red-bull-muenchen-dominik-kahun-faellt-mehrere-wochen-verletzt-aus"
-  },
-  {
-   "titel": "DEL Boxscore Krefeld–Berlin 18.10.",
-   "url": "https://www.penny-del.org/statistik/spieldetails/18102026_krefeld-pinguine_gg_eisbaeren-berlin_4454/boxscore"
-  },
-  {
-   "titel": "DEL Boxscore Mannheim–Schwenningen 18.10.",
-   "url": "https://www.penny-del.org/statistik/spieldetails/18102026_adler-mannheim_gg_schwenninger-wild-wings_4456/boxscore"
-  },
-  {
-   "titel": "DEL Boxscore Straubing–Wolfsburg 18.10.",
-   "url": "https://www.penny-del.org/statistik/spieldetails/18102026_straubing-tigers_gg_grizzlys-wolfsburg_4457/boxscore"
-  },
-  {
-   "titel": "DEL Boxscore Nürnberg–München 18.10.",
-   "url": "https://www.penny-del.org/statistik/spieldetails/18102026_nuernberg-ice-tigers_gg_ehc-red-bull-muenchen_4459/boxscore"
-  },
-  {
-   "titel": "Straubing Tigers: Vorbericht Köln/Augsburg",
-   "url": "https://www.straubing-tigers.de/nach-sechs-punkte-wochenende-tigers-empfangen-koeln-und-gastieren-in-augsburg/"
-  },
-  {
-   "titel": "Haie: Vorbericht Straubing",
-   "url": "https://www.haie.de/news/haie-am-freitagabend-zu-gast-am-pulverturm-erstes-saison-duell-mit-den-straubing-tigers/"
-  },
-  {
-   "titel": "Red Bull München: Vorschau 11. Spieltag",
-   "url": "https://www.redbullmuenchen.de/en/news/del-vorschau-11-spieltag-red-bull-muenchen-empfaengt-die-iserlohn-roosters"
+   "titel": "DEL Boxscore Nürnberg–Krefeld 23.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/23102026_nuernberg-ice-tigers_gg_krefeld-pinguine_4463/boxscore"
   },
   {
    "titel": "tipsterio: Nürnberg–Krefeld Vorschau",
    "url": "https://tipsterio.de/sportwetten-tipps/nuernberg-ice-tigers-vs-krefeld-pinguine-wett-tipp-prognose-23-10-2026"
   },
   {
-   "titel": "tipsterio: Berlin–Augsburg Vorschau",
-   "url": "https://tipsterio.de/sportwetten-tipps/eisbaeren-berlin-vs-augsburger-panther-wett-tipp-prognose-23-10-2026"
+   "titel": "Die Bayern: Jandric fällt rund sechs Wochen aus",
+   "url": "https://www.diebayern.de/sport/nuernberg-ice-tigers-verteidiger-jandric-faellt-wegen-knieverletzung-rund-sechs-wo-3187591"
   },
   {
-   "titel": "PENNY DEL Boxscore Adler Mannheim – Löwen Frankfurt (23.10.2026)",
-   "url": "https://www.penny-del.org/statistik/spieldetails/23102026_adler-mannheim_gg_loewen-frankfurt_4464/boxscore"
+   "titel": "t-online: Jakob Weber fällt wochenlang aus",
+   "url": "https://nuernberg.t-online.de/region/nuernberg/id_101451512/nuernberg-ice-tigers-dauerbrenner-jakob-weber-faellt-wochenlang-aus.html"
   },
   {
-   "titel": "AEV-Forum: 11. Spieltag Berlin–Augsburg",
-   "url": "https://www.aev-forum.de/viewtopic.php?p=1585057"
+   "titel": "Pinguins: Nun fällt auch noch Nino Kinder aus",
+   "url": "https://fischtown-pinguins.de/nun-faellt-auch-noch-nino-kinder-aus/"
   },
   {
-   "titel": "ran Ticker Schwenningen–Bremerhaven",
-   "url": "https://ran.joyn.de/sports/ticker/ma12189559-schwenninger-wild-wings-fischtown-pinguins"
+   "titel": "Pinguins: Kechter und Broadhurst verletzt, Saison-Aus für Rausch",
+   "url": "https://fischtown-pinguins.de/roman-kechter-und-alexander-broadhurst-fallen-verletzt-aus-saison-fuer-maxim-rausch-beendet/"
   },
   {
-   "titel": "sportschau Kader Schwenningen–Bremerhaven",
-   "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189559/schwenninger-wild-wings_fischtown-pinguins/spiel-kader"
+   "titel": "DEL: News Update Kaderplanung",
+   "url": "https://www.penny-del.org/news/detail/news-update-kaderplanung-in-der-penny-del-1"
   },
   {
-   "titel": "sportschau Kader Berlin–Augsburg",
-   "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189562/eisbaeren-berlin_augsburger-panther/spiel-kader"
+   "titel": "DEL Strafbank",
+   "url": "https://www.penny-del.org/fair-play/strafbank"
   }
  ],
  "odds": {},
