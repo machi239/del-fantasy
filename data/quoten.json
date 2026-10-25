@@ -1,5 +1,5 @@
 {
- "stand": "25.10.2026 12:37",
+ "stand": "25.10.2026 17:45",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -7,76 +7,6 @@
   "unibet"
  ],
  "spiele": {
-  "44-8": {
-   "spiel": "Löwen Frankfurt - Grizzlys Wolfsburg",
-   "beginn": "25.10.2026 14:00",
-   "buchmacher": [
-    "pinnacle",
-    "bet365",
-    "unibet"
-   ],
-   "p_home60": 0.371,
-   "p_draw60": 0.232,
-   "p_away60": 0.397,
-   "p_home_inkl_ot": 0.487,
-   "total": 5.58
-  },
-  "15-3": {
-   "spiel": "Schwenninger Wild Wings - Eisbären Berlin",
-   "beginn": "25.10.2026 14:00",
-   "buchmacher": [
-    "pinnacle",
-    "bet365",
-    "unibet"
-   ],
-   "p_home60": 0.261,
-   "p_draw60": 0.212,
-   "p_away60": 0.526,
-   "p_home_inkl_ot": 0.363,
-   "total": 5.73
-  },
-  "5-12": {
-   "spiel": "Krefeld Pinguine - EHC Red Bull München",
-   "beginn": "25.10.2026 16:30",
-   "buchmacher": [
-    "pinnacle",
-    "bet365",
-    "unibet"
-   ],
-   "p_home60": 0.311,
-   "p_draw60": 0.236,
-   "p_away60": 0.453,
-   "p_home_inkl_ot": 0.423,
-   "total": 5.89
-  },
-  "13-6": {
-   "spiel": "Augsburger Panther - Straubing Tigers",
-   "beginn": "25.10.2026 16:30",
-   "buchmacher": [
-    "pinnacle",
-    "bet365",
-    "unibet"
-   ],
-   "p_home60": 0.376,
-   "p_draw60": 0.223,
-   "p_away60": 0.401,
-   "p_home_inkl_ot": 0.487,
-   "total": 5.97
-  },
-  "7-14": {
-   "spiel": "Iserlohn Roosters - Nürnberg Ice Tigers",
-   "beginn": "25.10.2026 16:30",
-   "buchmacher": [
-    "pinnacle",
-    "bet365",
-    "unibet"
-   ],
-   "p_home60": 0.364,
-   "p_draw60": 0.23,
-   "p_away60": 0.406,
-   "p_home_inkl_ot": 0.478,
-   "total": 5.87
-  },
   "9-1": {
    "spiel": "Pinguins Bremerhaven - ERC Ingolstadt",
    "beginn": "25.10.2026 19:00",
@@ -85,11 +15,11 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.365,
+   "p_home60": 0.363,
    "p_draw60": 0.217,
-   "p_away60": 0.417,
-   "p_home_inkl_ot": 0.473,
-   "total": 5.82
+   "p_away60": 0.42,
+   "p_home_inkl_ot": 0.471,
+   "total": 5.81
   },
   "11-2": {
    "spiel": "Kölner Haie - Adler Mannheim",
@@ -97,10 +27,10 @@
    "buchmacher": [
     "pinnacle"
    ],
-   "p_home60": 0.375,
-   "p_draw60": 0.224,
-   "p_away60": 0.401,
-   "p_home_inkl_ot": 0.484,
+   "p_home60": 0.432,
+   "p_draw60": 0.221,
+   "p_away60": 0.347,
+   "p_home_inkl_ot": 0.548,
    "total": 6.01
   }
  }
