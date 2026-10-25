@@ -138,8 +138,8 @@
   "4312": 0.05,
   "599": 0.8,
   "4347": 0.2,
-  "416": 0.9,
-  "157": 0.1,
+  "416": 0.75,
+  "157": 0.25,
   "4338": 0.9,
   "1594": 0.6,
   "3424": 0.4,
@@ -147,11 +147,11 @@
   "486": 0.05,
   "1211": 0.6,
   "3593": 0.4,
-  "122": 0.55,
-  "4154": 0.45,
+  "122": 0.4,
+  "4154": 0.6,
   "4342": 0.85,
-  "1459": 0.5,
-  "2351": 0.5,
+  "1459": 0.4,
+  "2351": 0.6,
   "1547": 0.9,
   "1451": 0.1,
   "83": 0.65,
@@ -183,13 +183,19 @@
   "4341": "Einsatz laut Löwen-Vorbericht fraglich",
   "3530": "Rückkehr laut Verein an diesem Wochenende möglich",
   "1901": "Oberkörperverletzung, fehlte am 23.10. weiter",
-  "122": "am 23.10. in der 51. Minute für Bibeau raus, Grund nicht genannt",
+  "122": "am 23.10. in der 51. Minute für Bibeau raus; am Sonntag 18.10. nach Freitagsspiel startete Bibeau",
   "1069": "startete jedes DEL-Spiel seit Debüt; Backup LaFontaine",
   "599": "4 der letzten 5 Spiele gestartet, Backup Janett",
   "4157": "startete 16., 18., 20. und 23.10.; Brückmann fehlt",
   "1594": "Rotation mit Wolf (Wolf spielte 23.10.)",
   "1211": "Nr. 1, bekam am Sonntag 18.10. nach Freitagsspiel Pause",
-  "1459": "Rotation mit Williams, startete 20. und 23.10."
+  "1459": "startete 16., 20. und 23.10.; Williams am Sonntag möglich",
+  "416": "startete 15., 18., 20. und 23.10.; am 23.10. spät vom Eis, laut Vorschau Weitzmann möglich, Start nicht offiziell",
+  "157": "laut Vorschau (tipsterio) möglicher Starter gegen Frankfurt, nicht offiziell",
+  "4154": "startete am Sonntag 18.10. nach Freitagsspiel; kam am 23.10. für Niederberger",
+  "2351": "startete am Sonntag 18.10.; Stettmer spielte 16., 20. und 23.10.; ERC drittes Spiel in sechs Tagen",
+  "4342": "laut Vorschau voraussichtlicher Starter gegen München",
+  "1547": "laut Vorschau klare Nummer 1"
  },
  "risiken": [
   {
@@ -253,10 +259,6 @@
    "bis": "2026-12-15"
   },
   {
-   "text": "Münchens Torhüterfrage offen. Niederberger musste am 23.10. in der 51. Minute vom Eis, Bibeau kam; Grund nicht genannt. Ehliz spielte am 23.10. normal.",
-   "schwer": false
-  },
-  {
    "text": "Moritz Kukuk (Straubing) nach Krankheit vorerst in der DEL2. Er sammelt Spielpraxis bei den Eisbären Regensburg.",
    "schwer": false,
    "bis": "2026-10-31"
@@ -274,10 +276,6 @@
    "text": "Julian Chrobot (Wolfsburg) fällt monatelang aus. Kreuzbandverletzung aus der Vorbereitung.",
    "schwer": false,
    "bis": "2027-01-31"
-  },
-  {
-   "text": "Wolfsburg: Pfohl, Ziegler und Morley fehlten am 23.10. ohne genannten Grund. Strahlmeier stand zuletzt viermal in Folge im Tor.",
-   "schwer": false
   },
   {
    "text": "Köln weiter ohne Brückmann, MacLeod, Noebels, MacInnis und Niedenz. Gründe nicht genannt; Juvonen startete die letzten vier Spiele.",
@@ -319,7 +317,19 @@
    "schwer": false
   },
   {
-   "text": "Keine Quoten für die Saisonwerte-Spiele gefunden. Gesucht für Augsburg–Straubing, Iserlohn–Nürnberg, Bremerhaven–Ingolstadt und Köln–Mannheim.",
+   "text": "Münchens Torhüter in Krefeld offen. Niederberger musste am 23.10. in der 51. Minute vom Eis, Bibeau kam; am letzten Sonntag nach Freitagsspiel (18.10.) startete Bibeau. Ehliz spielte am 23.10. normal.",
+   "schwer": false
+  },
+  {
+   "text": "Wolfsburgs Starter in Frankfurt nicht bestätigt. Strahlmeier stand viermal in Folge im Tor, laut Vorschau ist Weitzmann möglich; Pfohl, Ziegler und Morley fehlten am 23.10. ohne genannten Grund.",
+   "schwer": false
+  },
+  {
+   "text": "Sonntagsrotation bei mehreren Teams möglich. Am 18.10. (Sonntag nach Freitag) wechselten Augsburg (Jones), Ingolstadt (Williams), München (Bibeau) und Iserlohn den Torhüter; Neffin und Scheel spielten dagegen durch.",
+   "schwer": false
+  },
+  {
+   "text": "Quoten für Köln–Mannheim (27.10.) nur aus einer Quelle. tipsterio-Vorschau ohne Anbieterangabe: 2,70 / 4,30 / 2,16; keine offiziellen Ausfälle gemeldet.",
    "schwer": false
   }
  ],
@@ -463,8 +473,59 @@
   {
    "titel": "DEL Strafbank",
    "url": "https://www.penny-del.org/fair-play/strafbank"
+  },
+  {
+   "titel": "tipsterio: Frankfurt–Wolfsburg Vorschau 25.10.",
+   "url": "https://tipsterio.de/sportwetten-tipps/loewen-frankfurt-vs-grizzlys-wolfsburg-wett-tipp-prognose-25-10-2026"
+  },
+  {
+   "titel": "tipsterio: Schwenningen–Berlin Vorschau 25.10.",
+   "url": "https://tipsterio.de/sportwetten-tipps/schwenninger-wild-wings-vs-eisbaeren-berlin-wett-tipp-prognose-25-10-2026"
+  },
+  {
+   "titel": "tipsterio: Iserlohn–Nürnberg Vorschau 25.10.",
+   "url": "https://tipsterio.de/sportwetten-tipps/iserlohn-roosters-vs-nuernberg-ice-tigers-wett-tipp-prognose-25-10-2026"
+  },
+  {
+   "titel": "tipsterio: Augsburg–Straubing Vorschau 25.10.",
+   "url": "https://tipsterio.de/sportwetten-tipps/augsburger-panther-vs-straubing-tigers-wett-tipp-prognose-25-10-2026"
+  },
+  {
+   "titel": "tipsterio: Krefeld–München Vorschau 25.10.",
+   "url": "https://tipsterio.de/sportwetten-tipps/krefeld-pinguine-vs-ehc-red-bull-muenchen-wett-tipp-prognose-25-10-2026"
+  },
+  {
+   "titel": "tipsterio: Bremerhaven–Ingolstadt Vorschau 25.10.",
+   "url": "https://tipsterio.de/sportwetten-tipps/fischtown-pinguins-vs-erc-ingolstadt-wett-tipp-prognose-25-10-2026"
+  },
+  {
+   "titel": "tipsterio: Köln–Mannheim Vorschau 27.10.",
+   "url": "https://tipsterio.de/sportwetten-tipps/koelner-haie-vs-adler-mannheim-wett-tipp-prognose-27-10-2026"
+  },
+  {
+   "titel": "Eisbären: Nächster Halt Schwenningen (24.10.)",
+   "url": "https://www.eisbaeren.de/news/detail/naechster-halt-schwenningen"
+  },
+  {
+   "titel": "Straubing: Vorbericht Köln und Augsburg",
+   "url": "https://www.straubing-tigers.de/nach-sechs-punkte-wochenende-tigers-empfangen-koeln-und-gastieren-in-augsburg/"
+  },
+  {
+   "titel": "Pinguins: Zusammen für wichtige Punkte gegen die Panther",
+   "url": "https://fischtown-pinguins.de/zusammen-fuer-wichtige-punkte-gegen-die-panther/"
+  },
+  {
+   "titel": "ERC vor Auswärtswochenende",
+   "url": "https://www.erc-ingolstadt.de/saison/erc-vor-auswaertswochenende"
   }
  ],
- "odds": {},
- "odds_quellen": {}
+ "odds": {
+  "11-2": {
+   "p_home60": 0.347,
+   "p_away60": 0.434
+  }
+ },
+ "odds_quellen": {
+  "11-2": "tipsterio.de Vorschau Köln–Mannheim 27.10.2026, 1X2 nach 60 Min. 2,70/4,30/2,16 (Anbieter nicht genannt), Marge herausgerechnet"
+ }
 }
