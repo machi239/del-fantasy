@@ -1,5 +1,5 @@
 {
- "spieltag": 12,
+ "spieltag": 41,
  "availability": {
   "2804": 0,
   "1753": 0,
@@ -133,91 +133,9 @@
   "648": 1,
   "1684": 1
  },
- "goalie_start": {
-  "1069": 0.95,
-  "4312": 0.05,
-  "599": 0.8,
-  "4347": 0.2,
-  "416": 0.75,
-  "157": 0.25,
-  "4338": 0.9,
-  "1594": 0.6,
-  "3424": 0.4,
-  "4319": 0.95,
-  "486": 0.05,
-  "1211": 0.6,
-  "3593": 0.4,
-  "122": 0.4,
-  "4154": 0.6,
-  "4342": 0.85,
-  "1459": 0.4,
-  "2351": 0.6,
-  "1547": 0.9,
-  "1451": 0.1,
-  "83": 0.65,
-  "998": 0.35,
-  "4157": 0.9,
-  "4241": 0.1,
-  "1985": 0.9
- },
- "notizen": {
-  "3412": "rotiert, frisch Vater geworden; am 18. und 23.10. nicht im Kader",
-  "4317": "fehlte zuletzt, Grund unbekannt (23.10. nicht in der Aufstellung)",
-  "1799": "fehlte zuletzt, Grund unbekannt (20. und 23.10.)",
-  "1678": "fehlte zuletzt, Grund unbekannt",
-  "507": "fehlte zuletzt, Grund unbekannt",
-  "2172": "fehlte zuletzt, Grund unbekannt",
-  "531": "fehlte zuletzt, Grund unbekannt",
-  "513": "fehlte zuletzt, Grund unbekannt",
-  "2122": "fehlte zuletzt, Grund unbekannt",
-  "4324": "angeschlagen seit 16.10., laut Verein gute Fortschritte",
-  "2194": "seit 11.10. nicht im DEL-Kader, kein Grund genannt",
-  "537": "fehlte zuletzt, Grund unbekannt",
-  "1489": "fehlte zuletzt, Grund unbekannt",
-  "1564": "fehlte am 23.10. angeschlagen (Nordsee-Zeitung)",
-  "3576": "angeschlagen seit 18.10., fehlte am 20. und 23.10.",
-  "3528": "fehlt seit 16.10., Grund unbekannt",
-  "3428": "rotiert (RNZ 23.10.)",
-  "2504": "rotiert (RNZ 23.10.)",
-  "4335": "überzählig (Extra) am 23.10.",
-  "4341": "Einsatz laut Löwen-Vorbericht fraglich",
-  "3530": "Rückkehr laut Verein an diesem Wochenende möglich",
-  "1901": "Oberkörperverletzung, fehlte am 23.10. weiter",
-  "122": "am 23.10. in der 51. Minute für Bibeau raus; am Sonntag 18.10. nach Freitagsspiel startete Bibeau",
-  "1069": "startete jedes DEL-Spiel seit Debüt; Backup LaFontaine",
-  "599": "4 der letzten 5 Spiele gestartet, Backup Janett",
-  "4157": "startete 16., 18., 20. und 23.10.; Brückmann fehlt",
-  "1594": "Rotation mit Wolf (Wolf spielte 23.10.)",
-  "1211": "Nr. 1, bekam am Sonntag 18.10. nach Freitagsspiel Pause",
-  "1459": "startete 16., 20. und 23.10.; Williams am Sonntag möglich",
-  "416": "startete 15., 18., 20. und 23.10.; am 23.10. spät vom Eis, laut Vorschau Weitzmann möglich, Start nicht offiziell",
-  "157": "laut Vorschau (tipsterio) möglicher Starter gegen Frankfurt, nicht offiziell",
-  "4154": "startete am Sonntag 18.10. nach Freitagsspiel; kam am 23.10. für Niederberger",
-  "2351": "startete am Sonntag 18.10.; Stettmer spielte 16., 20. und 23.10.; ERC drittes Spiel in sechs Tagen",
-  "4342": "laut Vorschau voraussichtlicher Starter gegen München",
-  "1547": "laut Vorschau klare Nummer 1"
- },
+ "goalie_start": {},
+ "notizen": {},
  "risiken": [
-  {
-   "text": "Last-Minute-Stand 12:48 Uhr. Offizielle Aufstellungen berücksichtigt: keine.",
-   "schwer": false
-  },
-  {
-   "text": "Aufstellung von Löwen Frankfurt noch nicht veröffentlicht. Scheel (90 %) als Starter erwartet, nicht bestätigt; DEL-Boxscore und Sportschau-Kader noch leer.",
-   "schwer": false
-  },
-  {
-   "text": "Aufstellung von Grizzlys Wolfsburg noch nicht veröffentlicht. Strahlmeier oder Weitzmann im Tor offen.",
-   "schwer": false
-  },
-  {
-   "text": "Aufstellung von Schwenninger Wild Wings noch nicht veröffentlicht.",
-   "schwer": false
-  },
-  {
-   "text": "Aufstellung von Eisbären Berlin noch nicht veröffentlicht. Neffin (95 %) als Starter erwartet, nicht bestätigt.",
-   "schwer": false
-  },
   {
    "text": "Dominik Kahun (München) fällt bis nach der Länderspielpause aus. Unterkörperverletzung, Rückkehr frühestens am 13.11.; verpasst auch den Deutschland Cup.",
    "schwer": true,
@@ -289,10 +207,6 @@
    "bis": "2026-11-06"
   },
   {
-   "text": "Mannheim rotiert. Am 23.10. saßen Fohrler und Kühnhackl draußen, Gilmour und Brown kehrten zurück.",
-   "schwer": false
-  },
-  {
    "text": "Julian Chrobot (Wolfsburg) fällt monatelang aus. Kreuzbandverletzung aus der Vorbereitung.",
    "schwer": false,
    "bis": "2027-01-31"
@@ -331,26 +245,6 @@
    "text": "Daniel Wirt (Frankfurt) fällt zwei bis drei Monate aus. Oberkörperverletzung, am 21.10. operiert.",
    "schwer": false,
    "bis": "2027-01-15"
-  },
-  {
-   "text": "Treutle (Nürnberg) nicht als Starter bestätigt. Er spielte 4 der letzten 5 Spiele, Janett ist möglich. Unter den Alternativen gibt es keinen Torhüter zum gleichen oder geringeren Preis (2).",
-   "schwer": false
-  },
-  {
-   "text": "Münchens Torhüter in Krefeld offen. Niederberger musste am 23.10. in der 51. Minute vom Eis, Bibeau kam; am letzten Sonntag nach Freitagsspiel (18.10.) startete Bibeau. Ehliz spielte am 23.10. normal.",
-   "schwer": false
-  },
-  {
-   "text": "Wolfsburgs Starter in Frankfurt nicht bestätigt. Strahlmeier stand viermal in Folge im Tor, laut Vorschau ist Weitzmann möglich; Pfohl, Ziegler und Morley fehlten am 23.10. ohne genannten Grund.",
-   "schwer": false
-  },
-  {
-   "text": "Sonntagsrotation bei mehreren Teams möglich. Am 18.10. (Sonntag nach Freitag) wechselten Augsburg (Jones), Ingolstadt (Williams), München (Bibeau) und Iserlohn den Torhüter; Neffin und Scheel spielten dagegen durch.",
-   "schwer": false
-  },
-  {
-   "text": "Quoten für Köln–Mannheim (27.10.) nur aus einer Quelle. tipsterio-Vorschau ohne Anbieterangabe: 2,70 / 4,30 / 2,16; keine offiziellen Ausfälle gemeldet.",
-   "schwer": false
   }
  ],
  "quellen": [
@@ -547,13 +441,6 @@
    "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189580/loewen-frankfurt_grizzlys-wolfsburg/spiel-kader"
   }
  ],
- "odds": {
-  "11-2": {
-   "p_home60": 0.347,
-   "p_away60": 0.434
-  }
- },
- "odds_quellen": {
-  "11-2": "tipsterio.de Vorschau Köln–Mannheim 27.10.2026, 1X2 nach 60 Min. 2,70/4,30/2,16 (Anbieter nicht genannt), Marge herausgerechnet"
- }
+ "odds": {},
+ "odds_quellen": {}
 }
