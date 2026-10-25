@@ -199,6 +199,26 @@
  },
  "risiken": [
   {
+   "text": "Last-Minute-Stand 12:48 Uhr. Offizielle Aufstellungen berücksichtigt: keine.",
+   "schwer": false
+  },
+  {
+   "text": "Aufstellung von Löwen Frankfurt noch nicht veröffentlicht. Scheel (90 %) als Starter erwartet, nicht bestätigt; DEL-Boxscore und Sportschau-Kader noch leer.",
+   "schwer": false
+  },
+  {
+   "text": "Aufstellung von Grizzlys Wolfsburg noch nicht veröffentlicht. Strahlmeier oder Weitzmann im Tor offen.",
+   "schwer": false
+  },
+  {
+   "text": "Aufstellung von Schwenninger Wild Wings noch nicht veröffentlicht.",
+   "schwer": false
+  },
+  {
+   "text": "Aufstellung von Eisbären Berlin noch nicht veröffentlicht. Neffin (95 %) als Starter erwartet, nicht bestätigt.",
+   "schwer": false
+  },
+  {
    "text": "Dominik Kahun (München) fällt bis nach der Länderspielpause aus. Unterkörperverletzung, Rückkehr frühestens am 13.11.; verpasst auch den Deutschland Cup.",
    "schwer": true,
    "bis": "2026-11-13"
@@ -517,6 +537,14 @@
   {
    "titel": "ERC vor Auswärtswochenende",
    "url": "https://www.erc-ingolstadt.de/saison/erc-vor-auswaertswochenende"
+  },
+  {
+   "titel": "Sportschau: Kader Schwenningen–Berlin 25.10.",
+   "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189583/schwenninger-wild-wings_eisbaeren-berlin/spiel-kader"
+  },
+  {
+   "titel": "Sportschau: Kader Frankfurt–Wolfsburg 25.10.",
+   "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189580/loewen-frankfurt_grizzlys-wolfsburg/spiel-kader"
   }
  ],
  "odds": {
