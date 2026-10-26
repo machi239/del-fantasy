@@ -1,5 +1,5 @@
 {
- "stand": "25.10.2026 17:45",
+ "stand": "26.10.2026 13:10",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -7,31 +7,32 @@
   "unibet"
  ],
  "spiele": {
-  "9-1": {
-   "spiel": "Pinguins Bremerhaven - ERC Ingolstadt",
-   "beginn": "25.10.2026 19:00",
+  "11-2": {
+   "spiel": "Kölner Haie - Adler Mannheim",
+   "beginn": "27.10.2026 19:30",
    "buchmacher": [
     "pinnacle",
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.363,
+   "p_home60": 0.433,
    "p_draw60": 0.217,
-   "p_away60": 0.42,
-   "p_home_inkl_ot": 0.471,
-   "total": 5.81
-  },
-  "11-2": {
-   "spiel": "Kölner Haie - Adler Mannheim",
-   "beginn": "27.10.2026 19:30",
-   "buchmacher": [
-    "pinnacle"
-   ],
-   "p_home60": 0.432,
-   "p_draw60": 0.221,
-   "p_away60": 0.347,
-   "p_home_inkl_ot": 0.548,
+   "p_away60": 0.35,
+   "p_home_inkl_ot": 0.547,
    "total": 6.01
+  },
+  "5-15": {
+   "spiel": "Krefeld Pinguine - Schwenninger Wild Wings",
+   "beginn": "28.10.2026 19:30",
+   "buchmacher": [
+    "pinnacle",
+    "bet365"
+   ],
+   "p_home60": 0.457,
+   "p_draw60": 0.232,
+   "p_away60": 0.311,
+   "p_home_inkl_ot": 0.584,
+   "total": 5.38
   }
  }
 }
