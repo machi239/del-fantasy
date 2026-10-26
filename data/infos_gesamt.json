@@ -58,8 +58,8 @@
   "4341": 0.5,
   "1903": 0.5,
   "4333": 1,
-  "426": 1,
-  "3530": 0.5,
+  "426": 0.5,
+  "3530": 1,
   "1904": 0,
   "990": 1,
   "4319": 1,
@@ -81,7 +81,7 @@
   "3553": 0.5,
   "1644": 1,
   "4243": 1,
-  "2172": 0.5,
+  "2172": 0,
   "1678": 0.5,
   "1799": 0.5,
   "3569": 0.5,
@@ -109,7 +109,7 @@
   "3410": 1,
   "2209": 1,
   "2121": 1,
-  "4318": 1,
+  "4318": 0.5,
   "1811": 1,
   "3557": 1,
   "27": 1,
@@ -131,11 +131,73 @@
   "4350": 1,
   "80": 1,
   "648": 1,
-  "1684": 1
+  "1684": 1,
+  "597": 0,
+  "3560": 0.5,
+  "3559": 0.5,
+  "4160": 0.5,
+  "4312": 1,
+  "3072": 0.5,
+  "122": 0.5,
+  "4154": 1,
+  "3472": 0.5,
+  "4498": 0.5,
+  "3581": 1,
+  "102": 1,
+  "4342": 1,
+  "4347": 1,
+  "1211": 1,
+  "3593": 1,
+  "2351": 1,
+  "998": 1,
+  "1451": 1
  },
  "goalie_start": {},
- "notizen": {},
+ "notizen": {
+  "3560": "am 25.10. gegen Berlin verletzt raus, Dauer unbekannt",
+  "3559": "spielte am 25.10. per Förderlizenz in Ravensburg (DEL2)",
+  "426": "am 25.10. überzählig (healthy scratch)",
+  "4160": "am 25.10. überzählig, rotiert",
+  "1069": "am 25.10. geschont, LaFontaine startete",
+  "4312": "startete am 25.10. in Schwenningen",
+  "507": "fehlte am 23.10. krank/angeschlagen",
+  "1799": "fehlte am 23.10. krank/angeschlagen",
+  "1678": "fehlte am 23.10. krank/angeschlagen",
+  "4318": "fehlte zuletzt, Grund unbekannt",
+  "3072": "fehlte zuletzt, Grund unbekannt",
+  "122": "am 23.10. ab 50:30 raus, am 25.10. nicht im Aufgebot, Grund unbekannt",
+  "4154": "startete am 25.10. in Krefeld",
+  "3472": "am 23.10. am Oberkörper getroffen, fehlte am 25.10. verletzt, Dauer offen",
+  "4324": "Verletzung vom 16.10. (Knie?), gute Fortschritte, fehlte bisher drei Spiele",
+  "3576": "seit 18.10. angeschlagen, fehlte drei Spiele",
+  "3530": "seit 23.10. zurück",
+  "537": "fehlte am 23. und 25.10., Grund unbekannt",
+  "1489": "fehlte am 23. und 25.10., Grund unbekannt",
+  "4498": "fehlte zuletzt, Grund unbekannt",
+  "1564": "angeschlagen, fehlte am 23. und 25.10.",
+  "531": "fehlte am 23. und 25.10., Grund unbekannt",
+  "513": "fehlte am 23. und 25.10., Grund unbekannt",
+  "2122": "fehlte am 23. und 25.10., Grund unbekannt",
+  "4341": "laut Verein fraglich, fehlte am 25.10., Grund unbekannt",
+  "3428": "am 23.10. überzählig (Rotation)",
+  "2504": "am 23.10. überzählig (Rotation)",
+  "102": "startete am 25.10., Jatkola am 23.10. – Rotation",
+  "4342": "startete am 18. und 23.10., am 25.10. Backup",
+  "599": "Rotation: startete 18. und 23.10., Janett am 16. und 25.10.",
+  "4347": "startete am 16. und 25.10.",
+  "1594": "startete am 25.10. statt Wolf",
+  "1211": "Rotation mit Peyton Jones; startete 23.10.",
+  "3593": "startete am 18. und 25.10.",
+  "2351": "startete am 25.10., nach 40 Min. Stettmer",
+  "998": "startete am 25.10.",
+  "1451": "startete am 25.10. statt Gudlevskis",
+  "3412": "zuletzt rausrotiert"
+ },
  "risiken": [
+  {
+   "text": "Niklas Treutle (Nürnberg) nur Rotations-Starter. Treutle spielte am 18. und 23.10., Janett am 16. und 25.10.; Alternative zum gleichen Preis: Jonas Neffin (Berlin, 2 Pucks) oder Luis Janett.",
+   "schwer": false
+  },
   {
    "text": "Dominik Kahun (München) fällt bis nach der Länderspielpause aus. Unterkörperverletzung, Rückkehr frühestens am 13.11.; verpasst auch den Deutschland Cup.",
    "schwer": true,
@@ -147,8 +209,8 @@
    "bis": "2026-11-15"
   },
   {
-   "text": "Schwenningen ohne Schreiner, Lebster und Hungerecker bis nach der Länderspielpause. Laut Vorbericht vom 22.10. stehen alle drei frühestens danach wieder zur Verfügung.",
-   "schwer": false,
+   "text": "Schwenningen ohne Schreiner, Lebster, Phil Hungerecker und Uvira bis nach der Länderspielpause. Uvira zog sich am 25.10. eine Muskelverletzung im Bein zu; Martinsson verletzt raus, Dauer unbekannt; Eriksson startete statt Wolf.",
+   "schwer": true,
    "bis": "2026-11-13"
   },
   {
@@ -212,12 +274,12 @@
    "bis": "2027-01-31"
   },
   {
-   "text": "Köln weiter ohne Brückmann, MacLeod, Noebels, MacInnis und Niedenz. Gründe nicht genannt; Juvonen startete die letzten vier Spiele.",
+   "text": "Köln ohne Brückmann und MacInnis (beide verletzt). Noebels, MacLeod und Niedenz fehlten am 23.10. krank/angeschlagen, Einsatz am 27.10. offen; Juvonen ist die Nummer 1.",
    "schwer": false,
-   "bis": "2026-10-28"
+   "bis": "2026-11-13"
   },
   {
-   "text": "Ingolstadt: Barber angeschlagen, Smallwood mehrere Monate raus, Rosa-Preto fehlt. Torhüter Stettmer und Williams wechseln sich ab.",
+   "text": "Ingolstadt ohne Barber, Smallwood und Rosa-Preto. Barber fehlte seit 18.10. angeschlagen; Torhüter Stettmer und Williams wechseln sich ab (Williams startete am 25.10.).",
    "schwer": false,
    "bis": "2026-10-31"
   },
@@ -227,7 +289,7 @@
    "bis": "2026-12-15"
   },
   {
-   "text": "Augsburg ohne Sean Malone bis nach dem Deutschland Cup. Toporowski angeschlagen, Lambert-Rückkehr möglich; Torhüter Ancicka oder Peyton Jones offen.",
+   "text": "Augsburg ohne Sean Malone bis nach dem Deutschland Cup. Busdeker (Oberkörper, 23.10.) und Toporowski (seit 16.10.) fraglich, Lambert zurück; Torhüter Ancicka und Peyton Jones rotieren.",
    "schwer": false,
    "bis": "2026-11-13"
   },
@@ -245,6 +307,27 @@
    "text": "Daniel Wirt (Frankfurt) fällt zwei bis drei Monate aus. Oberkörperverletzung, am 21.10. operiert.",
    "schwer": false,
    "bis": "2027-01-15"
+  },
+  {
+   "text": "Danjo Leonhardt (Straubing) fällt weiter aus. Oberkörperverletzung vom 25.09., laut Vorbericht vom 26.10. weiter raus.",
+   "schwer": false,
+   "bis": "2026-11-13"
+  },
+  {
+   "text": "Mathias Niederberger (München) zuletzt nicht im Aufgebot. Am 23.10. nach 50 Minuten ausgewechselt, Grund nicht genannt; Bibeau startete am 25.10.",
+   "schwer": false
+  },
+  {
+   "text": "Wolfsburg ohne Pfohl, Ziegler und Morley am 23. und 25.10. Gründe nicht genannt.",
+   "schwer": false
+  },
+  {
+   "text": "Krefeld ohne Weiß, Buschmann und Mäkitalo am 25.10. Gründe nicht genannt; im Tor Bick (25.10.) und Jatkola (23.10.) im Wechsel.",
+   "schwer": false
+  },
+  {
+   "text": "Eminger (Bremerhaven) weiter angeschlagen. Fehlte am 23. und 25.10.",
+   "schwer": false
   }
  ],
  "quellen": [
@@ -439,6 +522,94 @@
   {
    "titel": "Sportschau: Kader Frankfurt–Wolfsburg 25.10.",
    "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189580/loewen-frankfurt_grizzlys-wolfsburg/spiel-kader"
+  },
+  {
+   "titel": "Wild Wings: Näher dran, als das Ergebnis aussagt",
+   "url": "https://www.schwenninger-wildwings.de/spielbericht/naeher-dran-als-das-ergebnis-aussagt/"
+  },
+  {
+   "titel": "Schwarzwälder Bote: Teuer verkauft",
+   "url": "https://www.schwarzwaelder-bote.de/sport/schwenninger-wild-wings/schwenninger-wild-wings-gegen-berlin-teuer-verkauft-aber-der-titelverteidiger-zeigt-seine-klasse-79608899.html"
+  },
+  {
+   "titel": "Schwäbische: Meister Berlin eine Nummer zu groß",
+   "url": "https://www.schwaebische.de/sport/regionalsport/meister-berlin-ist-fuer-die-wild-wings-eine-nummer-zu-gross-4962640"
+  },
+  {
+   "titel": "Wild Wings: Verletzungsberichte",
+   "url": "https://www.schwenninger-wildwings.de/aktuell/verletzungsberichte/"
+  },
+  {
+   "titel": "NN: Maier trifft zweimal",
+   "url": "https://www.nn.de/sport/ice-tigers/maier-trifft-zweimal-die-nurnberg-ice-tigers-schenken-ihrem-coach-trotzdem-einen-sieg-1.15328824"
+  },
+  {
+   "titel": "buten un binnen: Pinguins schießen sich Frust von der Seele",
+   "url": "https://www.butenunbinnen.de/sport/eishockey-fischtown-pinguins-ingolstadt-110.html"
+  },
+  {
+   "titel": "buten un binnen: 2:4 nach 2:0",
+   "url": "https://butenunbinnen.de/sport/eishockey-del-pinguins-schwenningen-128.html"
+  },
+  {
+   "titel": "Weser-Kurier: Tag der Traumtore",
+   "url": "https://www.weser-kurier.de/bremen/sport/tag-der-traumtore-fischtown-pinguins-bezwingen-ingolstadt-spektakulaer-doc886pyywe9b476wk2ai8"
+  },
+  {
+   "titel": "DEL Spieldetails Krefeld–München 25.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/25102026_krefeld-pinguine_gg_ehc-red-bull-muenchen_4468"
+  },
+  {
+   "titel": "eisbaerlin: 4:1 in Schwenningen",
+   "url": "https://eisbaerlin.de/blog/2026/10/25/41-auswaertssieg-in-schwenningen-clevere-eisbaeren-besiegen-gluecklose-wild-wings/"
+  },
+  {
+   "titel": "Eisbären: Volle Punktausbeute in Schwenningen",
+   "url": "https://www.eisbaeren.de/news/detail/volle-punktausbeute-in-schwenningen"
+  },
+  {
+   "titel": "Haie: Liveticker Straubing 23.10.",
+   "url": "https://www.haie.de/liveticker/?tab=liveticker"
+  },
+  {
+   "titel": "Straubing: Vorbericht München und Bremerhaven (26.10.)",
+   "url": "https://www.straubing-tigers.de/straubing-tigers-vor-derby-gegen-muenchen-und-auswaertsspiel-in-bremerhaven/"
+  },
+  {
+   "titel": "Straubing: Derbysieg in Augsburg",
+   "url": "https://www.straubing-tigers.de/tigers-gewinnen-derby-in-augsburg-mit-42/"
+  },
+  {
+   "titel": "DEL Spieldetails München–Iserlohn 23.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/23102026_ehc-red-bull-muenchen_gg_iserlohn-roosters_4465"
+  },
+  {
+   "titel": "DEL Spieldetails Iserlohn–Nürnberg 25.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/25102026_iserlohn-roosters_gg_nuernberg-ice-tigers_4471"
+  },
+  {
+   "titel": "hessenschau: Löwen verlieren im Penaltyschießen",
+   "url": "https://www.hessenschau.de/sport/eishockey/del-loewen-frankfurt-verlieren-gegen-wolfsburg-grizzlys-im-penaltyschiessen-v2,loewen-grizzlys-106.html"
+  },
+  {
+   "titel": "AEV: Unterliegt gegen Straubing",
+   "url": "https://www.aev-panther.de/artikel/aev-unterliegt-gegen-straubing/01a173a1-a99c-7c27-a4d5-5d74110b0b62"
+  },
+  {
+   "titel": "AEV: Straubing Tigers zu Gast im CFS",
+   "url": "https://www.aev-panther.de/artikel/straubing-tigers-zu-gast-im-cfs/01a162c1-0919-7f4f-9824-cfc9d8f81dea"
+  },
+  {
+   "titel": "sport-in-augsburg: Panther verlieren im Derby",
+   "url": "https://www.sport-in-augsburg.de/panther-verlieren-im-derby-gegen-straubing/144135/"
+  },
+  {
+   "titel": "ERC: Dritter Sieg in Folge",
+   "url": "https://www.erc-ingolstadt.de/saison/dritter-sieg-in-folge"
+  },
+  {
+   "titel": "DEL Spieldetails Bremerhaven–Ingolstadt 25.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/25102026_pinguins-bremerhaven_gg_erc-ingolstadt_4473"
   }
  ],
  "odds": {},
