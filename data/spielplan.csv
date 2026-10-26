@@ -79,12 +79,12 @@ spieltag,datum,uhrzeit,heim,gast,heim_id,gast_id,tore_heim,tore_gast,entscheidun
 11,2026-10-23,19:30,Nürnberg Ice Tigers,Krefeld Pinguine,14,5,7,2,REG,beendet,4463,/statistik/spieldetails/23102026_nuernberg-ice-tigers_gg_krefeld-pinguine_4463,ja
 11,2026-10-23,19:30,Schwenninger Wild Wings,Pinguins Bremerhaven,15,9,4,2,REG,beendet,4461,/statistik/spieldetails/23102026_schwenninger-wild-wings_gg_pinguins-bremerhaven_4461,ja
 11,2026-10-23,19:30,Straubing Tigers,Kölner Haie,6,11,3,5,REG,beendet,4466,/statistik/spieldetails/23102026_straubing-tigers_gg_koelner-haie_4466,ja
-12,2026-10-25,14:00,Löwen Frankfurt,Grizzlys Wolfsburg,44,8,,,,offen,,,
-12,2026-10-25,14:00,Schwenninger Wild Wings,Eisbären Berlin,15,3,,,,offen,,,
-12,2026-10-25,16:30,Augsburger Panther,Straubing Tigers,13,6,,,,offen,,,
-12,2026-10-25,16:30,Iserlohn Roosters,Nürnberg Ice Tigers,7,14,,,,offen,,,
-12,2026-10-25,16:30,Krefeld Pinguine,EHC Red Bull München,5,12,,,,offen,,,
-12,2026-10-25,19:00,Pinguins Bremerhaven,ERC Ingolstadt,9,1,,,,offen,,,
+12,2026-10-25,14:00,Löwen Frankfurt,Grizzlys Wolfsburg,44,8,1,2,SO,beendet,4469,/statistik/spieldetails/25102026_loewen-frankfurt_gg_grizzlys-wolfsburg_4469,ja
+12,2026-10-25,14:00,Schwenninger Wild Wings,Eisbären Berlin,15,3,1,4,REG,beendet,4472,/statistik/spieldetails/25102026_schwenninger-wild-wings_gg_eisbaeren-berlin_4472,ja
+12,2026-10-25,16:30,Augsburger Panther,Straubing Tigers,13,6,2,4,REG,beendet,4470,/statistik/spieldetails/25102026_augsburger-panther_gg_straubing-tigers_4470,ja
+12,2026-10-25,16:30,Iserlohn Roosters,Nürnberg Ice Tigers,7,14,2,4,REG,beendet,4471,/statistik/spieldetails/25102026_iserlohn-roosters_gg_nuernberg-ice-tigers_4471,ja
+12,2026-10-25,16:30,Krefeld Pinguine,EHC Red Bull München,5,12,2,4,REG,beendet,4468,/statistik/spieldetails/25102026_krefeld-pinguine_gg_ehc-red-bull-muenchen_4468,ja
+12,2026-10-25,19:00,Pinguins Bremerhaven,ERC Ingolstadt,9,1,6,2,REG,beendet,4473,/statistik/spieldetails/25102026_pinguins-bremerhaven_gg_erc-ingolstadt_4473,ja
 12,2026-10-27,19:30,Kölner Haie,Adler Mannheim,11,2,,,,offen,,,
 41,2026-10-28,19:30,Krefeld Pinguine,Schwenninger Wild Wings,5,15,,,,offen,,,
 13,2026-10-29,19:30,Augsburger Panther,Löwen Frankfurt,13,44,,,,offen,,,
