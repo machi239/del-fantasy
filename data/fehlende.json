@@ -1,15 +1,21 @@
 {
- "3412": {
-  "name": "Mitchell Reinke",
+ "4160": {
+  "name": "Gregor Stocker",
   "team_id": "3",
-  "zuletzt_gespielt": "2026-10-16",
-  "verpasst": "2026-10-23"
+  "zuletzt_gespielt": "2026-10-23",
+  "verpasst": "2026-10-25"
  },
- "4317": {
-  "name": "Hudson Elynuik",
+ "4318": {
+  "name": "Jamieson Rees",
   "team_id": "6",
-  "zuletzt_gespielt": "2026-10-18",
-  "verpasst": "2026-10-23"
+  "zuletzt_gespielt": "2026-10-23",
+  "verpasst": "2026-10-25"
+ },
+ "3072": {
+  "name": "Simon Seidl",
+  "team_id": "6",
+  "zuletzt_gespielt": "2026-10-23",
+  "verpasst": "2026-10-25"
  },
  "1799": {
   "name": "Gregor MacLeod",
@@ -33,73 +39,55 @@
   "name": "Fabio Pfohl",
   "team_id": "8",
   "zuletzt_gespielt": "2026-10-20",
-  "verpasst": "2026-10-23"
+  "verpasst": "2026-10-25"
  },
  "513": {
   "name": "Sven Ziegler",
   "team_id": "8",
   "zuletzt_gespielt": "2026-10-20",
-  "verpasst": "2026-10-23"
+  "verpasst": "2026-10-25"
  },
  "2122": {
   "name": "Tyler Morley",
   "team_id": "8",
   "zuletzt_gespielt": "2026-10-20",
-  "verpasst": "2026-10-23"
+  "verpasst": "2026-10-25"
+ },
+ "3472": {
+  "name": "D.J. Busdeker",
+  "team_id": "13",
+  "zuletzt_gespielt": "2026-10-23",
+  "verpasst": "2026-10-25"
  },
  "4324": {
   "name": "Luke Toporowski",
   "team_id": "13",
   "zuletzt_gespielt": "2026-10-16",
-  "verpasst": "2026-10-23"
- },
- "2194": {
-  "name": "Maximilian Merkl",
-  "team_id": "14",
-  "zuletzt_gespielt": "2026-10-11",
-  "verpasst": "2026-10-23"
+  "verpasst": "2026-10-25"
  },
  "537": {
   "name": "Alexander Weiß",
   "team_id": "5",
   "zuletzt_gespielt": "2026-10-18",
-  "verpasst": "2026-10-23"
+  "verpasst": "2026-10-25"
+ },
+ "4498": {
+  "name": "Roope Mäkitalo",
+  "team_id": "5",
+  "zuletzt_gespielt": "2026-10-23",
+  "verpasst": "2026-10-25"
  },
  "1489": {
   "name": "Erik Buschmann",
   "team_id": "5",
   "zuletzt_gespielt": "2026-10-18",
-  "verpasst": "2026-10-23"
+  "verpasst": "2026-10-25"
  },
  "1564": {
   "name": "Vladimir Eminger",
   "team_id": "9",
   "zuletzt_gespielt": "2026-10-18",
-  "verpasst": "2026-10-23"
- },
- "1430": {
-  "name": "Nino Kinder",
-  "team_id": "9",
-  "zuletzt_gespielt": "2026-10-11",
-  "verpasst": "2026-10-23"
- },
- "3576": {
-  "name": "Riley Barber",
-  "team_id": "1",
-  "zuletzt_gespielt": "2026-10-16",
-  "verpasst": "2026-10-23"
- },
- "3528": {
-  "name": "Daniel Geiger",
-  "team_id": "7",
-  "zuletzt_gespielt": "2026-10-11",
-  "verpasst": "2026-10-23"
- },
- "550": {
-  "name": "Dominik Kahun",
-  "team_id": "12",
-  "zuletzt_gespielt": "2026-10-11",
-  "verpasst": "2026-10-23"
+  "verpasst": "2026-10-25"
  },
  "3428": {
   "name": "Tobias Fohrler",
@@ -113,28 +101,28 @@
   "zuletzt_gespielt": "2026-10-18",
   "verpasst": "2026-10-23"
  },
- "4335": {
-  "name": "Alexander Peters",
+ "426": {
+  "name": "Alex Trivellato",
   "team_id": "15",
-  "zuletzt_gespielt": "2026-10-20",
-  "verpasst": "2026-10-23"
+  "zuletzt_gespielt": "2026-10-23",
+  "verpasst": "2026-10-25"
  },
  "1435": {
   "name": "Austin Ortega",
   "team_id": "15",
   "zuletzt_gespielt": "2026-10-18",
-  "verpasst": "2026-10-23"
+  "verpasst": "2026-10-25"
  },
- "3323": {
-  "name": "Vadim Schreiner",
+ "3559": {
+  "name": "Niclas Hempel",
   "team_id": "15",
-  "zuletzt_gespielt": "2026-10-16",
-  "verpasst": "2026-10-23"
+  "zuletzt_gespielt": "2026-10-23",
+  "verpasst": "2026-10-25"
  },
  "4341": {
   "name": "Brandon Biro",
   "team_id": "44",
   "zuletzt_gespielt": "2026-10-18",
-  "verpasst": "2026-10-23"
+  "verpasst": "2026-10-25"
  }
 }
