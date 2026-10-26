@@ -1,5 +1,5 @@
 {
- "stand": "26.10.2026 13:10",
+ "stand": "26.10.2026 22:02",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -15,10 +15,10 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.433,
-   "p_draw60": 0.217,
-   "p_away60": 0.35,
-   "p_home_inkl_ot": 0.547,
+   "p_home60": 0.43,
+   "p_draw60": 0.222,
+   "p_away60": 0.348,
+   "p_home_inkl_ot": 0.546,
    "total": 6.01
   },
   "5-15": {
@@ -26,13 +26,26 @@
    "beginn": "28.10.2026 19:30",
    "buchmacher": [
     "pinnacle",
-    "bet365"
+    "bet365",
+    "unibet"
    ],
-   "p_home60": 0.457,
+   "p_home60": 0.437,
    "p_draw60": 0.232,
-   "p_away60": 0.311,
-   "p_home_inkl_ot": 0.584,
-   "total": 5.38
+   "p_away60": 0.331,
+   "p_home_inkl_ot": 0.559,
+   "total": 5.48
+  },
+  "13-44": {
+   "spiel": "Augsburger Panther - Löwen Frankfurt",
+   "beginn": "29.10.2026 19:30",
+   "buchmacher": [
+    "pinnacle"
+   ],
+   "p_home60": 0.531,
+   "p_draw60": 0.227,
+   "p_away60": 0.241,
+   "p_home_inkl_ot": 0.661,
+   "total": 5.82
   }
  }
 }
