@@ -1,5 +1,5 @@
 {
- "stand": "26.10.2026 22:02",
+ "stand": "27.10.2026 17:36",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -15,11 +15,11 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.43,
-   "p_draw60": 0.222,
-   "p_away60": 0.348,
-   "p_home_inkl_ot": 0.546,
-   "total": 6.01
+   "p_home60": 0.408,
+   "p_draw60": 0.223,
+   "p_away60": 0.369,
+   "p_home_inkl_ot": 0.52,
+   "total": 5.99
   },
   "5-15": {
    "spiel": "Krefeld Pinguine - Schwenninger Wild Wings",
@@ -29,23 +29,24 @@
     "bet365",
     "unibet"
    ],
-   "p_home60": 0.437,
-   "p_draw60": 0.232,
+   "p_home60": 0.438,
+   "p_draw60": 0.231,
    "p_away60": 0.331,
-   "p_home_inkl_ot": 0.559,
-   "total": 5.48
+   "p_home_inkl_ot": 0.56,
+   "total": 5.58
   },
   "13-44": {
    "spiel": "Augsburger Panther - Löwen Frankfurt",
    "beginn": "29.10.2026 19:30",
    "buchmacher": [
-    "pinnacle"
+    "pinnacle",
+    "bet365"
    ],
-   "p_home60": 0.531,
-   "p_draw60": 0.227,
-   "p_away60": 0.241,
-   "p_home_inkl_ot": 0.661,
-   "total": 5.82
+   "p_home60": 0.528,
+   "p_draw60": 0.207,
+   "p_away60": 0.266,
+   "p_home_inkl_ot": 0.641,
+   "total": 6.15
   }
  }
 }
