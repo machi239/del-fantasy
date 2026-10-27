@@ -1,21 +1,21 @@
 {
  "spieltag": 41,
  "deadline": "Wed 28.10.2026 19:30",
- "erstellt": "27.10.2026 16:16",
+ "erstellt": "27.10.2026 17:36",
  "budget": 60,
  "pucks": 60,
  "auslaender": 9,
- "xp_gesamt": 50.2,
+ "xp_gesamt": 50.3,
  "spiele": [
   {
    "spiel": "Krefeld Pinguine - Schwenninger Wild Wings",
    "datum": "2026-10-28",
    "uhrzeit": "19:30",
    "quelle": "Quoten",
-   "xg_heim": 2.9,
-   "xg_gast": 2.58,
-   "p_heim_60": 0.466,
-   "p_gast_60": 0.36
+   "xg_heim": 2.95,
+   "xg_gast": 2.63,
+   "p_heim_60": 0.468,
+   "p_gast_60": 0.361
   },
   {
    "spiel": "EHC Red Bull München - Grizzlys Wolfsburg",
@@ -256,17 +256,17 @@
    "dt_pass": false,
    "gewaehlt_pct": 33.6,
    "spiele": 12,
-   "xp": 1.71,
+   "xp": 1.73,
    "gegner_id": 15,
    "heim": true,
    "hinweis": "",
    "ppg": 1.69,
    "toi_faktor": 1.01,
-   "matchup": 1.0,
+   "matchup": 1.01,
    "p_einsatz": 1,
    "team": "Krefeld Pinguine",
    "gegner": "Schwenninger Wild Wings",
-   "wert_pro_puck": 0.85
+   "wert_pro_puck": 0.86
   },
   {
    "spieler_id": 3410,
@@ -424,17 +424,17 @@
    "dt_pass": true,
    "gewaehlt_pct": 4.7,
    "spiele": 13,
-   "xp": 1.94,
+   "xp": 1.96,
    "gegner_id": 5,
    "heim": false,
    "hinweis": "Eiszeit steigt",
    "ppg": 1.77,
    "toi_faktor": 1.18,
-   "matchup": 0.93,
+   "matchup": 0.94,
    "p_einsatz": 1,
    "team": "Schwenninger Wild Wings",
    "gegner": "Krefeld Pinguine",
-   "wert_pro_puck": 0.97
+   "wert_pro_puck": 0.98
   },
   {
    "spieler_id": 1850,
@@ -445,17 +445,17 @@
    "dt_pass": true,
    "gewaehlt_pct": 5.1,
    "spiele": 13,
-   "xp": 1.94,
+   "xp": 1.96,
    "gegner_id": 5,
    "heim": false,
    "hinweis": "Eiszeit steigt",
    "ppg": 1.73,
    "toi_faktor": 1.2,
-   "matchup": 0.93,
+   "matchup": 0.94,
    "p_einsatz": 1,
    "team": "Schwenninger Wild Wings",
    "gegner": "Krefeld Pinguine",
-   "wert_pro_puck": 1.94
+   "wert_pro_puck": 1.96
   },
   {
    "spieler_id": 1823,
@@ -508,17 +508,17 @@
    "dt_pass": true,
    "gewaehlt_pct": 2.2,
    "spiele": 13,
-   "xp": 1.3,
+   "xp": 1.32,
    "gegner_id": 5,
    "heim": false,
    "hinweis": "Eiszeit steigt",
    "ppg": 1.16,
    "toi_faktor": 1.2,
-   "matchup": 0.93,
+   "matchup": 0.94,
    "p_einsatz": 1,
    "team": "Schwenninger Wild Wings",
    "gegner": "Krefeld Pinguine",
-   "wert_pro_puck": 1.3
+   "wert_pro_puck": 1.32
   }
  ],
  "alternativen": {
@@ -553,17 +553,17 @@
     "dt_pass": false,
     "gewaehlt_pct": 9.2,
     "spiele": 8,
-    "xp": 1.53,
+    "xp": 1.48,
     "gegner_id": 15,
     "heim": true,
     "hinweis": "",
     "p_start": 0.8,
     "p_sieg60": 0.47,
-    "xga": 2.58,
-    "xsv": 25.4,
+    "xga": 2.63,
+    "xsv": 25.6,
     "team": "Krefeld Pinguine",
     "gegner": "Schwenninger Wild Wings",
-    "wert_pro_puck": 0.77
+    "wert_pro_puck": 0.74
    },
    {
     "spieler_id": 4154,
@@ -608,25 +608,25 @@
     "wert_pro_puck": 0.68
    },
    {
-    "spieler_id": 1594,
-    "name": "Joacim Eriksson",
-    "team_id": 15,
+    "spieler_id": 998,
+    "name": "Hendrik Hane",
+    "team_id": 7,
     "pos": "goal",
-    "preis": 4,
-    "dt_pass": false,
-    "gewaehlt_pct": 2.0,
-    "spiele": 9,
-    "xp": 0.76,
-    "gegner_id": 5,
-    "heim": false,
+    "preis": 2,
+    "dt_pass": true,
+    "gewaehlt_pct": 1.7,
+    "spiele": 7,
+    "xp": 0.75,
+    "gegner_id": 44,
+    "heim": true,
     "hinweis": "",
     "p_start": 0.6,
-    "p_sieg60": 0.36,
-    "xga": 2.9,
-    "xsv": 27.4,
-    "team": "Schwenninger Wild Wings",
-    "gegner": "Krefeld Pinguine",
-    "wert_pro_puck": 0.19
+    "p_sieg60": 0.32,
+    "xga": 2.66,
+    "xsv": 25.1,
+    "team": "Iserlohn Roosters",
+    "gegner": "Löwen Frankfurt",
+    "wert_pro_puck": 0.38
    }
   ],
   "def": [
