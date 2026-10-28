@@ -1,5 +1,5 @@
 {
- "spieltag": 41,
+ "spieltag": 13,
  "availability": {
   "2804": 0,
   "1753": 0,
@@ -153,76 +153,9 @@
   "1451": 1,
   "2468": 0
  },
- "goalie_start": {
-  "3424": 0.9,
-  "1594": 0.1
- },
- "notizen": {
-  "3560": "Handverletzung vom 25.10., laut Trainer Walker kann er wohl in Krefeld spielen",
-  "3559": "reist laut Verein mit nach Krefeld als Option",
-  "426": "am 25.10. überzählig (healthy scratch)",
-  "4160": "am 25.10. überzählig, rotiert",
-  "1069": "am 25.10. geschont, LaFontaine startete",
-  "4312": "startete am 25.10. in Schwenningen",
-  "4318": "fehlte zuletzt, Grund unbekannt",
-  "3072": "fehlte zuletzt, Grund unbekannt",
-  "122": "Unterkörperverletzung vom 23.10., fällt voraussichtlich bis Jahresende aus",
-  "4154": "nach Niederbergers Verletzung klare Nummer 1 in München",
-  "3472": "am 23.10. am Oberkörper getroffen, fehlte am 25.10. verletzt, Dauer offen",
-  "4324": "Verletzung vom 16.10. (Knie?), gute Fortschritte, fehlte bisher drei Spiele",
-  "3576": "seit 18.10. angeschlagen, fehlte drei Spiele",
-  "3530": "seit 23.10. zurück",
-  "537": "fehlte am 23. und 25.10., Grund unbekannt",
-  "1489": "fehlte am 23. und 25.10., Grund unbekannt",
-  "4498": "fehlte zuletzt, Grund unbekannt",
-  "1564": "angeschlagen, fehlte am 23. und 25.10.",
-  "531": "fehlte am 23. und 25.10., Grund unbekannt",
-  "513": "fehlte am 23. und 25.10., Grund unbekannt",
-  "2122": "fehlte am 23. und 25.10., Grund unbekannt",
-  "4341": "laut Verein fraglich, fehlte am 25.10., Grund unbekannt",
-  "3428": "fehlte am 23. und 27.10. (Rotation/überzählig)",
-  "102": "Rotation: startete 25.10., Jatkola 18. und 23.10.; kein Starter für 28.10. angekündigt",
-  "4342": "startete am 18. und 23.10., am 25.10. Backup",
-  "599": "Rotation: startete 18. und 23.10., Janett am 16. und 25.10.",
-  "4347": "startete am 16. und 25.10.",
-  "1594": "soll laut Verein am Freitag in Iserlohn starten, am 28.10. Backup",
-  "1211": "Rotation mit Peyton Jones; startete 23.10.",
-  "3593": "startete am 18. und 25.10.",
-  "2351": "startete am 25.10., nach 40 Min. Stettmer",
-  "998": "startete am 25.10.",
-  "1451": "startete am 25.10. statt Gudlevskis",
-  "3412": "zuletzt rausrotiert",
-  "2468": "Unterkörperverletzung, fällt rund drei Monate aus (Meldung 27.10.)",
-  "2172": "am 27.10. nicht im Kader, angeschlagen",
-  "516": "verletzt, am 27.10. nicht im Kader (Wiens Backup)",
-  "3424": "laut Wild-Wings-Vorbericht vom 27.10. Starter in Krefeld (28.10.)",
-  "3569": "Luca Münzenberger nach Kassel gewechselt (27.10.)"
- },
+ "goalie_start": {},
+ "notizen": {},
  "risiken": [
-  {
-   "text": "Last-Minute-Stand 18:19. Offizielle Aufstellungen berücksichtigt: keine.",
-   "schwer": false
-  },
-  {
-   "text": "Aufstellung von Krefeld Pinguine noch nicht veröffentlicht. DEL-Boxscore um 18:20 noch leer; Starter Bick oder Jatkola offen, zweiter Last-Minute-Lauf um 18:50.",
-   "schwer": false
-  },
-  {
-   "text": "Aufstellung von Schwenninger Wild Wings noch nicht veröffentlicht. Laut Vorbericht vom 27.10. startet Simon Wolf.",
-   "schwer": false
-  },
-  {
-   "text": "Niklas Treutle (Nürnberg) nur Rotations-Starter. Treutle spielte am 18. und 23.10., Janett am 16. und 25.10.; Alternative zum gleichen Preis: Jonas Neffin (Berlin, 2 Pucks) oder Luis Janett.",
-   "schwer": false
-  },
-  {
-   "text": "Krefeld–Schwenningen (28.10., 19:30): Simon Wolf startet für Schwenningen. Laut Wild-Wings-Vorbericht vom 27.10.; Eriksson am Freitag in Iserlohn. Krefelds Starter (Bick oder Jatkola) nicht angekündigt, Klärung im Last-Minute-Lauf. Martinsson nach Handverletzung wohl wieder dabei, Uvira fehlt bis nach der Pause.",
-   "schwer": false
-  },
-  {
-   "text": "Krefeld mit neuem Cheftrainer Jack Skille. Laut Schwarzwälder Bote vom 27.10.; Einfluss auf Reihen und Torhüterwahl offen.",
-   "schwer": false
-  },
   {
    "text": "Dominik Kahun (München) fällt bis nach der Länderspielpause aus. Unterkörperverletzung, Rückkehr frühestens am 13.11.; verpasst auch den Deutschland Cup.",
    "schwer": true,
@@ -334,18 +267,6 @@
    "bis": "2026-11-13"
   },
   {
-   "text": "Wolfsburg ohne Pfohl, Ziegler und Morley am 23. und 25.10. Gründe nicht genannt.",
-   "schwer": false
-  },
-  {
-   "text": "Krefeld ohne Weiß, Buschmann und Mäkitalo am 25.10. Gründe nicht genannt; im Tor Bick (25.10.) und Jatkola (23.10.) im Wechsel.",
-   "schwer": false
-  },
-  {
-   "text": "Eminger (Bremerhaven) weiter angeschlagen. Fehlte am 23. und 25.10.",
-   "schwer": false
-  },
-  {
    "text": "Mathias Niederberger (München) fällt voraussichtlich bis Jahresende aus. Unterkörperverletzung vom 23.10. laut Vereinsmeldung vom 27.10.; Bibeau ist die Nummer 1.",
    "schwer": false,
    "bis": "2026-12-31"
@@ -359,10 +280,6 @@
    "text": "Köln ohne Torhüter Brückmann und Stürmer MacInnis. Beide fehlten am 27.10. gegen Mannheim (5:6 n. V.); Noebels, MacLeod und Niedenz sind zurück. Juvonen ist die Nummer 1; Luca Münzenberger nach Kassel gewechselt.",
    "schwer": false,
    "bis": "2026-11-13"
-  },
-  {
-   "text": "Keine Quoten für die Saisonwerte-Spiele. Die übrigen Spiele des Spieltags finden erst am 31.01./01.02.2027 statt; dafür gibt es noch keine Wettangebote.",
-   "schwer": false
   }
  ],
  "quellen": [
@@ -717,6 +634,10 @@
   {
    "titel": "KEV: News",
    "url": "https://krefeld-pinguine.de/news/"
+  },
+  {
+   "titel": "DEL Lineup Krefeld–Schwenningen 28.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/28102026_krefeld-pinguine_gg_schwenninger-wild-wings_4475/lineup"
   }
  ],
  "odds": {},
