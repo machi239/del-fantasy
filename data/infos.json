@@ -82,9 +82,9 @@
   "1644": 1,
   "4243": 1,
   "2172": 0,
-  "1678": 0.5,
-  "1799": 0.5,
-  "3569": 0.5,
+  "1678": 1,
+  "1799": 1,
+  "3569": 0,
   "550": 0,
   "3309": 1,
   "4324": 0.5,
@@ -100,7 +100,7 @@
   "2411": 1,
   "1611": 1,
   "1525": 1,
-  "2504": 0.5,
+  "2504": 1,
   "1856": 1,
   "1987": 1,
   "1350": 1,
@@ -114,7 +114,7 @@
   "3557": 1,
   "27": 1,
   "1850": 1,
-  "507": 0.5,
+  "507": 1,
   "531": 0.5,
   "2122": 0.5,
   "1489": 0.5,
@@ -153,17 +153,17 @@
   "1451": 1,
   "2468": 0
  },
- "goalie_start": {},
+ "goalie_start": {
+  "3424": 0.9,
+  "1594": 0.1
+ },
  "notizen": {
-  "3560": "am 25.10. gegen Berlin verletzt raus, Dauer unbekannt",
-  "3559": "spielte am 25.10. per Förderlizenz in Ravensburg (DEL2)",
+  "3560": "Handverletzung vom 25.10., laut Trainer Walker kann er wohl in Krefeld spielen",
+  "3559": "reist laut Verein mit nach Krefeld als Option",
   "426": "am 25.10. überzählig (healthy scratch)",
   "4160": "am 25.10. überzählig, rotiert",
   "1069": "am 25.10. geschont, LaFontaine startete",
   "4312": "startete am 25.10. in Schwenningen",
-  "507": "laut Adler-Teamcheck vom 26.10. weiterhin krank",
-  "1799": "fehlte am 23.10. krank/angeschlagen",
-  "1678": "fehlte am 23.10. krank/angeschlagen",
   "4318": "fehlte zuletzt, Grund unbekannt",
   "3072": "fehlte zuletzt, Grund unbekannt",
   "122": "Unterkörperverletzung vom 23.10., fällt voraussichtlich bis Jahresende aus",
@@ -180,13 +180,12 @@
   "513": "fehlte am 23. und 25.10., Grund unbekannt",
   "2122": "fehlte am 23. und 25.10., Grund unbekannt",
   "4341": "laut Verein fraglich, fehlte am 25.10., Grund unbekannt",
-  "3428": "am 23.10. überzählig (Rotation)",
-  "2504": "am 23.10. überzählig (Rotation)",
+  "3428": "fehlte am 23. und 27.10. (Rotation/überzählig)",
   "102": "Rotation: startete 25.10., Jatkola 18. und 23.10.; kein Starter für 28.10. angekündigt",
   "4342": "startete am 18. und 23.10., am 25.10. Backup",
   "599": "Rotation: startete 18. und 23.10., Janett am 16. und 25.10.",
   "4347": "startete am 16. und 25.10.",
-  "1594": "startete am 25.10. statt Wolf",
+  "1594": "soll laut Verein am Freitag in Iserlohn starten, am 28.10. Backup",
   "1211": "Rotation mit Peyton Jones; startete 23.10.",
   "3593": "startete am 18. und 25.10.",
   "2351": "startete am 25.10., nach 40 Min. Stettmer",
@@ -194,9 +193,10 @@
   "1451": "startete am 25.10. statt Gudlevskis",
   "3412": "zuletzt rausrotiert",
   "2468": "Unterkörperverletzung, fällt rund drei Monate aus (Meldung 27.10.)",
-  "2172": "laut Adler-Teamcheck vom 26.10. angeschlagen",
-  "516": "verletzt (Teamcheck 26.10.)",
-  "3424": "Rotation mit Eriksson: Wolf startete 18. und 23.10., Eriksson 25.10.; kein Starter für 28.10. angekündigt"
+  "2172": "am 27.10. nicht im Kader, angeschlagen",
+  "516": "verletzt, am 27.10. nicht im Kader (Wiens Backup)",
+  "3424": "laut Wild-Wings-Vorbericht vom 27.10. Starter in Krefeld (28.10.)",
+  "3569": "Luca Münzenberger nach Kassel gewechselt (27.10.)"
  },
  "risiken": [
   {
@@ -204,7 +204,11 @@
    "schwer": false
   },
   {
-   "text": "Krefeld–Schwenningen (28.10., 19:30): noch keine Vorberichte und keine angekündigten Torhüter. Beide Teams rotieren im Tor (Krefeld Bick/Jatkola, Schwenningen Wolf/Eriksson); Klärung im Last-Minute-Lauf.",
+   "text": "Krefeld–Schwenningen (28.10., 19:30): Simon Wolf startet für Schwenningen. Laut Wild-Wings-Vorbericht vom 27.10.; Eriksson am Freitag in Iserlohn. Krefelds Starter (Bick oder Jatkola) nicht angekündigt, Klärung im Last-Minute-Lauf. Martinsson nach Handverletzung wohl wieder dabei, Uvira fehlt bis nach der Pause.",
+   "schwer": false
+  },
+  {
+   "text": "Krefeld mit neuem Cheftrainer Jack Skille. Laut Schwarzwälder Bote vom 27.10.; Einfluss auf Reihen und Torhüterwahl offen.",
    "schwer": false
   },
   {
@@ -218,7 +222,7 @@
    "bis": "2026-11-15"
   },
   {
-   "text": "Schwenningen ohne Schreiner, Lebster, Phil Hungerecker und Uvira bis nach der Länderspielpause. Uvira zog sich am 25.10. eine Muskelverletzung im Bein zu; Martinsson verletzt raus, Dauer unbekannt; Eriksson startete statt Wolf.",
+   "text": "Schwenningen ohne Schreiner, Lebster, Phil Hungerecker und Uvira bis nach der Länderspielpause. Uvira zog sich am 25.10. eine Muskelverletzung im Bein zu; Martinsson nach Handverletzung wohl zurück.",
    "schwer": true,
    "bis": "2026-11-13"
   },
@@ -340,7 +344,7 @@
    "bis": "2027-01-27"
   },
   {
-   "text": "Köln ohne Torhüter Brückmann (verletzt), Noebels krank, MacInnis angeschlagen. Laut Adler-Teamcheck vom 26.10.; Juvonen ist die Nummer 1. MacLeod und Niedenz fehlten am 23.10., Einsatz am 27.10. offen.",
+   "text": "Köln ohne Torhüter Brückmann und Stürmer MacInnis. Beide fehlten am 27.10. gegen Mannheim (5:6 n. V.); Noebels, MacLeod und Niedenz sind zurück. Juvonen ist die Nummer 1; Luca Münzenberger nach Kassel gewechselt.",
    "schwer": false,
    "bis": "2026-11-13"
   },
@@ -661,6 +665,34 @@
   {
    "titel": "Pinguins: Befreiungsschlag",
    "url": "https://fischtown-pinguins.de/befreiungsschlag-der-pinguins/"
+  },
+  {
+   "titel": "Wild Wings: Mit mehr Reife zurück nach Krefeld (27.10.)",
+   "url": "https://www.schwenninger-wildwings.de/aktuell/mit-mehr-reife-zurueck-nach-krefeld/"
+  },
+  {
+   "titel": "DEL Boxscore Köln–Mannheim 27.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/27102026_koelner-haie_gg_adler-mannheim_4474/boxscore"
+  },
+  {
+   "titel": "Haie: Knappe Heimniederlage gegen Mannheim",
+   "url": "https://www.haie.de/news/12-knappe-heimniederlage-gegen-mannheim/"
+  },
+  {
+   "titel": "Haie verabschieden Luca Münzenberger",
+   "url": "https://www.haie.de/news/haie-verabschieden-luca-muenzenberger-verteidiger-wechselt-nach-kassel/"
+  },
+  {
+   "titel": "Adler: Sieg in torreichem Klassiker",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/10/sieg-in-torreichem-klassiker"
+  },
+  {
+   "titel": "Schwarzwälder Bote: Wild Wings in Krefeld auf Punktejagd",
+   "url": "https://www.schwarzwaelder-bote.de/sport/schwenninger-wild-wings/schwenninger-wild-wings-in-krefeld-auf-punktejagd-im-westen-wo-jack-skille-jetzt-neuer-cheftrainer-ist-79615407.html"
+  },
+  {
+   "titel": "Schwäbische: Wild Wings unter Druck",
+   "url": "https://www.schwaebische.de/regional/zollernalb/wild-wings-unter-druck-dreierpack-vor-dem-deutschland-cup-4964498"
   }
  ],
  "odds": {},
