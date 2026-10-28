@@ -200,6 +200,18 @@
  },
  "risiken": [
   {
+   "text": "Last-Minute-Stand 18:19. Offizielle Aufstellungen berücksichtigt: keine.",
+   "schwer": false
+  },
+  {
+   "text": "Aufstellung von Krefeld Pinguine noch nicht veröffentlicht. DEL-Boxscore um 18:20 noch leer; Starter Bick oder Jatkola offen, zweiter Last-Minute-Lauf um 18:50.",
+   "schwer": false
+  },
+  {
+   "text": "Aufstellung von Schwenninger Wild Wings noch nicht veröffentlicht. Laut Vorbericht vom 27.10. startet Simon Wolf.",
+   "schwer": false
+  },
+  {
    "text": "Niklas Treutle (Nürnberg) nur Rotations-Starter. Treutle spielte am 18. und 23.10., Janett am 16. und 25.10.; Alternative zum gleichen Preis: Jonas Neffin (Berlin, 2 Pucks) oder Luis Janett.",
    "schwer": false
   },
@@ -693,6 +705,18 @@
   {
    "titel": "Schwäbische: Wild Wings unter Druck",
    "url": "https://www.schwaebische.de/regional/zollernalb/wild-wings-unter-druck-dreierpack-vor-dem-deutschland-cup-4964498"
+  },
+  {
+   "titel": "DEL Boxscore Krefeld–Schwenningen 28.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/28102026_krefeld-pinguine_gg_schwenninger-wild-wings_4475/boxscore"
+  },
+  {
+   "titel": "Sportschau: Kader Krefeld–Schwenningen 28.10.",
+   "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189601/krefeld-pinguine_schwenninger-wild-wings/spiel-kader"
+  },
+  {
+   "titel": "KEV: News",
+   "url": "https://krefeld-pinguine.de/news/"
   }
  ],
  "odds": {},
