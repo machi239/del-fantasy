@@ -17,23 +17,17 @@
   "zuletzt_gespielt": "2026-10-23",
   "verpasst": "2026-10-25"
  },
- "1799": {
-  "name": "Gregor MacLeod",
+ "3432": {
+  "name": "Juhani Tyrväinen",
   "team_id": "11",
-  "zuletzt_gespielt": "2026-10-18",
-  "verpasst": "2026-10-23"
+  "zuletzt_gespielt": "2026-10-23",
+  "verpasst": "2026-10-27"
  },
- "1678": {
-  "name": "Kevin Niedenz",
+ "3433": {
+  "name": "Mateu Späth",
   "team_id": "11",
-  "zuletzt_gespielt": "2026-10-16",
-  "verpasst": "2026-10-23"
- },
- "507": {
-  "name": "Marcel Noebels",
-  "team_id": "11",
-  "zuletzt_gespielt": "2026-10-20",
-  "verpasst": "2026-10-23"
+  "zuletzt_gespielt": "2026-10-23",
+  "verpasst": "2026-10-27"
  },
  "531": {
   "name": "Fabio Pfohl",
@@ -93,13 +87,19 @@
   "name": "Tobias Fohrler",
   "team_id": "2",
   "zuletzt_gespielt": "2026-10-18",
-  "verpasst": "2026-10-23"
+  "verpasst": "2026-10-27"
  },
- "2504": {
-  "name": "Tom Kühnhackl",
+ "3567": {
+  "name": "Anthony Greco",
   "team_id": "2",
-  "zuletzt_gespielt": "2026-10-18",
-  "verpasst": "2026-10-23"
+  "zuletzt_gespielt": "2026-10-23",
+  "verpasst": "2026-10-27"
+ },
+ "1856": {
+  "name": "Lennard Nieleck",
+  "team_id": "2",
+  "zuletzt_gespielt": "2026-10-23",
+  "verpasst": "2026-10-27"
  },
  "426": {
   "name": "Alex Trivellato",
