@@ -58,7 +58,7 @@
   "4341": 0.5,
   "1903": 0.5,
   "4333": 1,
-  "426": 0.5,
+  "426": 1,
   "3530": 1,
   "1904": 0,
   "990": 1,
@@ -101,7 +101,7 @@
   "1611": 1,
   "1525": 1,
   "2504": 1,
-  "1856": 1,
+  "1856": 0.5,
   "1987": 1,
   "1350": 1,
   "931": 1,
@@ -134,13 +134,13 @@
   "1684": 1,
   "597": 0,
   "3560": 0.5,
-  "3559": 0.5,
+  "3559": 1,
   "4160": 0.5,
   "4312": 1,
   "3072": 0.5,
   "122": 0,
   "4154": 1,
-  "3472": 0.5,
+  "3472": 0,
   "4498": 0.5,
   "3581": 1,
   "102": 1,
@@ -151,11 +151,56 @@
   "2351": 1,
   "998": 1,
   "1451": 1,
-  "2468": 0
+  "2468": 0,
+  "3432": 0.5,
+  "3433": 0.5,
+  "3567": 0.5,
+  "1985": 1,
+  "500": 1
  },
- "goalie_start": {},
- "notizen": {},
+ "goalie_start": {
+  "1985": 0.7,
+  "500": 0.3,
+  "1211": 0.65,
+  "3593": 0.35,
+  "599": 0.7,
+  "4347": 0.3,
+  "1069": 0.75,
+  "4312": 0.25
+ },
+ "notizen": {
+  "1985": "Mannheim rotiert zuletzt strikt (Franzreb am 27.10.), daher Start gegen Bremerhaven wahrscheinlich",
+  "500": "startete am 27.10. in Köln; Rotation spricht für Hildebrand",
+  "1211": "Augsburg wechselte zuletzt (Jones am 25.10.), daher Ancicka gegen Frankfurt wahrscheinlich",
+  "3593": "startete am 25.10. gegen Straubing",
+  "599": "Janett startete am 25.10.; Treutle eher am 30.10.",
+  "1069": "LaFontaine startete am 25.10.; Neffin wohl wieder Nummer 1",
+  "4324": "Unterkörperverletzung; Abschlusstraining vor Frankfurt absolviert, Einsatz möglich",
+  "3472": "Oberkörperverletzung, fehlt bis zur Deutschland-Cup-Pause",
+  "426": "spielte am 28.10. in Krefeld",
+  "3559": "spielte am 28.10. in Krefeld",
+  "3432": "fehlte zuletzt, Grund unbekannt",
+  "3433": "fehlte zuletzt, Grund unbekannt",
+  "3567": "fehlte zuletzt, Grund unbekannt",
+  "1856": "fehlte zuletzt, Grund unbekannt",
+  "3428": "fehlte zuletzt, Grund unbekannt",
+  "4160": "fehlte zuletzt, Grund unbekannt (U20-Nominierung)",
+  "4318": "fehlte zuletzt, Grund unbekannt",
+  "3072": "fehlte zuletzt, Grund unbekannt",
+  "531": "fehlte zuletzt, Grund unbekannt",
+  "513": "fehlte zuletzt, Grund unbekannt",
+  "2122": "fehlte zuletzt, Grund unbekannt",
+  "537": "fehlte zuletzt, Grund unbekannt",
+  "4498": "fehlte zuletzt, Grund unbekannt",
+  "1489": "fehlte zuletzt, Grund unbekannt",
+  "1564": "fehlte zuletzt angeschlagen",
+  "4341": "fraglich laut Vorbericht Frankfurt"
+ },
  "risiken": [
+  {
+   "text": "Torhüter Hildebrand (Mannheim) und Ancicka (Augsburg) ohne bestätigten Start. Beide Teams rotieren zuletzt, die Reihenfolge spricht jeweils für sie (ca. 65–70 %); Alternative für Hildebrand: Jonas Neffin (2 Pucks, p_start 0.8); für Ancicka (1 Puck) gibt es keine gleich teure Alternative.",
+   "schwer": false
+  },
   {
    "text": "Dominik Kahun (München) fällt bis nach der Länderspielpause aus. Unterkörperverletzung, Rückkehr frühestens am 13.11.; verpasst auch den Deutschland Cup.",
    "schwer": true,
@@ -167,7 +212,7 @@
    "bis": "2026-11-15"
   },
   {
-   "text": "Schwenningen ohne Schreiner, Lebster, Phil Hungerecker und Uvira bis nach der Länderspielpause. Uvira zog sich am 25.10. eine Muskelverletzung im Bein zu; Martinsson nach Handverletzung wohl zurück.",
+   "text": "Schwenningen ohne Schreiner, Lebster, Phil Hungerecker und Uvira bis nach der Länderspielpause. Beim 0:6 in Krefeld am 28.10. als verletzt geführt; Trivellato und Hempel wieder dabei, Höfflin, Feist und Hänelt spielten.",
    "schwer": true,
    "bis": "2026-11-13"
   },
@@ -242,7 +287,7 @@
    "bis": "2026-12-15"
   },
   {
-   "text": "Augsburg ohne Sean Malone bis nach dem Deutschland Cup. Busdeker (Oberkörper, 23.10.) und Toporowski (seit 16.10.) fraglich, Lambert zurück; Torhüter Ancicka und Peyton Jones rotieren.",
+   "text": "Augsburg ohne Sean Malone und D.J. Busdeker bis nach dem Deutschland Cup. Busdeker (Oberkörper) fehlt laut Verein in den letzten beiden Spielen vor der Pause; Toporowski trainierte wieder voll mit, Einsatz möglich; Torhüter Ancicka und Peyton Jones rotieren.",
    "schwer": false,
    "bis": "2026-11-13"
   },
@@ -638,6 +683,30 @@
   {
    "titel": "DEL Lineup Krefeld–Schwenningen 28.10.",
    "url": "https://www.penny-del.org/statistik/spieldetails/28102026_krefeld-pinguine_gg_schwenninger-wild-wings_4475/lineup"
+  },
+  {
+   "titel": "AEV: Panther müssen auf D.J. Busdeker verzichten (28.10.)",
+   "url": "https://www.aev-panther.de/artikel/panther-muessen-auf-d-j-busdeker-verzichten/01a18246-676a-718c-a8dd-290057451c87"
+  },
+  {
+   "titel": "AEV: Hockey 4 Students gegen Frankfurt",
+   "url": "https://www.aev-panther.de/artikel/hockey-4-students-gegen-frankfurt/01a17dc6-def3-7395-af82-615e893ba581"
+  },
+  {
+   "titel": "Löwen: Zweimal Panther (28.10.)",
+   "url": "https://www.loewen-frankfurt.de/saison/aktuelles/details/zweimal-panther-loewen-treffen-auf-augsburg-und-ingolstadt"
+  },
+  {
+   "titel": "Wild Wings: Abend zum Vergessen in Krefeld",
+   "url": "https://www.schwenninger-wildwings.de/spielbericht/abend-zum-vergessen-in-krefeld/"
+  },
+  {
+   "titel": "Eisbären: Trio beim Deutschland Cup",
+   "url": "https://www.eisbaeren.de/news/detail/deutschland-cup-2026"
+  },
+  {
+   "titel": "Sportschau: Kader Mannheim–Bremerhaven",
+   "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189613/adler-mannheim_fischtown-pinguins/spiel-kader"
   }
  ],
  "odds": {},
