@@ -1,9 +1,9 @@
 {
  "spieltag": 13,
  "deadline": "Thu 29.10.2026 19:30",
- "erstellt": "29.10.2026 16:14",
+ "erstellt": "29.10.2026 16:59",
  "pucks": 60,
- "xp_gesamt": 48.7,
+ "xp_gesamt": 47.9,
  "aufstellung": [
   {
    "spieler_id": 1985,
@@ -39,18 +39,6 @@
    "dt_pass": true,
    "xp": 2.92,
    "gegner": "Grizzlys Wolfsburg",
-   "p_start": null
-  },
-  {
-   "spieler_id": 1611,
-   "name": "Leon Gawanke",
-   "team": "Adler Mannheim",
-   "team_id": 2,
-   "pos": "def",
-   "preis": 5,
-   "dt_pass": true,
-   "xp": 2.87,
-   "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
   {
@@ -102,6 +90,18 @@
    "p_start": null
   },
   {
+   "spieler_id": 1987,
+   "name": "Davis Vandane",
+   "team": "Krefeld Pinguine",
+   "team_id": 5,
+   "pos": "def",
+   "preis": 2,
+   "dt_pass": false,
+   "xp": 1.9,
+   "gegner": "Kölner Haie",
+   "p_start": null
+  },
+  {
    "spieler_id": 1072,
    "name": "Ryan Jones",
    "team": "Nürnberg Ice Tigers",
@@ -109,7 +109,7 @@
    "pos": "def",
    "preis": 2,
    "dt_pass": false,
-   "xp": 1.65,
+   "xp": 1.66,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   },
@@ -193,20 +193,8 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 2.19,
+   "xp": 2.2,
    "gegner": "EHC Red Bull München",
-   "p_start": null
-  },
-  {
-   "spieler_id": 27,
-   "name": "Mirko Höfflin",
-   "team": "Schwenninger Wild Wings",
-   "team_id": 15,
-   "pos": "for",
-   "preis": 2,
-   "dt_pass": true,
-   "xp": 2.16,
-   "gegner": "Iserlohn Roosters",
    "p_start": null
   },
   {
@@ -222,6 +210,30 @@
    "p_start": null
   },
   {
+   "spieler_id": 499,
+   "name": "Daniel Fischbuch",
+   "team": "Kölner Haie",
+   "team_id": 11,
+   "pos": "for",
+   "preis": 3,
+   "dt_pass": true,
+   "xp": 2.06,
+   "gegner": "Krefeld Pinguine",
+   "p_start": null
+  },
+  {
+   "spieler_id": 1525,
+   "name": "Alexander Ehl",
+   "team": "Adler Mannheim",
+   "team_id": 2,
+   "pos": "for",
+   "preis": 3,
+   "dt_pass": true,
+   "xp": 1.98,
+   "gegner": "Pinguins Bremerhaven",
+   "p_start": null
+  },
+  {
    "spieler_id": 1850,
    "name": "Philip Feist",
    "team": "Schwenninger Wild Wings",
@@ -229,7 +241,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 2.15,
+   "xp": 1.81,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -243,18 +255,6 @@
    "dt_pass": false,
    "xp": 1.57,
    "gegner": "Nürnberg Ice Tigers",
-   "p_start": null
-  },
-  {
-   "spieler_id": 1684,
-   "name": "Håkon Hänelt",
-   "team": "Schwenninger Wild Wings",
-   "team_id": 15,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 1.45,
-   "gegner": "Iserlohn Roosters",
    "p_start": null
   }
  ]
