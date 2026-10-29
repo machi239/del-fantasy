@@ -1,5 +1,5 @@
 {
- "spieltag": 13,
+ "spieltag": 14,
  "availability": {
   "2804": 0,
   "1753": 0,
@@ -194,69 +194,9 @@
   "4153": 0,
   "1825": 0
  },
- "goalie_start": {
-  "1985": 0.7,
-  "500": 0.3,
-  "1211": 1.0,
-  "3593": 0.0,
-  "599": 0.7,
-  "4347": 0.3,
-  "1069": 0.75,
-  "4312": 0.25,
-  "4338": 1.0,
-  "1088": 0.0
- },
- "notizen": {
-  "1985": "Mannheim rotiert zuletzt strikt (Franzreb am 27.10.), daher Start gegen Bremerhaven wahrscheinlich",
-  "500": "startete am 27.10. in Köln; Rotation spricht für Hildebrand",
-  "1211": "Start bestätigt",
-  "3593": "Backup laut offizieller Aufstellung",
-  "599": "Janett startete am 25.10.; Treutle eher am 30.10.",
-  "1069": "LaFontaine startete am 25.10.; Neffin wohl wieder Nummer 1",
-  "4324": "nicht im Aufgebot; Gesichtsverletzung im Abschlusstraining, Neubewertung am Sonntag",
-  "3472": "nicht im Aufgebot",
-  "426": "spielte am 28.10. in Krefeld",
-  "3559": "spielte am 28.10. in Krefeld",
-  "3432": "fehlte zuletzt, Grund unbekannt",
-  "3433": "fehlte zuletzt, Grund unbekannt",
-  "3567": "fehlte zuletzt, Grund unbekannt",
-  "1856": "fehlte zuletzt, Grund unbekannt",
-  "3428": "fehlte zuletzt, Grund unbekannt",
-  "4160": "fehlte zuletzt, Grund unbekannt (U20-Nominierung)",
-  "4318": "fehlte zuletzt, Grund unbekannt",
-  "3072": "fehlte zuletzt, Grund unbekannt",
-  "531": "fehlte zuletzt, Grund unbekannt",
-  "513": "fehlte zuletzt, Grund unbekannt",
-  "2122": "fehlte zuletzt, Grund unbekannt",
-  "537": "fehlte zuletzt, Grund unbekannt",
-  "4498": "fehlte zuletzt, Grund unbekannt",
-  "1489": "fehlte zuletzt, Grund unbekannt",
-  "1564": "fehlte zuletzt angeschlagen",
-  "4341": "nicht im Aufgebot",
-  "2182": "nicht im Aufgebot",
-  "3595": "nicht im Aufgebot",
-  "4153": "nicht im Aufgebot",
-  "4323": "nicht im Aufgebot",
-  "1397": "nicht im Aufgebot",
-  "1825": "nicht im Aufgebot",
-  "1982": "nicht im Aufgebot",
-  "2468": "nicht im Aufgebot",
-  "4338": "Start bestätigt",
-  "1088": "Backup laut offizieller Aufstellung"
- },
+ "goalie_start": {},
+ "notizen": {},
  "risiken": [
-  {
-   "text": "Last-Minute-Stand 18:25. Offizielle Aufstellungen berücksichtigt: Augsburger Panther, Löwen Frankfurt.",
-   "schwer": false
-  },
-  {
-   "text": "Hildebrand (Mannheim) weiter ohne bestätigten Start, Ancicka (Augsburg) startet gegen Frankfurt. Mannheim rotiert zuletzt, die Reihenfolge spricht für Hildebrand (ca. 70 %, Spiel erst am 30.10.); Alternative gleichen oder geringeren Preises: Jonas Neffin (2 Pucks, p_start 0.75) oder Niklas Treutle (2 Pucks, p_start 0.7).",
-   "schwer": false
-  },
-  {
-   "text": "Luke Toporowski (Augsburg) fehlt gegen Frankfurt. Gesichtsverletzung im Abschlusstraining laut AEV-Liveticker, Neubewertung am Sonntag. Frankfurt mit Adam Scheel im Tor, Brenner Backup; Biro, Pfaffengut, Matushkin und Wirt nicht im Aufgebot.",
-   "schwer": false
-  },
   {
    "text": "Dominik Kahun (München) fällt bis nach der Länderspielpause aus. Unterkörperverletzung, Rückkehr frühestens am 13.11.; verpasst auch den Deutschland Cup.",
    "schwer": true,
