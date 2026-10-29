@@ -1,5 +1,5 @@
 {
- "stand": "29.10.2026 18:25",
+ "stand": "29.10.2026 22:09",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -7,20 +7,6 @@
   "unibet"
  ],
  "spiele": {
-  "13-44": {
-   "spiel": "Augsburger Panther - Löwen Frankfurt",
-   "beginn": "29.10.2026 19:30",
-   "buchmacher": [
-    "pinnacle",
-    "bet365",
-    "unibet"
-   ],
-   "p_home60": 0.525,
-   "p_draw60": 0.208,
-   "p_away60": 0.267,
-   "p_home_inkl_ot": 0.639,
-   "total": 5.73
-  },
   "14-8": {
    "spiel": "Nürnberg Ice Tigers - Grizzlys Wolfsburg",
    "beginn": "30.10.2026 19:30",
