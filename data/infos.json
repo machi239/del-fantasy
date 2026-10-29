@@ -55,7 +55,7 @@
   "4316": 0.5,
   "2019": 1,
   "442": 1,
-  "4341": 0.5,
+  "4341": 0,
   "1903": 0.5,
   "4333": 1,
   "426": 1,
@@ -87,7 +87,7 @@
   "3569": 0,
   "550": 0,
   "3309": 1,
-  "4324": 0.5,
+  "4324": 0,
   "2194": 0,
   "4349": 1,
   "1435": 0,
@@ -156,27 +156,65 @@
   "3433": 0.5,
   "3567": 0.5,
   "1985": 1,
-  "500": 1
+  "500": 1,
+  "235": 1,
+  "268": 1,
+  "1306": 1,
+  "1447": 1,
+  "1553": 1,
+  "1657": 1,
+  "1682": 1,
+  "1868": 1,
+  "1896": 1,
+  "1998": 1,
+  "2090": 1,
+  "3592": 1,
+  "3594": 1,
+  "3870": 1,
+  "4321": 1,
+  "4322": 1,
+  "528": 1,
+  "539": 1,
+  "1088": 1,
+  "1677": 1,
+  "2367": 1,
+  "2463": 1,
+  "2473": 1,
+  "2900": 1,
+  "2916": 1,
+  "3430": 1,
+  "3580": 1,
+  "3582": 1,
+  "4148": 1,
+  "4338": 1,
+  "4339": 1,
+  "4340": 1,
+  "2182": 0,
+  "3595": 0,
+  "4153": 0,
+  "1825": 0
  },
  "goalie_start": {
   "1985": 0.7,
   "500": 0.3,
-  "1211": 0.65,
-  "3593": 0.35,
+  "1211": 1.0,
+  "3593": 0.0,
   "599": 0.7,
   "4347": 0.3,
   "1069": 0.75,
-  "4312": 0.25
+  "4312": 0.25,
+  "4338": 1.0,
+  "1088": 0.0
  },
  "notizen": {
   "1985": "Mannheim rotiert zuletzt strikt (Franzreb am 27.10.), daher Start gegen Bremerhaven wahrscheinlich",
   "500": "startete am 27.10. in Köln; Rotation spricht für Hildebrand",
-  "1211": "Augsburg wechselte zuletzt (Jones am 25.10.), daher Ancicka gegen Frankfurt wahrscheinlich",
-  "3593": "startete am 25.10. gegen Straubing",
+  "1211": "Start bestätigt",
+  "3593": "Backup laut offizieller Aufstellung",
   "599": "Janett startete am 25.10.; Treutle eher am 30.10.",
   "1069": "LaFontaine startete am 25.10.; Neffin wohl wieder Nummer 1",
-  "4324": "Unterkörperverletzung; Abschlusstraining vor Frankfurt absolviert, Einsatz möglich",
-  "3472": "Oberkörperverletzung, fehlt bis zur Deutschland-Cup-Pause",
+  "4324": "nicht im Aufgebot; Gesichtsverletzung im Abschlusstraining, Neubewertung am Sonntag",
+  "3472": "nicht im Aufgebot",
   "426": "spielte am 28.10. in Krefeld",
   "3559": "spielte am 28.10. in Krefeld",
   "3432": "fehlte zuletzt, Grund unbekannt",
@@ -194,11 +232,29 @@
   "4498": "fehlte zuletzt, Grund unbekannt",
   "1489": "fehlte zuletzt, Grund unbekannt",
   "1564": "fehlte zuletzt angeschlagen",
-  "4341": "fraglich laut Vorbericht Frankfurt"
+  "4341": "nicht im Aufgebot",
+  "2182": "nicht im Aufgebot",
+  "3595": "nicht im Aufgebot",
+  "4153": "nicht im Aufgebot",
+  "4323": "nicht im Aufgebot",
+  "1397": "nicht im Aufgebot",
+  "1825": "nicht im Aufgebot",
+  "1982": "nicht im Aufgebot",
+  "2468": "nicht im Aufgebot",
+  "4338": "Start bestätigt",
+  "1088": "Backup laut offizieller Aufstellung"
  },
  "risiken": [
   {
-   "text": "Torhüter Hildebrand (Mannheim) und Ancicka (Augsburg) ohne bestätigten Start. Beide Teams rotieren zuletzt, die Reihenfolge spricht jeweils für sie (ca. 65–70 %); Alternative für Hildebrand: Jonas Neffin (2 Pucks, p_start 0.8); für Ancicka (1 Puck) gibt es keine gleich teure Alternative.",
+   "text": "Last-Minute-Stand 18:25. Offizielle Aufstellungen berücksichtigt: Augsburger Panther, Löwen Frankfurt.",
+   "schwer": false
+  },
+  {
+   "text": "Hildebrand (Mannheim) weiter ohne bestätigten Start, Ancicka (Augsburg) startet gegen Frankfurt. Mannheim rotiert zuletzt, die Reihenfolge spricht für Hildebrand (ca. 70 %, Spiel erst am 30.10.); Alternative gleichen oder geringeren Preises: Jonas Neffin (2 Pucks, p_start 0.75) oder Niklas Treutle (2 Pucks, p_start 0.7).",
+   "schwer": false
+  },
+  {
+   "text": "Luke Toporowski (Augsburg) fehlt gegen Frankfurt. Gesichtsverletzung im Abschlusstraining laut AEV-Liveticker, Neubewertung am Sonntag. Frankfurt mit Adam Scheel im Tor, Brenner Backup; Biro, Pfaffengut, Matushkin und Wirt nicht im Aufgebot.",
    "schwer": false
   },
   {
@@ -287,7 +343,7 @@
    "bis": "2026-12-15"
   },
   {
-   "text": "Augsburg ohne Sean Malone und D.J. Busdeker bis nach dem Deutschland Cup. Busdeker (Oberkörper) fehlt laut Verein in den letzten beiden Spielen vor der Pause; Toporowski trainierte wieder voll mit, Einsatz möglich; Torhüter Ancicka und Peyton Jones rotieren.",
+   "text": "Augsburg ohne Sean Malone und D.J. Busdeker bis nach dem Deutschland Cup. Busdeker (Oberkörper) fehlt laut Verein in den letzten beiden Spielen vor der Pause; Toporowski fehlt am 29.10. (Gesichtsverletzung); Torhüter Ancicka und Peyton Jones rotieren.",
    "schwer": false,
    "bis": "2026-11-13"
   },
@@ -707,6 +763,18 @@
   {
    "titel": "Sportschau: Kader Mannheim–Bremerhaven",
    "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189613/adler-mannheim_fischtown-pinguins/spiel-kader"
+  },
+  {
+   "titel": "AEV Spielseite Augsburg–Frankfurt (Aufstellung 29.10.)",
+   "url": "https://www.aev-panther.de/panther/spiel/del-2026-27/aev-vs-fra/019f0326-da18-7232-b9a3-932f4eb78017"
+  },
+  {
+   "titel": "AEV Liveticker (Toporowski)",
+   "url": "https://liveticker.aev-panther.de/"
+  },
+  {
+   "titel": "PENNY DEL Boxscore Augsburg–Frankfurt (noch leer)",
+   "url": "https://www.penny-del.org/statistik/spieldetails/29102026_augsburger-panther_gg_loewen-frankfurt_4476/boxscore"
   }
  ],
  "odds": {},
