@@ -130,6 +130,9 @@ def main():
     subprocess.run([py, os.path.join(ROOT, "scripts", "optimize.py"), "--input", F_GESAMT,
                     "--out", F_AUF], check=True)
 
+    # Prognose dieses Spieltags sichern (letzter Stand vor der Deadline bleibt stehen)
+    prognose_sichern(lies(F_AUF, {}))
+
     # 6. Spieler der Aufstellung, die zuletzt ohne bekannten Grund fehlten, als Risiko
     auf = lies(F_AUF, {})
     bekannt = set(gesamt.get("availability", {}))
@@ -144,6 +147,20 @@ def main():
         json.dump(gesamt, f, ensure_ascii=False, indent=1)
     subprocess.run([py, os.path.join(ROOT, "scripts", "seite.py"), "--aufstellung", F_AUF,
                     "--infos", F_GESAMT, "--out", F_SEITE], check=True)
+
+
+FELDER_PROGNOSE = ("spieler_id", "name", "team", "team_id", "pos", "preis", "dt_pass", "xp", "gegner", "p_start")
+
+
+def prognose_sichern(auf):
+    """Schlanke Kopie der Aufstellung nach data/prognosen/spieltag_NN.json fuer den Rueckblick."""
+    if not auf.get("spieltag"):
+        return
+    os.makedirs(os.path.join(DATA, "prognosen"), exist_ok=True)
+    schlank = {k: auf.get(k) for k in ("spieltag", "deadline", "erstellt", "pucks", "xp_gesamt")}
+    schlank["aufstellung"] = [{k: p.get(k) for k in FELDER_PROGNOSE} for p in auf.get("aufstellung", [])]
+    with open(os.path.join(DATA, "prognosen", f"spieltag_{int(auf['spieltag']):02d}.json"), "w", encoding="utf-8") as f:
+        json.dump(schlank, f, ensure_ascii=False, indent=1)
 
 
 def mit_sperren(infos, sperren, schedule, st):

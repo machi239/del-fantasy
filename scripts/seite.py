@@ -19,6 +19,7 @@ import html
 import json
 import os
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 E = html.escape
@@ -194,6 +195,81 @@ def main():
                     f'wer neu kauft, wartet besser auf den niedrigeren Preis.</p>'
                     f'<div class="alts">{spalten}</div></section>')
 
+    # Rueckblick: Prognose vs. tatsaechliche Punkte vergangener Spieltage (data/prognosen/)
+    rueck = {}
+    pdir = os.path.join(a.data, "prognosen")
+    if os.path.isdir(pdir):
+        with open(os.path.join(a.data, "spielplan.csv"), encoding="utf-8") as f:
+            allplan = list(csv.DictReader(f))
+        with open(os.path.join(a.data, "spielerspiele.csv"), encoding="utf-8") as f:
+            spiele_rows = list(csv.DictReader(f))
+        for fn in sorted(os.listdir(pdir)):
+            pr = load(os.path.join(pdir, fn), {}) or {}
+            st = pr.get("spieltag")
+            if not st or st == d["spieltag"]:
+                continue
+            dl = datetime.strptime(pr["deadline"].split(" ", 1)[1], "%d.%m.%Y %H:%M")
+            if dl > datetime.now(ZoneInfo("Europe/Berlin")).replace(tzinfo=None):
+                continue
+            runde = [g for g in allplan if g["spieltag"] == str(st)]
+            ist = {}
+            for r in spiele_rows:
+                if r["spieltag"] == str(st):
+                    e = ist.setdefault(r["spieler_id"], {"pkt": 0.0, "dabei": False})
+                    e["pkt"] += float(r["punkte"] or 0)
+                    e["dabei"] |= r["gespielt"] == "True" and (r["pos"] != "goal" or float(r["min_s"] or 0) > 0)
+            spieler, vollst = [], True
+            for p in pr["aufstellung"]:
+                tid = str(p.get("team_id"))
+                tg = [g for g in runde if tid in (g["heim_id"], g["gast_id"])]
+                offen = any(g["ausgewertet"] != "ja" for g in tg)
+                vollst &= not offen
+                e = ist.get(str(p["spieler_id"]))
+                status = "offen" if offen else ("" if e and e["dabei"] else "nicht eingesetzt")
+                spieler.append({"n": p["name"], "t": p.get("team") or "", "p": POS[p["pos"]], "k": p["preis"],
+                                "x": round(p["xp"], 2), "i": None if offen else round(e["pkt"] if e else 0.0, 1),
+                                "s": status, "a": not p.get("dt_pass", True)})
+            rueck[str(st)] = {"st": st, "dl": pr["deadline"], "er": pr.get("erstellt", ""),
+                              "x": round(sum(q["x"] for q in spieler), 1),
+                              "i": round(sum(q["i"] or 0 for q in spieler), 1), "v": vollst, "sp": spieler}
+    rueck_html = ""
+    if rueck:
+        reihen = sorted(rueck.values(), key=lambda r: -r["st"])
+        opts_html = "".join(
+            f'<option value="{r["st"]}">Spieltag {r["st"]} · {num(r["x"])} erwartet · {num(r["i"])} erzielt'
+            f'{"" if r["v"] else " (läuft)"}</option>' for r in reihen)
+        rueck_json = json.dumps(rueck, ensure_ascii=False).replace("</", "<\\/")
+        rueck_html = f'''<section class="sec" id="rueckblick"><h2>Rückblick: Prognose und Ergebnis</h2>
+  <p>Die Aufstellung, die vor der Deadline auf dieser Seite stand, mit den erwarteten und den tatsächlich erzielten Fantasy-Punkten (eigene Berechnung aus den Spielberichten).</p>
+  <label class="rsel">Spieltag <select id="rb-st">{opts_html}</select></label>
+  <div class="stats" id="rb-sum"></div>
+  <div class="tablewrap"><table class="rb"><thead><tr><th>Spieler</th><th class="n">Pucks</th><th class="n">Erwartet</th><th class="n">Erzielt</th><th class="n">Diff.</th></tr></thead><tbody id="rb-body"></tbody></table></div>
+  <script type="application/json" id="rb-data">{rueck_json}</script>
+  <script>
+  (function(){{
+    var D=JSON.parse(document.getElementById('rb-data').textContent),sel=document.getElementById('rb-st');
+    function f(x,n){{return x==null?'–':x.toFixed(n).replace('.',',');}}
+    function esc(t){{return String(t).replace(/[&<>"]/g,function(c){{return{{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}}[c];}});}}
+    function show(){{
+      var r=D[sel.value],h='',diff=r.i-r.x;
+      document.getElementById('rb-sum').innerHTML=
+        '<div class="stat"><span class="v">'+f(r.x,1)+'</span><span class="l">erwartet</span></div>'+
+        '<div class="stat"><span class="v">'+f(r.i,1)+'</span><span class="l">erzielt'+(r.v?'':' (bisher)')+'</span></div>'+
+        '<div class="stat"><span class="v '+(diff>=0?'up':'down')+'">'+(diff>=0?'+':'')+f(diff,1)+'</span><span class="l">Differenz</span></div>'+
+        '<div class="stat"><span class="v" style="font-size:1rem">'+esc(r.dl)+'</span><span class="l">Deadline · Stand '+esc(r.er)+'</span></div>';
+      r.sp.forEach(function(p){{
+        var d=p.i==null?null:p.i-p.x;
+        h+='<tr><td class="m"><b>'+esc(p.n)+(p.a?' <span class="flag">A</span>':'')+'</b><span>'+p.p+' · '+esc(p.t)+
+          (p.s?' · <em>'+esc(p.s)+'</em>':'')+'</span></td><td class="n">'+p.k+'</td><td class="n">'+f(p.x,2)+
+          '</td><td class="n"><b>'+f(p.i,1)+'</b></td><td class="n '+(d==null?'':(d>=0?'up':'down'))+'">'+(d==null?'–':(d>=0?'+':'')+f(d,1))+'</td></tr>';
+      }});
+      document.getElementById('rb-body').innerHTML=h;
+    }}
+    sel.addEventListener('change',show);show();
+  }})();
+  </script>
+</section>'''
+
     src = [{"titel": "Spielerstatistiken: offizielle Spielberichte von penny-del.org, täglich ausgewertet",
             "url": "https://github.com/machi239/del-fantasy"}]
     if q_games:
@@ -214,6 +290,14 @@ td.t .d{{display:block;font-family:var(--body);font-size:.75rem;font-weight:400;
 .upd{{font-size:.85rem;color:var(--muted)}}
 .bew h4{{font-family:var(--display);text-transform:uppercase;letter-spacing:.08em;font-size:.8rem;margin:12px 0 4px}}
 .bew h4.auf{{color:var(--ok)}} .bew h4.ab{{color:var(--red)}}
+.rsel{{display:inline-flex;gap:8px;align-items:center;font-weight:600;margin:4px 0 12px}}
+.rsel select{{font:inherit;font-weight:400;padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--ink);max-width:100%}}
+table.rb{{min-width:0}}
+@media (max-width:520px){{table.rb th,table.rb td{{padding:9px 8px}} table.rb th{{font-size:.72rem}}}}
+table.rb td.n,table.rb th.n{{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}}
+table.rb td.m em{{font-style:normal;color:var(--warn)}}
+.up{{color:var(--ok)}} .down{{color:var(--red)}}
+#rb-sum{{margin:0 0 12px}}
 .bw{{font-family:var(--display);font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap}}
 .bw.auf{{color:var(--ok)}} .bw.ab{{color:var(--red)}}
 .bew li{{display:grid;grid-template-columns:1fr auto;grid-template-areas:"nm bw" "tm tm" "tg tg";column-gap:10px;row-gap:2px;align-items:baseline}}
@@ -243,6 +327,7 @@ td.t .d{{display:block;font-family:var(--body);font-size:.75rem;font-weight:400;
   <p>Die stärksten Spieler je Position, die nicht in der Aufstellung stehen. Beim Tausch auf Pucks und das Ausländerlimit achten.</p>
   <div class="alts">{alts}</div></section>
 {bew_html}
+{rueck_html}
 <section class="sec"><h2>Quellen</h2><ul class="sources">{src_html}</ul></section>
 <script type="application/json" id="recherche">{infos_json}</script>
 <footer>Erwartete Punkte sind Schätzungen aus Saisonschnitt, Form, Eiszeit-Trend, Matchup und Einsatzwahrscheinlichkeit. Bei Torhütern fließen Startchance, Siegchance, Gegentore und Saves ein.</footer>
