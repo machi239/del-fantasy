@@ -1,9 +1,9 @@
 {
  "spieltag": 14,
  "deadline": "Sun 01.11.2026 14:00",
- "erstellt": "30.10.2026 18:01",
+ "erstellt": "30.10.2026 21:50",
  "pucks": 60,
- "xp_gesamt": 48.2,
+ "xp_gesamt": 47.2,
  "aufstellung": [
   {
    "spieler_id": 3424,
@@ -61,7 +61,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 2.68,
+   "xp": 2.47,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -97,7 +97,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": true,
-   "xp": 1.97,
+   "xp": 1.82,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 4,
    "dt_pass": true,
-   "xp": 3.57,
+   "xp": 3.29,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -186,15 +186,15 @@
    "p_start": null
   },
   {
-   "spieler_id": 4260,
-   "name": "Markus Ljungh",
-   "team": "Kölner Haie",
-   "team_id": 11,
+   "spieler_id": 4350,
+   "name": "Jackson Cates",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
    "pos": "for",
-   "preis": 3,
+   "preis": 2,
    "dt_pass": false,
-   "xp": 2.39,
-   "gegner": "Iserlohn Roosters",
+   "xp": 2.25,
+   "gegner": "EHC Red Bull München",
    "p_start": null
   },
   {
@@ -205,20 +205,20 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.38,
+   "xp": 2.19,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
   {
-   "spieler_id": 4350,
-   "name": "Jackson Cates",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
+   "spieler_id": 4260,
+   "name": "Markus Ljungh",
+   "team": "Kölner Haie",
+   "team_id": 11,
    "pos": "for",
-   "preis": 2,
+   "preis": 3,
    "dt_pass": false,
-   "xp": 2.25,
-   "gegner": "EHC Red Bull München",
+   "xp": 2.19,
+   "gegner": "Iserlohn Roosters",
    "p_start": null
   },
   {
