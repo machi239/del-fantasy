@@ -1,9 +1,9 @@
 {
  "spieltag": 14,
  "deadline": "Sun 01.11.2026 14:00",
- "erstellt": "30.10.2026 12:50",
+ "erstellt": "30.10.2026 16:46",
  "pucks": 60,
- "xp_gesamt": 49.3,
+ "xp_gesamt": 49.4,
  "aufstellung": [
   {
    "spieler_id": 4319,
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.77,
+   "xp": 1.78,
    "gegner": "Adler Mannheim",
    "p_start": 0.8
   },
@@ -133,7 +133,7 @@
    "pos": "for",
    "preis": 4,
    "dt_pass": true,
-   "xp": 3.15,
+   "xp": 3.16,
    "gegner": "EHC Red Bull München",
    "p_start": null
   },
@@ -193,7 +193,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 2.38,
+   "xp": 2.39,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -205,7 +205,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.37,
+   "xp": 2.38,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -217,8 +217,20 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": false,
-   "xp": 1.68,
+   "xp": 1.66,
    "gegner": "Augsburger Panther",
+   "p_start": null
+  },
+  {
+   "spieler_id": 1306,
+   "name": "Tim Wohlgemuth",
+   "team": "Augsburger Panther",
+   "team_id": 13,
+   "pos": "for",
+   "preis": 2,
+   "dt_pass": true,
+   "xp": 1.62,
+   "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   },
   {
@@ -229,20 +241,8 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 1.57,
+   "xp": 1.58,
    "gegner": "Krefeld Pinguine",
-   "p_start": null
-  },
-  {
-   "spieler_id": 1823,
-   "name": "Manuel Wiederer",
-   "team": "Eisbären Berlin",
-   "team_id": 3,
-   "pos": "for",
-   "preis": 2,
-   "dt_pass": true,
-   "xp": 1.55,
-   "gegner": "Adler Mannheim",
    "p_start": null
   },
   {

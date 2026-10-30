@@ -14,7 +14,7 @@
      "schnitt": 9.35,
      "wert": 9.177,
      "fair": 5,
-     "abstand": 7.14,
+     "abstand": 7.13,
      "sicherheit": "deutlich"
     },
     {
@@ -23,11 +23,11 @@
      "team_id": "13",
      "preis": 1,
      "dt_pass": true,
-     "spiele": 7,
-     "schnitt": 3.34,
-     "wert": 3.311,
+     "spiele": 8,
+     "schnitt": 3.22,
+     "wert": 3.225,
      "fair": 4,
-     "abstand": 2.78,
+     "abstand": 2.69,
      "sicherheit": "deutlich"
     },
     {
@@ -49,11 +49,11 @@
      "team_id": "44",
      "preis": 2,
      "dt_pass": false,
-     "spiele": 9,
-     "schnitt": 3.27,
-     "wert": 3.225,
+     "spiele": 10,
+     "schnitt": 3.16,
+     "wert": 3.16,
      "fair": 3,
-     "abstand": 1.19,
+     "abstand": 1.11,
      "sicherheit": "deutlich"
     },
     {
@@ -79,7 +79,7 @@
      "schnitt": 5.0,
      "wert": 4.791,
      "fair": 5,
-     "abstand": 2.75,
+     "abstand": 2.74,
      "sicherheit": "knapp"
     },
     {
@@ -92,7 +92,7 @@
      "schnitt": 3.9,
      "wert": 3.78,
      "fair": 5,
-     "abstand": 1.74,
+     "abstand": 1.73,
      "sicherheit": "knapp"
     },
     {
@@ -116,9 +116,9 @@
      "dt_pass": true,
      "spiele": 2,
      "schnitt": 2.3,
-     "wert": 2.285,
+     "wert": 2.3,
      "fair": 3,
-     "abstand": 1.75,
+     "abstand": 1.77,
      "sicherheit": "knapp"
     },
     {
@@ -170,7 +170,7 @@
      "schnitt": 3.49,
      "wert": 3.439,
      "fair": 4,
-     "abstand": 0.17,
+     "abstand": 0.25,
      "sicherheit": "knapp"
     }
    ],
@@ -198,7 +198,7 @@
      "schnitt": -1.56,
      "wert": -1.505,
      "fair": 1,
-     "abstand": 4.77,
+     "abstand": 4.7,
      "sicherheit": "deutlich"
     },
     {
@@ -237,7 +237,7 @@
      "schnitt": 0.07,
      "wert": 0.1,
      "fair": 1,
-     "abstand": 1.94,
+     "abstand": 1.95,
      "sicherheit": "deutlich"
     },
     {
@@ -250,7 +250,7 @@
      "schnitt": 1.78,
      "wert": 1.774,
      "fair": 2,
-     "abstand": 1.49,
+     "abstand": 1.42,
      "sicherheit": "deutlich"
     },
     {
@@ -322,8 +322,8 @@
    "ohne_einsatz": [],
    "grenzen": {
     "5": 3.54,
-    "4": 3.27,
-    "3": 2.04,
+    "4": 3.19,
+    "3": 2.05,
     "2": 0.53
    }
   },
@@ -339,7 +339,7 @@
      "schnitt": 2.7,
      "wert": 2.664,
      "fair": 5,
-     "abstand": 1.93,
+     "abstand": 1.92,
      "sicherheit": "deutlich"
     },
     {
@@ -350,7 +350,7 @@
      "dt_pass": false,
      "spiele": 11,
      "schnitt": 2.48,
-     "wert": 2.451,
+     "wert": 2.452,
      "fair": 5,
      "abstand": 1.08,
      "sicherheit": "deutlich"
@@ -378,20 +378,7 @@
      "schnitt": 1.81,
      "wert": 1.784,
      "fair": 4,
-     "abstand": 1.05,
-     "sicherheit": "deutlich"
-    },
-    {
-     "id": "1339",
-     "name": "Phillip Bruggisser",
-     "team_id": "9",
-     "preis": 3,
-     "dt_pass": true,
-     "spiele": 12,
-     "schnitt": 2.39,
-     "wert": 2.362,
-     "fair": 5,
-     "abstand": 0.99,
+     "abstand": 1.04,
      "sicherheit": "deutlich"
     },
     {
@@ -404,7 +391,20 @@
      "schnitt": 1.03,
      "wert": 1.008,
      "fair": 3,
-     "abstand": 0.97,
+     "abstand": 1.0,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "1339",
+     "name": "Phillip Bruggisser",
+     "team_id": "9",
+     "preis": 3,
+     "dt_pass": true,
+     "spiele": 12,
+     "schnitt": 2.39,
+     "wert": 2.363,
+     "fair": 5,
+     "abstand": 0.99,
      "sicherheit": "deutlich"
     },
     {
@@ -417,7 +417,7 @@
      "schnitt": 1.52,
      "wert": 1.506,
      "fair": 4,
-     "abstand": 0.77,
+     "abstand": 0.76,
      "sicherheit": "deutlich"
     },
     {
@@ -439,11 +439,11 @@
      "team_id": "13",
      "preis": 4,
      "dt_pass": false,
-     "spiele": 12,
-     "schnitt": 2.98,
-     "wert": 2.951,
+     "spiele": 13,
+     "schnitt": 2.78,
+     "wert": 2.785,
      "fair": 5,
-     "abstand": 1.01,
+     "abstand": 0.81,
      "sicherheit": "deutlich"
     },
     {
@@ -456,7 +456,7 @@
      "schnitt": 0.68,
      "wert": 0.671,
      "fair": 2,
-     "abstand": 0.64,
+     "abstand": 0.66,
      "sicherheit": "deutlich"
     },
     {
@@ -469,20 +469,7 @@
      "schnitt": 0.64,
      "wert": 0.63,
      "fair": 2,
-     "abstand": 0.6,
-     "sicherheit": "deutlich"
-    },
-    {
-     "id": "100",
-     "name": "Marcus Weber",
-     "team_id": "14",
-     "preis": 3,
-     "dt_pass": true,
-     "spiele": 13,
-     "schnitt": 1.91,
-     "wert": 1.89,
-     "fair": 4,
-     "abstand": 0.52,
+     "abstand": 0.62,
      "sicherheit": "deutlich"
     },
     {
@@ -495,7 +482,20 @@
      "schnitt": 0.55,
      "wert": 0.546,
      "fair": 2,
-     "abstand": 0.51,
+     "abstand": 0.54,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "100",
+     "name": "Marcus Weber",
+     "team_id": "14",
+     "preis": 3,
+     "dt_pass": true,
+     "spiele": 13,
+     "schnitt": 1.91,
+     "wert": 1.891,
+     "fair": 4,
+     "abstand": 0.52,
      "sicherheit": "deutlich"
     },
     {
@@ -519,22 +519,9 @@
      "dt_pass": false,
      "spiele": 12,
      "schnitt": 1.85,
-     "wert": 1.831,
+     "wert": 1.832,
      "fair": 4,
      "abstand": 0.46,
-     "sicherheit": "deutlich"
-    },
-    {
-     "id": "1868",
-     "name": "Alec McCrea",
-     "team_id": "13",
-     "preis": 3,
-     "dt_pass": false,
-     "spiele": 12,
-     "schnitt": 1.78,
-     "wert": 1.766,
-     "fair": 4,
-     "abstand": 0.39,
      "sicherheit": "deutlich"
     },
     {
@@ -560,7 +547,20 @@
      "schnitt": 1.12,
      "wert": 1.114,
      "fair": 3,
-     "abstand": 0.38,
+     "abstand": 0.37,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "4321",
+     "name": "Noel Hoefenmayer",
+     "team_id": "13",
+     "preis": 2,
+     "dt_pass": false,
+     "spiele": 13,
+     "schnitt": 1.1,
+     "wert": 1.1,
+     "fair": 3,
+     "abstand": 0.36,
      "sicherheit": "deutlich"
     },
     {
@@ -584,9 +584,9 @@
      "dt_pass": true,
      "spiele": 2,
      "schnitt": 1.3,
-     "wert": 1.261,
+     "wert": 1.3,
      "fair": 3,
-     "abstand": 0.52,
+     "abstand": 0.56,
      "sicherheit": "knapp"
     },
     {
@@ -603,16 +603,16 @@
      "sicherheit": "knapp"
     },
     {
-     "id": "4321",
-     "name": "Noel Hoefenmayer",
-     "team_id": "13",
+     "id": "528",
+     "name": "Björn Krupp",
+     "team_id": "44",
      "preis": 2,
-     "dt_pass": false,
-     "spiele": 12,
-     "schnitt": 1.03,
-     "wert": 1.024,
+     "dt_pass": true,
+     "spiele": 13,
+     "schnitt": 1.0,
+     "wert": 1.0,
      "fair": 3,
-     "abstand": 0.29,
+     "abstand": 0.26,
      "sicherheit": "knapp"
     },
     {
@@ -638,7 +638,7 @@
      "schnitt": 0.26,
      "wert": 0.256,
      "fair": 2,
-     "abstand": 0.22,
+     "abstand": 0.25,
      "sicherheit": "knapp"
     },
     {
@@ -651,33 +651,33 @@
      "schnitt": 0.25,
      "wert": 0.243,
      "fair": 2,
-     "abstand": 0.21,
+     "abstand": 0.23,
      "sicherheit": "knapp"
     },
     {
-     "id": "4251",
-     "name": "Robin Press",
-     "team_id": "11",
-     "preis": 4,
-     "dt_pass": false,
-     "spiele": 13,
-     "schnitt": 2.12,
-     "wert": 2.102,
-     "fair": 5,
-     "abstand": 0.16,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "528",
-     "name": "Björn Krupp",
+     "id": "2916",
+     "name": "Linus Fröberg",
      "team_id": "44",
-     "preis": 2,
+     "preis": 3,
+     "dt_pass": false,
+     "spiele": 12,
+     "schnitt": 1.54,
+     "wert": 1.542,
+     "fair": 4,
+     "abstand": 0.17,
+     "sicherheit": "knapp"
+    },
+    {
+     "id": "4243",
+     "name": "Carlos Händel",
+     "team_id": "11",
+     "preis": 1,
      "dt_pass": true,
      "spiele": 12,
-     "schnitt": 0.89,
-     "wert": 0.885,
-     "fair": 3,
-     "abstand": 0.15,
+     "schnitt": 0.15,
+     "wert": 0.15,
+     "fair": 2,
+     "abstand": 0.14,
      "sicherheit": "knapp"
     },
     {
@@ -688,7 +688,7 @@
      "dt_pass": true,
      "spiele": 12,
      "schnitt": 1.52,
-     "wert": 1.505,
+     "wert": 1.506,
      "fair": 4,
      "abstand": 0.13,
      "sicherheit": "knapp"
@@ -701,7 +701,7 @@
      "dt_pass": false,
      "spiele": 12,
      "schnitt": 1.52,
-     "wert": 1.504,
+     "wert": 1.505,
      "fair": 4,
      "abstand": 0.13,
      "sicherheit": "knapp"
@@ -720,42 +720,16 @@
      "sicherheit": "knapp"
     },
     {
-     "id": "4243",
-     "name": "Carlos Händel",
+     "id": "4251",
+     "name": "Robin Press",
      "team_id": "11",
-     "preis": 1,
-     "dt_pass": true,
-     "spiele": 12,
-     "schnitt": 0.15,
-     "wert": 0.15,
-     "fair": 2,
-     "abstand": 0.12,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "1447",
-     "name": "Maximilian Glötzl",
-     "team_id": "13",
-     "preis": 1,
-     "dt_pass": true,
-     "spiele": 8,
-     "schnitt": 0.15,
-     "wert": 0.15,
-     "fair": 2,
-     "abstand": 0.12,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "2916",
-     "name": "Linus Fröberg",
-     "team_id": "44",
-     "preis": 3,
+     "preis": 4,
      "dt_pass": false,
-     "spiele": 11,
-     "schnitt": 1.48,
-     "wert": 1.469,
-     "fair": 4,
-     "abstand": 0.1,
+     "spiele": 13,
+     "schnitt": 2.12,
+     "wert": 2.102,
+     "fair": 5,
+     "abstand": 0.12,
      "sicherheit": "knapp"
     },
     {
@@ -772,19 +746,6 @@
      "sicherheit": "knapp"
     },
     {
-     "id": "2468",
-     "name": "Maksim Matushkin",
-     "team_id": "44",
-     "preis": 4,
-     "dt_pass": false,
-     "spiele": 12,
-     "schnitt": 2.04,
-     "wert": 2.027,
-     "fair": 5,
-     "abstand": 0.09,
-     "sicherheit": "knapp"
-    },
-    {
      "id": "3591",
      "name": "Robin Norell",
      "team_id": "7",
@@ -794,7 +755,7 @@
      "schnitt": 0.83,
      "wert": 0.828,
      "fair": 3,
-     "abstand": 0.09,
+     "abstand": 0.08,
      "sicherheit": "knapp"
     },
     {
@@ -807,7 +768,33 @@
      "schnitt": 0.08,
      "wert": 0.077,
      "fair": 2,
-     "abstand": 0.04,
+     "abstand": 0.07,
+     "sicherheit": "knapp"
+    },
+    {
+     "id": "2468",
+     "name": "Maksim Matushkin",
+     "team_id": "44",
+     "preis": 4,
+     "dt_pass": false,
+     "spiele": 12,
+     "schnitt": 2.04,
+     "wert": 2.042,
+     "fair": 5,
+     "abstand": 0.06,
+     "sicherheit": "knapp"
+    },
+    {
+     "id": "1868",
+     "name": "Alec McCrea",
+     "team_id": "13",
+     "preis": 3,
+     "dt_pass": false,
+     "spiele": 13,
+     "schnitt": 1.43,
+     "wert": 1.431,
+     "fair": 4,
+     "abstand": 0.06,
      "sicherheit": "knapp"
     },
     {
@@ -820,6 +807,19 @@
      "schnitt": 0.05,
      "wert": 0.055,
      "fair": 2,
+     "abstand": 0.04,
+     "sicherheit": "knapp"
+    },
+    {
+     "id": "3870",
+     "name": "Kyle Wood",
+     "team_id": "13",
+     "preis": 4,
+     "dt_pass": false,
+     "spiele": 13,
+     "schnitt": 1.99,
+     "wert": 1.992,
+     "fair": 5,
      "abstand": 0.02,
      "sicherheit": "knapp"
     }
@@ -861,7 +861,7 @@
      "schnitt": 0.47,
      "wert": 0.491,
      "fair": 2,
-     "abstand": 1.45,
+     "abstand": 1.49,
      "sicherheit": "deutlich"
     },
     {
@@ -874,7 +874,7 @@
      "schnitt": 0.58,
      "wert": 0.604,
      "fair": 2,
-     "abstand": 1.34,
+     "abstand": 1.37,
      "sicherheit": "deutlich"
     },
     {
@@ -887,7 +887,7 @@
      "schnitt": -0.27,
      "wert": -0.256,
      "fair": 1,
-     "abstand": 0.99,
+     "abstand": 1.0,
      "sicherheit": "deutlich"
     },
     {
@@ -911,22 +911,9 @@
      "dt_pass": false,
      "spiele": 12,
      "schnitt": -0.07,
-     "wert": -0.049,
+     "wert": -0.048,
      "fair": 1,
      "abstand": 0.79,
-     "sicherheit": "deutlich"
-    },
-    {
-     "id": "268",
-     "name": "Ryan Button",
-     "team_id": "13",
-     "preis": 4,
-     "dt_pass": true,
-     "spiele": 12,
-     "schnitt": 0.58,
-     "wert": 0.597,
-     "fair": 2,
-     "abstand": 0.77,
      "sicherheit": "deutlich"
     },
     {
@@ -939,7 +926,33 @@
      "schnitt": -0.01,
      "wert": 0.007,
      "fair": 1,
-     "abstand": 0.73,
+     "abstand": 0.74,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "268",
+     "name": "Ryan Button",
+     "team_id": "13",
+     "preis": 4,
+     "dt_pass": true,
+     "spiele": 13,
+     "schnitt": 0.65,
+     "wert": 0.654,
+     "fair": 2,
+     "abstand": 0.72,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "3563",
+     "name": "Dan Renouf",
+     "team_id": "2",
+     "preis": 4,
+     "dt_pass": false,
+     "spiele": 13,
+     "schnitt": 0.73,
+     "wert": 0.74,
+     "fair": 2,
+     "abstand": 0.63,
      "sicherheit": "deutlich"
     },
     {
@@ -952,20 +965,20 @@
      "schnitt": -0.67,
      "wert": -0.655,
      "fair": 1,
-     "abstand": 0.69,
+     "abstand": 0.67,
      "sicherheit": "deutlich"
     },
     {
-     "id": "3563",
-     "name": "Dan Renouf",
-     "team_id": "2",
-     "preis": 4,
-     "dt_pass": false,
+     "id": "1750",
+     "name": "Leon Hüttl",
+     "team_id": "1",
+     "preis": 5,
+     "dt_pass": true,
      "spiele": 13,
-     "schnitt": 0.73,
-     "wert": 0.74,
-     "fair": 3,
-     "abstand": 0.63,
+     "schnitt": 1.39,
+     "wert": 1.398,
+     "fair": 4,
+     "abstand": 0.58,
      "sicherheit": "deutlich"
     },
     {
@@ -982,15 +995,15 @@
      "sicherheit": "deutlich"
     },
     {
-     "id": "1750",
-     "name": "Leon Hüttl",
-     "team_id": "1",
-     "preis": 5,
+     "id": "2191",
+     "name": "Rayan Bettahar",
+     "team_id": "9",
+     "preis": 3,
      "dt_pass": true,
-     "spiele": 13,
-     "schnitt": 1.39,
-     "wert": 1.398,
-     "fair": 4,
+     "spiele": 5,
+     "schnitt": 0.18,
+     "wert": 0.204,
+     "fair": 2,
      "abstand": 0.54,
      "sicherheit": "deutlich"
     },
@@ -1008,19 +1021,6 @@
      "sicherheit": "deutlich"
     },
     {
-     "id": "2191",
-     "name": "Rayan Bettahar",
-     "team_id": "9",
-     "preis": 3,
-     "dt_pass": true,
-     "spiele": 5,
-     "schnitt": 0.18,
-     "wert": 0.203,
-     "fair": 2,
-     "abstand": 0.53,
-     "sicherheit": "deutlich"
-    },
-    {
      "id": "2384",
      "name": "Ludwig Byström",
      "team_id": "9",
@@ -1031,6 +1031,19 @@
      "wert": 0.859,
      "fair": 3,
      "abstand": 0.51,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "1666",
+     "name": "Julius Karrer",
+     "team_id": "14",
+     "preis": 5,
+     "dt_pass": true,
+     "spiele": 12,
+     "schnitt": 1.54,
+     "wert": 1.545,
+     "fair": 4,
+     "abstand": 0.43,
      "sicherheit": "deutlich"
     },
     {
@@ -1047,19 +1060,6 @@
      "sicherheit": "deutlich"
     },
     {
-     "id": "1666",
-     "name": "Julius Karrer",
-     "team_id": "14",
-     "preis": 5,
-     "dt_pass": true,
-     "spiele": 12,
-     "schnitt": 1.54,
-     "wert": 1.545,
-     "fair": 4,
-     "abstand": 0.4,
-     "sicherheit": "deutlich"
-    },
-    {
      "id": "2874",
      "name": "Alex Breton",
      "team_id": "1",
@@ -1069,8 +1069,8 @@
      "schnitt": 1.61,
      "wert": 1.61,
      "fair": 4,
-     "abstand": 0.33,
-     "sicherheit": "knapp"
+     "abstand": 0.37,
+     "sicherheit": "deutlich"
     },
     {
      "id": "2754",
@@ -1086,19 +1086,6 @@
      "sicherheit": "knapp"
     },
     {
-     "id": "3581",
-     "name": "Fabio Kose",
-     "team_id": "44",
-     "preis": 2,
-     "dt_pass": true,
-     "spiele": 10,
-     "schnitt": -0.21,
-     "wert": -0.194,
-     "fair": 1,
-     "abstand": 0.23,
-     "sicherheit": "knapp"
-    },
-    {
      "id": "2113",
      "name": "Brady Austin",
      "team_id": "11",
@@ -1108,33 +1095,7 @@
      "schnitt": 1.72,
      "wert": 1.717,
      "fair": 4,
-     "abstand": 0.22,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "4327",
-     "name": "Lukas Klok",
-     "team_id": "12",
-     "preis": 3,
-     "dt_pass": true,
-     "spiele": 12,
-     "schnitt": 0.52,
-     "wert": 0.531,
-     "fair": 2,
-     "abstand": 0.21,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "146",
-     "name": "Moritz Müller",
-     "team_id": "11",
-     "preis": 3,
-     "dt_pass": true,
-     "spiele": 13,
-     "schnitt": 0.52,
-     "wert": 0.529,
-     "fair": 2,
-     "abstand": 0.21,
+     "abstand": 0.26,
      "sicherheit": "knapp"
     },
     {
@@ -1147,7 +1108,46 @@
      "schnitt": 1.74,
      "wert": 1.738,
      "fair": 4,
-     "abstand": 0.2,
+     "abstand": 0.24,
+     "sicherheit": "knapp"
+    },
+    {
+     "id": "146",
+     "name": "Moritz Müller",
+     "team_id": "11",
+     "preis": 3,
+     "dt_pass": true,
+     "spiele": 13,
+     "schnitt": 0.52,
+     "wert": 0.529,
+     "fair": 2,
+     "abstand": 0.22,
+     "sicherheit": "knapp"
+    },
+    {
+     "id": "4327",
+     "name": "Lukas Klok",
+     "team_id": "12",
+     "preis": 3,
+     "dt_pass": true,
+     "spiele": 12,
+     "schnitt": 0.52,
+     "wert": 0.532,
+     "fair": 2,
+     "abstand": 0.21,
+     "sicherheit": "knapp"
+    },
+    {
+     "id": "3581",
+     "name": "Fabio Kose",
+     "team_id": "44",
+     "preis": 2,
+     "dt_pass": true,
+     "spiele": 11,
+     "schnitt": -0.2,
+     "wert": -0.2,
+     "fair": 1,
+     "abstand": 0.21,
      "sicherheit": "knapp"
     },
     {
@@ -1160,7 +1160,7 @@
      "schnitt": 1.78,
      "wert": 1.784,
      "fair": 4,
-     "abstand": 0.16,
+     "abstand": 0.19,
      "sicherheit": "knapp"
     },
     {
@@ -1173,7 +1173,7 @@
      "schnitt": 0.57,
      "wert": 0.576,
      "fair": 2,
-     "abstand": 0.16,
+     "abstand": 0.17,
      "sicherheit": "knapp"
     },
     {
@@ -1238,7 +1238,7 @@
      "schnitt": -0.04,
      "wert": -0.027,
      "fair": 1,
-     "abstand": 0.06,
+     "abstand": 0.04,
      "sicherheit": "knapp"
     },
     {
@@ -1255,38 +1255,25 @@
      "sicherheit": "knapp"
     },
     {
-     "id": "2470",
-     "name": "Lua Niehus",
+     "id": "1441",
+     "name": "Colin Ugbekile",
      "team_id": "7",
-     "preis": 2,
+     "preis": 5,
      "dt_pass": true,
-     "spiele": 11,
-     "schnitt": 0.0,
-     "wert": 0.011,
-     "fair": 1,
-     "abstand": 0.02,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "3582",
-     "name": "Michael Joyaux",
-     "team_id": "44",
-     "preis": 3,
-     "dt_pass": false,
      "spiele": 12,
-     "schnitt": 0.73,
-     "wert": 0.736,
-     "fair": 2,
-     "abstand": 0.0,
+     "schnitt": 1.97,
+     "wert": 1.962,
+     "fair": 4,
+     "abstand": 0.01,
      "sicherheit": "knapp"
     }
    ],
    "ohne_einsatz": [],
    "grenzen": {
-    "5": 1.94,
+    "5": 1.98,
     "4": 1.37,
     "3": 0.74,
-    "2": 0.03
+    "2": 0.01
    }
   },
   "for": {
@@ -1299,9 +1286,9 @@
      "dt_pass": true,
      "spiele": 14,
      "schnitt": 1.66,
-     "wert": 1.636,
+     "wert": 1.637,
      "fair": 4,
-     "abstand": 1.34,
+     "abstand": 1.33,
      "sicherheit": "deutlich"
     },
     {
@@ -1314,7 +1301,7 @@
      "schnitt": 2.06,
      "wert": 2.038,
      "fair": 4,
-     "abstand": 1.25,
+     "abstand": 1.23,
      "sicherheit": "deutlich"
     },
     {
@@ -1327,7 +1314,7 @@
      "schnitt": 2.65,
      "wert": 2.612,
      "fair": 5,
-     "abstand": 1.23,
+     "abstand": 1.22,
      "sicherheit": "deutlich"
     },
     {
@@ -1338,9 +1325,9 @@
      "dt_pass": false,
      "spiele": 13,
      "schnitt": 1.38,
-     "wert": 1.365,
+     "wert": 1.366,
      "fair": 3,
-     "abstand": 1.07,
+     "abstand": 1.06,
      "sicherheit": "deutlich"
     },
     {
@@ -1353,33 +1340,7 @@
      "schnitt": 1.85,
      "wert": 1.83,
      "fair": 4,
-     "abstand": 1.04,
-     "sicherheit": "deutlich"
-    },
-    {
-     "id": "27",
-     "name": "Mirko Höfflin",
-     "team_id": "15",
-     "preis": 2,
-     "dt_pass": true,
-     "spiele": 14,
-     "schnitt": 1.74,
-     "wert": 1.727,
-     "fair": 4,
-     "abstand": 0.94,
-     "sicherheit": "deutlich"
-    },
-    {
-     "id": "1659",
-     "name": "Maximilian Eisenmenger",
-     "team_id": "7",
-     "preis": 1,
-     "dt_pass": true,
-     "spiele": 6,
-     "schnitt": 1.27,
-     "wert": 1.235,
-     "fair": 3,
-     "abstand": 0.94,
+     "abstand": 1.03,
      "sicherheit": "deutlich"
     },
     {
@@ -1396,6 +1357,32 @@
      "sicherheit": "deutlich"
     },
     {
+     "id": "1659",
+     "name": "Maximilian Eisenmenger",
+     "team_id": "7",
+     "preis": 1,
+     "dt_pass": true,
+     "spiele": 6,
+     "schnitt": 1.27,
+     "wert": 1.237,
+     "fair": 3,
+     "abstand": 0.93,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "27",
+     "name": "Mirko Höfflin",
+     "team_id": "15",
+     "preis": 2,
+     "dt_pass": true,
+     "spiele": 14,
+     "schnitt": 1.74,
+     "wert": 1.727,
+     "fair": 4,
+     "abstand": 0.92,
+     "sicherheit": "deutlich"
+    },
+    {
      "id": "4316",
      "name": "Spencer Kersten",
      "team_id": "6",
@@ -1405,7 +1392,7 @@
      "schnitt": 1.74,
      "wert": 1.719,
      "fair": 4,
-     "abstand": 0.93,
+     "abstand": 0.92,
      "sicherheit": "deutlich"
     },
     {
@@ -1416,9 +1403,22 @@
      "dt_pass": false,
      "spiele": 13,
      "schnitt": 1.25,
-     "wert": 1.229,
+     "wert": 1.23,
      "fair": 3,
-     "abstand": 0.93,
+     "abstand": 0.92,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "235",
+     "name": "Trevor Parkes",
+     "team_id": "13",
+     "preis": 1,
+     "dt_pass": true,
+     "spiele": 13,
+     "schnitt": 1.11,
+     "wert": 1.108,
+     "fair": 3,
+     "abstand": 0.8,
      "sicherheit": "deutlich"
     },
     {
@@ -1429,9 +1429,9 @@
      "dt_pass": true,
      "spiele": 13,
      "schnitt": 1.07,
-     "wert": 1.055,
+     "wert": 1.056,
      "fair": 3,
-     "abstand": 0.76,
+     "abstand": 0.75,
      "sicherheit": "deutlich"
     },
     {
@@ -1444,7 +1444,7 @@
      "schnitt": 1.56,
      "wert": 1.541,
      "fair": 4,
-     "abstand": 0.75,
+     "abstand": 0.74,
      "sicherheit": "deutlich"
     },
     {
@@ -1457,7 +1457,7 @@
      "schnitt": 1.52,
      "wert": 1.508,
      "fair": 4,
-     "abstand": 0.72,
+     "abstand": 0.7,
      "sicherheit": "deutlich"
     },
     {
@@ -1466,11 +1466,11 @@
      "team_id": "44",
      "preis": 1,
      "dt_pass": true,
-     "spiele": 12,
-     "schnitt": 1.03,
-     "wert": 1.01,
+     "spiele": 13,
+     "schnitt": 1.0,
+     "wert": 1.0,
      "fair": 3,
-     "abstand": 0.71,
+     "abstand": 0.69,
      "sicherheit": "deutlich"
     },
     {
@@ -1479,24 +1479,24 @@
      "team_id": "13",
      "preis": 1,
      "dt_pass": true,
-     "spiele": 12,
-     "schnitt": 0.99,
-     "wert": 0.977,
+     "spiele": 13,
+     "schnitt": 0.98,
+     "wert": 0.985,
      "fair": 3,
      "abstand": 0.68,
      "sicherheit": "deutlich"
     },
     {
-     "id": "235",
-     "name": "Trevor Parkes",
+     "id": "1306",
+     "name": "Tim Wohlgemuth",
      "team_id": "13",
-     "preis": 1,
+     "preis": 2,
      "dt_pass": true,
-     "spiele": 12,
-     "schnitt": 0.92,
-     "wert": 0.912,
-     "fair": 3,
-     "abstand": 0.61,
+     "spiele": 13,
+     "schnitt": 1.43,
+     "wert": 1.431,
+     "fair": 4,
+     "abstand": 0.63,
      "sicherheit": "deutlich"
     },
     {
@@ -1507,9 +1507,9 @@
      "dt_pass": true,
      "spiele": 13,
      "schnitt": 0.92,
-     "wert": 0.904,
+     "wert": 0.905,
      "fair": 3,
-     "abstand": 0.61,
+     "abstand": 0.6,
      "sicherheit": "deutlich"
     },
     {
@@ -1520,9 +1520,9 @@
      "dt_pass": true,
      "spiele": 11,
      "schnitt": 0.82,
-     "wert": 0.807,
+     "wert": 0.808,
      "fair": 3,
-     "abstand": 0.51,
+     "abstand": 0.5,
      "sicherheit": "deutlich"
     },
     {
@@ -1535,7 +1535,7 @@
      "schnitt": 2.09,
      "wert": 2.071,
      "fair": 4,
-     "abstand": 0.69,
+     "abstand": 0.68,
      "sicherheit": "deutlich"
     },
     {
@@ -1546,22 +1546,9 @@
      "dt_pass": false,
      "spiele": 12,
      "schnitt": 2.04,
-     "wert": 2.024,
+     "wert": 2.023,
      "fair": 4,
      "abstand": 0.64,
-     "sicherheit": "deutlich"
-    },
-    {
-     "id": "1306",
-     "name": "Tim Wohlgemuth",
-     "team_id": "13",
-     "preis": 2,
-     "dt_pass": true,
-     "spiele": 12,
-     "schnitt": 1.32,
-     "wert": 1.312,
-     "fair": 3,
-     "abstand": 0.52,
      "sicherheit": "deutlich"
     },
     {
@@ -1574,7 +1561,46 @@
      "schnitt": 1.3,
      "wert": 1.28,
      "fair": 3,
-     "abstand": 0.49,
+     "abstand": 0.48,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "4311",
+     "name": "Tobias Krestan",
+     "team_id": "3",
+     "preis": 1,
+     "dt_pass": true,
+     "spiele": 12,
+     "schnitt": 0.73,
+     "wert": 0.725,
+     "fair": 2,
+     "abstand": 0.42,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "4345",
+     "name": "Noah Samanski",
+     "team_id": "14",
+     "preis": 1,
+     "dt_pass": true,
+     "spiele": 13,
+     "schnitt": 0.73,
+     "wert": 0.724,
+     "fair": 2,
+     "abstand": 0.42,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "1731",
+     "name": "Luca Hauf",
+     "team_id": "5",
+     "preis": 1,
+     "dt_pass": true,
+     "spiele": 13,
+     "schnitt": 0.72,
+     "wert": 0.708,
+     "fair": 2,
+     "abstand": 0.4,
      "sicherheit": "deutlich"
     },
     {
@@ -1587,33 +1613,20 @@
      "schnitt": 2.67,
      "wert": 2.648,
      "fair": 5,
-     "abstand": 0.44,
+     "abstand": 0.39,
      "sicherheit": "deutlich"
     },
     {
-     "id": "4311",
-     "name": "Tobias Krestan",
-     "team_id": "3",
-     "preis": 1,
+     "id": "2504",
+     "name": "Tom Kühnhackl",
+     "team_id": "2",
+     "preis": 3,
      "dt_pass": true,
      "spiele": 12,
-     "schnitt": 0.73,
-     "wert": 0.724,
-     "fair": 2,
-     "abstand": 0.43,
-     "sicherheit": "deutlich"
-    },
-    {
-     "id": "4345",
-     "name": "Noah Samanski",
-     "team_id": "14",
-     "preis": 1,
-     "dt_pass": true,
-     "spiele": 13,
-     "schnitt": 0.73,
-     "wert": 0.723,
-     "fair": 2,
-     "abstand": 0.43,
+     "schnitt": 1.77,
+     "wert": 1.753,
+     "fair": 4,
+     "abstand": 0.36,
      "sicherheit": "deutlich"
     },
     {
@@ -1626,33 +1639,7 @@
      "schnitt": 2.63,
      "wert": 2.61,
      "fair": 5,
-     "abstand": 0.41,
-     "sicherheit": "deutlich"
-    },
-    {
-     "id": "1731",
-     "name": "Luca Hauf",
-     "team_id": "5",
-     "preis": 1,
-     "dt_pass": true,
-     "spiele": 13,
-     "schnitt": 0.72,
-     "wert": 0.707,
-     "fair": 2,
-     "abstand": 0.41,
-     "sicherheit": "deutlich"
-    },
-    {
-     "id": "2504",
-     "name": "Tom Kühnhackl",
-     "team_id": "2",
-     "preis": 3,
-     "dt_pass": true,
-     "spiele": 12,
-     "schnitt": 1.77,
-     "wert": 1.754,
-     "fair": 4,
-     "abstand": 0.37,
+     "abstand": 0.35,
      "sicherheit": "deutlich"
     },
     {
@@ -1663,9 +1650,9 @@
      "dt_pass": true,
      "spiele": 1,
      "schnitt": 3.0,
-     "wert": 2.843,
+     "wert": 2.846,
      "fair": 5,
-     "abstand": 2.55,
+     "abstand": 2.54,
      "sicherheit": "knapp"
     },
     {
@@ -1676,9 +1663,9 @@
      "dt_pass": true,
      "spiele": 4,
      "schnitt": 2.23,
-     "wert": 2.149,
+     "wert": 2.151,
      "fair": 4,
-     "abstand": 1.85,
+     "abstand": 1.84,
      "sicherheit": "knapp"
     },
     {
@@ -1691,7 +1678,7 @@
      "schnitt": 3.3,
      "wert": 3.182,
      "fair": 5,
-     "abstand": 0.98,
+     "abstand": 0.92,
      "sicherheit": "knapp"
     },
     {
@@ -1702,22 +1689,9 @@
      "dt_pass": false,
      "spiele": 4,
      "schnitt": 1.25,
-     "wert": 1.227,
+     "wert": 1.25,
      "fair": 3,
-     "abstand": 0.44,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "1350",
-     "name": "Adam Payerl",
-     "team_id": "5",
-     "preis": 2,
-     "dt_pass": true,
-     "spiele": 13,
-     "schnitt": 1.12,
-     "wert": 1.115,
-     "fair": 3,
-     "abstand": 0.32,
+     "abstand": 0.45,
      "sicherheit": "knapp"
     },
     {
@@ -1734,16 +1708,16 @@
      "sicherheit": "knapp"
     },
     {
-     "id": "1762",
-     "name": "Yannick Veilleux",
-     "team_id": "3",
+     "id": "1350",
+     "name": "Adam Payerl",
+     "team_id": "5",
      "preis": 2,
-     "dt_pass": false,
-     "spiele": 12,
-     "schnitt": 1.1,
-     "wert": 1.091,
+     "dt_pass": true,
+     "spiele": 13,
+     "schnitt": 1.12,
+     "wert": 1.115,
      "fair": 3,
-     "abstand": 0.3,
+     "abstand": 0.31,
      "sicherheit": "knapp"
     },
     {
@@ -1754,9 +1728,22 @@
      "dt_pass": false,
      "spiele": 9,
      "schnitt": 1.1,
-     "wert": 1.089,
+     "wert": 1.1,
      "fair": 3,
      "abstand": 0.3,
+     "sicherheit": "knapp"
+    },
+    {
+     "id": "1762",
+     "name": "Yannick Veilleux",
+     "team_id": "3",
+     "preis": 2,
+     "dt_pass": false,
+     "spiele": 12,
+     "schnitt": 1.1,
+     "wert": 1.091,
+     "fair": 3,
+     "abstand": 0.29,
      "sicherheit": "knapp"
     },
     {
@@ -1767,9 +1754,9 @@
      "dt_pass": true,
      "spiele": 14,
      "schnitt": 0.6,
-     "wert": 0.595,
+     "wert": 0.596,
      "fair": 2,
-     "abstand": 0.3,
+     "abstand": 0.29,
      "sicherheit": "knapp"
     },
     {
@@ -1786,45 +1773,6 @@
      "sicherheit": "knapp"
     },
     {
-     "id": "648",
-     "name": "Louis-Marc Aubry",
-     "team_id": "11",
-     "preis": 4,
-     "dt_pass": true,
-     "spiele": 12,
-     "schnitt": 2.46,
-     "wert": 2.439,
-     "fair": 5,
-     "abstand": 0.24,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "3476",
-     "name": "Dustin Willhöft",
-     "team_id": "8",
-     "preis": 1,
-     "dt_pass": true,
-     "spiele": 13,
-     "schnitt": 0.54,
-     "wert": 0.534,
-     "fair": 2,
-     "abstand": 0.24,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "3391",
-     "name": "Lenny Boos",
-     "team_id": "9",
-     "preis": 1,
-     "dt_pass": true,
-     "spiele": 2,
-     "schnitt": 0.55,
-     "wert": 0.534,
-     "fair": 2,
-     "abstand": 0.24,
-     "sicherheit": "knapp"
-    },
-    {
      "id": "3579",
      "name": "Tyler Spezia",
      "team_id": "14",
@@ -1838,6 +1786,32 @@
      "sicherheit": "knapp"
     },
     {
+     "id": "3391",
+     "name": "Lenny Boos",
+     "team_id": "9",
+     "preis": 1,
+     "dt_pass": true,
+     "spiele": 2,
+     "schnitt": 0.55,
+     "wert": 0.537,
+     "fair": 2,
+     "abstand": 0.23,
+     "sicherheit": "knapp"
+    },
+    {
+     "id": "3476",
+     "name": "Dustin Willhöft",
+     "team_id": "8",
+     "preis": 1,
+     "dt_pass": true,
+     "spiele": 13,
+     "schnitt": 0.54,
+     "wert": 0.534,
+     "fair": 2,
+     "abstand": 0.23,
+     "sicherheit": "knapp"
+    },
+    {
      "id": "3411",
      "name": "Gabriel Fontaine",
      "team_id": "3",
@@ -1845,9 +1819,9 @@
      "dt_pass": false,
      "spiele": 6,
      "schnitt": 1.62,
-     "wert": 1.599,
+     "wert": 1.598,
      "fair": 4,
-     "abstand": 0.22,
+     "abstand": 0.21,
      "sicherheit": "knapp"
     },
     {
@@ -1860,7 +1834,7 @@
      "schnitt": 1.6,
      "wert": 1.59,
      "fair": 4,
-     "abstand": 0.21,
+     "abstand": 0.2,
      "sicherheit": "knapp"
     },
     {
@@ -1871,20 +1845,7 @@
      "dt_pass": true,
      "spiele": 13,
      "schnitt": 1.59,
-     "wert": 1.583,
-     "fair": 4,
-     "abstand": 0.2,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "2389",
-     "name": "Cole Maier",
-     "team_id": "7",
-     "preis": 3,
-     "dt_pass": false,
-     "spiele": 12,
-     "schnitt": 1.58,
-     "wert": 1.573,
+     "wert": 1.582,
      "fair": 4,
      "abstand": 0.19,
      "sicherheit": "knapp"
@@ -1897,22 +1858,35 @@
      "dt_pass": true,
      "spiele": 4,
      "schnitt": 0.5,
-     "wert": 0.491,
+     "wert": 0.493,
      "fair": 2,
      "abstand": 0.19,
      "sicherheit": "knapp"
     },
     {
-     "id": "2473",
-     "name": "Markus Schweiger",
-     "team_id": "44",
-     "preis": 1,
+     "id": "648",
+     "name": "Louis-Marc Aubry",
+     "team_id": "11",
+     "preis": 4,
      "dt_pass": true,
      "spiele": 12,
-     "schnitt": 0.48,
-     "wert": 0.471,
-     "fair": 2,
-     "abstand": 0.17,
+     "schnitt": 2.46,
+     "wert": 2.439,
+     "fair": 5,
+     "abstand": 0.18,
+     "sicherheit": "knapp"
+    },
+    {
+     "id": "2389",
+     "name": "Cole Maier",
+     "team_id": "7",
+     "preis": 3,
+     "dt_pass": false,
+     "spiele": 12,
+     "schnitt": 1.58,
+     "wert": 1.572,
+     "fair": 4,
+     "abstand": 0.18,
      "sicherheit": "knapp"
     },
     {
@@ -1923,22 +1897,22 @@
      "dt_pass": false,
      "spiele": 12,
      "schnitt": 1.55,
-     "wert": 1.54,
+     "wert": 1.539,
      "fair": 4,
-     "abstand": 0.16,
+     "abstand": 0.15,
      "sicherheit": "knapp"
     },
     {
-     "id": "1657",
-     "name": "Enrico Henriquez Morales",
+     "id": "1682",
+     "name": "Moritz Elias",
      "team_id": "13",
-     "preis": 2,
+     "preis": 1,
      "dt_pass": true,
-     "spiele": 12,
-     "schnitt": 0.94,
-     "wert": 0.936,
-     "fair": 3,
-     "abstand": 0.15,
+     "spiele": 13,
+     "schnitt": 0.44,
+     "wert": 0.438,
+     "fair": 2,
+     "abstand": 0.13,
      "sicherheit": "knapp"
     },
     {
@@ -1951,20 +1925,7 @@
      "schnitt": 0.93,
      "wert": 0.928,
      "fair": 3,
-     "abstand": 0.14,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "3472",
-     "name": "Donald D.J. Busdeker",
-     "team_id": "13",
-     "preis": 4,
-     "dt_pass": false,
-     "spiele": 11,
-     "schnitt": 2.35,
-     "wert": 2.334,
-     "fair": 5,
-     "abstand": 0.13,
+     "abstand": 0.12,
      "sicherheit": "knapp"
     },
     {
@@ -1975,9 +1936,35 @@
      "dt_pass": true,
      "spiele": 13,
      "schnitt": 0.42,
-     "wert": 0.42,
+     "wert": 0.421,
      "fair": 2,
-     "abstand": 0.12,
+     "abstand": 0.11,
+     "sicherheit": "knapp"
+    },
+    {
+     "id": "3472",
+     "name": "Donald D.J. Busdeker",
+     "team_id": "13",
+     "preis": 4,
+     "dt_pass": false,
+     "spiele": 11,
+     "schnitt": 2.35,
+     "wert": 2.355,
+     "fair": 5,
+     "abstand": 0.1,
+     "sicherheit": "knapp"
+    },
+    {
+     "id": "1657",
+     "name": "Enrico Henriquez Morales",
+     "team_id": "13",
+     "preis": 2,
+     "dt_pass": true,
+     "spiele": 13,
+     "schnitt": 0.9,
+     "wert": 0.9,
+     "fair": 3,
+     "abstand": 0.1,
      "sicherheit": "knapp"
     },
     {
@@ -1988,9 +1975,9 @@
      "dt_pass": false,
      "spiele": 14,
      "schnitt": 1.48,
-     "wert": 1.472,
+     "wert": 1.471,
      "fair": 4,
-     "abstand": 0.09,
+     "abstand": 0.08,
      "sicherheit": "knapp"
     },
     {
@@ -2001,22 +1988,9 @@
      "dt_pass": true,
      "spiele": 10,
      "schnitt": 1.46,
-     "wert": 1.452,
+     "wert": 1.451,
      "fair": 4,
-     "abstand": 0.07,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "80",
-     "name": "Yasin Ehliz",
-     "team_id": "12",
-     "preis": 4,
-     "dt_pass": true,
-     "spiele": 12,
-     "schnitt": 2.28,
-     "wert": 2.258,
-     "fair": 5,
-     "abstand": 0.05,
+     "abstand": 0.06,
      "sicherheit": "knapp"
     },
     {
@@ -2029,20 +2003,7 @@
      "schnitt": 0.83,
      "wert": 0.83,
      "fair": 3,
-     "abstand": 0.04,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "2202",
-     "name": "Nicolas Schindler",
-     "team_id": "1",
-     "preis": 1,
-     "dt_pass": true,
-     "spiele": 13,
-     "schnitt": 0.34,
-     "wert": 0.337,
-     "fair": 2,
-     "abstand": 0.04,
+     "abstand": 0.03,
      "sicherheit": "knapp"
     },
     {
@@ -2053,9 +2014,35 @@
      "dt_pass": true,
      "spiele": 5,
      "schnitt": 0.34,
-     "wert": 0.337,
+     "wert": 0.339,
      "fair": 2,
-     "abstand": 0.04,
+     "abstand": 0.03,
+     "sicherheit": "knapp"
+    },
+    {
+     "id": "2202",
+     "name": "Nicolas Schindler",
+     "team_id": "1",
+     "preis": 1,
+     "dt_pass": true,
+     "spiele": 13,
+     "schnitt": 0.34,
+     "wert": 0.338,
+     "fair": 2,
+     "abstand": 0.03,
+     "sicherheit": "knapp"
+    },
+    {
+     "id": "2473",
+     "name": "Markus Schweiger",
+     "team_id": "44",
+     "preis": 1,
+     "dt_pass": true,
+     "spiele": 13,
+     "schnitt": 0.34,
+     "wert": 0.338,
+     "fair": 2,
+     "abstand": 0.03,
      "sicherheit": "knapp"
     },
     {
@@ -2066,9 +2053,9 @@
      "dt_pass": true,
      "spiele": 12,
      "schnitt": 0.33,
-     "wert": 0.332,
+     "wert": 0.333,
      "fair": 2,
-     "abstand": 0.04,
+     "abstand": 0.03,
      "sicherheit": "knapp"
     },
     {
@@ -2079,22 +2066,9 @@
      "dt_pass": true,
      "spiele": 4,
      "schnitt": 0.33,
-     "wert": 0.322,
+     "wert": 0.324,
      "fair": 2,
-     "abstand": 0.03,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "3072",
-     "name": "Simon Seidl",
-     "team_id": "6",
-     "preis": 1,
-     "dt_pass": true,
-     "spiele": 11,
-     "schnitt": 0.3,
-     "wert": 0.299,
-     "fair": 2,
-     "abstand": 0.0,
+     "abstand": 0.02,
      "sicherheit": "knapp"
     }
    ],
@@ -2109,7 +2083,7 @@
      "schnitt": -0.41,
      "wert": -0.378,
      "fair": 1,
-     "abstand": 1.76,
+     "abstand": 1.77,
      "sicherheit": "deutlich"
     },
     {
@@ -2122,7 +2096,7 @@
      "schnitt": 0.04,
      "wert": 0.066,
      "fair": 1,
-     "abstand": 1.31,
+     "abstand": 1.32,
      "sicherheit": "deutlich"
     },
     {
@@ -2135,7 +2109,7 @@
      "schnitt": 0.21,
      "wert": 0.231,
      "fair": 1,
-     "abstand": 1.15,
+     "abstand": 1.16,
      "sicherheit": "deutlich"
     },
     {
@@ -2161,7 +2135,7 @@
      "schnitt": 0.89,
      "wert": 0.902,
      "fair": 3,
-     "abstand": 1.3,
+     "abstand": 1.36,
      "sicherheit": "deutlich"
     },
     {
@@ -2174,20 +2148,7 @@
      "schnitt": 1.09,
      "wert": 1.099,
      "fair": 3,
-     "abstand": 1.1,
-     "sicherheit": "deutlich"
-    },
-    {
-     "id": "1346",
-     "name": "Alexander Friesen",
-     "team_id": "9",
-     "preis": 3,
-     "dt_pass": true,
-     "spiele": 12,
-     "schnitt": -0.18,
-     "wert": -0.16,
-     "fair": 1,
-     "abstand": 0.95,
+     "abstand": 1.16,
      "sicherheit": "deutlich"
     },
     {
@@ -2199,6 +2160,32 @@
      "spiele": 12,
      "schnitt": 1.26,
      "wert": 1.262,
+     "fair": 3,
+     "abstand": 1.0,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "1346",
+     "name": "Alexander Friesen",
+     "team_id": "9",
+     "preis": 3,
+     "dt_pass": true,
+     "spiele": 12,
+     "schnitt": -0.18,
+     "wert": -0.161,
+     "fair": 1,
+     "abstand": 0.97,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "1799",
+     "name": "Gregor MacLeod",
+     "team_id": "11",
+     "preis": 5,
+     "dt_pass": false,
+     "spiele": 11,
+     "schnitt": 1.32,
+     "wert": 1.321,
      "fair": 3,
      "abstand": 0.94,
      "sicherheit": "deutlich"
@@ -2213,7 +2200,7 @@
      "schnitt": 0.42,
      "wert": 0.45,
      "fair": 2,
-     "abstand": 0.93,
+     "abstand": 0.94,
      "sicherheit": "deutlich"
     },
     {
@@ -2226,20 +2213,20 @@
      "schnitt": 0.48,
      "wert": 0.492,
      "fair": 2,
-     "abstand": 0.89,
+     "abstand": 0.9,
      "sicherheit": "deutlich"
     },
     {
-     "id": "1799",
-     "name": "Gregor MacLeod",
-     "team_id": "11",
+     "id": "3426",
+     "name": "Taro Hirose",
+     "team_id": "12",
      "preis": 5,
      "dt_pass": false,
-     "spiele": 11,
-     "schnitt": 1.32,
-     "wert": 1.321,
+     "spiele": 12,
+     "schnitt": 1.38,
+     "wert": 1.385,
      "fair": 3,
-     "abstand": 0.88,
+     "abstand": 0.87,
      "sicherheit": "deutlich"
     },
     {
@@ -2252,7 +2239,7 @@
      "schnitt": 0.54,
      "wert": 0.557,
      "fair": 2,
-     "abstand": 0.82,
+     "abstand": 0.83,
      "sicherheit": "deutlich"
     },
     {
@@ -2265,7 +2252,7 @@
      "schnitt": -0.02,
      "wert": 0.003,
      "fair": 1,
-     "abstand": 0.79,
+     "abstand": 0.8,
      "sicherheit": "deutlich"
     },
     {
@@ -2278,7 +2265,7 @@
      "schnitt": 0.0,
      "wert": 0.018,
      "fair": 1,
-     "abstand": 0.77,
+     "abstand": 0.79,
      "sicherheit": "deutlich"
     },
     {
@@ -2291,7 +2278,7 @@
      "schnitt": 0.04,
      "wert": 0.05,
      "fair": 1,
-     "abstand": 0.74,
+     "abstand": 0.75,
      "sicherheit": "deutlich"
     },
     {
@@ -2317,7 +2304,7 @@
      "schnitt": 0.76,
      "wert": 0.77,
      "fair": 2,
-     "abstand": 0.61,
+     "abstand": 0.62,
      "sicherheit": "deutlich"
     },
     {
@@ -2330,18 +2317,18 @@
      "schnitt": -0.56,
      "wert": -0.535,
      "fair": 1,
-     "abstand": 0.83,
+     "abstand": 0.84,
      "sicherheit": "deutlich"
     },
     {
-     "id": "3426",
-     "name": "Taro Hirose",
-     "team_id": "12",
+     "id": "3442",
+     "name": "Samuel Dove-McFalls",
+     "team_id": "14",
      "preis": 5,
-     "dt_pass": false,
-     "spiele": 12,
-     "schnitt": 1.38,
-     "wert": 1.385,
+     "dt_pass": true,
+     "spiele": 13,
+     "schnitt": 1.44,
+     "wert": 1.439,
      "fair": 4,
      "abstand": 0.82,
      "sicherheit": "deutlich"
@@ -2356,20 +2343,7 @@
      "schnitt": -0.51,
      "wert": -0.497,
      "fair": 1,
-     "abstand": 0.79,
-     "sicherheit": "deutlich"
-    },
-    {
-     "id": "3442",
-     "name": "Samuel Dove-McFalls",
-     "team_id": "14",
-     "preis": 5,
-     "dt_pass": true,
-     "spiele": 13,
-     "schnitt": 1.44,
-     "wert": 1.439,
-     "fair": 4,
-     "abstand": 0.76,
+     "abstand": 0.8,
      "sicherheit": "deutlich"
     },
     {
@@ -2382,20 +2356,7 @@
      "schnitt": 1.51,
      "wert": 1.508,
      "fair": 4,
-     "abstand": 0.7,
-     "sicherheit": "deutlich"
-    },
-    {
-     "id": "1665",
-     "name": "Eric Cornel",
-     "team_id": "15",
-     "preis": 4,
-     "dt_pass": false,
-     "spiele": 14,
-     "schnitt": 0.84,
-     "wert": 0.844,
-     "fair": 3,
-     "abstand": 0.54,
+     "abstand": 0.75,
      "sicherheit": "deutlich"
     },
     {
@@ -2408,6 +2369,19 @@
      "schnitt": -0.26,
      "wert": -0.246,
      "fair": 1,
+     "abstand": 0.55,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "1665",
+     "name": "Eric Cornel",
+     "team_id": "15",
+     "preis": 4,
+     "dt_pass": false,
+     "spiele": 14,
+     "schnitt": 0.84,
+     "wert": 0.844,
+     "fair": 3,
      "abstand": 0.54,
      "sicherheit": "deutlich"
     },
@@ -2445,9 +2419,9 @@
      "dt_pass": false,
      "spiele": 12,
      "schnitt": 0.3,
-     "wert": 0.314,
+     "wert": 0.313,
      "fair": 2,
-     "abstand": 0.48,
+     "abstand": 0.49,
      "sicherheit": "deutlich"
     },
     {
@@ -2460,7 +2434,7 @@
      "schnitt": 0.9,
      "wert": 0.912,
      "fair": 3,
-     "abstand": 0.47,
+     "abstand": 0.48,
      "sicherheit": "deutlich"
     },
     {
@@ -2471,9 +2445,9 @@
      "dt_pass": false,
      "spiele": 9,
      "schnitt": 0.31,
-     "wert": 0.327,
+     "wert": 0.326,
      "fair": 2,
-     "abstand": 0.46,
+     "abstand": 0.48,
      "sicherheit": "deutlich"
     },
     {
@@ -2486,7 +2460,7 @@
      "schnitt": -0.16,
      "wert": -0.134,
      "fair": 1,
-     "abstand": 0.43,
+     "abstand": 0.44,
      "sicherheit": "deutlich"
     },
     {
@@ -2497,9 +2471,9 @@
      "dt_pass": false,
      "spiele": 12,
      "schnitt": 0.38,
-     "wert": 0.387,
+     "wert": 0.386,
      "fair": 2,
-     "abstand": 0.4,
+     "abstand": 0.42,
      "sicherheit": "deutlich"
     },
     {
@@ -2510,9 +2484,9 @@
      "dt_pass": false,
      "spiele": 4,
      "schnitt": -1.58,
-     "wert": -1.482,
+     "wert": -1.483,
      "fair": 1,
-     "abstand": 2.27,
+     "abstand": 2.29,
      "sicherheit": "knapp"
     },
     {
@@ -2523,9 +2497,9 @@
      "dt_pass": false,
      "spiele": 4,
      "schnitt": -0.1,
-     "wert": -0.057,
+     "wert": -0.058,
      "fair": 1,
-     "abstand": 0.85,
+     "abstand": 0.86,
      "sicherheit": "knapp"
     },
     {
@@ -2536,9 +2510,22 @@
      "dt_pass": true,
      "spiele": 2,
      "schnitt": 0.1,
-     "wert": 0.148,
+     "wert": 0.146,
      "fair": 1,
-     "abstand": 0.64,
+     "abstand": 0.66,
+     "sicherheit": "knapp"
+    },
+    {
+     "id": "1347",
+     "name": "Miha Verlic",
+     "team_id": "9",
+     "preis": 4,
+     "dt_pass": false,
+     "spiele": 12,
+     "schnitt": 1.03,
+     "wert": 1.04,
+     "fair": 3,
+     "abstand": 0.35,
      "sicherheit": "knapp"
     },
     {
@@ -2555,16 +2542,16 @@
      "sicherheit": "knapp"
     },
     {
-     "id": "1347",
-     "name": "Miha Verlic",
+     "id": "143",
+     "name": "Nicolas Krämmer",
      "team_id": "9",
-     "preis": 4,
-     "dt_pass": false,
-     "spiele": 12,
-     "schnitt": 1.03,
-     "wert": 1.04,
-     "fair": 3,
-     "abstand": 0.34,
+     "preis": 3,
+     "dt_pass": true,
+     "spiele": 5,
+     "schnitt": 0.5,
+     "wert": 0.517,
+     "fair": 2,
+     "abstand": 0.29,
      "sicherheit": "knapp"
     },
     {
@@ -2577,19 +2564,19 @@
      "schnitt": 0.0,
      "wert": 0.015,
      "fair": 1,
-     "abstand": 0.28,
+     "abstand": 0.29,
      "sicherheit": "knapp"
     },
     {
-     "id": "143",
-     "name": "Nicolas Krämmer",
-     "team_id": "9",
-     "preis": 3,
-     "dt_pass": true,
-     "spiele": 5,
-     "schnitt": 0.5,
-     "wert": 0.518,
-     "fair": 2,
+     "id": "3550",
+     "name": "Nicholas Halloran",
+     "team_id": "6",
+     "preis": 5,
+     "dt_pass": false,
+     "spiele": 12,
+     "schnitt": 2.0,
+     "wert": 1.99,
+     "fair": 4,
      "abstand": 0.27,
      "sicherheit": "knapp"
     },
@@ -2601,9 +2588,9 @@
      "dt_pass": true,
      "spiele": 13,
      "schnitt": 0.54,
-     "wert": 0.547,
+     "wert": 0.546,
      "fair": 2,
-     "abstand": 0.24,
+     "abstand": 0.26,
      "sicherheit": "knapp"
     },
     {
@@ -2620,32 +2607,6 @@
      "sicherheit": "knapp"
     },
     {
-     "id": "3550",
-     "name": "Nicholas Halloran",
-     "team_id": "6",
-     "preis": 5,
-     "dt_pass": false,
-     "spiele": 12,
-     "schnitt": 2.0,
-     "wert": 1.99,
-     "fair": 4,
-     "abstand": 0.21,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "4340",
-     "name": "Austin Wagner",
-     "team_id": "44",
-     "preis": 3,
-     "dt_pass": false,
-     "spiele": 10,
-     "schnitt": 0.58,
-     "wert": 0.59,
-     "fair": 2,
-     "abstand": 0.2,
-     "sicherheit": "knapp"
-    },
-    {
      "id": "1615",
      "name": "Parker Tuomie",
      "team_id": "9",
@@ -2655,7 +2616,7 @@
      "schnitt": 0.59,
      "wert": 0.6,
      "fair": 2,
-     "abstand": 0.19,
+     "abstand": 0.2,
      "sicherheit": "knapp"
     },
     {
@@ -2668,7 +2629,7 @@
      "schnitt": 0.11,
      "wert": 0.121,
      "fair": 1,
-     "abstand": 0.18,
+     "abstand": 0.19,
      "sicherheit": "knapp"
     },
     {
@@ -2681,7 +2642,7 @@
      "schnitt": 0.12,
      "wert": 0.127,
      "fair": 1,
-     "abstand": 0.17,
+     "abstand": 0.18,
      "sicherheit": "knapp"
     },
     {
@@ -2694,7 +2655,7 @@
      "schnitt": 1.22,
      "wert": 1.22,
      "fair": 3,
-     "abstand": 0.16,
+     "abstand": 0.17,
      "sicherheit": "knapp"
     },
     {
@@ -2707,7 +2668,7 @@
      "schnitt": 1.25,
      "wert": 1.253,
      "fair": 3,
-     "abstand": 0.13,
+     "abstand": 0.14,
      "sicherheit": "knapp"
     },
     {
@@ -2720,20 +2681,7 @@
      "schnitt": 1.25,
      "wert": 1.252,
      "fair": 3,
-     "abstand": 0.13,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "1553",
-     "name": "Alexander Blank",
-     "team_id": "13",
-     "preis": 5,
-     "dt_pass": true,
-     "spiele": 12,
-     "schnitt": 2.1,
-     "wert": 2.088,
-     "fair": 4,
-     "abstand": 0.12,
+     "abstand": 0.14,
      "sicherheit": "knapp"
     },
     {
@@ -2744,9 +2692,9 @@
      "dt_pass": true,
      "spiele": 10,
      "schnitt": 0.66,
-     "wert": 0.668,
+     "wert": 0.667,
      "fair": 2,
-     "abstand": 0.12,
+     "abstand": 0.14,
      "sicherheit": "knapp"
     },
     {
@@ -2757,9 +2705,9 @@
      "dt_pass": true,
      "spiele": 12,
      "schnitt": 0.68,
-     "wert": 0.682,
+     "wert": 0.681,
      "fair": 2,
-     "abstand": 0.11,
+     "abstand": 0.12,
      "sicherheit": "knapp"
     },
     {
@@ -2772,7 +2720,20 @@
      "schnitt": 0.2,
      "wert": 0.209,
      "fair": 1,
-     "abstand": 0.09,
+     "abstand": 0.1,
+     "sicherheit": "knapp"
+    },
+    {
+     "id": "4340",
+     "name": "Austin Wagner",
+     "team_id": "44",
+     "preis": 3,
+     "dt_pass": false,
+     "spiele": 11,
+     "schnitt": 0.73,
+     "wert": 0.727,
+     "fair": 2,
+     "abstand": 0.08,
      "sicherheit": "knapp"
     },
     {
@@ -2781,10 +2742,36 @@
      "team_id": "44",
      "preis": 2,
      "dt_pass": true,
-     "spiele": 12,
-     "schnitt": 0.24,
-     "wert": 0.25,
+     "spiele": 13,
+     "schnitt": 0.23,
+     "wert": 0.231,
      "fair": 1,
+     "abstand": 0.08,
+     "sicherheit": "knapp"
+    },
+    {
+     "id": "1345",
+     "name": "Dominik Uher",
+     "team_id": "44",
+     "preis": 2,
+     "dt_pass": true,
+     "spiele": 9,
+     "schnitt": 0.24,
+     "wert": 0.244,
+     "fair": 1,
+     "abstand": 0.06,
+     "sicherheit": "knapp"
+    },
+    {
+     "id": "2817",
+     "name": "Colt  Adam Conrad",
+     "team_id": "9",
+     "preis": 3,
+     "dt_pass": false,
+     "spiele": 8,
+     "schnitt": 0.75,
+     "wert": 0.756,
+     "fair": 2,
      "abstand": 0.05,
      "sicherheit": "knapp"
     },
@@ -2798,33 +2785,7 @@
      "schnitt": 0.25,
      "wert": 0.253,
      "fair": 1,
-     "abstand": 0.04,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "2817",
-     "name": "Colt  Adam Conrad",
-     "team_id": "9",
-     "preis": 3,
-     "dt_pass": false,
-     "spiele": 8,
-     "schnitt": 0.75,
-     "wert": 0.757,
-     "fair": 2,
-     "abstand": 0.03,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "1345",
-     "name": "Dominik Uher",
-     "team_id": "44",
-     "preis": 2,
-     "dt_pass": true,
-     "spiele": 8,
-     "schnitt": 0.26,
-     "wert": 0.273,
-     "fair": 1,
-     "abstand": 0.02,
+     "abstand": 0.05,
      "sicherheit": "knapp"
     },
     {
@@ -2837,7 +2798,7 @@
      "schnitt": 1.38,
      "wert": 1.377,
      "fair": 3,
-     "abstand": 0.0,
+     "abstand": 0.01,
      "sicherheit": "knapp"
     }
    ],
@@ -2854,10 +2815,10 @@
     }
    ],
    "grenzen": {
-    "5": 2.2,
-    "4": 1.38,
-    "3": 0.79,
-    "2": 0.3
+    "5": 2.26,
+    "4": 1.39,
+    "3": 0.8,
+    "2": 0.31
    }
   }
  }

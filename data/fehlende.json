@@ -51,13 +51,7 @@
   "name": "D.J. Busdeker",
   "team_id": "13",
   "zuletzt_gespielt": "2026-10-23",
-  "verpasst": "2026-10-25"
- },
- "4324": {
-  "name": "Luke Toporowski",
-  "team_id": "13",
-  "zuletzt_gespielt": "2026-10-16",
-  "verpasst": "2026-10-25"
+  "verpasst": "2026-10-29"
  },
  "1489": {
   "name": "Erik Buschmann",
@@ -101,10 +95,16 @@
   "zuletzt_gespielt": "2026-10-25",
   "verpasst": "2026-10-28"
  },
+ "2468": {
+  "name": "Maksim Matushkin",
+  "team_id": "44",
+  "zuletzt_gespielt": "2026-10-25",
+  "verpasst": "2026-10-29"
+ },
  "4341": {
   "name": "Brandon Biro",
   "team_id": "44",
   "zuletzt_gespielt": "2026-10-18",
-  "verpasst": "2026-10-25"
+  "verpasst": "2026-10-29"
  }
 }
