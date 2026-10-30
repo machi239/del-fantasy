@@ -1,5 +1,5 @@
 {
- "stand": "30.10.2026 18:00",
+ "stand": "30.10.2026 21:49",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -7,90 +7,6 @@
   "unibet"
  ],
  "spiele": {
-  "14-8": {
-   "spiel": "Nürnberg Ice Tigers - Grizzlys Wolfsburg",
-   "beginn": "30.10.2026 19:30",
-   "buchmacher": [
-    "pinnacle",
-    "bet365",
-    "unibet"
-   ],
-   "p_home60": 0.44,
-   "p_draw60": 0.231,
-   "p_away60": 0.329,
-   "p_home_inkl_ot": 0.56,
-   "total": 5.76
-  },
-  "5-11": {
-   "spiel": "Krefeld Pinguine - Kölner Haie",
-   "beginn": "30.10.2026 19:30",
-   "buchmacher": [
-    "pinnacle",
-    "bet365",
-    "unibet"
-   ],
-   "p_home60": 0.308,
-   "p_draw60": 0.218,
-   "p_away60": 0.474,
-   "p_home_inkl_ot": 0.415,
-   "total": 6.14
-  },
-  "2-9": {
-   "spiel": "Adler Mannheim - Pinguins Bremerhaven",
-   "beginn": "30.10.2026 19:30",
-   "buchmacher": [
-    "pinnacle",
-    "bet365",
-    "unibet"
-   ],
-   "p_home60": 0.629,
-   "p_draw60": 0.195,
-   "p_away60": 0.175,
-   "p_home_inkl_ot": 0.741,
-   "total": 5.95
-  },
-  "1-3": {
-   "spiel": "ERC Ingolstadt - Eisbären Berlin",
-   "beginn": "30.10.2026 19:30",
-   "buchmacher": [
-    "pinnacle",
-    "bet365",
-    "unibet"
-   ],
-   "p_home60": 0.368,
-   "p_draw60": 0.227,
-   "p_away60": 0.405,
-   "p_home_inkl_ot": 0.482,
-   "total": 5.99
-  },
-  "7-15": {
-   "spiel": "Iserlohn Roosters - Schwenninger Wild Wings",
-   "beginn": "30.10.2026 19:30",
-   "buchmacher": [
-    "pinnacle",
-    "bet365",
-    "unibet"
-   ],
-   "p_home60": 0.403,
-   "p_draw60": 0.235,
-   "p_away60": 0.361,
-   "p_home_inkl_ot": 0.523,
-   "total": 5.83
-  },
-  "6-12": {
-   "spiel": "Straubing Tigers - EHC Red Bull München",
-   "beginn": "30.10.2026 19:30",
-   "buchmacher": [
-    "pinnacle",
-    "bet365",
-    "unibet"
-   ],
-   "p_home60": 0.443,
-   "p_draw60": 0.224,
-   "p_away60": 0.332,
-   "p_home_inkl_ot": 0.562,
-   "total": 6.04
-  },
   "3-2": {
    "spiel": "Eisbären Berlin - Adler Mannheim",
    "beginn": "01.11.2026 14:00",
@@ -162,6 +78,18 @@
    "p_away60": 0.287,
    "p_home_inkl_ot": 0.601,
    "total": 5.95
+  },
+  "11-7": {
+   "spiel": "Kölner Haie - Iserlohn Roosters",
+   "beginn": "01.11.2026 19:00",
+   "buchmacher": [
+    "unibet"
+   ],
+   "p_home60": 0.643,
+   "p_draw60": 0.18,
+   "p_away60": 0.177,
+   "p_home_inkl_ot": 0.744,
+   "total": 6.26
   }
  }
 }
