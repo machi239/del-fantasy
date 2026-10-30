@@ -3,6 +3,7 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 1069,Jonas Neffin,74.8,56.6,18.2,PRUEFEN
 648,Louis-Marc Aubry,30.4,12.4,18.0,PRUEFEN
 1796,Markus Vikingstad,23.4,5.7,17.7,PRUEFEN
+1447,Maximilian Glötzl,-11.3,4.9,-16.2,PRUEFEN
 4350,Jackson Cates,26.8,10.7,16.1,PRUEFEN
 2874,Alex Breton,18.5,2.9,15.6,PRUEFEN
 80,Yasin Ehliz,27.3,11.7,15.6,PRUEFEN
@@ -12,6 +13,7 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 1762,Yannick Veilleux,13.2,-1.2,14.4,PRUEFEN
 499,Daniel Fischbuch,15.6,1.3,14.3,PRUEFEN
 139,Patrick Hager,16.7,2.5,14.2,PRUEFEN
+4338,Adam Scheel,31.6,17.8,13.8,PRUEFEN
 3704,Peter Abbandonato,29.3,15.8,13.5,PRUEFEN
 1666,Julius Karrer,19.5,6.0,13.5,PRUEFEN
 1985,Jake Hildebrand,26.2,12.8,13.4,PRUEFEN
@@ -19,6 +21,7 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 1611,Leon Gawanke,31.6,18.4,13.2,PRUEFEN
 2238,Kyle Platzer,18.4,5.6,12.8,PRUEFEN
 1402,Frederik Tiffels,7.7,20.3,-12.6,PRUEFEN
+1553,Alexander Blank,29.4,16.8,12.6,PRUEFEN
 416,Dustin Strahlmeier,10.2,-2.2,12.4,PRUEFEN
 2813,Kenny Agostino,0.1,-12.1,12.2,PRUEFEN
 3557,Ryan Murphy,28.5,16.3,12.2,PRUEFEN
@@ -26,7 +29,6 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 1694,Jan Luca Sennhenn,17.4,5.5,11.9,PRUEFEN
 3410,Liam Kirk,51.7,39.9,11.8,PRUEFEN
 252,Daniel Pietta,11.9,0.2,11.7,PRUEFEN
-4338,Adam Scheel,29.4,17.8,11.6,PRUEFEN
 1850,Philip Feist,20.6,9.2,11.4,PRUEFEN
 3443,William Graber,14.9,4.0,10.9,PRUEFEN
 1072,Ryan Jones,16.7,5.8,10.9,PRUEFEN
@@ -35,16 +37,18 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 1609,Marc Michaelis,11.3,0.7,10.6,PRUEFEN
 2209,Ty Ronning,48.7,38.4,10.3,PRUEFEN
 1663,Adrian Klein,15.0,5.0,10.0,PRUEFEN
+1306,Tim Wohlgemuth,18.6,8.6,10.0,PRUEFEN
 527,Alexander Karachun,13.7,3.7,10.0,PRUEFEN
 59,Stefan Loibl,25.1,15.2,9.9,PRUEFEN
 554,Brooks Macek,16.7,6.9,9.8,PRUEFEN
 3418,Alex Green,20.3,10.5,9.8,PRUEFEN
 1441,Colin Ugbekile,23.6,13.8,9.8,PRUEFEN
 2389,Cole Maier,19.0,9.2,9.8,PRUEFEN
+3594,Kyle Mayhew,36.2,26.4,9.8,PRUEFEN
+3870,Kyle Wood,25.9,16.2,9.7,PRUEFEN
 4296,Peter Quenneville,18.6,9.0,9.6,PRUEFEN
 115,Maximilian Kammerer,10.7,1.1,9.6,PRUEFEN
 2801,Nikolaus Heigl,11.9,2.4,9.5,PRUEFEN
-3594,Kyle Mayhew,35.8,26.4,9.4,PRUEFEN
 2820,Julian Napravnik,11.4,2.1,9.3,PRUEFEN
 3578,Greg Meireles,0.2,9.4,-9.2,PRUEFEN
 4349,Austin Magera,1.4,10.6,-9.2,PRUEFEN
@@ -55,9 +59,10 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 4333,Jérémie Poirier,25.2,16.7,8.5,PRUEFEN
 506,Jonas Müller,29.5,21.0,8.5,PRUEFEN
 3550,Nicholas Halloran,24.0,15.5,8.5,PRUEFEN
-1553,Alexander Blank,25.2,16.8,8.4,PRUEFEN
+1682,Moritz Elias,5.7,-2.6,8.3,PRUEFEN
 1750,Leon Hüttl,16.8,8.6,8.2,PRUEFEN
 1459,Jonas Stettmer,6.2,-1.8,8.0,PRUEFEN
+3582,Michael Joyaux,9.8,1.9,7.9,PRUEFEN
 2411,Nicolas Mattinen,37.6,29.8,7.8,PRUEFEN
 2605,Tyler Boland,22.7,14.9,7.8,PRUEFEN
 4347,Luis Janett,7.8,0.0,7.8,PRUEFEN
@@ -65,14 +70,15 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 2384,Ludwig Byström,10.2,2.5,7.7,PRUEFEN
 104,Marcel Brandt,30.3,22.7,7.6,PRUEFEN
 2117,Veit Oswald,8.1,0.5,7.6,PRUEFEN
+2916,Linus Fröberg,18.5,10.9,7.6,PRUEFEN
 1364,Markus Eisenschmid,13.9,6.5,7.4,PRUEFEN
 4346,William Dufour,4.1,-3.3,7.4,PRUEFEN
-1306,Tim Wohlgemuth,15.9,8.6,7.3,PRUEFEN
 2881,Abbott Girduckis,0.8,-6.4,7.2,PRUEFEN
 512,Kai Wissmann,14.3,7.1,7.2,PRUEFEN
 2121,Jean-Christophe Beaudin,29.1,21.9,7.2,PRUEFEN
 3551,Tyler Madden,18.0,10.8,7.2,PRUEFEN
 4317,Hudson Elynuik,7.8,0.6,7.2,PRUEFEN
+235,Trevor Parkes,14.4,7.2,7.2,PRUEFEN
 4311,Tobias Krestan,8.8,1.7,7.1,PRUEFEN
 4701,Brandon Davidson,22.2,15.1,7.1,PRUEFEN
 2798,Luke Esposito,10.3,3.3,7.0,PRUEFEN
@@ -81,7 +87,6 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 146,Moritz Müller,7.5,0.6,6.9,PRUEFEN
 27,Mirko Höfflin,22.5,15.6,6.9,PRUEFEN
 2468,Maksim Matushkin,24.5,17.6,6.9,PRUEFEN
-3582,Michael Joyaux,8.8,1.9,6.9,PRUEFEN
 1684,Håkon Hänelt,7.5,0.7,6.8,PRUEFEN
 2504,Tom Kühnhackl,18.2,11.5,6.7,PRUEFEN
 92,Leonhard Pföderl,12.5,5.8,6.7,PRUEFEN
@@ -93,6 +98,7 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 1404,Justin Schütz,12.6,6.3,6.3,PRUEFEN
 3429,Kristian Reichel,18.8,12.6,6.2,PRUEFEN
 2835,Thomas Schemitsch,14.5,8.3,6.2,PRUEFEN
+2463,Cameron Brace,14.6,8.4,6.2,PRUEFEN
 1525,Alexander Ehl,14.5,8.4,6.1,PRUEFEN
 2351,Devin Williams,0.4,6.4,-6.0,PRUEFEN
 4149,Akito Hirose,23.2,17.2,6.0,PRUEFEN
@@ -108,32 +114,31 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 2868,Sam Ruopp,22.1,16.6,5.5,PRUEFEN
 2816,Johannes Krauß,11.2,5.7,5.5,PRUEFEN
 500,Maximilian Franzreb,4.6,10.0,-5.4,PRUEFEN
-2916,Linus Fröberg,16.3,10.9,5.4,PRUEFEN
+528,Björn Krupp,13.0,7.6,5.4,PRUEFEN
+4339,Anthony Romano,7.4,2.0,5.4,PRUEFEN
+1896,Philipp Krauß,12.8,7.5,5.3,PRUEFEN
 1987,Davis Vandane,28.7,23.5,5.2,PRUEFEN
-1682,Moritz Elias,2.6,-2.6,5.2,PRUEFEN
-3870,Kyle Wood,21.4,16.2,5.2,PRUEFEN
 3576,Riley Barber,20.8,15.7,5.1,PRUEFEN
 3549,Nicolas Beaudin,18.2,13.1,5.1,PRUEFEN
 4345,Noah Samanski,10.5,5.5,5.0,PRUEFEN
 3591,Robin Norell,10.0,5.1,4.9,PRUEFEN
 4312,Jack LaFontaine,3.4,-1.4,4.8,PRUEFEN
 122,Mathias Niederberger,22.0,17.2,4.8,PRUEFEN
-1868,Alec McCrea,21.4,16.6,4.8,PRUEFEN
 3593,Peyton Jones,-8.2,-3.4,-4.8,PRUEFEN
 3531,Christian Thomas,9.1,4.4,4.7,PRUEFEN
 2113,Brady Austin,19.8,15.1,4.7,PRUEFEN
 2754,Lukas Kälble,6.4,1.8,4.6,PRUEFEN
 4277,Mac Hollowell,-0.8,-5.4,4.6,PRUEFEN
 1615,Parker Tuomie,7.1,2.5,4.6,PRUEFEN
+3580,Timo Kose,13.0,8.4,4.6,PRUEFEN
 1705,Arkadiusz Dziambor,-3.4,-7.9,4.5,PRUEFEN
 3556,Brady Ferguson,-0.2,4.2,-4.4,PRUEFEN
 4328,Trevor Carrick,10.0,5.6,4.4,PRUEFEN
-1896,Philipp Krauß,11.9,7.5,4.4,PRUEFEN
-4322,Cameron Wright,9.2,4.8,4.4,PRUEFEN
 4315,Joseph Duszak,21.7,17.4,4.3,PRUEFEN
 4341,Brandon Biro,7.0,2.7,4.3,PRUEFEN
 1451,Leon Hungerecker,3.0,-1.2,4.2,PRUEFEN
 3432,Juhani Tyrväinen,4.8,0.6,4.2,PRUEFEN
+1657,Enrico Henriquez Morales,11.7,7.5,4.2,PRUEFEN
 2020,Josef Eham,3.2,-1.0,4.2,PRUEFEN
 3533,Adam Smith,17.5,13.4,4.1,PRUEFEN
 3931,Zack Dybowski,4.0,-0.1,4.1,PRUEFEN
@@ -141,23 +146,21 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 2213,Emil Johansson,4.3,0.2,4.1,PRUEFEN
 2689,Andy Miele,-6.7,-2.6,-4.1,PRUEFEN
 3579,Tyler Spezia,12.2,8.1,4.1,PRUEFEN
-2463,Cameron Brace,12.5,8.4,4.1,PRUEFEN
+3581,Fabio Kose,-2.2,1.9,-4.1,PRUEFEN
 2877,Myles Powell,-6.1,-2.1,-4.0,PRUEFEN
 1748,Peter Spornberger,3.1,-0.9,4.0,PRUEFEN
+4322,Cameron Wright,8.8,4.8,4.0,PRUEFEN
 1594,Joacim Eriksson,-16.0,-12.0,-4.0,PRUEFEN
-3581,Fabio Kose,-2.1,1.9,-4.0,PRUEFEN
 2817,Colt  Adam Conrad,6.0,2.1,3.9,PRUEFEN
-235,Trevor Parkes,11.1,7.2,3.9,PRUEFEN
-3580,Timo Kose,12.3,8.4,3.9,PRUEFEN
 1580,Nicolas Appendino,0.6,4.4,-3.8,PRUEFEN
-1657,Enrico Henriquez Morales,11.3,7.5,3.8,PRUEFEN
+4321,Noel Hoefenmayer,14.3,10.5,3.8,PRUEFEN
 2834,Keaton Thompson,17.5,13.8,3.7,PRUEFEN
 3555,Robert Lynch,20.3,16.6,3.7,PRUEFEN
 16,Fabio Wagner,4.7,1.0,3.7,PRUEFEN
 4329,Lucas Thaler,9.2,12.9,-3.7,PRUEFEN
-1447,Maximilian Glötzl,1.2,4.9,-3.7,PRUEFEN
 2489,John Gilmour,8.9,5.3,3.6,PRUEFEN
 88,Oliver Mebus,5.4,9.0,-3.6,PRUEFEN
+1998,Christian Hanke,-2.1,1.5,-3.6,PRUEFEN
 4498,Roope Mäkitalo,-2.9,0.7,-3.6,PRUEFEN
 505,Spencer Machacek,19.5,16.0,3.5,PRUEFEN
 3554,Matt Choupani,6.6,10.1,-3.5,PRUEFEN
@@ -166,25 +169,22 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 478,Dominik Bittner,8.1,4.8,3.3,PRUEFEN
 4342,Juha Jatkola,7.4,10.6,-3.2,PRUEFEN
 2122,Tyler Morley,6.3,9.5,-3.2,PRUEFEN
-2473,Markus Schweiger,5.7,2.5,3.2,PRUEFEN
+3430,Eric Jonathan Uba,10.4,7.2,3.2,PRUEFEN
 4332,Patrick Brown,7.3,4.2,3.1,PRUEFEN
 3442,Samuel Dove-McFalls,17.6,14.5,3.1,PRUEFEN
-528,Björn Krupp,10.7,7.6,3.1,PRUEFEN
-4339,Anthony Romano,5.1,2.0,3.1,PRUEFEN
 2125,Maximilian Heim,7.0,4.0,3.0,PRUEFEN
 3411,Gabriel Fontaine,9.7,6.7,3.0,PRUEFEN
 102,Felix Bick,4.4,7.4,-3.0,PRUEFEN
 516,Felix Brückmann,5.0,2.0,3.0,PRUEFEN
 1678,Kevin Niedenz,1.1,4.1,-3.0,PRUEFEN
 3307,Paul Vinzens,-4.8,-1.9,-2.9,PRUEFEN
-3592,Sebastian Zwickl,1.3,4.2,-2.9,PRUEFEN
 2387,Evan Barratt,13.0,15.9,-2.9,PRUEFEN
-4340,Austin Wagner,5.8,8.7,-2.9,PRUEFEN
 2888,Austen Keating,8.1,5.3,2.8,PRUEFEN
 1347,Miha Verlic,12.4,9.6,2.8,PRUEFEN
 3407,Matthew Abt,-7.7,-10.5,2.8,PRUEFEN
+3592,Sebastian Zwickl,1.4,4.2,-2.8,PRUEFEN
+539,Konrad Abeltshauser,11.7,8.9,2.8,PRUEFEN
 4316,Spencer Kersten,15.7,13.0,2.7,PRUEFEN
-1998,Christian Hanke,-1.2,1.5,-2.7,PRUEFEN
 1785,Riley Sheen,11.6,9.0,2.6,PRUEFEN
 4337,Curtis Valk,1.0,3.6,-2.6,PRUEFEN
 426,Alex Trivellato,3.2,0.7,2.5,PRUEFEN
@@ -210,10 +210,12 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 130,Dominik Bokk,2.0,0.0,2.0,PRUEFEN
 1644,Frederik Storm,8.9,6.9,2.0,PRUEFEN
 3275,Tobias Rieder,15.0,17.0,-2.0,PRUEFEN
+1868,Alec McCrea,18.6,16.6,2.0,PRUEFEN
 3428,Tobias Fohrler,0.6,-1.3,1.9,PRUEFEN
 2193,Daniel Neumann,1.4,-0.5,1.9,PRUEFEN
 3572,Patrick Russell,17.3,15.4,1.9,PRUEFEN
-4321,Noel Hoefenmayer,12.4,10.5,1.9,PRUEFEN
+1345,Dominik Uher,2.2,0.3,1.9,PRUEFEN
+2473,Markus Schweiger,4.4,2.5,1.9,PRUEFEN
 1738,Korbinian Geibel,11.3,9.5,1.8,PRUEFEN
 2019,Jakub Borzecki,-2.5,-4.3,1.8,PRUEFEN
 1587,Julian Melchiori,14.2,16.0,-1.8,PRUEFEN
@@ -222,8 +224,6 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 1491,Tim Fleischer,6.6,4.8,1.8,PRUEFEN
 3433,Mateu Späth,1.8,0.0,1.8,PRUEFEN
 1168,Maximilian Daubner,-0.4,1.4,-1.8,PRUEFEN
-1211,Tobias Ancicka,23.4,25.2,-1.8,PRUEFEN
-1345,Dominik Uher,2.1,0.3,1.8,PRUEFEN
 546,Andreas Eder,14.6,12.9,1.7,PRUEFEN
 1425,Eric Mik,18.5,16.8,1.7,PRUEFEN
 3128,Julius Ramoser,-1.2,-2.9,1.7,PRUEFEN
@@ -233,12 +233,13 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 1811,Mario Zimmermann,13.5,12.0,1.5,PRUEFEN
 4314,Max Bleicher,6.1,4.6,1.5,PRUEFEN
 4142,Ville Pokka,5.6,4.1,1.5,PRUEFEN
+268,Ryan Button,8.5,7.0,1.5,PRUEFEN
+2090,Felix Maegaard Scheel,7.7,6.2,1.5,PRUEFEN
 3950,Mathew Santos,20.2,18.8,1.4,PRUEFEN
 998,Hendrik Hane,-2.2,-3.6,1.4,PRUEFEN
 2174,Elis Hede,2.5,1.1,1.4,PRUEFEN
 1350,Adam Payerl,12.6,13.9,-1.3,PRUEFEN
 1655,Taro Jentzsch,1.3,0.0,1.3,PRUEFEN
-2900,Philipp Bidoul,-2.3,-1.0,-1.3,PRUEFEN
 595,Ross Mauermann,4.7,3.4,1.3,PRUEFEN
 2028,Skyler McKenzie,10.0,11.2,-1.2,PRUEFEN
 531,Fabio Pfohl,7.3,6.1,1.2,PRUEFEN
@@ -248,12 +249,11 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 885,Justin Feser,18.6,17.6,1.0,PRUEFEN
 3122,Robin Veber,1.7,2.7,-1.0,PRUEFEN
 3559,Niclas Hempel,-1.0,0.0,-1.0,PRUEFEN
-3430,Eric Jonathan Uba,8.2,7.2,1.0,PRUEFEN
+1677,Robin van Calster,3.0,2.0,1.0,PRUEFEN
+3585,Matthew Wedman,1.6,2.6,-1.0,PRUEFEN
 1540,Filip Varejcka,2.4,1.5,0.9,PRUEFEN
 3106,Marco Münzenberger,1.7,2.6,-0.9,PRUEFEN
 4335,Alexander Peters,-5.3,-4.4,-0.9,PRUEFEN
-1677,Robin van Calster,2.9,2.0,0.9,PRUEFEN
-4148,Ty Glover,-1.0,-0.1,-0.9,PRUEFEN
 2631,Phil Varone,0.1,-0.8,0.9,PRUEFEN
 4310,Rihards Griva,-0.6,0.2,-0.8,PRUEFEN
 2945,Tim Schütz,0.4,1.2,-0.8,PRUEFEN
@@ -261,17 +261,19 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 2425,Justin Scott,11.4,10.6,0.8,PRUEFEN
 1799,Gregor MacLeod,14.5,13.7,0.8,PRUEFEN
 4154,Antoine Bibeau,-3.0,-2.2,-0.8,PRUEFEN
-2090,Felix Maegaard Scheel,7.0,6.2,0.8,PRUEFEN
+2367,Noah Dunham,1.7,2.5,-0.8,PRUEFEN
 1360,Janik Möser,1.0,1.7,-0.7,PRUEFEN
 1681,Leo Hafenrichter,-2.3,-3.0,0.7,PRUEFEN
 4243,Carlos Händel,2.7,2.0,0.7,PRUEFEN
+4340,Austin Wagner,8.0,8.7,-0.7,PRUEFEN
 3597,Madison Bowey,9.4,10.0,-0.6,PRUEFEN
 4157,Janne Juvonen,-12.8,-12.2,-0.6,PRUEFEN
+1211,Tobias Ancicka,25.8,25.2,0.6,PRUEFEN
 2126,Eric Hördler,8.3,8.8,-0.5,PRUEFEN
 882,Marcel Müller,9.7,10.2,-0.5,PRUEFEN
 2470,Lua Niehus,0.0,0.5,-0.5,PRUEFEN
 3472,Donald D.J. Busdeker,25.9,25.4,0.5,PRUEFEN
-2367,Noah Dunham,2.0,2.5,-0.5,PRUEFEN
+2900,Philipp Bidoul,-1.5,-1.0,-0.5,PRUEFEN
 1731,Luca Hauf,4.5,4.1,0.4,PRUEFEN
 3600,C.J. Suess,10.7,10.3,0.4,PRUEFEN
 4140,Tanner Kero,3.6,3.2,0.4,PRUEFEN
@@ -287,13 +289,11 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 2833,Lester Lancaster,-1.2,-1.4,0.2,PRUEFEN
 551,Maximilian Kastner,1.8,1.6,0.2,PRUEFEN
 1887,Niklas Hübner,0.8,0.6,0.2,PRUEFEN
-3408,Matej Leden,-0.1,0.1,-0.2,PRUEFEN
-3585,Matthew Wedman,2.4,2.6,-0.2,PRUEFEN
+4148,Ty Glover,0.1,-0.1,0.2,PRUEFEN
 1856,Lennard Nieleck,9.0,8.9,0.1,PRUEFEN
 1489,Erik Buschmann,-0.1,0.0,-0.1,PRUEFEN
 513,Sven Ziegler,0.2,0.1,0.1,PRUEFEN
 3530,Jimmy Lambert,9.1,9.0,0.1,PRUEFEN
-539,Konrad Abeltshauser,9.0,8.9,0.1,PRUEFEN
 1328,Morgan Ellis,5.7,5.7,-0.0,ja
 3695,Jakin Smallwood,3.0,3.0,0.0,ja
 4143,Dominik Zerhoch,0.1,0.1,0.0,ja
@@ -346,7 +346,6 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 2831,Matthias Bittner,0.0,0.0,0.0,ja
 3309,Moritz Warnecke,7.5,7.5,0.0,ja
 4326,Max Bolle,0.0,0.0,0.0,ja
-268,Ryan Button,7.0,7.0,0.0,ja
 2182,Justus Roth,0.0,0.0,0.0,ja
 3595,Liron Alec Pellizzari,0.0,0.0,0.0,ja
 4153,Dave Dützka,0.0,0.0,0.0,ja
@@ -362,6 +361,7 @@ spieler_id,name,berechnet,fantasy,differenz,ok
 1397,Daniel Pfaffengut,7.3,7.3,0.0,ja
 1825,Nico Pertuch,4.6,4.6,0.0,ja
 1982,Daniel Wirt,2.6,2.6,0.0,ja
+3408,Matej Leden,0.1,0.1,-0.0,ja
 4160,Gregor Stocker,0.0,0.0,0.0,ja
 4705,Seonwoo Park,0.0,0.0,0.0,ja
 4892,Maximilian Leister,0.0,0.0,0.0,ja
