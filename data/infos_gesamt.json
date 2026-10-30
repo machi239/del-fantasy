@@ -192,11 +192,23 @@
   "2182": 0,
   "3595": 0,
   "4153": 0,
-  "1825": 0
+  "1825": 0,
+  "2521": 0
  },
  "goalie_start": {},
- "notizen": {},
+ "notizen": {
+  "539": "Am 29.10. Ziel eines Kopfchecks (Matchstrafe Glötzl); Verletzung nicht gemeldet.",
+  "1211": "Startete am 29.10. gegen Frankfurt; rotiert mit Peyton Jones.",
+  "4338": "Startete am 29.10. in Augsburg (2:3 n. V.), zuletzt meist Nummer 1.",
+  "1069": "Rotiert mit LaFontaine (LaFontaine startete am 25.10.).",
+  "4341": "Fehlte auch am 29.10. in Augsburg.",
+  "1397": "Fehlte auch am 29.10. in Augsburg."
+ },
  "risiken": [
+  {
+   "text": "Torhüter Jonas Neffin (Berlin) ist kein sicherer Starter. Berlin rotiert mit Jack LaFontaine (startete am 25.10.) und spielt am Freitag in Ingolstadt; Alternative zum gleichen Preis: Adam Scheel (Frankfurt, 2 Pucks), zuletzt Stammtorhüter.",
+   "schwer": false
+  },
   {
    "text": "Dominik Kahun (München) fällt bis nach der Länderspielpause aus. Unterkörperverletzung, Rückkehr frühestens am 13.11.; verpasst auch den Deutschland Cup.",
    "schwer": true,
@@ -283,7 +295,7 @@
    "bis": "2026-12-15"
   },
   {
-   "text": "Augsburg ohne Sean Malone und D.J. Busdeker bis nach dem Deutschland Cup. Busdeker (Oberkörper) fehlt laut Verein in den letzten beiden Spielen vor der Pause; Toporowski fehlt am 29.10. (Gesichtsverletzung); Torhüter Ancicka und Peyton Jones rotieren.",
+   "text": "Augsburg ohne Sean Malone, D.J. Busdeker und Luke Toporowski bis nach dem Deutschland Cup. Alle drei fehlten beim 3:2 n. V. gegen Frankfurt am 29.10.; Torhüter Ancicka startete statt Peyton Jones, beide rotieren.",
    "schwer": false,
    "bis": "2026-11-13"
   },
@@ -293,9 +305,9 @@
    "bis": "2027-03-07"
   },
   {
-   "text": "Daniel Pfaffengut (Frankfurt) fällt weiter aus. Oberkörperverletzung vom 04.10., laut Vorbericht vom 22.10. für beide Wochenendspiele raus; Biro fraglich.",
+   "text": "Daniel Pfaffengut (Frankfurt) fällt weiter aus. Oberkörperverletzung vom 04.10., fehlte auch am 29.10. in Augsburg; Biro ebenfalls weiter nicht dabei.",
    "schwer": false,
-   "bis": "2026-11-01"
+   "bis": "2026-11-13"
   },
   {
    "text": "Daniel Wirt (Frankfurt) fällt zwei bis drei Monate aus. Oberkörperverletzung, am 21.10. operiert.",
@@ -321,6 +333,11 @@
    "text": "Köln ohne Torhüter Brückmann und Stürmer MacInnis. Beide fehlten am 27.10. gegen Mannheim (5:6 n. V.); Noebels, MacLeod und Niedenz sind zurück. Juvonen ist die Nummer 1; Luca Münzenberger nach Kassel gewechselt.",
    "schwer": false,
    "bis": "2026-11-13"
+  },
+  {
+   "text": "Rio Kaiser (München) fällt bis Anfang 2027 aus. Unterkörperverletzung, zugezogen beim Einsatz für Riessersee, Meldung vom 30.10.",
+   "schwer": false,
+   "bis": "2027-01-15"
   }
  ],
  "quellen": [
@@ -713,8 +730,44 @@
    "url": "https://liveticker.aev-panther.de/"
   },
   {
-   "titel": "PENNY DEL Boxscore Augsburg–Frankfurt (noch leer)",
+   "titel": "t-online: Rio Kaiser fällt bis Anfang 2027 aus",
+   "url": "https://muenchen.t-online.de/region/muenchen/id_101504736/ehc-red-bull-muenchen-rio-kaiser-faellt-bis-anfang-2027-verletzt-aus.html"
+  },
+  {
+   "titel": "AEV: Zurück auf der Siegesstraße (29.10.)",
+   "url": "https://www.aev-panther.de/artikel/aev-zurueck-auf-der-siegesstrasse/01a188d2-bc35-7c23-ae54-42b507b16d31"
+  },
+  {
+   "titel": "Löwen: Moral in Augsburg bewiesen",
+   "url": "https://www.loewen-frankfurt.de/saison/aktuelles/details/loewen-beweisen-moral-in-augsburg"
+  },
+  {
+   "titel": "DEL Boxscore Augsburg–Frankfurt 29.10.",
    "url": "https://www.penny-del.org/statistik/spieldetails/29102026_augsburger-panther_gg_loewen-frankfurt_4476/boxscore"
+  },
+  {
+   "titel": "Adler: Teamcheck Bremerhaven (29.10.)",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/10/teamcheck-fischtown-pinguins-bremerhaven"
+  },
+  {
+   "titel": "Adler: Zweimal vor der Pause",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/10/zweimal-vor-der-pause"
+  },
+  {
+   "titel": "Red Bull München: Vorschau Straubing",
+   "url": "https://redbullmuenchen.de/de/news/del-vorschau-13-spieltag-red-bull-muenchen-zu-gast-bei-den-straubing-tigers"
+  },
+  {
+   "titel": "Grizzlys: Zu Gast bei offensivstarken Nürnbergern",
+   "url": "https://www.grizzlys.de/news_2835.html"
+  },
+  {
+   "titel": "Haie: Wiedersehen in Krefeld",
+   "url": "https://www.haie.de/news/wiedersehen-nach-vier-jahren-haie-am-freitag-in-krefeld-gefordert/"
+  },
+  {
+   "titel": "Straubing: Pressekonferenz vor München und Bremerhaven",
+   "url": "https://www.straubing-tigers.de/pressekonferenz-vor-den-spielen-gegen-muenchen-und-bremerhaven/"
   }
  ],
  "odds": {},
