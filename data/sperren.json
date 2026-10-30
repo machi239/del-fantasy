@@ -1,6 +1,19 @@
 {
- "stand": "2026-10-30 15:46",
+ "stand": "2026-10-30 17:01",
  "sperren": [
+  {
+   "spieler_id": "1447",
+   "name": "Maximilian Glötzl",
+   "team_id": "13",
+   "spiele": 2,
+   "gemeldet": "2026-10-30",
+   "gesperrte_spiele": [
+    "2026-11-01",
+    "2026-11-13"
+   ],
+   "titel": "Zwei Spiele Sperre für Augsburgs Maximilian Glötzl",
+   "url": "https://www.penny-del.org/fair-play/strafbank/detail/zwei-spiele-sperre-fuer-augsburgs-maximilian-gloetzl"
+  },
   {
    "spieler_id": "4349",
    "name": "Austin Magera",

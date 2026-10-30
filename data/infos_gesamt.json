@@ -160,7 +160,7 @@
   "235": 1,
   "268": 1,
   "1306": 1,
-  "1447": 1,
+  "1447": 0,
   "1553": 1,
   "1657": 1,
   "1682": 1,
@@ -338,6 +338,10 @@
    "text": "Rio Kaiser (München) fällt bis Anfang 2027 aus. Unterkörperverletzung, zugezogen beim Einsatz für Riessersee, Meldung vom 30.10.",
    "schwer": false,
    "bis": "2027-01-15"
+  },
+  {
+   "text": "Maximilian Glötzl gesperrt. 2 Spiel(e) laut DEL-Strafbank (gemeldet 2026-10-30), letztes gesperrtes Spiel am 2026-11-13.",
+   "schwer": true
   }
  ],
  "quellen": [
@@ -768,6 +772,10 @@
   {
    "titel": "Straubing: Pressekonferenz vor München und Bremerhaven",
    "url": "https://www.straubing-tigers.de/pressekonferenz-vor-den-spielen-gegen-muenchen-und-bremerhaven/"
+  },
+  {
+   "titel": "DEL-Strafbank: Zwei Spiele Sperre für Augsburgs Maximilian Glötzl",
+   "url": "https://www.penny-del.org/fair-play/strafbank/detail/zwei-spiele-sperre-fuer-augsburgs-maximilian-gloetzl"
   }
  ],
  "odds": {},
