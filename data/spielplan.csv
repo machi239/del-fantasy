@@ -88,12 +88,12 @@ spieltag,datum,uhrzeit,heim,gast,heim_id,gast_id,tore_heim,tore_gast,entscheidun
 12,2026-10-27,19:30,Kölner Haie,Adler Mannheim,11,2,5,6,OT,beendet,4474,/statistik/spieldetails/27102026_koelner-haie_gg_adler-mannheim_4474,ja
 41,2026-10-28,19:30,Krefeld Pinguine,Schwenninger Wild Wings,5,15,6,0,REG,beendet,4475,/statistik/spieldetails/28102026_krefeld-pinguine_gg_schwenninger-wild-wings_4475,ja
 13,2026-10-29,19:30,Augsburger Panther,Löwen Frankfurt,13,44,3,2,OT,beendet,4476,/statistik/spieldetails/29102026_augsburger-panther_gg_loewen-frankfurt_4476,ja
-13,2026-10-30,19:30,Adler Mannheim,Pinguins Bremerhaven,2,9,,,,offen,,,
-13,2026-10-30,19:30,ERC Ingolstadt,Eisbären Berlin,1,3,,,,offen,,,
-13,2026-10-30,19:30,Iserlohn Roosters,Schwenninger Wild Wings,7,15,,,,offen,,,
-13,2026-10-30,19:30,Krefeld Pinguine,Kölner Haie,5,11,,,,offen,,,
-13,2026-10-30,19:30,Nürnberg Ice Tigers,Grizzlys Wolfsburg,14,8,,,,offen,,,
-13,2026-10-30,19:30,Straubing Tigers,EHC Red Bull München,6,12,,,,offen,,,
+13,2026-10-30,19:30,Adler Mannheim,Pinguins Bremerhaven,2,9,4,3,OT,beendet,4479,/statistik/spieldetails/30102026_adler-mannheim_gg_pinguins-bremerhaven_4479,ja
+13,2026-10-30,19:30,ERC Ingolstadt,Eisbären Berlin,1,3,3,5,REG,beendet,4480,/statistik/spieldetails/30102026_erc-ingolstadt_gg_eisbaeren-berlin_4480,ja
+13,2026-10-30,19:30,Iserlohn Roosters,Schwenninger Wild Wings,7,15,4,2,REG,beendet,4481,/statistik/spieldetails/30102026_iserlohn-roosters_gg_schwenninger-wild-wings_4481,ja
+13,2026-10-30,19:30,Krefeld Pinguine,Kölner Haie,5,11,0,4,REG,beendet,4478,/statistik/spieldetails/30102026_krefeld-pinguine_gg_koelner-haie_4478,ja
+13,2026-10-30,19:30,Nürnberg Ice Tigers,Grizzlys Wolfsburg,14,8,8,1,REG,beendet,4477,/statistik/spieldetails/30102026_nuernberg-ice-tigers_gg_grizzlys-wolfsburg_4477,ja
+13,2026-10-30,19:30,Straubing Tigers,EHC Red Bull München,6,12,4,2,REG,beendet,4482,/statistik/spieldetails/30102026_straubing-tigers_gg_ehc-red-bull-muenchen_4482,ja
 14,2026-11-01,14:00,Eisbären Berlin,Adler Mannheim,3,2,,,,offen,,,
 14,2026-11-01,14:00,Grizzlys Wolfsburg,Augsburger Panther,8,13,,,,offen,,,
 14,2026-11-01,14:00,Pinguins Bremerhaven,Straubing Tigers,9,6,,,,offen,,,
