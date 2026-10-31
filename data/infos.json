@@ -3,7 +3,7 @@
  "availability": {
   "2804": 0,
   "1753": 0,
-  "4308": 0,
+  "4308": 1,
   "1704": 0,
   "3391": 0,
   "1790": 0,
@@ -12,7 +12,7 @@
   "1655": 1,
   "3958": 0,
   "2501": 0,
-  "516": 0,
+  "516": 1,
   "3575": 0,
   "1653": 0,
   "3695": 0,
@@ -64,7 +64,7 @@
   "990": 1,
   "4319": 1,
   "486": 1,
-  "1430": 0,
+  "1430": 1,
   "4897": 1,
   "4336": 0,
   "1887": 1,
@@ -152,7 +152,7 @@
   "998": 1,
   "1451": 1,
   "2468": 0,
-  "3432": 0.5,
+  "3432": 1,
   "3433": 0.5,
   "3567": 0.5,
   "1985": 1,
@@ -193,20 +193,58 @@
   "3595": 0,
   "4153": 0,
   "1825": 0,
-  "2521": 0
+  "2521": 0,
+  "1694": 0.5
  },
- "goalie_start": {},
+ "goalie_start": {
+  "4157": 0.6,
+  "516": 0.4,
+  "3424": 0.6,
+  "1594": 0.4,
+  "1211": 0.65,
+  "3593": 0.35,
+  "416": 0.85,
+  "157": 0.15,
+  "4154": 0.95,
+  "4319": 0.95,
+  "599": 0.95,
+  "4312": 0.55,
+  "1069": 0.45
+ },
  "notizen": {
   "539": "Am 29.10. Ziel eines Kopfchecks (Matchstrafe Glötzl); Verletzung nicht gemeldet.",
-  "1211": "Startete am 29.10. gegen Frankfurt; rotiert mit Peyton Jones.",
-  "4338": "Startete am 29.10. in Augsburg (2:3 n. V.), zuletzt meist Nummer 1.",
-  "1069": "Rotiert mit LaFontaine (LaFontaine startete am 25.10.).",
+  "1211": "Startete am 29.10.; Vorschau erwartet ihn erneut im Tor, Peyton Jones Alternative.",
+  "1069": "Rotiert mit LaFontaine (LaFontaine startete am 25.10. und 30.10.).",
   "4341": "Fehlte auch am 29.10. in Augsburg.",
-  "1397": "Fehlte auch am 29.10. in Augsburg."
+  "1397": "Fehlte auch am 29.10. in Augsburg.",
+  "1694": "Fehlte am 30.10. in Krefeld (nicht im Boxscore), Grund unbekannt.",
+  "516": "Nach gut einem Monat Verletzungspause am 30.10. in Krefeld zurück, Shutout (25 Saves); Start am Sonntag offen.",
+  "4157": "Nach Brückmanns Rückkehr kein sicherer Starter mehr; laut Vorschau Torhüterfrage gegen Iserlohn offen.",
+  "3424": "Schwenningen wechselt seit 18.10. strikt ab (Wolf 28.10., Eriksson 30.10.); Wolf wäre am Sonntag dran, nicht bestätigt.",
+  "1594": "Startete am 30.10. in Iserlohn (2:4).",
+  "416": "Weitzmann startete am 30.10. in Nürnberg (1:8), Torhüterwechsel im Spiel; Strahlmeier zuvor Stammtorhüter.",
+  "4154": "Einziger fitter Stammtorhüter (Niederberger bis Jahresende raus), spielte am 30.10. in Straubing.",
+  "4312": "Startete am 25.10. und 30.10.; laut Vorschau Start gegen Mannheim offen.",
+  "1430": "Spielte am 30.10. in Mannheim – früher als erwartet zurück.",
+  "4308": "Spielte am 30.10. in Mannheim wieder.",
+  "3432": "Spielte am 30.10. in Krefeld wieder (1 Assist).",
+  "1564": "Fehlte auch am 30.10. in Mannheim, angeschlagen."
  },
  "risiken": [
   {
-   "text": "Torhüter Jonas Neffin (Berlin) ist kein sicherer Starter. Berlin rotiert mit Jack LaFontaine (startete am 25.10.) und spielt am Freitag in Ingolstadt; Alternative zum gleichen Preis: Adam Scheel (Frankfurt, 2 Pucks), zuletzt Stammtorhüter.",
+   "text": "Torhüter Simon Wolf (Schwenningen) ist kein sicherer Starter. Schwenningen wechselt seit 18.10. ab, nach Eriksson am 30.10. wäre Wolf am Sonntag gegen Krefeld dran, offiziell aber offen; unter den Alternativen gibt es keinen sicheren Starter zu 1 Puck (nächster: Jakub Skarek, Straubing, 3 Pucks).",
+   "schwer": false
+  },
+  {
+   "text": "Torhüter Tobias Ancicka (Augsburg) ist kein sicherer Starter. Er startete am 29.10. und wird in der Vorschau erneut erwartet, rotiert aber mit Peyton Jones; keine Alternative zu 1 Puck in der Liste (nächster sicherer: Jakub Skarek, 3 Pucks).",
+   "schwer": false
+  },
+  {
+   "text": "Jan Luca Sennhenn (Köln) fehlte am 30.10. in Krefeld. Nicht im Boxscore, Grund nicht gemeldet; Carlos Händel rückte ein. Einsatz gegen Iserlohn fraglich.",
+   "schwer": true
+  },
+  {
+   "text": "Kölns Torhüterfrage ist offen. Brückmann kehrte am 30.10. mit Shutout zurück; Juvonen (5 Pucks, bisher Nummer 1) startet gegen Iserlohn nicht sicher.",
    "schwer": false
   },
   {
@@ -230,17 +268,12 @@
    "bis": "2026-11-30"
   },
   {
-   "text": "Nino Kinder (Bremerhaven) fällt bis zur Deutschland-Cup-Pause aus. Verletzt am 11.10., erhoffte Rückkehr am 13.11.",
-   "schwer": true,
-   "bis": "2026-11-13"
-  },
-  {
    "text": "Iserlohn ohne Maximilian Eisenmenger. Unterkörperverletzung vom 04.10., Ausfall bis nach der Deutschland-Cup-Pause.",
    "schwer": false,
    "bis": "2026-11-15"
   },
   {
-   "text": "Bremerhaven mit vielen Ausfällen. Krämmer, Rausch und Roßmy Saison-Aus, Bettahar, Kechter, Boos und Broadhurst länger raus; Eminger fehlte am 23.10. angeschlagen.",
+   "text": "Bremerhaven weiter mit vielen Ausfällen. Krämmer, Rausch und Roßmy Saison-Aus, Bettahar, Kechter und Boos länger raus, Eminger fehlte auch am 30.10.; Kinder und Broadhurst spielten am 30.10. in Mannheim wieder.",
    "schwer": true,
    "bis": "2026-11-08"
   },
@@ -260,9 +293,9 @@
    "bis": "2026-11-05"
   },
   {
-   "text": "Chris DeSousa (München) fällt weiter aus. Oberkörperverletzung seit Saisonauftakt, laut Vorschau vom 21.10. kein Rückkehrdatum; am 23.10. nicht im Lineup.",
+   "text": "Chris DeSousa (München) fällt weiter aus. Oberkörperverletzung seit Saisonauftakt, laut Vorschau vom 31.10. weiter out.",
    "schwer": true,
-   "bis": "2026-11-01"
+   "bis": "2026-11-13"
   },
   {
    "text": "Philipp Krening (München) fällt lange aus. Unterkörperverletzung, frühestens nach der Deutschland-Cup-Pause zurück.",
@@ -330,7 +363,7 @@
    "bis": "2027-01-27"
   },
   {
-   "text": "Köln ohne Torhüter Brückmann und Stürmer MacInnis. Beide fehlten am 27.10. gegen Mannheim (5:6 n. V.); Noebels, MacLeod und Niedenz sind zurück. Juvonen ist die Nummer 1; Luca Münzenberger nach Kassel gewechselt.",
+   "text": "Köln ohne Ryan MacInnis bis nach der Pause. MacInnis fehlte auch am 30.10. in Krefeld; Torhüter Brückmann ist nach Verletzung zurück (Shutout), Luca Münzenberger nach Kassel gewechselt.",
    "schwer": false,
    "bis": "2026-11-13"
   },
@@ -768,6 +801,70 @@
   {
    "titel": "Straubing: Pressekonferenz vor München und Bremerhaven",
    "url": "https://www.straubing-tigers.de/pressekonferenz-vor-den-spielen-gegen-muenchen-und-bremerhaven/"
+  },
+  {
+   "titel": "DEL Boxscore Krefeld–Köln 30.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/30102026_krefeld-pinguine_gg_koelner-haie_4478/boxscore"
+  },
+  {
+   "titel": "DEL Lineup Nürnberg–Wolfsburg 30.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/30102026_nuernberg-ice-tigers_gg_grizzlys-wolfsburg_4477/lineup"
+  },
+  {
+   "titel": "DEL Lineup Straubing–München 30.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/30102026_straubing-tigers_gg_ehc-red-bull-muenchen_4482/lineup"
+  },
+  {
+   "titel": "DEL Boxscore Mannheim–Bremerhaven 30.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/30102026_adler-mannheim_gg_pinguins-bremerhaven_4479/boxscore"
+  },
+  {
+   "titel": "DEL Boxscore Ingolstadt–Berlin 30.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/30102026_erc-ingolstadt_gg_eisbaeren-berlin_4480/boxscore"
+  },
+  {
+   "titel": "DEL Boxscore Iserlohn–Schwenningen 30.10.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/30102026_iserlohn-roosters_gg_schwenninger-wild-wings_4481/boxscore"
+  },
+  {
+   "titel": "Haie: 4:0-Erfolg in Krefeld",
+   "url": "https://haie.de/news/13-40-erfolg-in-krefeld"
+  },
+  {
+   "titel": "Wild Wings: Keine Punkte am Seilersee",
+   "url": "https://www.schwenninger-wildwings.de/spielbericht/keine-punkte-am-seilersee/"
+  },
+  {
+   "titel": "eishockeynews: Spieltag 30.10.",
+   "url": "https://www.eishockeynews.de/artikel/straubing-schlaegt-muenchen-nuernberg-ueberrollt-wolfsburg-kellerduell-geht-an-iserlohn-1266818"
+  },
+  {
+   "titel": "buten un binnen: Bremerhaven unterliegt in Mannheim",
+   "url": "https://www.butenunbinnen.de/sport/eishockey-fischtown-pinguins-mannheim-ergebnis-100.html"
+  },
+  {
+   "titel": "tipsterio: Wolfsburg–Augsburg",
+   "url": "https://tipsterio.de/sportwetten-tipps/grizzlys-wolfsburg-vs-augsburger-panther-wett-tipp-prognose-01-11-2026"
+  },
+  {
+   "titel": "tipsterio: Berlin–Mannheim",
+   "url": "https://tipsterio.de/sportwetten-tipps/eisbaeren-berlin-vs-adler-mannheim-wett-tipp-prognose-01-11-2026"
+  },
+  {
+   "titel": "tipsterio: Köln–Iserlohn",
+   "url": "https://tipsterio.de/sportwetten-tipps/koelner-haie-vs-iserlohn-roosters-wett-tipp-prognose-01-11-2026"
+  },
+  {
+   "titel": "tipsterio: Schwenningen–Krefeld",
+   "url": "https://tipsterio.de/sportwetten-tipps/schwenninger-wild-wings-vs-krefeld-pinguine-wett-tipp-prognose-01-11-2026"
+  },
+  {
+   "titel": "tipsterio: München–Nürnberg",
+   "url": "https://tipsterio.de/sportwetten-tipps/ehc-red-bull-muenchen-vs-nuernberg-ice-tigers-wett-tipp-prognose-01-11-2026"
+  },
+  {
+   "titel": "tipsterio: Frankfurt–Ingolstadt",
+   "url": "https://tipsterio.de/sportwetten-tipps/loewen-frankfurt-vs-erc-ingolstadt-wett-tipp-prognose-01-11-2026"
   }
  ],
  "odds": {},
