@@ -1,22 +1,10 @@
 {
  "spieltag": 14,
  "deadline": "Sun 01.11.2026 14:00",
- "erstellt": "31.10.2026 17:05",
+ "erstellt": "31.10.2026 21:00",
  "pucks": 60,
  "xp_gesamt": 46.5,
  "aufstellung": [
-  {
-   "spieler_id": 4154,
-   "name": "Antoine Bibeau",
-   "team": "EHC Red Bull München",
-   "team_id": 12,
-   "pos": "goal",
-   "preis": 5,
-   "dt_pass": false,
-   "xp": 2.13,
-   "gegner": "Nürnberg Ice Tigers",
-   "p_start": 0.95
-  },
   {
    "spieler_id": 3424,
    "name": "Simon Wolf",
@@ -28,6 +16,18 @@
    "xp": 0.95,
    "gegner": "Krefeld Pinguine",
    "p_start": 0.6
+  },
+  {
+   "spieler_id": 1211,
+   "name": "Tobias Ancicka",
+   "team": "Augsburger Panther",
+   "team_id": 13,
+   "pos": "goal",
+   "preis": 1,
+   "dt_pass": true,
+   "xp": 0.71,
+   "gegner": "Grizzlys Wolfsburg",
+   "p_start": 0.65
   },
   {
    "spieler_id": 1339,
@@ -49,7 +49,19 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": true,
-   "xp": 2.68,
+   "xp": 2.7,
+   "gegner": "Eisbären Berlin",
+   "p_start": null
+  },
+  {
+   "spieler_id": 2411,
+   "name": "Nicolas Mattinen",
+   "team": "Adler Mannheim",
+   "team_id": 2,
+   "pos": "def",
+   "preis": 5,
+   "dt_pass": false,
+   "xp": 2.58,
    "gegner": "Eisbären Berlin",
    "p_start": null
   },
@@ -73,7 +85,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.38,
+   "xp": 2.39,
    "gegner": "EHC Red Bull München",
    "p_start": null
   },
@@ -97,20 +109,8 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": true,
-   "xp": 1.99,
+   "xp": 1.98,
    "gegner": "Adler Mannheim",
-   "p_start": null
-  },
-  {
-   "spieler_id": 1987,
-   "name": "Davis Vandane",
-   "team": "Krefeld Pinguine",
-   "team_id": 5,
-   "pos": "def",
-   "preis": 2,
-   "dt_pass": false,
-   "xp": 1.56,
-   "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
   {
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 4,
    "dt_pass": true,
-   "xp": 3.46,
+   "xp": 3.47,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -133,7 +133,7 @@
    "pos": "for",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.89,
+   "xp": 2.9,
    "gegner": "EHC Red Bull München",
    "p_start": null
   },
@@ -145,8 +145,20 @@
    "pos": "for",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.83,
+   "xp": 2.82,
    "gegner": "Nürnberg Ice Tigers",
+   "p_start": null
+  },
+  {
+   "spieler_id": 3704,
+   "name": "Peter Abbandonato",
+   "team": "ERC Ingolstadt",
+   "team_id": 1,
+   "pos": "for",
+   "preis": 4,
+   "dt_pass": false,
+   "xp": 2.47,
+   "gegner": "Löwen Frankfurt",
    "p_start": null
   },
   {
@@ -205,20 +217,8 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": false,
-   "xp": 2.14,
+   "xp": 2.15,
    "gegner": "EHC Red Bull München",
-   "p_start": null
-  },
-  {
-   "spieler_id": 499,
-   "name": "Daniel Fischbuch",
-   "team": "Kölner Haie",
-   "team_id": 11,
-   "pos": "for",
-   "preis": 3,
-   "dt_pass": true,
-   "xp": 2.09,
-   "gegner": "Iserlohn Roosters",
    "p_start": null
   },
   {
