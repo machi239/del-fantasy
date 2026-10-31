@@ -1,21 +1,21 @@
 {
  "spieltag": 14,
  "deadline": "Sun 01.11.2026 14:00",
- "erstellt": "31.10.2026 16:14",
+ "erstellt": "31.10.2026 17:05",
  "pucks": 60,
- "xp_gesamt": 46.9,
+ "xp_gesamt": 46.5,
  "aufstellung": [
   {
-   "spieler_id": 1211,
-   "name": "Tobias Ancicka",
-   "team": "Augsburger Panther",
-   "team_id": 13,
+   "spieler_id": 4154,
+   "name": "Antoine Bibeau",
+   "team": "EHC Red Bull München",
+   "team_id": 12,
    "pos": "goal",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.84,
-   "gegner": "Grizzlys Wolfsburg",
-   "p_start": 0.65
+   "preis": 5,
+   "dt_pass": false,
+   "xp": 2.13,
+   "gegner": "Nürnberg Ice Tigers",
+   "p_start": 0.95
   },
   {
    "spieler_id": 3424,
@@ -25,21 +25,9 @@
    "pos": "goal",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.8,
+   "xp": 0.95,
    "gegner": "Krefeld Pinguine",
    "p_start": 0.6
-  },
-  {
-   "spieler_id": 1611,
-   "name": "Leon Gawanke",
-   "team": "Adler Mannheim",
-   "team_id": 2,
-   "pos": "def",
-   "preis": 5,
-   "dt_pass": true,
-   "xp": 2.75,
-   "gegner": "Eisbären Berlin",
-   "p_start": null
   },
   {
    "spieler_id": 1339,
@@ -49,32 +37,20 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.72,
+   "xp": 2.77,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
   {
-   "spieler_id": 2411,
-   "name": "Nicolas Mattinen",
+   "spieler_id": 1611,
+   "name": "Leon Gawanke",
    "team": "Adler Mannheim",
    "team_id": 2,
    "pos": "def",
    "preis": 5,
-   "dt_pass": false,
-   "xp": 2.62,
-   "gegner": "Eisbären Berlin",
-   "p_start": null
-  },
-  {
-   "spieler_id": 100,
-   "name": "Marcus Weber",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
-   "pos": "def",
-   "preis": 3,
    "dt_pass": true,
-   "xp": 2.46,
-   "gegner": "EHC Red Bull München",
+   "xp": 2.68,
+   "gegner": "Eisbären Berlin",
    "p_start": null
   },
   {
@@ -85,8 +61,20 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 2.43,
+   "xp": 2.44,
    "gegner": "Iserlohn Roosters",
+   "p_start": null
+  },
+  {
+   "spieler_id": 100,
+   "name": "Marcus Weber",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "def",
+   "preis": 3,
+   "dt_pass": true,
+   "xp": 2.38,
+   "gegner": "EHC Red Bull München",
    "p_start": null
   },
   {
@@ -97,7 +85,7 @@
    "pos": "def",
    "preis": 2,
    "dt_pass": false,
-   "xp": 2.14,
+   "xp": 2.08,
    "gegner": "EHC Red Bull München",
    "p_start": null
   },
@@ -114,6 +102,18 @@
    "p_start": null
   },
   {
+   "spieler_id": 1987,
+   "name": "Davis Vandane",
+   "team": "Krefeld Pinguine",
+   "team_id": 5,
+   "pos": "def",
+   "preis": 2,
+   "dt_pass": false,
+   "xp": 1.56,
+   "gegner": "Schwenninger Wild Wings",
+   "p_start": null
+  },
+  {
    "spieler_id": 648,
    "name": "Louis-Marc Aubry",
    "team": "Kölner Haie",
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 4,
    "dt_pass": true,
-   "xp": 3.45,
+   "xp": 3.46,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -133,7 +133,7 @@
    "pos": "for",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.98,
+   "xp": 2.89,
    "gegner": "EHC Red Bull München",
    "p_start": null
   },
@@ -145,20 +145,8 @@
    "pos": "for",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.71,
+   "xp": 2.83,
    "gegner": "Nürnberg Ice Tigers",
-   "p_start": null
-  },
-  {
-   "spieler_id": 3704,
-   "name": "Peter Abbandonato",
-   "team": "ERC Ingolstadt",
-   "team_id": 1,
-   "pos": "for",
-   "preis": 4,
-   "dt_pass": false,
-   "xp": 2.61,
-   "gegner": "Löwen Frankfurt",
    "p_start": null
   },
   {
@@ -169,7 +157,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 2.3,
+   "xp": 2.31,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -181,20 +169,8 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 2.29,
+   "xp": 2.3,
    "gegner": "Iserlohn Roosters",
-   "p_start": null
-  },
-  {
-   "spieler_id": 4350,
-   "name": "Jackson Cates",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
-   "pos": "for",
-   "preis": 2,
-   "dt_pass": false,
-   "xp": 2.21,
-   "gegner": "EHC Red Bull München",
    "p_start": null
   },
   {
@@ -205,7 +181,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.2,
+   "xp": 2.21,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -217,7 +193,31 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.16,
+   "xp": 2.17,
+   "gegner": "Iserlohn Roosters",
+   "p_start": null
+  },
+  {
+   "spieler_id": 4350,
+   "name": "Jackson Cates",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 2,
+   "dt_pass": false,
+   "xp": 2.14,
+   "gegner": "EHC Red Bull München",
+   "p_start": null
+  },
+  {
+   "spieler_id": 499,
+   "name": "Daniel Fischbuch",
+   "team": "Kölner Haie",
+   "team_id": 11,
+   "pos": "for",
+   "preis": 3,
+   "dt_pass": true,
+   "xp": 2.09,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -229,7 +229,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 2.09,
+   "xp": 2.03,
    "gegner": "EHC Red Bull München",
    "p_start": null
   },
@@ -253,7 +253,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": false,
-   "xp": 1.53,
+   "xp": 1.54,
    "gegner": "Augsburger Panther",
    "p_start": null
   }
