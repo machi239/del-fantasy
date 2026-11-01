@@ -269,8 +269,8 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 1346,Alexander Friesen,Pinguins Bremerhaven,for,3,True,0.05,0.02,Straubing Tigers,True,13,2.0,Eiszeit sinkt,0.06,0.85,0.98,1.0,,,,
 3578,Greg Meireles,Nürnberg Ice Tigers,for,2,False,0.04,0.02,EHC Red Bull München,False,14,3.8,Eiszeit sinkt,0.05,0.91,0.92,1.0,,,,
 4143,Dominik Zerhoch,ERC Ingolstadt,def,1,True,0.03,0.03,Löwen Frankfurt,False,2,0.5,Einsatzquote 14%,0.2,1.0,1.04,0.14,,,,
-4310,Rihards Griva,Eisbären Berlin,for,1,True,0.03,0.03,Adler Mannheim,True,10,2.1,"Eiszeit sinkt, Einsatzquote 77%",0.04,0.85,1.01,0.77,,,,
 3523,Moritz Kretzschmar,Eisbären Berlin,def,1,True,0.02,0.02,Adler Mannheim,True,1,5.2,Einsatzquote 8%,0.22,1.0,1.01,0.08,,,,
+4310,Rihards Griva,Eisbären Berlin,for,1,True,0.02,0.02,Adler Mannheim,True,10,2.1,Eiszeit sinkt,0.04,0.85,1.01,0.5,,,,
 4325,Luis Becker,EHC Red Bull München,for,1,True,0.02,0.02,Nürnberg Ice Tigers,True,9,0.7,"Eiszeit steigt, Einsatzquote 69%",0.02,1.19,1.11,0.69,,,,
 513,Sven Ziegler,Grizzlys Wolfsburg,for,1,True,0.01,0.01,Augsburger Panther,True,9,1.3,Eiszeit steigt,0.02,1.17,1.04,0.5,,,,
 3407,Matthew Abt,Pinguins Bremerhaven,def,4,True,0.01,0.0,Straubing Tigers,True,10,0.8,"Eiszeit steigt, Einsatzquote 77%",0.02,1.2,0.98,0.77,,,,
@@ -352,7 +352,7 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 4894,Jonas Krautloher,Nürnberg Ice Tigers,goal,1,True,-0.0,-0.0,EHC Red Bull München,False,0,0.1,,,,,,0.0,0.28,3.5,28.2
 4898,Alrik Ehlers,Kölner Haie,goal,1,True,0.0,0.0,Iserlohn Roosters,True,0,,,,,,,0.0,0.68,2.3,22.2
 486,Mirko Pantkowski,Straubing Tigers,goal,1,True,0.0,0.0,Pinguins Bremerhaven,False,0,0.0,,,,,,0.0,0.45,2.87,26.0
-4307,Florian Reinwald,Pinguins Bremerhaven,for,1,True,-0.02,-0.02,Straubing Tigers,True,10,0.4,"Eiszeit steigt, Einsatzquote 77%",-0.02,1.08,0.98,0.77,,,,
+4307,Florian Reinwald,Pinguins Bremerhaven,for,1,True,-0.01,-0.01,Straubing Tigers,True,10,0.4,Eiszeit steigt,-0.02,1.08,0.98,0.5,,,,
 2900,Philipp Bidoul,Löwen Frankfurt,def,1,True,-0.02,-0.02,ERC Ingolstadt,True,12,1.3,,-0.02,0.93,0.91,1,,,,
 4498,Roope Mäkitalo,Krefeld Pinguine,for,2,True,-0.02,-0.01,Schwenninger Wild Wings,False,12,1.4,Eiszeit sinkt,-0.04,0.91,0.97,0.5,,,,
 1836,Daniel Bruch,Krefeld Pinguine,for,1,True,-0.04,-0.04,Schwenninger Wild Wings,False,11,4.8,Einsatzquote 79%,-0.06,0.97,0.97,0.79,,,,

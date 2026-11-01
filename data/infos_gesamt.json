@@ -194,7 +194,9 @@
   "4153": 0,
   "1825": 0,
   "2521": 0,
-  "1694": 0.5
+  "1694": 0.5,
+  "4310": 0.5,
+  "4307": 0.5
  },
  "goalie_start": {
   "4157": 0.6,
@@ -228,7 +230,12 @@
   "1430": "Spielte am 30.10. in Mannheim – früher als erwartet zurück.",
   "4308": "Spielte am 30.10. in Mannheim wieder.",
   "3432": "Spielte am 30.10. in Krefeld wieder (1 Assist).",
-  "1564": "Fehlte auch am 30.10. in Mannheim, angeschlagen."
+  "1564": "Fehlte auch am 30.10. in Mannheim, angeschlagen.",
+  "1447": "Zwei Spiele Sperre nach Kopfcheck am 29.10. (Vereinsmeldung 30.10.).",
+  "4310": "fehlte zuletzt, Grund unbekannt",
+  "4307": "fehlte zuletzt, Grund unbekannt",
+  "4160": "Fehlte am 30.10.; laut Verein für U20-Nationalteam nominiert, Grund des Fehlens unklar.",
+  "3433": "Fehlte am 30.10.; für U20-Länderspiele in der Pause nominiert, Einsatz am Sonntag offen."
  },
  "risiken": [
   {
@@ -238,6 +245,11 @@
   {
    "text": "Torhüter Tobias Ancicka (Augsburg) ist kein sicherer Starter. Er startete am 29.10. und wird in der Vorschau erneut erwartet, rotiert aber mit Peyton Jones; keine Alternative zu 1 Puck in der Liste (nächster sicherer: Jakub Skarek, 3 Pucks).",
    "schwer": false
+  },
+  {
+   "text": "Max Glötzl (Augsburg) gesperrt. Zwei Spiele Sperre nach Kopfcheck gegen Frankfurt am 29.10., fehlt am Sonntag in Wolfsburg.",
+   "schwer": false,
+   "bis": "2026-11-14"
   },
   {
    "text": "Jan Luca Sennhenn (Köln) fehlte am 30.10. in Krefeld. Nicht im Boxscore, Grund nicht gemeldet; Carlos Händel rückte ein. Einsatz gegen Iserlohn fraglich.",
@@ -303,11 +315,6 @@
    "bis": "2026-12-15"
   },
   {
-   "text": "Moritz Kukuk (Straubing) nach Krankheit vorerst in der DEL2. Er sammelt Spielpraxis bei den Eisbären Regensburg.",
-   "schwer": false,
-   "bis": "2026-10-31"
-  },
-  {
    "text": "Kris Bennett (Mannheim) fällt vier bis sechs Wochen aus. Unterkörperverletzung vom 25.09., Rückkehr noch nicht gemeldet.",
    "schwer": true,
    "bis": "2026-11-06"
@@ -316,11 +323,6 @@
    "text": "Julian Chrobot (Wolfsburg) fällt monatelang aus. Kreuzbandverletzung aus der Vorbereitung.",
    "schwer": false,
    "bis": "2027-01-31"
-  },
-  {
-   "text": "Ingolstadt ohne Barber, Smallwood und Rosa-Preto. Barber fehlte seit 18.10. angeschlagen; Torhüter Stettmer und Williams wechseln sich ab (Williams startete am 25.10.).",
-   "schwer": false,
-   "bis": "2026-10-31"
   },
   {
    "text": "Jakin Smallwood (Ingolstadt) mehrere Monate raus. Oberkörperverletzung vom Saisonauftakt.",
@@ -869,6 +871,46 @@
   {
    "titel": "tipsterio: Frankfurt–Ingolstadt",
    "url": "https://tipsterio.de/sportwetten-tipps/loewen-frankfurt-vs-erc-ingolstadt-wett-tipp-prognose-01-11-2026"
+  },
+  {
+   "titel": "AEV: Zwei Spiele Sperre für Max Glötzl",
+   "url": "https://www.aev-panther.de/artikel/zwei-spiele-sperre-fuer-max-gloetzl/01a18d37-39f0-70de-b6e7-f8f9c0dadc9f"
+  },
+  {
+   "titel": "Eisbären: Spitzenspiel vor Länderspielpause",
+   "url": "https://www.eisbaeren.de/news/detail/spitzenspiel-vor-laenderspielpause"
+  },
+  {
+   "titel": "Adler: Performance-Check Eisbären Berlin",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/10/performance-check-eisbaeren-berlin"
+  },
+  {
+   "titel": "Wild Wings: Die einfachen Dinge machen",
+   "url": "https://www.schwenninger-wildwings.de/aktuell/die-einfachen-dinge-machen/"
+  },
+  {
+   "titel": "Haie: Finaler Einsatz vor der Länderspielpause",
+   "url": "https://www.haie.de/news/finaler-einsatz-vor-der-laenderspielpause-heimspiel-am-sonntag-gegen-iserlohn/"
+  },
+  {
+   "titel": "Grizzlys: Zeit für eine Wiedergutmachung",
+   "url": "https://www.grizzlys.de/news_2837.html"
+  },
+  {
+   "titel": "Red Bull München: Vorschau 14. Spieltag",
+   "url": "https://www.redbullmuenchen.de/de/news/del-vorschau-14-spieltag-red-bull-muenchen-empfaengt-die-nuernberg-ice-tigers"
+  },
+  {
+   "titel": "Pinguins: Heimstärke als Trumpf",
+   "url": "https://fischtown-pinguins.de/heimstaerke-als-trumpf/"
+  },
+  {
+   "titel": "Pinguins: Verdienter Punkt in Mannheim",
+   "url": "https://fischtown-pinguins.de/fischtown-pinguins-sichern-sich-verdienten-punkt-in-mannheim/"
+  },
+  {
+   "titel": "eishockeynews: DEL Aktuelles",
+   "url": "https://www.eishockeynews.de/aktuelles/del"
   },
   {
    "titel": "DEL-Strafbank: Zwei Spiele Sperre für Augsburgs Maximilian Glötzl",
