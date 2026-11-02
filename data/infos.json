@@ -25,7 +25,7 @@
   "1360": 0.5,
   "513": 0.5,
   "3122": 0.5,
-  "1771": 0,
+  "1771": 1,
   "537": 0.5,
   "3408": 1,
   "2199": 1,
@@ -41,7 +41,7 @@
   "4317": 0.5,
   "1659": 0,
   "2510": 0.5,
-  "1397": 0,
+  "1397": 1,
   "1982": 0,
   "1674": 0.5,
   "3950": 1,
@@ -87,7 +87,7 @@
   "3569": 0,
   "550": 0,
   "3309": 1,
-  "4324": 0,
+  "4324": 1,
   "2194": 0,
   "4349": 1,
   "1435": 0,
@@ -104,7 +104,7 @@
   "1856": 0.5,
   "1987": 1,
   "1350": 1,
-  "931": 1,
+  "931": 0.5,
   "506": 1,
   "3410": 1,
   "2209": 1,
@@ -118,13 +118,13 @@
   "531": 0.5,
   "2122": 0.5,
   "1489": 0.5,
-  "1564": 0.5,
+  "1564": 0,
   "3428": 0.5,
   "1069": 1,
   "599": 1,
   "100": 1,
   "1072": 1,
-  "104": 1,
+  "104": 0.5,
   "4315": 1,
   "59": 1,
   "1863": 1,
@@ -194,11 +194,44 @@
   "4153": 0,
   "1825": 0,
   "2521": 0,
-  "1694": 0.5
+  "1694": 0.5,
+  "4307": 0,
+  "3551": 0.5,
+  "4310": 0.5,
+  "2817": 0.5,
+  "2868": 0.5,
+  "2202": 0.5,
+  "3565": 0.5
  },
  "goalie_start": {},
- "notizen": {},
+ "notizen": {
+  "104": "fehlte zuletzt, Grund unbekannt",
+  "3551": "fehlte zuletzt, Grund unbekannt",
+  "931": "fehlte im DEL-Boxscore vom 01.11., Grund unbekannt (Boxscore unvollständig)",
+  "4160": "fehlte am 01.11., Grund unbekannt (U20-Kandidat, evtl. überzählig)",
+  "4310": "fehlte am 01.11., Grund unbekannt (U20-Kandidat, evtl. überzählig)",
+  "1694": "fehlte zuletzt, Grund unbekannt",
+  "3433": "fehlte zuletzt, Grund unbekannt",
+  "3122": "fehlte zuletzt, Grund unbekannt",
+  "2817": "fehlte zuletzt, Grund unbekannt",
+  "2868": "fehlte zuletzt, Grund unbekannt",
+  "2202": "fehlte zuletzt, Grund unbekannt",
+  "3565": "fehlte zuletzt, Grund unbekannt",
+  "1350": "spielte am 01.11. in Schwenningen (2 Tore), fehlt nur im lückenhaften DEL-Boxscore",
+  "4324": "am 01.11. in Wolfsburg zurück",
+  "1397": "am 01.11. zurück, 2 Tore gegen Ingolstadt",
+  "1771": "am 01.11. Comeback nach sechs Monaten Verletzungspause",
+  "1069": "startete am 01.11. gegen Mannheim; für den Deutschland Cup nominiert"
+ },
  "risiken": [
+  {
+   "text": "Marcel Brandt (Straubing, in der Aufstellung) fehlte am 01.11. in Bremerhaven. Grund nicht gemeldet, auch Tyler Madden fehlte; vor dem Spiel in Ingolstadt am 13.11. erneut prüfen, Alternative z. B. Kyle Wood (Augsburg, 4 Pucks).",
+   "schwer": true
+  },
+  {
+   "text": "Jonas Neffin (Berlin) ist kein sicherer Starter (p_start 0.6). Er startete zuletzt am 01.11. gegen Mannheim, LaFontaine war Backup; Alternative gleichen Preises: Niklas Treutle (Nürnberg, 2 Pucks, p_start 0.8).",
+   "schwer": false
+  },
   {
    "text": "Dominik Kahun (München) fällt bis nach der Länderspielpause aus. Unterkörperverletzung, Rückkehr frühestens am 13.11.; verpasst auch den Deutschland Cup.",
    "schwer": true,
@@ -225,9 +258,9 @@
    "bis": "2026-11-15"
   },
   {
-   "text": "Bremerhaven weiter mit vielen Ausfällen. Krämmer, Rausch und Roßmy Saison-Aus, Bettahar, Kechter und Boos länger raus, Eminger fehlte auch am 30.10.; Kinder und Broadhurst spielten am 30.10. in Mannheim wieder.",
+   "text": "Bremerhaven weiter mit bis zu neun Verletzten. Eminger und Reinwald laut DEL-Kadernews vom 28.10. auf unbestimmte Zeit raus, Bettahar, Kechter und Boos länger verletzt, Conrad fehlte am 01.11.; nur fünf Verteidiger gegen Straubing, Gudlevskis im Tor.",
    "schwer": true,
-   "bis": "2026-11-08"
+   "bis": "2026-11-13"
   },
   {
    "text": "Rausch, Roßmy und Krämmer (Bremerhaven) Saison-Aus. Schwere Knieverletzungen.",
@@ -270,7 +303,7 @@
    "bis": "2026-12-15"
   },
   {
-   "text": "Augsburg ohne Sean Malone, D.J. Busdeker und Luke Toporowski bis nach dem Deutschland Cup. Alle drei fehlten beim 3:2 n. V. gegen Frankfurt am 29.10.; Torhüter Ancicka startete statt Peyton Jones, beide rotieren.",
+   "text": "Augsburg ohne Sean Malone und D.J. Busdeker bis nach dem Deutschland Cup. Beide fehlten auch beim 4:0 in Wolfsburg am 01.11.; Luke Toporowski ist zurück, Ancicka hielt den Shutout, Glötzl gesperrt (auch am 13.11.).",
    "schwer": false,
    "bis": "2026-11-13"
   },
@@ -280,7 +313,7 @@
    "bis": "2027-03-07"
   },
   {
-   "text": "Daniel Pfaffengut (Frankfurt) fällt weiter aus. Oberkörperverletzung vom 04.10., fehlte auch am 29.10. in Augsburg; Biro ebenfalls weiter nicht dabei.",
+   "text": "Brandon Biro (Frankfurt) weiter nicht dabei. Daniel Pfaffengut ist dagegen seit 01.11. zurück (2 Tore gegen Ingolstadt).",
    "schwer": false,
    "bis": "2026-11-13"
   },
@@ -317,52 +350,72 @@
  ],
  "quellen": [
   {
-   "titel": "eishockeynews: Spieltag 30.10.",
-   "url": "https://www.eishockeynews.de/artikel/straubing-schlaegt-muenchen-nuernberg-ueberrollt-wolfsburg-kellerduell-geht-an-iserlohn-1266818"
+   "titel": "eishockeynews: 14. Spieltag 01.11.",
+   "url": "https://www.eishockeynews.de/artikel/mannheim-schlaegt-berlin-erneut-muenchen-beendet-nuernbergs-lauf-augsburg-verschaerft-wolfsburgs-krise-1267484"
   },
   {
-   "titel": "buten un binnen: Bremerhaven unterliegt in Mannheim",
-   "url": "https://www.butenunbinnen.de/sport/eishockey-fischtown-pinguins-mannheim-ergebnis-100.html"
+   "titel": "PENNY DEL Kadernews",
+   "url": "https://www.penny-del.org/news/detail/news-update-kaderplanung-in-der-penny-del-1"
   },
   {
-   "titel": "tipsterio: Wolfsburg–Augsburg",
-   "url": "https://tipsterio.de/sportwetten-tipps/grizzlys-wolfsburg-vs-augsburger-panther-wett-tipp-prognose-01-11-2026"
+   "titel": "PENNY DEL Boxscore Bremerhaven - Straubing 01.11.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/01112026_pinguins-bremerhaven_gg_straubing-tigers_4489/boxscore"
   },
   {
-   "titel": "tipsterio: Berlin–Mannheim",
-   "url": "https://tipsterio.de/sportwetten-tipps/eisbaeren-berlin-vs-adler-mannheim-wett-tipp-prognose-01-11-2026"
+   "titel": "PENNY DEL Boxscore Schwenningen - Krefeld 01.11.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/01112026_schwenninger-wild-wings_gg_krefeld-pinguine_4486/boxscore"
   },
   {
-   "titel": "tipsterio: Köln–Iserlohn",
-   "url": "https://tipsterio.de/sportwetten-tipps/koelner-haie-vs-iserlohn-roosters-wett-tipp-prognose-01-11-2026"
+   "titel": "Wild Wings: Karachun krönt wilden Schlussspurt",
+   "url": "https://www.schwenninger-wildwings.de/spielbericht/karachun-kroent-wilden-schlussspurt/"
   },
   {
-   "titel": "tipsterio: Schwenningen–Krefeld",
-   "url": "https://tipsterio.de/sportwetten-tipps/schwenninger-wild-wings-vs-krefeld-pinguine-wett-tipp-prognose-01-11-2026"
+   "titel": "eishockey-online: Karachun wird zum Matchwinner",
+   "url": "https://www.eishockey-online.news/del/2026/11/02/karachun-wird-zum-matchwinner-wild-wings-belohnen-sich-fuer-starke-moral/"
   },
   {
-   "titel": "tipsterio: München–Nürnberg",
-   "url": "https://tipsterio.de/sportwetten-tipps/ehc-red-bull-muenchen-vs-nuernberg-ice-tigers-wett-tipp-prognose-01-11-2026"
+   "titel": "AEV: Klarer Sieg in Wolfsburg",
+   "url": "https://www.aev-panther.de/artikel/klarer-sieg-in-wolfsburg/01a197cf-b151-7c54-bff6-e8da99db5df7"
   },
   {
-   "titel": "tipsterio: Frankfurt–Ingolstadt",
-   "url": "https://tipsterio.de/sportwetten-tipps/loewen-frankfurt-vs-erc-ingolstadt-wett-tipp-prognose-01-11-2026"
+   "titel": "ERC: Löwen kontern Panther aus",
+   "url": "https://www.erc-ingolstadt.de/saison/loewen-kontern-panther-aus"
   },
   {
-   "titel": "PENNY DEL Boxscore Eisbären Berlin - Adler Mannheim 01.11.2026 (noch leer)",
-   "url": "https://www.penny-del.org/statistik/spieldetails/01112026_eisbaeren-berlin_gg_adler-mannheim_4484/boxscore"
+   "titel": "Eisbären: Niederlage gegen den Erzrivalen",
+   "url": "https://www.eisbaeren.de/news/detail/niederlage-gegen-den-erzrevialen"
   },
   {
-   "titel": "PENNY DEL Boxscore Grizzlys Wolfsburg - Augsburger Panther 01.11.2026 (noch leer)",
-   "url": "https://www.penny-del.org/statistik/spieldetails/01112026_grizzlys-wolfsburg_gg_augsburger-panther_4487/boxscore"
+   "titel": "Straubing: Tigers unterliegen Bremerhaven 2:5",
+   "url": "https://www.straubing-tigers.de/tigers-unterliegen-bremerhaven-trotz-doppelpack-von-adrian-klein-mit-25/"
   },
   {
-   "titel": "AEV-Forum: 14. Spieltag Wolfsburg - Augsburg",
-   "url": "https://www.aev-forum.de/viewtopic.php?p=1586179"
+   "titel": "buten un binnen: Pinguins drehen das Spiel",
+   "url": "https://www.butenunbinnen.de/sport/eishockey-del-pinguins-bremerhaven-straubing-100.html"
   },
   {
-   "titel": "AEV Liveticker",
-   "url": "https://liveticker.aev-panther.de"
+   "titel": "eishockey-online: Pinguine gehen mit Sieg in die Pause",
+   "url": "https://www.eishockey-online.news/del/2026/11/01/fischtown-pinguine-gehen-mit-einem-sieg-gegen-straubing-tigers-in-die-pause/"
+  },
+  {
+   "titel": "Haie: Finaler Einsatz vor der Länderspielpause",
+   "url": "https://www.haie.de/news/finaler-einsatz-vor-der-laenderspielpause-heimspiel-am-sonntag-gegen-iserlohn/"
+  },
+  {
+   "titel": "Presseportal Kölner Haie 01.11.",
+   "url": "https://presseportal.de/pm/147981/6381908"
+  },
+  {
+   "titel": "Iserlohn: Spieltag 14 Roosters @ Köln",
+   "url": "https://iserlohn-roosters.de/2026/11/01/spieltag-14-roosters-koeln/"
+  },
+  {
+   "titel": "hessenschau: Löwen-Heimsieg gegen Ingolstadt",
+   "url": "https://www.hessenschau.de/sport/mehr-sport/del-loewen-feiern-wichtigen-heimsieg-gegen-ingolstadt-v1,loewen-ingolstadt-144.html"
+  },
+  {
+   "titel": "Straubing: Fünf Tigers nominiert",
+   "url": "https://www.straubing-tigers.de/fuenf-straubing-tigers-fuer-deutsche-nationalmannschaften-nominiert/"
   }
  ],
  "odds": {},

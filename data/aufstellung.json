@@ -1,7 +1,7 @@
 {
  "spieltag": 15,
  "deadline": "Thu 12.11.2026 19:30",
- "erstellt": "02.11.2026 11:50",
+ "erstellt": "02.11.2026 15:07",
  "budget": 60,
  "pucks": 60,
  "auslaender": 7,
@@ -638,27 +638,6 @@
   ],
   "def": [
    {
-    "spieler_id": 104,
-    "name": "Marcel Brandt",
-    "team_id": 6,
-    "pos": "def",
-    "preis": 5,
-    "dt_pass": true,
-    "gewaehlt_pct": 18.6,
-    "spiele": 13,
-    "xp": 2.43,
-    "gegner_id": 1,
-    "heim": false,
-    "hinweis": "",
-    "ppg": 2.21,
-    "toi_faktor": 0.96,
-    "matchup": 1.15,
-    "p_einsatz": 1,
-    "team": "Straubing Tigers",
-    "gegner": "ERC Ingolstadt",
-    "wert_pro_puck": 0.49
-   },
-   {
     "spieler_id": 2113,
     "name": "Brady Austin",
     "team_id": 11,
@@ -741,6 +720,27 @@
     "team": "Augsburger Panther",
     "gegner": "EHC Red Bull München",
     "wert_pro_puck": 0.41
+   },
+   {
+    "spieler_id": 3557,
+    "name": "Ryan Murphy",
+    "team_id": 12,
+    "pos": "def",
+    "preis": 5,
+    "dt_pass": false,
+    "gewaehlt_pct": 4.1,
+    "spiele": 14,
+    "xp": 1.96,
+    "gegner_id": 13,
+    "heim": false,
+    "hinweis": "",
+    "ppg": 1.95,
+    "toi_faktor": 1.03,
+    "matchup": 0.98,
+    "p_einsatz": 1,
+    "team": "EHC Red Bull München",
+    "gegner": "Augsburger Panther",
+    "wert_pro_puck": 0.39
    }
   ],
   "for": [
