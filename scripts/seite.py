@@ -174,9 +174,9 @@ def main():
             pfeil = "▲" if richtung == "auf" else "▼"
             kader = '<span class="tag">im Kader</span>' if p["id"] in im_kader else ""
             unsicher = p["sicherheit"] != "deutlich"
-            schnitt = num(p["schnitt"], 2) if p["schnitt"] is not None else "–"
+            schnitt = num(p["schnitt"], 2) if p.get("schnitt") is not None else "–"
             return (f'<li><span class="nm">{E(p["name"])}{"<span class=flag>A</span>" if not p["dt_pass"] else ""}</span>'
-                    f'<span class="tm">{E(teamname.get(p["team_id"], ""))} · Ø {schnitt} in {p["spiele"]} Sp.</span>'
+                    f'<span class="tm">{E(teamname.get(p["team_id"], ""))} · {num(p.get("summe", 0), 1)} Pkt. in {p["spiele"]} Sp. (Median Stufe {num(p.get("median_stufe", 0), 1)})</span>'
                     f'<span class="bw {richtung}">{p["preis"]} {pfeil} {p["fair"]}</span>'
                     f'<span class="tags"><span class="tag{" warn" if unsicher else ""}">{"knapp" if unsicher else "deutlich"}</span>{kader}</span></li>')
 
@@ -188,11 +188,11 @@ def main():
             spalten += (f'<div class="alt bew"><h3>{POSNAME[pos]}</h3><h4 class="auf">Aufwertung</h4><ol>{auf}</ol>'
                         f'<h4 class="ab">Abwertung</h4><ol>{ab}</ol></div>')
         bew_html = (f'<section class="sec"><h2>Neubewertung nach Spieltag {bew["neubewertung_nach"]}</h2>'
-                    f'<p>Schätzung nach Spieltag {bew["stand_spieltag"]}: Rangfolge je Position nach Fantasy-Punkten pro Spiel, '
-                    f'hochgerechnet bis Spieltag {bew["neubewertung_nach"]}, Preisstufen so verteilt wie heute. Die DEL veröffentlicht '
-                    f'ihre Formel nicht. <b>Aufwertung:</b> Wer den Spieler vorher kauft und hält, hat danach einen höher bewerteten '
-                    f'Spieler zum alten Preis. <b>Abwertung:</b> Für Besitzer kostenlos, da der Verkauf den Kaufpreis erstattet; '
-                    f'wer neu kauft, wartet besser auf den niedrigeren Preis.</p>'
+                    f'<p>Schätzung nach Spieltag {bew["stand_spieltag"]}: Die DEL veröffentlicht ihre Formel nicht. Nach Spieltag 13 hat sie rund 12 % der Spieler '
+                    f'je Position um genau einen Puck verschoben, und zwar vor allem die, deren Saisonpunkte am weitesten vom Median ihrer Preisstufe '
+                    f'abwichen (diese Regel hätte 34 der 46 Änderungen getroffen). Danach sind die Kandidaten hier ausgewählt. '
+                    f'<b>Aufwertung:</b> Wer den Spieler vorher kauft und hält, hat danach einen höher bewerteten Spieler zum alten Preis. '
+                    f'<b>Abwertung:</b> Für Besitzer kostenlos, da der Verkauf den Kaufpreis erstattet; wer neu kauft, wartet besser auf den niedrigeren Preis.</p>'
                     f'<div class="alts">{spalten}</div></section>')
 
     # Rueckblick: Prognose vs. tatsaechliche Punkte vergangener Spieltage (data/prognosen/)
