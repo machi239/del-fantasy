@@ -122,6 +122,11 @@ def main():
     with open(F_GESAMT, "w", encoding="utf-8") as f:
         json.dump(gesamt, f, ensure_ascii=False, indent=1)
 
+    # Preisanpassungen der letzten Neubewertung auswerten
+    r = subprocess.run([py, os.path.join(ROOT, "scripts", "preise.py")])
+    if r.returncode != 0:
+        print("WARNUNG: Preisanpassungen nicht ausgewertet.")
+
     # 5. Neubewertung schaetzen (Auf-/Abwertungskandidaten), dann rechnen
     r = subprocess.run([py, os.path.join(ROOT, "scripts", "bewertung.py")])
     if r.returncode != 0:

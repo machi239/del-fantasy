@@ -1,9 +1,10 @@
 """Projektion der erwarteten Fantasy-Punkte fuer einen Spieltag.
 
 Bausteine
-  Skater:   Punkte pro Spiel aus Saison und Form, auf den Preis als Vorwissen geschrumpft,
+  Skater:   Punkte pro Spiel der Saison, stark auf den Preis als Vorwissen geschrumpft,
             angepasst an die Eiszeit-Entwicklung und das Matchup (erwartete Tore des Teams).
   Torhueter: Startwahrscheinlichkeit x [Sieg-/OT-Punkte + Saves - Gegentore + Shutout],
+            Gegentore ohne leeres Tor und angepasst an die persoenliche Fangquote,
             gerechnet mit einem Poisson-Modell aus den erwarteten Toren beider Teams.
   Erwartete Tore: aus Wettquoten (falls uebergeben), sonst aus Toren/Gegentoren der Saison.
 """
@@ -13,12 +14,13 @@ from collections import defaultdict
 from .config import GOALIE
 
 HOME_ADV = 1.05          # Heimvorteil auf die erwarteten Tore
-PRIOR_GAMES = 4          # Gewicht des Vorwissens (Preis) in Spielen
+PRIOR_GAMES = 30         # Gewicht des Vorwissens (Preis) in Spielen (Backtest 02.11.2026: 30 statt 4)
 TEAM_PRIOR_GAMES = 6     # Schrumpfung der Team-Staerken zum Liga-Schnitt
-FORM_WEIGHT = 0.4        # Anteil der letzten 5 Spiele gegenueber dem Saisonschnitt
+FORM_WEIGHT = 0.0        # Anteil der letzten 5 Spiele (Backtest: Form ueber Punkte bringt nichts)
 MATCHUP_EXP = 0.6        # Wie stark das Matchup auf Skater-Punkte durchschlaegt
 TOI_CAP = (0.85, 1.20)   # Grenzen fuer den Eiszeit-Faktor
 MAX_GOALS = 12
+SVPCT_PRIOR_SHOTS = 300  # Torhueter-Fangquote: Schrumpfung zum Ligaschnitt (in Schuessen)
 
 
 def _poisson(k, lam):
@@ -171,6 +173,13 @@ def project(round_games, schedule, game_rows, options, odds=None, availability=N
     availability = availability or {}
     goalie_start = goalie_start or {}
     ratings, league, league_sa = team_ratings(schedule, game_rows)
+    # Torhueter: Anteil der Tore, die tatsaechlich gegen den Torhueter zaehlen (ohne leeres Tor,
+    # ohne Penaltyschiessen), und Fangquote der Liga
+    gt_sum = sum(float(r["gt"] or 0) for r in game_rows if r["pos"] == "goal")
+    sv_sum = sum(float(r["sv"] or 0) for r in game_rows if r["pos"] == "goal")
+    n_games = len({r["game_id"] for r in game_rows})
+    ga_share = (gt_sum / (2 * n_games)) / league if n_games and league else 0.9
+    league_sv = sv_sum / (sv_sum + gt_sum) if (sv_sum + gt_sum) else 0.9
 
     exp = {}
     game_info = []
@@ -226,7 +235,13 @@ def project(round_games, schedule, game_rows, options, odds=None, availability=N
             sa = ratings.get(e["gegner"], {}).get("sa", league_sa)
             # Schuesse des Gegners skaliert mit seiner Torerwartung
             sa *= (e["xga"] / league) ** 0.5 if league else 1
-            ga = e["xga"]
+            ga = e["xga"] * ga_share
+            # persoenliche Fangquote, zur Ligaquote geschrumpft
+            g_sv = sum(float(r["sv"] or 0) for r in dressed.get(pid, []))
+            g_gt = sum(float(r["gt"] or 0) for r in dressed.get(pid, []))
+            sv_pct = (g_sv + SVPCT_PRIOR_SHOTS * league_sv) / (g_sv + g_gt + SVPCT_PRIOR_SHOTS)
+            if league_sv < 1:
+                ga *= (1 - sv_pct) / (1 - league_sv)
             sv = max(sa - ga, 0)
             p_so = math.exp(-ga) * 0.9
             core = (GOALIE["win_reg"] * e["w60"] + GOALIE["win_ot"] * e["otw"]
@@ -235,7 +250,7 @@ def project(round_games, schedule, game_rows, options, odds=None, availability=N
             if avail is not None:
                 p_start = min(p_start, avail)
             xp = p_start * core
-            detail = {"p_start": round(p_start, 2), "p_sieg60": round(e["w60"], 2),
+            detail = {"p_start": round(p_start, 2), "p_sieg60": round(e["w60"], 2), "fangquote": round(sv_pct, 3),
                       "xga": round(ga, 2), "xsv": round(sv, 1)}
         else:
             pts = [float(r["punkte"]) for r in rows]

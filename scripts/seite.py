@@ -270,6 +270,51 @@ def main():
   </script>
 </section>'''
 
+    # Preisanpassungen der letzten Neubewertung (data/preisaenderungen.json aus preise.py)
+    pa = load(os.path.join(a.data, "preisaenderungen.json"), {}) or {}
+    preis_html = ""
+    if pa.get("aenderungen"):
+        an = pa["anzahl"]
+        def pz(c):
+            pf = "▲" if c["diff"] > 0 else "▼"
+            return (f'<tr><td class="m"><b>{E(c["name"])}{" <span class=flag>A</span>" if not c.get("dt_pass", True) else ""}</b>'
+                    f'<span>{POS.get(c["pos"], "")} · {E(c["team"])}</span></td><td class="n">{c["alt"]}</td><td class="n">{c["neu"]}</td>'
+                    f'<td class="n {"up" if c["diff"] > 0 else "down"}"><b>{pf} {abs(c["diff"])}</b></td>'
+                    f'<td class="n">{"–" if c.get("schaetzung") is None else c["schaetzung"]}</td></tr>')
+        kopf = ('<thead><tr><th>Spieler</th><th class="n">alt</th><th class="n">neu</th><th class="n">Δ</th>'
+                '<th class="n" title="unsere Schätzung vor der Neubewertung">Schätz.</th></tr></thead>')
+        gross = [c for c in pa["aenderungen"] if abs(c["diff"]) >= 2]
+        if gross:
+            top_titel, top = f"Größte Sprünge (ab 2 Pucks, {len(gross)} Spieler)", gross[:15]
+        else:
+            top_titel = "Top-Mover"
+            top = ([c for c in pa["aenderungen"] if c["diff"] > 0][:10] + [c for c in pa["aenderungen"] if c["diff"] < 0][:10])
+        team_rows = "".join(
+            f'<tr><td class="m"><b>{E(t)}</b><span>{v["spieler"]} Spieler</span></td><td class="n up">{v["auf"]}</td>'
+            f'<td class="n down">{v["ab"]}</td><td class="n {"up" if v["netto"] > 0 else ("down" if v["netto"] < 0 else "")}">'
+            f'<b>{"+" if v["netto"] > 0 else ""}{v["netto"]}</b></td></tr>' for t, v in pa["teams"].items())
+        alle_auf = "".join(pz(c) for c in pa["aenderungen"] if c["diff"] > 0)
+        alle_ab = "".join(pz(c) for c in pa["aenderungen"] if c["diff"] < 0)
+        sch = pa.get("schaetzung", {})
+        sch_txt = (f'Unsere Schätzung hatte {sch["richtung_richtig"]} von {sch["aenderungen_gesamt"]} Änderungen in der richtigen Richtung vorhergesagt.'
+                   if sch.get("aenderungen_gesamt") else "")
+        neu_txt = (" Neu im Auszug: " + ", ".join(f'{E(n["name"])} ({E(n["team"])}, {n["preis"]} P)' for n in pa["neu_dabei"]) + "."
+                   if pa.get("neu_dabei") else "")
+        preis_html = f'''<section class="sec" id="preise"><h2>Preisanpassungen nach Spieltag {pa["nach_spieltag"]}</h2>
+  <div class="stats">
+    <div class="stat"><span class="v up">{an["auf"]}</span><span class="l">aufgewertet</span></div>
+    <div class="stat"><span class="v down">{an["ab"]}</span><span class="l">abgewertet</span></div>
+    <div class="stat"><span class="v">{an["gleich"]}</span><span class="l">unverändert</span></div>
+  </div>
+  <p>{sch_txt}{neu_txt}</p>
+  <h3>{top_titel}</h3>
+  <div class="tablewrap"><table class="rb">{kopf}<tbody>{"".join(pz(c) for c in top)}</tbody></table></div>
+  <h3>Nach Clubs</h3>
+  <div class="tablewrap"><table class="rb"><thead><tr><th>Club</th><th class="n">▲ rauf</th><th class="n">▼ runter</th><th class="n">Pucks netto</th></tr></thead><tbody>{team_rows}</tbody></table></div>
+  <details class="alle"><summary>Alle Aufwertungen ({an["auf"]})</summary><div class="tablewrap"><table class="rb">{kopf}<tbody>{alle_auf}</tbody></table></div></details>
+  <details class="alle"><summary>Alle Abwertungen ({an["ab"]})</summary><div class="tablewrap"><table class="rb">{kopf}<tbody>{alle_ab}</tbody></table></div></details>
+</section>'''
+
     src = [{"titel": "Spielerstatistiken: offizielle Spielberichte von penny-del.org, täglich ausgewertet",
             "url": "https://github.com/machi239/del-fantasy"}]
     if q_games:
@@ -298,6 +343,8 @@ table.rb td.n,table.rb th.n{{text-align:right;font-variant-numeric:tabular-nums;
 table.rb td.m em{{font-style:normal;color:var(--warn)}}
 .up{{color:var(--ok)}} .down{{color:var(--red)}}
 #rb-sum{{margin:0 0 12px}}
+#preise h3{{margin:18px 0 8px}}
+details.alle{{margin-top:12px}} details.alle summary{{cursor:pointer;font-weight:600;padding:6px 0}}
 .bw{{font-family:var(--display);font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap}}
 .bw.auf{{color:var(--ok)}} .bw.ab{{color:var(--red)}}
 .bew li{{display:grid;grid-template-columns:1fr auto;grid-template-areas:"nm bw" "tm tm" "tg tg";column-gap:10px;row-gap:2px;align-items:baseline}}
@@ -326,11 +373,12 @@ table.rb td.m em{{font-style:normal;color:var(--warn)}}
 <section class="sec"><h2>Beste Alternativen</h2>
   <p>Die stärksten Spieler je Position, die nicht in der Aufstellung stehen. Beim Tausch auf Pucks und das Ausländerlimit achten.</p>
   <div class="alts">{alts}</div></section>
+{preis_html}
 {bew_html}
 {rueck_html}
 <section class="sec"><h2>Quellen</h2><ul class="sources">{src_html}</ul></section>
 <script type="application/json" id="recherche">{infos_json}</script>
-<footer>Erwartete Punkte sind Schätzungen aus Saisonschnitt, Form, Eiszeit-Trend, Matchup und Einsatzwahrscheinlichkeit. Bei Torhütern fließen Startchance, Siegchance, Gegentore und Saves ein.</footer>
+<footer>Erwartete Punkte sind Schätzungen aus Saisonschnitt (stark auf den Preis als Vorwissen gestützt), Eiszeit-Trend, Matchup und Einsatzwahrscheinlichkeit. Bei Torhütern fließen Startchance, Siegchance, Gegentore (angepasst an die persönliche Fangquote) und Saves ein.</footer>
 </div>
 '''
     with open(a.out, "w", encoding="utf-8") as f:
