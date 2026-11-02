@@ -1,0 +1,640 @@
+{
+ "nach_spieltag": 13,
+ "options_version": "9531c31b",
+ "anzahl": {
+  "auf": 25,
+  "ab": 21,
+  "gleich": 336,
+  "neu": 4
+ },
+ "schaetzung": {
+  "aenderungen_mit_schaetzung": 46,
+  "richtung_richtig": 46,
+  "aenderungen_gesamt": 46,
+  "unveraendert_richtig": 166
+ },
+ "teams": {
+  "Nürnberg Ice Tigers": {
+   "auf": 6,
+   "ab": 0,
+   "netto": 6,
+   "spieler": 25
+  },
+  "Eisbären Berlin": {
+   "auf": 4,
+   "ab": 0,
+   "netto": 4,
+   "spieler": 28
+  },
+  "Straubing Tigers": {
+   "auf": 4,
+   "ab": 0,
+   "netto": 4,
+   "spieler": 27
+  },
+  "Augsburger Panther": {
+   "auf": 3,
+   "ab": 0,
+   "netto": 3,
+   "spieler": 26
+  },
+  "Adler Mannheim": {
+   "auf": 1,
+   "ab": 1,
+   "netto": 0,
+   "spieler": 28
+  },
+  "Grizzlys Wolfsburg": {
+   "auf": 1,
+   "ab": 1,
+   "netto": 0,
+   "spieler": 30
+  },
+  "Kölner Haie": {
+   "auf": 1,
+   "ab": 1,
+   "netto": 0,
+   "spieler": 31
+  },
+  "Löwen Frankfurt": {
+   "auf": 1,
+   "ab": 1,
+   "netto": 0,
+   "spieler": 25
+  },
+  "Iserlohn Roosters": {
+   "auf": 0,
+   "ab": 1,
+   "netto": -1,
+   "spieler": 28
+  },
+  "ERC Ingolstadt": {
+   "auf": 0,
+   "ab": 2,
+   "netto": -2,
+   "spieler": 26
+  },
+  "Krefeld Pinguine": {
+   "auf": 1,
+   "ab": 3,
+   "netto": -2,
+   "spieler": 27
+  },
+  "Schwenninger Wild Wings": {
+   "auf": 2,
+   "ab": 4,
+   "netto": -2,
+   "spieler": 26
+  },
+  "Pinguins Bremerhaven": {
+   "auf": 1,
+   "ab": 4,
+   "netto": -3,
+   "spieler": 27
+  },
+  "EHC Red Bull München": {
+   "auf": 0,
+   "ab": 3,
+   "netto": -3,
+   "spieler": 27
+  }
+ },
+ "aenderungen": [
+  {
+   "id": "4338",
+   "name": "Adam Scheel",
+   "team": "Löwen Frankfurt",
+   "pos": "goal",
+   "dt_pass": false,
+   "alt": 2,
+   "neu": 3,
+   "diff": 1,
+   "schaetzung": 3
+  },
+  {
+   "id": "3533",
+   "name": "Adam Smith",
+   "team": "Eisbären Berlin",
+   "pos": "def",
+   "dt_pass": false,
+   "alt": 2,
+   "neu": 3,
+   "diff": 1,
+   "schaetzung": 4
+  },
+  {
+   "id": "1987",
+   "name": "Davis Vandane",
+   "team": "Krefeld Pinguine",
+   "pos": "def",
+   "dt_pass": false,
+   "alt": 2,
+   "neu": 3,
+   "diff": 1,
+   "schaetzung": 5
+  },
+  {
+   "id": "4350",
+   "name": "Jackson Cates",
+   "team": "Nürnberg Ice Tigers",
+   "pos": "for",
+   "dt_pass": false,
+   "alt": 2,
+   "neu": 3,
+   "diff": 1,
+   "schaetzung": 4
+  },
+  {
+   "id": "1985",
+   "name": "Jake Hildebrand",
+   "team": "Adler Mannheim",
+   "pos": "goal",
+   "dt_pass": true,
+   "alt": 2,
+   "neu": 3,
+   "diff": 1,
+   "schaetzung": 3
+  },
+  {
+   "id": "4318",
+   "name": "Jamieson Rees",
+   "team": "Straubing Tigers",
+   "pos": "for",
+   "dt_pass": false,
+   "alt": 2,
+   "neu": 3,
+   "diff": 1,
+   "schaetzung": 4
+  },
+  {
+   "id": "2121",
+   "name": "Jean-Christophe Beaudin",
+   "team": "Straubing Tigers",
+   "pos": "for",
+   "dt_pass": false,
+   "alt": 3,
+   "neu": 4,
+   "diff": 1,
+   "schaetzung": 5
+  },
+  {
+   "id": "506",
+   "name": "Jonas Müller",
+   "team": "Eisbären Berlin",
+   "pos": "def",
+   "dt_pass": true,
+   "alt": 3,
+   "neu": 4,
+   "diff": 1,
+   "schaetzung": 5
+  },
+  {
+   "id": "1069",
+   "name": "Jonas Neffin",
+   "team": "Eisbären Berlin",
+   "pos": "goal",
+   "dt_pass": true,
+   "alt": 2,
+   "neu": 3,
+   "diff": 1,
+   "schaetzung": 5
+  },
+  {
+   "id": "4315",
+   "name": "Joseph Duszak",
+   "team": "Straubing Tigers",
+   "pos": "def",
+   "dt_pass": false,
+   "alt": 2,
+   "neu": 3,
+   "diff": 1,
+   "schaetzung": 4
+  },
+  {
+   "id": "3594",
+   "name": "Kyle Mayhew",
+   "team": "Augsburger Panther",
+   "pos": "def",
+   "dt_pass": false,
+   "alt": 4,
+   "neu": 5,
+   "diff": 1,
+   "schaetzung": 5
+  },
+  {
+   "id": "648",
+   "name": "Louis-Marc Aubry",
+   "team": "Kölner Haie",
+   "pos": "for",
+   "dt_pass": true,
+   "alt": 4,
+   "neu": 5,
+   "diff": 1,
+   "schaetzung": 5
+  },
+  {
+   "id": "1823",
+   "name": "Manuel Wiederer",
+   "team": "Eisbären Berlin",
+   "pos": "for",
+   "dt_pass": true,
+   "alt": 2,
+   "neu": 3,
+   "diff": 1,
+   "schaetzung": 4
+  },
+  {
+   "id": "100",
+   "name": "Marcus Weber",
+   "team": "Nürnberg Ice Tigers",
+   "pos": "def",
+   "dt_pass": true,
+   "alt": 3,
+   "neu": 4,
+   "diff": 1,
+   "schaetzung": 4
+  },
+  {
+   "id": "27",
+   "name": "Mirko Höfflin",
+   "team": "Schwenninger Wild Wings",
+   "pos": "for",
+   "dt_pass": true,
+   "alt": 2,
+   "neu": 3,
+   "diff": 1,
+   "schaetzung": 4
+  },
+  {
+   "id": "599",
+   "name": "Niklas Treutle",
+   "team": "Nürnberg Ice Tigers",
+   "pos": "goal",
+   "dt_pass": true,
+   "alt": 2,
+   "neu": 3,
+   "diff": 1,
+   "schaetzung": 5
+  },
+  {
+   "id": "4345",
+   "name": "Noah Samanski",
+   "team": "Nürnberg Ice Tigers",
+   "pos": "for",
+   "dt_pass": true,
+   "alt": 1,
+   "neu": 2,
+   "diff": 1,
+   "schaetzung": 2
+  },
+  {
+   "id": "1850",
+   "name": "Philip Feist",
+   "team": "Schwenninger Wild Wings",
+   "pos": "for",
+   "dt_pass": true,
+   "alt": 1,
+   "neu": 2,
+   "diff": 1,
+   "schaetzung": 4
+  },
+  {
+   "id": "1339",
+   "name": "Phillip Bruggisser",
+   "team": "Pinguins Bremerhaven",
+   "pos": "def",
+   "dt_pass": true,
+   "alt": 3,
+   "neu": 4,
+   "diff": 1,
+   "schaetzung": 5
+  },
+  {
+   "id": "1072",
+   "name": "Ryan Jones",
+   "team": "Nürnberg Ice Tigers",
+   "pos": "def",
+   "dt_pass": false,
+   "alt": 2,
+   "neu": 3,
+   "diff": 1,
+   "schaetzung": 4
+  },
+  {
+   "id": "59",
+   "name": "Stefan Loibl",
+   "team": "Straubing Tigers",
+   "pos": "for",
+   "dt_pass": true,
+   "alt": 3,
+   "neu": 4,
+   "diff": 1,
+   "schaetzung": 4
+  },
+  {
+   "id": "1863",
+   "name": "Thomas Heigl",
+   "team": "Nürnberg Ice Tigers",
+   "pos": "for",
+   "dt_pass": true,
+   "alt": 4,
+   "neu": 5,
+   "diff": 1,
+   "schaetzung": 5
+  },
+  {
+   "id": "1211",
+   "name": "Tobias Ancicka",
+   "team": "Augsburger Panther",
+   "pos": "goal",
+   "dt_pass": true,
+   "alt": 1,
+   "neu": 2,
+   "diff": 1,
+   "schaetzung": 4
+  },
+  {
+   "id": "235",
+   "name": "Trevor Parkes",
+   "team": "Augsburger Panther",
+   "pos": "for",
+   "dt_pass": true,
+   "alt": 1,
+   "neu": 2,
+   "diff": 1,
+   "schaetzung": 3
+  },
+  {
+   "id": "3443",
+   "name": "William Graber",
+   "team": "Grizzlys Wolfsburg",
+   "pos": "for",
+   "dt_pass": false,
+   "alt": 1,
+   "neu": 2,
+   "diff": 1,
+   "schaetzung": 3
+  },
+  {
+   "id": "1346",
+   "name": "Alexander Friesen",
+   "team": "Pinguins Bremerhaven",
+   "pos": "for",
+   "dt_pass": true,
+   "alt": 3,
+   "neu": 2,
+   "diff": -1,
+   "schaetzung": 1
+  },
+  {
+   "id": "4335",
+   "name": "Alexander Peters",
+   "team": "Schwenninger Wild Wings",
+   "pos": "def",
+   "dt_pass": false,
+   "alt": 2,
+   "neu": 1,
+   "diff": -1,
+   "schaetzung": 1
+  },
+  {
+   "id": "83",
+   "name": "Andreas Jenike",
+   "team": "Iserlohn Roosters",
+   "pos": "goal",
+   "dt_pass": true,
+   "alt": 2,
+   "neu": 1,
+   "diff": -1,
+   "schaetzung": 1
+  },
+  {
+   "id": "2689",
+   "name": "Andy Miele",
+   "team": "Pinguins Bremerhaven",
+   "pos": "for",
+   "dt_pass": false,
+   "alt": 2,
+   "neu": 1,
+   "diff": -1,
+   "schaetzung": 1
+  },
+  {
+   "id": "4154",
+   "name": "Antoine Bibeau",
+   "team": "EHC Red Bull München",
+   "pos": "goal",
+   "dt_pass": false,
+   "alt": 5,
+   "neu": 4,
+   "diff": -1,
+   "schaetzung": 1
+  },
+  {
+   "id": "1705",
+   "name": "Arkadiusz Dziambor",
+   "team": "Schwenninger Wild Wings",
+   "pos": "def",
+   "dt_pass": true,
+   "alt": 3,
+   "neu": 2,
+   "diff": -1,
+   "schaetzung": 1
+  },
+  {
+   "id": "1382",
+   "name": "Boaz Bassen",
+   "team": "Schwenninger Wild Wings",
+   "pos": "for",
+   "dt_pass": true,
+   "alt": 2,
+   "neu": 1,
+   "diff": -1,
+   "schaetzung": 1
+  },
+  {
+   "id": "3556",
+   "name": "Brady Ferguson",
+   "team": "EHC Red Bull München",
+   "pos": "for",
+   "dt_pass": false,
+   "alt": 3,
+   "neu": 2,
+   "diff": -1,
+   "schaetzung": 1
+  },
+  {
+   "id": "3581",
+   "name": "Fabio Kose",
+   "team": "Löwen Frankfurt",
+   "pos": "def",
+   "dt_pass": true,
+   "alt": 2,
+   "neu": 1,
+   "diff": -1,
+   "schaetzung": 1
+  },
+  {
+   "id": "4157",
+   "name": "Janne Juvonen",
+   "team": "Kölner Haie",
+   "pos": "goal",
+   "dt_pass": false,
+   "alt": 5,
+   "neu": 4,
+   "diff": -1,
+   "schaetzung": 1
+  },
+  {
+   "id": "1594",
+   "name": "Joacim Eriksson",
+   "team": "Schwenninger Wild Wings",
+   "pos": "goal",
+   "dt_pass": false,
+   "alt": 4,
+   "neu": 3,
+   "diff": -1,
+   "schaetzung": 1
+  },
+  {
+   "id": "2813",
+   "name": "Kenny Agostino",
+   "team": "ERC Ingolstadt",
+   "pos": "for",
+   "dt_pass": false,
+   "alt": 4,
+   "neu": 3,
+   "diff": -1,
+   "schaetzung": 1
+  },
+  {
+   "id": "2501",
+   "name": "Kris Bennett",
+   "team": "Adler Mannheim",
+   "pos": "for",
+   "dt_pass": false,
+   "alt": 3,
+   "neu": 2,
+   "diff": -1,
+   "schaetzung": 1
+  },
+  {
+   "id": "2833",
+   "name": "Lester Lancaster",
+   "team": "Grizzlys Wolfsburg",
+   "pos": "def",
+   "dt_pass": false,
+   "alt": 3,
+   "neu": 2,
+   "diff": -1,
+   "schaetzung": 1
+  },
+  {
+   "id": "3407",
+   "name": "Matthew Abt",
+   "team": "Pinguins Bremerhaven",
+   "pos": "def",
+   "dt_pass": true,
+   "alt": 4,
+   "neu": 3,
+   "diff": -1,
+   "schaetzung": 1
+  },
+  {
+   "id": "1168",
+   "name": "Maximilian Daubner",
+   "team": "EHC Red Bull München",
+   "pos": "def",
+   "dt_pass": true,
+   "alt": 2,
+   "neu": 1,
+   "diff": -1,
+   "schaetzung": 1
+  },
+  {
+   "id": "2877",
+   "name": "Myles Powell",
+   "team": "ERC Ingolstadt",
+   "pos": "for",
+   "dt_pass": false,
+   "alt": 4,
+   "neu": 3,
+   "diff": -1,
+   "schaetzung": 1
+  },
+  {
+   "id": "2631",
+   "name": "Phil Varone",
+   "team": "Krefeld Pinguine",
+   "pos": "for",
+   "dt_pass": false,
+   "alt": 3,
+   "neu": 2,
+   "diff": -1,
+   "schaetzung": 2
+  },
+  {
+   "id": "4498",
+   "name": "Roope Mäkitalo",
+   "team": "Krefeld Pinguine",
+   "pos": "for",
+   "dt_pass": true,
+   "alt": 2,
+   "neu": 1,
+   "diff": -1,
+   "schaetzung": 1
+  },
+  {
+   "id": "1564",
+   "name": "Vladimir Eminger",
+   "team": "Pinguins Bremerhaven",
+   "pos": "def",
+   "dt_pass": true,
+   "alt": 4,
+   "neu": 3,
+   "diff": -1,
+   "schaetzung": 1
+  },
+  {
+   "id": "1674",
+   "name": "Yannick Proske",
+   "team": "Krefeld Pinguine",
+   "pos": "for",
+   "dt_pass": true,
+   "alt": 2,
+   "neu": 1,
+   "diff": -1,
+   "schaetzung": 1
+  }
+ ],
+ "neu_dabei": [
+  {
+   "id": "1079",
+   "name": "Eugen Alanov",
+   "team": "Pinguins Bremerhaven",
+   "pos": "for",
+   "preis": 1
+  },
+  {
+   "id": "4911",
+   "name": "Andreas Grin",
+   "team": "ERC Ingolstadt",
+   "pos": "for",
+   "preis": 1
+  },
+  {
+   "id": "4899",
+   "name": "Joonas Nättinen",
+   "team": "Iserlohn Roosters",
+   "pos": "for",
+   "preis": 3
+  },
+  {
+   "id": "4912",
+   "name": "Connor Bunnaman",
+   "team": "Schwenninger Wild Wings",
+   "pos": "for",
+   "preis": 2
+  }
+ ]
+}
