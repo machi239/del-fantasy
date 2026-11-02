@@ -38,7 +38,7 @@
   "92": 1,
   "3412": 0.5,
   "4344": 0,
-  "4317": 0.5,
+  "4317": 0,
   "1659": 0,
   "2510": 0.5,
   "1397": 1,
@@ -348,6 +348,10 @@
    "bis": "2027-01-15"
   },
   {
+   "text": "Hudson Elynuik gesperrt. 1 Spiel(e) laut DEL-Strafbank (gemeldet 2026-11-02), letztes gesperrtes Spiel am 2026-11-13.",
+   "schwer": true
+  },
+  {
    "text": "Maximilian Glötzl gesperrt. 2 Spiel(e) laut DEL-Strafbank (gemeldet 2026-10-30), letztes gesperrtes Spiel am 2026-11-13.",
    "schwer": true
   }
@@ -420,6 +424,10 @@
   {
    "titel": "Straubing: Fünf Tigers nominiert",
    "url": "https://www.straubing-tigers.de/fuenf-straubing-tigers-fuer-deutsche-nationalmannschaften-nominiert/"
+  },
+  {
+   "titel": "DEL-Strafbank: Ein Spiel Sperre für Straubings Hudson Elynuik",
+   "url": "https://www.penny-del.org/fair-play/strafbank/detail/ein-spiel-sperre-fuer-straubings-hudson-elynuik"
   },
   {
    "titel": "DEL-Strafbank: Zwei Spiele Sperre für Augsburgs Maximilian Glötzl",

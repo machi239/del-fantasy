@@ -1,6 +1,18 @@
 {
- "stand": "2026-11-02 14:07",
+ "stand": "2026-11-02 20:45",
  "sperren": [
+  {
+   "spieler_id": "4317",
+   "name": "Hudson Elynuik",
+   "team_id": "6",
+   "spiele": 1,
+   "gemeldet": "2026-11-02",
+   "gesperrte_spiele": [
+    "2026-11-13"
+   ],
+   "titel": "Ein Spiel Sperre für Straubings Hudson Elynuik",
+   "url": "https://www.penny-del.org/fair-play/strafbank/detail/ein-spiel-sperre-fuer-straubings-hudson-elynuik"
+  },
   {
    "spieler_id": "1447",
    "name": "Maximilian Glötzl",

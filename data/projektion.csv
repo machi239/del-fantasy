@@ -202,7 +202,6 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 1755,Luis Schinko,Grizzlys Wolfsburg,for,2,True,0.5,0.25,Eisbären Berlin,True,15,10.7,,0.62,1.07,0.75,1.0,,,,
 2801,Nikolaus Heigl,Nürnberg Ice Tigers,for,1,True,0.5,0.5,Krefeld Pinguine,False,15,13.2,,0.45,1.03,1.08,1.0,,,,
 1345,Dominik Uher,Löwen Frankfurt,for,2,True,0.5,0.25,Pinguins Bremerhaven,True,10,1.1,,0.56,1.0,0.88,1,,,,
-4317,Hudson Elynuik,Straubing Tigers,for,2,False,0.49,0.24,ERC Ingolstadt,False,8,0.6,Eiszeit steigt,0.71,1.2,1.15,0.5,,,,
 1684,Håkon Hänelt,Schwenninger Wild Wings,for,1,True,0.49,0.49,Kölner Haie,True,16,5.7,Eiszeit steigt,0.43,1.15,1.0,1,,,,
 3167,Bode Wilde,Schwenninger Wild Wings,def,2,True,0.49,0.24,Kölner Haie,True,13,1.3,,0.52,0.94,1.0,1,,,,
 2631,Phil Varone,Krefeld Pinguine,for,2,False,0.49,0.24,Nürnberg Ice Tigers,True,11,0.5,,0.55,1.05,0.86,1,,,,
@@ -312,6 +311,7 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 1904,Florian Bugl,Straubing Tigers,goal,1,True,0.0,0.0,ERC Ingolstadt,False,2,1.9,faellt aus,,,,,0.0,0.51,2.97,26.7
 3548,Sebastian Wieber,Straubing Tigers,goal,1,True,0.0,0.0,ERC Ingolstadt,False,1,0.4,,,,,,0.0,0.51,3.07,26.6
 3958,Moritz Kukuk,Straubing Tigers,def,1,True,0.0,0.0,ERC Ingolstadt,False,0,0.6,faellt aus,0.1,1.0,1.15,0,,,,
+4317,Hudson Elynuik,Straubing Tigers,for,2,False,0.0,0.0,ERC Ingolstadt,False,8,0.6,"Eiszeit steigt, faellt aus",0.71,1.2,1.15,0,,,,
 1659,Maximilian Eisenmenger,Iserlohn Roosters,for,1,True,0.0,0.0,Adler Mannheim,True,6,2.6,faellt aus,0.45,0.95,0.87,0,,,,
 1675,Finn Becker,Iserlohn Roosters,goal,1,True,-0.0,-0.0,Adler Mannheim,True,0,0.2,,,,,,0.0,0.22,3.43,25.8
 3199,Marian Bauer,Iserlohn Roosters,def,1,True,0.0,0.0,Adler Mannheim,True,0,0.3,Einsatzquote 0%,0.1,1.0,0.87,0.0,,,,
