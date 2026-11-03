@@ -53,7 +53,7 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 4333,Jérémie Poirier,Adler Mannheim,def,3,False,1.57,0.52,Iserlohn Roosters,False,13,15.4,,1.37,1.0,1.15,1,,,,
 546,Andreas Eder,Eisbären Berlin,for,4,True,1.56,0.39,Grizzlys Wolfsburg,False,14,9.6,,1.37,1.02,1.12,1.0,,,,
 1796,Markus Vikingstad,Eisbären Berlin,for,4,True,1.56,0.39,Grizzlys Wolfsburg,False,14,4.6,Eiszeit sinkt,1.58,0.88,1.12,1.0,,,,
-3442,Samuel Dove-McFalls,Nürnberg Ice Tigers,for,5,True,1.56,0.31,Krefeld Pinguine,False,15,8.5,Eiszeit sinkt,1.68,0.86,1.08,1.0,,,,
+3442,Samuel Dove-McFalls,Nürnberg Ice Tigers,for,5,True,1.56,0.31,Krefeld Pinguine,False,15,8.5,Eiszeit sinkt,1.68,0.86,1.08,1,,,,
 2835,Thomas Schemitsch,Schwenninger Wild Wings,def,4,False,1.55,0.39,Kölner Haie,True,15,1.1,,1.48,1.04,1.0,1,,,,
 1339,Phillip Bruggisser,Pinguins Bremerhaven,def,4,True,1.55,0.39,Löwen Frankfurt,False,14,19.5,,1.8,1.08,0.8,1.0,,,,
 4312,Jack LaFontaine,Eisbären Berlin,goal,2,False,1.53,0.77,Grizzlys Wolfsburg,False,5,7.8,,,,,,0.4,0.7,1.83,22.3
@@ -107,7 +107,7 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 1306,Tim Wohlgemuth,Augsburger Panther,for,2,True,1.12,0.56,EHC Red Bull München,True,14,8.7,Eiszeit steigt,0.93,1.15,1.05,1,,,,
 1397,Daniel Pfaffengut,Löwen Frankfurt,for,3,True,1.11,0.37,Pinguins Bremerhaven,True,7,3.4,,1.3,0.96,0.88,1,,,,
 2463,Cameron Brace,Löwen Frankfurt,for,3,False,1.11,0.37,Pinguins Bremerhaven,True,13,1.9,Eiszeit steigt,1.16,1.08,0.88,1,,,,
-2935,Max Newton,Krefeld Pinguine,for,3,False,1.1,0.37,Nürnberg Ice Tigers,True,15,24.8,,1.37,0.93,0.86,1.0,,,,
+2935,Max Newton,Krefeld Pinguine,for,3,False,1.1,0.37,Nürnberg Ice Tigers,True,15,24.8,,1.37,0.93,0.86,1,,,,
 3432,Juhani Tyrväinen,Kölner Haie,for,3,False,1.09,0.36,Schwenninger Wild Wings,False,14,3.8,,0.85,1.05,1.21,1,,,,
 4345,Noah Samanski,Nürnberg Ice Tigers,for,2,True,1.08,0.54,Krefeld Pinguine,False,15,20.1,Eiszeit steigt,0.92,1.08,1.08,1.0,,,,
 1587,Julian Melchiori,Grizzlys Wolfsburg,def,4,False,1.06,0.27,Eisbären Berlin,True,13,2.7,,1.34,1.05,0.75,1,,,,

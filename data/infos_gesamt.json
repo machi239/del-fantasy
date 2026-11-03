@@ -201,7 +201,9 @@
   "2817": 0.5,
   "2868": 0.5,
   "2202": 0.5,
-  "3565": 0.5
+  "3565": 0.5,
+  "3442": 1,
+  "2935": 1
  },
  "goalie_start": {},
  "notizen": {
@@ -221,15 +223,27 @@
   "4324": "am 01.11. in Wolfsburg zurück",
   "1397": "am 01.11. zurück, 2 Tore gegen Ingolstadt",
   "1771": "am 01.11. Comeback nach sechs Monaten Verletzungspause",
-  "1069": "startete am 01.11. gegen Mannheim; für den Deutschland Cup nominiert"
+  "1069": "startete am 01.11. gegen Mannheim; für den Deutschland Cup nominiert",
+  "3442": "laut DEB leicht angeschlagen, für den Deutschland Cup durch Napravnik ersetzt; soll zum Ligastart wieder fit sein",
+  "2935": "fehlte am 01.11. in Schwenningen kurzfristig erkrankt",
+  "2820": "für den Deutschland Cup nachnominiert",
+  "4899": "laut eishockeynews neu verpflichteter Mittelstürmer (Schwenningen)"
  },
  "risiken": [
   {
-   "text": "Marcel Brandt (Straubing, in der Aufstellung) fehlte am 01.11. in Bremerhaven. Grund nicht gemeldet, auch Tyler Madden fehlte; vor dem Spiel in Ingolstadt am 13.11. erneut prüfen, Alternative z. B. Kyle Wood (Augsburg, 4 Pucks).",
-   "schwer": true
+   "text": "Marcel Brandt (Straubing) fehlte am 01.11. in Bremerhaven. Grund weiter nicht gemeldet, auch Tyler Madden fehlte; Vereinsseite ohne Verletzungsmeldung, vor dem Spiel in Ingolstadt am 13.11. erneut prüfen.",
+   "schwer": false
   },
   {
-   "text": "Jonas Neffin (Berlin) ist kein sicherer Starter (p_start 0.6). Er startete zuletzt am 01.11. gegen Mannheim, LaFontaine war Backup; Alternative gleichen Preises: Niklas Treutle (Nürnberg, 2 Pucks, p_start 0.8).",
+   "text": "Jonas Neffin (Berlin) ist kein sicherer Starter (p_start 0.6). Er startete zuletzt am 01.11. gegen Mannheim, LaFontaine war Backup; Neffin spielt beim Deutschland Cup. Alternative gleichen Preises: Niklas Treutle (Nürnberg, 3 Pucks, p_start 0.8).",
+   "schwer": false
+  },
+  {
+   "text": "Samuel Dove-McFalls (Nürnberg) leicht angeschlagen. Der DEB hat ihn am 02.11. für den Deutschland Cup durch Julian Napravnik (Iserlohn) ersetzt, damit er zum Ligastart am 12./13.11. fit ist.",
+   "schwer": false
+  },
+  {
+   "text": "Länderspielpause bis 12.11. ohne neue Verletzungsmeldungen. Vereinsseiten von Straubing, Mannheim, Köln, Berlin, Nürnberg, München, Bremerhaven, Schwenningen, Iserlohn, Frankfurt, Ingolstadt, Augsburg und Krefeld sowie die DEL-Kadernews am 03.11. geprüft.",
    "schwer": false
   },
   {
@@ -424,6 +438,30 @@
   {
    "titel": "Straubing: Fünf Tigers nominiert",
    "url": "https://www.straubing-tigers.de/fuenf-straubing-tigers-fuer-deutsche-nationalmannschaften-nominiert/"
+  },
+  {
+   "titel": "sport1: Napravnik ersetzt Dove-McFalls im DEB-Kader",
+   "url": "https://www.sport1.de/news/eishockey/deutschlandcup/2026/11/deutschland-cup-napravnik-ersetzt-dove-mcfalls-im-deb-kader"
+  },
+  {
+   "titel": "DEB: Julian Napravnik rückt in den Kader für den Deutschland Cup",
+   "url": "https://www.deb-online.de/2026/11/02/julian-napravnik-rueckt-in-den-kader-fuer-den-deutschland-cup/"
+  },
+  {
+   "titel": "Krefeld Pinguine: Spielbericht Schwenningen 01.11.",
+   "url": "https://www.krefeld-pinguine.de/"
+  },
+  {
+   "titel": "Eishockey NEWS Übersicht",
+   "url": "https://www.eishockeynews.de/aktuelles/homepage-ehw"
+  },
+  {
+   "titel": "Iserlohn Roosters News",
+   "url": "https://iserlohn-roosters.de/"
+  },
+  {
+   "titel": "Straubing Tigers News",
+   "url": "https://www.straubing-tigers.de/"
   },
   {
    "titel": "DEL-Strafbank: Ein Spiel Sperre für Straubings Hudson Elynuik",
