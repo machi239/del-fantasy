@@ -213,7 +213,7 @@
   "4160": "fehlte am 01.11., Grund unbekannt (U20-Kandidat, evtl. überzählig)",
   "4310": "fehlte am 01.11., Grund unbekannt (U20-Kandidat, evtl. überzählig)",
   "1694": "fehlte zuletzt, Grund unbekannt",
-  "3433": "fehlte zuletzt, Grund unbekannt",
+  "3433": "fehlte am 01.11. wegen U20-Einsatz (laut Haie-Meldung 29.10.)",
   "3122": "fehlte zuletzt, Grund unbekannt",
   "2817": "fehlte zuletzt, Grund unbekannt",
   "2868": "fehlte zuletzt, Grund unbekannt",
@@ -227,9 +227,14 @@
   "3442": "laut DEB leicht angeschlagen, für den Deutschland Cup durch Napravnik ersetzt; soll zum Ligastart wieder fit sein",
   "2935": "fehlte am 01.11. in Schwenningen kurzfristig erkrankt",
   "2820": "für den Deutschland Cup nachnominiert",
-  "4899": "laut eishockeynews neu verpflichteter Mittelstürmer (Schwenningen)"
+  "4899": "laut eishockeynews neu verpflichteter Mittelstürmer (Schwenningen)",
+  "4317": "am 02.11. für ein Spiel gesperrt (Stockschlag gegen Bremerhaven)"
  },
  "risiken": [
+  {
+   "text": "Hudson Elynuik (Straubing) für ein Spiel gesperrt. Stockschlag im Spiel in Bremerhaven, Meldung vom 02.11.; betrifft voraussichtlich das Spiel in Ingolstadt am 13.11.",
+   "schwer": false
+  },
   {
    "text": "Marcel Brandt (Straubing) fehlte am 01.11. in Bremerhaven. Grund weiter nicht gemeldet, auch Tyler Madden fehlte; Vereinsseite ohne Verletzungsmeldung, vor dem Spiel in Ingolstadt am 13.11. erneut prüfen.",
    "schwer": false
@@ -243,7 +248,7 @@
    "schwer": false
   },
   {
-   "text": "Länderspielpause bis 12.11. ohne neue Verletzungsmeldungen. Vereinsseiten von Straubing, Mannheim, Köln, Berlin, Nürnberg, München, Bremerhaven, Schwenningen, Iserlohn, Frankfurt, Ingolstadt, Augsburg und Krefeld sowie die DEL-Kadernews am 03.11. geprüft.",
+   "text": "Länderspielpause bis 12.11. ohne neue Verletzungsmeldungen. Vereinsseiten von Straubing, Mannheim, Köln, Berlin, Nürnberg, München, Schwenningen, Iserlohn, Frankfurt, Ingolstadt, Augsburg und Krefeld sowie die DEL-Kadernews am 04.11. erneut geprüft; Bremerhaven und Wolfsburg waren nicht abrufbar.",
    "schwer": false
   },
   {
@@ -462,6 +467,42 @@
   {
    "titel": "Straubing Tigers News",
    "url": "https://www.straubing-tigers.de/"
+  },
+  {
+   "titel": "Straubing: Hudson Elynuik für ein Spiel gesperrt",
+   "url": "https://www.straubing-tigers.de/"
+  },
+  {
+   "titel": "Kölner Haie News (Späth U20)",
+   "url": "https://www.haie.de/news/"
+  },
+  {
+   "titel": "Iserlohn Roosters News 04.11.",
+   "url": "https://iserlohn-roosters.de/"
+  },
+  {
+   "titel": "Löwen Frankfurt News",
+   "url": "https://www.loewen-frankfurt.de/"
+  },
+  {
+   "titel": "Schwenninger Wild Wings News",
+   "url": "https://www.schwenninger-wildwings.de/"
+  },
+  {
+   "titel": "Adler Mannheim Aktuelles",
+   "url": "https://www.adler-mannheim.de/aktuelles"
+  },
+  {
+   "titel": "Eisbären Berlin News",
+   "url": "https://www.eisbaeren.de/news"
+  },
+  {
+   "titel": "ERC Ingolstadt News",
+   "url": "https://www.erc-ingolstadt.de/"
+  },
+  {
+   "titel": "eishockeynews: Napravnik rückt nach",
+   "url": "https://www.eishockeynews.de/artikel/napravnik-rueckt-nach-aenderung-in-rankels-deb-kader-1267877"
   },
   {
    "titel": "DEL-Strafbank: Ein Spiel Sperre für Straubings Hudson Elynuik",
