@@ -248,7 +248,7 @@
    "schwer": false
   },
   {
-   "text": "Länderspielpause bis 12.11. ohne neue Verletzungsmeldungen. Vereinsseiten von Straubing, Mannheim, Köln, Berlin, Nürnberg, München, Schwenningen, Iserlohn, Frankfurt, Ingolstadt, Augsburg und Krefeld sowie die DEL-Kadernews am 04.11. erneut geprüft; Bremerhaven und Wolfsburg waren nicht abrufbar.",
+   "text": "Länderspielpause bis 12.11. ohne neue Verletzungsmeldungen. Vereinsseiten aller 14 Teams, DEL-Kadernews und eishockeynews am 05.11. erneut geprüft; keine neuen Ausfälle oder Rückkehrer gemeldet. Bremerhaven stellt wegen der Verletzungslage keinen Spieler für den Deutschland Cup.",
    "schwer": false
   },
   {
@@ -495,6 +495,38 @@
   {
    "titel": "eishockeynews: Napravnik rückt nach",
    "url": "https://www.eishockeynews.de/artikel/napravnik-rueckt-nach-aenderung-in-rankels-deb-kader-1267877"
+  },
+  {
+   "titel": "Pinguins: Spieler freuen sich auf Erholungspause",
+   "url": "https://fischtown-pinguins.de/spieler-freuen-sich-auf-erholungspause-fans-auf-d-cup/"
+  },
+  {
+   "titel": "Grizzlys: Heimpleite gegen Augsburg",
+   "url": "https://www.grizzlys.de/news_2839.html"
+  },
+  {
+   "titel": "Grizzlys Wolfsburg News",
+   "url": "https://www.grizzlys.de/"
+  },
+  {
+   "titel": "Fischtown Pinguins News",
+   "url": "https://www.fischtown-pinguins.de/"
+  },
+  {
+   "titel": "Red Bull München News",
+   "url": "https://www.redbullmuenchen.de/de/news"
+  },
+  {
+   "titel": "Nürnberg Ice Tigers News",
+   "url": "https://www.icetigers.de/"
+  },
+  {
+   "titel": "Augsburger Panther News",
+   "url": "https://www.aev-panther.de/"
+  },
+  {
+   "titel": "DEB: Deutschland Cup Auftakt gegen Österreich",
+   "url": "https://www.deb-online.de/2026/11/04/deutschland-cup-deb-auswahl-startet-gegen-sterreich-ins-heimturnier/"
   }
  ],
  "odds": {},
