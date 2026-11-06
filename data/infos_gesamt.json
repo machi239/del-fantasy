@@ -1,7 +1,7 @@
 {
  "spieltag": 15,
  "availability": {
-  "2804": 0,
+  "2804": 1,
   "1753": 0,
   "4308": 1,
   "1704": 0,
@@ -11,7 +11,7 @@
   "1901": 0,
   "1655": 1,
   "3958": 0,
-  "2501": 0,
+  "2501": 0.5,
   "516": 1,
   "3575": 0,
   "1653": 0,
@@ -203,7 +203,8 @@
   "2202": 0.5,
   "3565": 0.5,
   "3442": 1,
-  "2935": 1
+  "2935": 1,
+  "3564": 0.5
  },
  "goalie_start": {},
  "notizen": {
@@ -223,14 +224,25 @@
   "4324": "am 01.11. in Wolfsburg zurück",
   "1397": "am 01.11. zurück, 2 Tore gegen Ingolstadt",
   "1771": "am 01.11. Comeback nach sechs Monaten Verletzungspause",
-  "1069": "startete am 01.11. gegen Mannheim; für den Deutschland Cup nominiert",
+  "1069": "startete am 01.11. gegen Mannheim; beim Deutschland Cup am 05.11. Shutout gegen Österreich",
   "3442": "laut DEB leicht angeschlagen, für den Deutschland Cup durch Napravnik ersetzt; soll zum Ligastart wieder fit sein",
   "2935": "fehlte am 01.11. in Schwenningen kurzfristig erkrankt",
   "2820": "für den Deutschland Cup nachnominiert",
   "4899": "laut eishockeynews neu verpflichteter Mittelstürmer (Schwenningen)",
-  "4317": "am 02.11. für ein Spiel gesperrt (Stockschlag gegen Bremerhaven)"
+  "4317": "am 02.11. für ein Spiel gesperrt (Stockschlag gegen Bremerhaven)",
+  "2804": "am 01.11. nach Fußverletzung zurück (rund 10 Minuten Eiszeit)",
+  "2501": "Rückkehr nach Unterkörperverletzung möglich, nicht bestätigt",
+  "3564": "vom 07. bis 12.11. Trainingsgast in Frankfurt, danach Neubewertung"
  },
  "risiken": [
+  {
+   "text": "Markus Phillips neu in Frankfurt. Linksschießender Verteidiger aus der KHL, Vertrag bis Saisonende, erstes Training am 07.11.; Einsatz gegen Bremerhaven am 13.11. möglich.",
+   "schwer": false
+  },
+  {
+   "text": "Colin Schlenker (Mannheim) vom 07. bis 12.11. Trainingsgast in Frankfurt. Leihe zur Entwicklung, Einsatz für Mannheim in Iserlohn am 12.11. fraglich.",
+   "schwer": false
+  },
   {
    "text": "Hudson Elynuik (Straubing) für ein Spiel gesperrt. Stockschlag im Spiel in Bremerhaven, Meldung vom 02.11.; betrifft voraussichtlich das Spiel in Ingolstadt am 13.11.",
    "schwer": false
@@ -248,7 +260,7 @@
    "schwer": false
   },
   {
-   "text": "Länderspielpause bis 12.11. ohne neue Verletzungsmeldungen. Vereinsseiten aller 14 Teams, DEL-Kadernews und eishockeynews am 05.11. erneut geprüft; keine neuen Ausfälle oder Rückkehrer gemeldet. Bremerhaven stellt wegen der Verletzungslage keinen Spieler für den Deutschland Cup.",
+   "text": "Länderspielpause bis 12.11. ohne neue Verletzungsmeldungen. Vereinsseiten und DEL-Kadernews am 06.11. erneut geprüft; Jakob Weber (Nürnberg) spielte bereits am 01.11. wieder, Frankfurt holt Verteidiger Markus Phillips als Ersatz für Matushkin und Wirt.",
    "schwer": false
   },
   {
@@ -292,11 +304,6 @@
    "bis": "2026-11-13"
   },
   {
-   "text": "Jakob Weber (Nürnberg) noch nicht zurück. Fußverletzung vom 24.09. (4–6 Wochen), fehlte auch am 23.10.; eher Rückkehr nach der Pause.",
-   "schwer": true,
-   "bis": "2026-11-05"
-  },
-  {
    "text": "Chris DeSousa (München) fällt weiter aus. Oberkörperverletzung seit Saisonauftakt, laut Vorschau vom 31.10. weiter out.",
    "schwer": true,
    "bis": "2026-11-13"
@@ -307,9 +314,9 @@
    "bis": "2026-12-15"
   },
   {
-   "text": "Kris Bennett (Mannheim) fällt vier bis sechs Wochen aus. Unterkörperverletzung vom 25.09., Rückkehr noch nicht gemeldet.",
-   "schwer": true,
-   "bis": "2026-11-06"
+   "text": "Kris Bennett (Mannheim) weiter fraglich. Unterkörperverletzung vom 25.09. (vier bis sechs Wochen); Rückkehr zum Spiel in Iserlohn am 12.11. möglich, aber nicht gemeldet.",
+   "schwer": false,
+   "bis": "2026-11-12"
   },
   {
    "text": "Julian Chrobot (Wolfsburg) fällt monatelang aus. Kreuzbandverletzung aus der Vorbereitung.",
@@ -535,6 +542,30 @@
   {
    "titel": "DEB: Deutschland Cup Auftakt gegen Österreich",
    "url": "https://www.deb-online.de/2026/11/04/deutschland-cup-deb-auswahl-startet-gegen-sterreich-ins-heimturnier/"
+  },
+  {
+   "titel": "Löwen Frankfurt: Markus Phillips unterschreibt",
+   "url": "https://www.loewen-frankfurt.de/saison/aktuelles/details/markus-phillips-unterschreibt-in-frankfurt"
+  },
+  {
+   "titel": "Adler Mannheim: Schlenker Trainingsgast in Frankfurt",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/11/schlenker-trainingsgast-in-frankfurt"
+  },
+  {
+   "titel": "DEB: Männer starten mit Sieg gegen Österreich",
+   "url": "https://www.deb-online.de/2026/11/05/geraut/"
+  },
+  {
+   "titel": "Krefeld Pinguine: Niederlage nach Verlängerung im Schwarzwald",
+   "url": "https://krefeld-pinguine.de/news/pinguine-verlieren-nach-verlaengerung-im-schwarzwald/"
+  },
+  {
+   "titel": "Red Bull München: Rio Kaiser fällt bis Anfang 2027 aus",
+   "url": "https://www.redbullmuenchen.de/de/news/ehc-red-bull-muenchen-rio-kaiser-muss-verletzt-pausieren"
+  },
+  {
+   "titel": "Iserlohn: Vier Roosters mit Nationalteams unterwegs",
+   "url": "https://iserlohn-roosters.de/2026/11/03/vier-roosters-mit-nationalteams-unterwegs/"
   },
   {
    "titel": "DEL-Strafbank: Ein Spiel Sperre für Straubings Hudson Elynuik",
