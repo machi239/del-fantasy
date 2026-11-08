@@ -204,7 +204,8 @@
   "3565": 0.5,
   "3442": 1,
   "2935": 1,
-  "3564": 0.5
+  "3564": 0.5,
+  "3586": 0
  },
  "goalie_start": {},
  "notizen": {
@@ -224,7 +225,7 @@
   "4324": "am 01.11. in Wolfsburg zurück",
   "1397": "am 01.11. zurück, 2 Tore gegen Ingolstadt",
   "1771": "am 01.11. Comeback nach sechs Monaten Verletzungspause",
-  "1069": "startete am 01.11. gegen Mannheim; beim Deutschland Cup am 05.11. Shutout gegen Österreich",
+  "1069": "startete am 01.11. gegen Mannheim (6 der letzten 8 Ligastarts); beim Deutschland Cup am 05.11. Shutout gegen Österreich",
   "3442": "laut DEB leicht angeschlagen, für den Deutschland Cup durch Napravnik ersetzt; soll zum Ligastart wieder fit sein",
   "2935": "fehlte am 01.11. in Schwenningen kurzfristig erkrankt",
   "2820": "für den Deutschland Cup nachnominiert",
@@ -232,9 +233,17 @@
   "4317": "am 02.11. für ein Spiel gesperrt (Stockschlag gegen Bremerhaven)",
   "2804": "am 01.11. nach Fußverletzung zurück (rund 10 Minuten Eiszeit)",
   "2501": "Rückkehr nach Unterkörperverletzung möglich, nicht bestätigt",
-  "3564": "vom 07. bis 12.11. Trainingsgast in Frankfurt, danach Neubewertung"
+  "3564": "vom 07. bis 12.11. Trainingsgast in Frankfurt, danach Neubewertung",
+  "3586": "bis Saisonende in die DEL2 verliehen (Meldung Iserlohn ca. 08.11.)",
+  "130": "beim Deutschland Cup am 07.11. gegen Lettland nicht eingesetzt, Grund nicht genannt",
+  "1755": "beim Deutschland Cup am 07.11. gegen Lettland nicht eingesetzt, Grund nicht genannt",
+  "1211": "startete beim Deutschland Cup am 07.11. gegen Lettland (1:3)"
  },
  "risiken": [
+  {
+   "text": "Iserlohn holt Stürmer Magnus Eisenmenger und verleiht Bence Farkas. Eisenmenger (Center/Flügel, zuletzt Norwegen) ist mit sofortiger Wirkung spielberechtigt, Farkas geht bis Saisonende in die DEL2; Maximilian Eisenmenger bleibt vorerst verletzt.",
+   "schwer": false
+  },
   {
    "text": "Markus Phillips neu in Frankfurt. Linksschießender Verteidiger aus der KHL, Vertrag bis Saisonende, erstes Training am 07.11.; Einsatz gegen Bremerhaven am 13.11. möglich.",
    "schwer": false
@@ -260,7 +269,7 @@
    "schwer": false
   },
   {
-   "text": "Länderspielpause bis 12.11. weiter ohne neue Verletzungsmeldungen. Vereinsseiten, DEL-Kadernews und Medien am 07.11. erneut geprüft; einzige neue Personalien seit 05.11. sind Markus Phillips (Frankfurt, Verteidiger) und Trainingsgast Colin Schlenker.",
+   "text": "Länderspielpause bis 12.11. weiter ohne neue Verletzungsmeldungen. Vereinsseiten aller 14 Clubs, DEL-Kadernews und Medien am 08.11. erneut geprüft; neu sind nur der Iserlohner Transfer (Magnus Eisenmenger kommt, Farkas geht) sowie Phillips und Schlenker in Frankfurt.",
    "schwer": false
   },
   {
@@ -372,6 +381,10 @@
    "text": "Rio Kaiser (München) fällt bis Anfang 2027 aus. Unterkörperverletzung, zugezogen beim Einsatz für Riessersee, Meldung vom 30.10.",
    "schwer": false,
    "bis": "2027-01-15"
+  },
+  {
+   "text": "Krefeld nennt für das Heimspiel gegen Nürnberg am 13.11. 19:00 Uhr als Beginn. Im Spielplan steht 19:30 Uhr; für die Deadline (12.11., 19:30) ohne Bedeutung.",
+   "schwer": false
   }
  ],
  "quellen": [
@@ -570,6 +583,62 @@
   {
    "titel": "eishockeynews: Frankfurt vergibt letzte Importlizenz an Phillips",
    "url": "https://www.eishockeynews.de/artikel/gezeigt-wie-verlaesslich-er-ist-frankfurt-vergibt-letzte-importlizenz-an-phillips-1268910"
+  },
+  {
+   "titel": "eishockeynews: Iserlohn holt Eisenmenger-Bruder und verleiht Farkas",
+   "url": "https://www.eishockeynews.de/artikel/iserlohn-roosters-holen-eisenmenger-bruder-und-verleihen-farkas-1269692"
+  },
+  {
+   "titel": "DEB: Deutschland Cup 2026, DEB-Auswahl unterliegt Lettland",
+   "url": "https://www.deb-online.de/2026/11/07/gerlat/"
+  },
+  {
+   "titel": "Krefeld Pinguine: Startseite/Gamereport",
+   "url": "https://www.krefeld-pinguine.de"
+  },
+  {
+   "titel": "Iserlohn Roosters: News",
+   "url": "https://www.iserlohn-roosters.de"
+  },
+  {
+   "titel": "Straubing Tigers: News",
+   "url": "https://www.straubing-tigers.de"
+  },
+  {
+   "titel": "Löwen Frankfurt: News",
+   "url": "https://www.loewen-frankfurt.de"
+  },
+  {
+   "titel": "Augsburger Panther: News",
+   "url": "https://www.aev-panther.de/panther/news"
+  },
+  {
+   "titel": "Fischtown Pinguins: News",
+   "url": "https://www.fischtown-pinguins.de"
+  },
+  {
+   "titel": "EHC Red Bull München: News",
+   "url": "https://www.redbullmuenchen.de"
+  },
+  {
+   "titel": "Kölner Haie: News",
+   "url": "https://www.haie.de"
+  },
+  {
+   "titel": "Eisbären Berlin: News",
+   "url": "https://www.eisbaeren.de"
+  },
+  {
+   "titel": "ERC Ingolstadt: News",
+   "url": "https://www.erc-ingolstadt.de/news"
+  },
+  {
+   "titel": "Nürnberg Ice Tigers: News",
+   "url": "https://www.icetigers.de"
+  },
+  {
+   "titel": "eishockeynews: DEL",
+   "url": "https://www.eishockeynews.de/del"
   }
  ],
  "odds": {},

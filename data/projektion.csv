@@ -317,7 +317,7 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 1659,Maximilian Eisenmenger,Iserlohn Roosters,for,1,True,0.0,0.0,Adler Mannheim,True,6,2.6,faellt aus,0.45,0.95,0.87,0,,,,
 1675,Finn Becker,Iserlohn Roosters,goal,1,True,-0.0,-0.0,Adler Mannheim,True,0,0.2,,,,,,0.0,0.22,3.43,25.8
 3199,Marian Bauer,Iserlohn Roosters,def,1,True,0.0,0.0,Adler Mannheim,True,0,0.3,Einsatzquote 0%,0.1,1.0,0.87,0.0,,,,
-3586,Bence Farkas,Iserlohn Roosters,for,1,True,0.0,0.0,Adler Mannheim,True,0,0.6,Einsatzquote 0%,0.28,1.0,0.87,0.0,,,,
+3586,Bence Farkas,Iserlohn Roosters,for,1,True,0.0,0.0,Adler Mannheim,True,0,0.6,faellt aus,0.28,1.0,0.87,0,,,,
 3851,Gordejs Radionovs,Iserlohn Roosters,def,1,True,0.0,0.0,Adler Mannheim,True,0,0.5,Einsatzquote 0%,0.1,1.0,0.87,0.0,,,,
 4298,Maximilian Strauß,Iserlohn Roosters,for,1,True,0.0,0.0,Adler Mannheim,True,0,0.1,Einsatzquote 0%,0.28,1.0,0.87,0.0,,,,
 4470,Niklas Hertenstein,Iserlohn Roosters,goal,1,True,-0.0,-0.0,Adler Mannheim,True,0,0.0,,,,,,0.0,0.22,3.43,25.8
