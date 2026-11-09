@@ -1,9 +1,9 @@
 {
  "spieltag": 15,
  "deadline": "Thu 12.11.2026 19:30",
- "erstellt": "09.11.2026 19:55",
+ "erstellt": "09.11.2026 22:26",
  "pucks": 60,
- "xp_gesamt": 36.5,
+ "xp_gesamt": 36.2,
  "aufstellung": [
   {
    "spieler_id": 4338,
@@ -30,18 +30,6 @@
    "p_start": 0.6
   },
   {
-   "spieler_id": 2411,
-   "name": "Nicolas Mattinen",
-   "team": "Adler Mannheim",
-   "team_id": 2,
-   "pos": "def",
-   "preis": 5,
-   "dt_pass": false,
-   "xp": 2.63,
-   "gegner": "Iserlohn Roosters",
-   "p_start": null
-  },
-  {
    "spieler_id": 3139,
    "name": "Valtteri Kemiläinen",
    "team": "Kölner Haie",
@@ -51,18 +39,6 @@
    "dt_pass": false,
    "xp": 2.61,
    "gegner": "Schwenninger Wild Wings",
-   "p_start": null
-  },
-  {
-   "spieler_id": 1611,
-   "name": "Leon Gawanke",
-   "team": "Adler Mannheim",
-   "team_id": 2,
-   "pos": "def",
-   "preis": 5,
-   "dt_pass": true,
-   "xp": 2.57,
-   "gegner": "Iserlohn Roosters",
    "p_start": null
   },
   {
@@ -90,15 +66,15 @@
    "p_start": null
   },
   {
-   "spieler_id": 4333,
-   "name": "Jérémie Poirier",
-   "team": "Adler Mannheim",
-   "team_id": 2,
+   "spieler_id": 100,
+   "name": "Marcus Weber",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
    "pos": "def",
-   "preis": 3,
-   "dt_pass": false,
-   "xp": 1.57,
-   "gegner": "Iserlohn Roosters",
+   "preis": 4,
+   "dt_pass": true,
+   "xp": 1.92,
+   "gegner": "Krefeld Pinguine",
    "p_start": null
   },
   {
@@ -111,6 +87,30 @@
    "dt_pass": false,
    "xp": 1.5,
    "gegner": "Grizzlys Wolfsburg",
+   "p_start": null
+  },
+  {
+   "spieler_id": 4333,
+   "name": "Jérémie Poirier",
+   "team": "Adler Mannheim",
+   "team_id": 2,
+   "pos": "def",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.49,
+   "gegner": "Iserlohn Roosters",
+   "p_start": null
+  },
+  {
+   "spieler_id": 1072,
+   "name": "Ryan Jones",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "def",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.43,
+   "gegner": "Krefeld Pinguine",
    "p_start": null
   },
   {
@@ -138,18 +138,6 @@
    "p_start": null
   },
   {
-   "spieler_id": 1525,
-   "name": "Alexander Ehl",
-   "team": "Adler Mannheim",
-   "team_id": 2,
-   "pos": "for",
-   "preis": 3,
-   "dt_pass": true,
-   "xp": 1.72,
-   "gegner": "Iserlohn Roosters",
-   "p_start": null
-  },
-  {
    "spieler_id": 507,
    "name": "Marcel Noebels",
    "team": "Kölner Haie",
@@ -159,6 +147,30 @@
    "dt_pass": true,
    "xp": 1.67,
    "gegner": "Schwenninger Wild Wings",
+   "p_start": null
+  },
+  {
+   "spieler_id": 1525,
+   "name": "Alexander Ehl",
+   "team": "Adler Mannheim",
+   "team_id": 2,
+   "pos": "for",
+   "preis": 3,
+   "dt_pass": true,
+   "xp": 1.63,
+   "gegner": "Iserlohn Roosters",
+   "p_start": null
+  },
+  {
+   "spieler_id": 4350,
+   "name": "Jackson Cates",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.62,
+   "gegner": "Krefeld Pinguine",
    "p_start": null
   },
   {
@@ -186,6 +198,18 @@
    "p_start": null
   },
   {
+   "spieler_id": 4345,
+   "name": "Noah Samanski",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 2,
+   "dt_pass": true,
+   "xp": 1.08,
+   "gegner": "Krefeld Pinguine",
+   "p_start": null
+  },
+  {
    "spieler_id": 3562,
    "name": "Max Calce",
    "team": "Adler Mannheim",
@@ -193,7 +217,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.62,
+   "xp": 0.59,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -231,30 +255,6 @@
    "dt_pass": true,
    "xp": 0.5,
    "gegner": "Krefeld Pinguine",
-   "p_start": null
-  },
-  {
-   "spieler_id": 1684,
-   "name": "Håkon Hänelt",
-   "team": "Schwenninger Wild Wings",
-   "team_id": 15,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.49,
-   "gegner": "Kölner Haie",
-   "p_start": null
-  },
-  {
-   "spieler_id": 4311,
-   "name": "Tobias Krestan",
-   "team": "Eisbären Berlin",
-   "team_id": 3,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.48,
-   "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   }
  ]
