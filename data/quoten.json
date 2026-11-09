@@ -1,25 +1,22 @@
 {
- "stand": "01.11.2026 18:06",
+ "stand": "09.11.2026 22:25",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
-  "bet365",
-  "unibet"
+  "bet365"
  ],
  "spiele": {
-  "11-7": {
-   "spiel": "Kölner Haie - Iserlohn Roosters",
-   "beginn": "01.11.2026 19:00",
+  "7-2": {
+   "spiel": "Iserlohn Roosters - Adler Mannheim",
+   "beginn": "12.11.2026 19:30",
    "buchmacher": [
-    "pinnacle",
-    "bet365",
-    "unibet"
+    "pinnacle"
    ],
-   "p_home60": 0.645,
-   "p_draw60": 0.187,
-   "p_away60": 0.168,
-   "p_home_inkl_ot": 0.751,
-   "total": 6.25
+   "p_home60": 0.229,
+   "p_draw60": 0.215,
+   "p_away60": 0.556,
+   "p_home_inkl_ot": 0.32,
+   "total": 5.73
   }
  }
 }
