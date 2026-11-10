@@ -1,11 +1,11 @@
 {
  "spieltag": 15,
  "deadline": "Thu 12.11.2026 19:30",
- "erstellt": "10.11.2026 01:16",
+ "erstellt": "10.11.2026 14:56",
  "budget": 60,
  "pucks": 60,
  "auslaender": 8,
- "xp_gesamt": 36.2,
+ "xp_gesamt": 37.3,
  "spiele": [
   {
    "spiel": "Iserlohn Roosters - Adler Mannheim",
@@ -80,6 +80,28 @@
  ],
  "aufstellung": [
   {
+   "spieler_id": 1069,
+   "name": "Jonas Neffin",
+   "team_id": 3,
+   "pos": "goal",
+   "preis": 3,
+   "dt_pass": true,
+   "gewaehlt_pct": 42.2,
+   "spiele": 9,
+   "xp": 4.62,
+   "gegner_id": 8,
+   "heim": false,
+   "hinweis": "Startquote manuell",
+   "p_start": 0.8,
+   "p_sieg60": 0.7,
+   "fangquote": 0.931,
+   "xga": 1.22,
+   "xsv": 22.9,
+   "team": "Eisbären Berlin",
+   "gegner": "Grizzlys Wolfsburg",
+   "wert_pro_puck": 1.54
+  },
+  {
    "spieler_id": 4338,
    "name": "Adam Scheel",
    "team_id": 44,
@@ -100,28 +122,6 @@
    "team": "Löwen Frankfurt",
    "gegner": "Pinguins Bremerhaven",
    "wert_pro_puck": 1.38
-  },
-  {
-   "spieler_id": 1069,
-   "name": "Jonas Neffin",
-   "team_id": 3,
-   "pos": "goal",
-   "preis": 3,
-   "dt_pass": true,
-   "gewaehlt_pct": 42.2,
-   "spiele": 9,
-   "xp": 3.46,
-   "gegner_id": 8,
-   "heim": false,
-   "hinweis": "",
-   "p_start": 0.6,
-   "p_sieg60": 0.7,
-   "fangquote": 0.931,
-   "xga": 1.22,
-   "xsv": 22.9,
-   "team": "Eisbären Berlin",
-   "gegner": "Grizzlys Wolfsburg",
-   "wert_pro_puck": 1.15
   },
   {
    "spieler_id": 3139,

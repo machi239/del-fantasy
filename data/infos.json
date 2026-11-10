@@ -11,7 +11,7 @@
   "1901": 0,
   "1655": 1,
   "3958": 0,
-  "2501": 0.5,
+  "2501": 1,
   "516": 1,
   "3575": 0,
   "1653": 0,
@@ -197,42 +197,45 @@
   "1694": 0.5,
   "4307": 0,
   "3551": 0.5,
-  "4310": 0.5,
+  "4310": 1,
   "2817": 0.5,
   "2868": 0.5,
   "2202": 0.5,
-  "3565": 0.5,
+  "3565": 1,
   "3442": 1,
   "2935": 1,
   "3564": 0.5,
   "3586": 0
  },
- "goalie_start": {},
+ "goalie_start": {
+  "1069": 0.8,
+  "4312": 0.2
+ },
  "notizen": {
   "104": "fehlte zuletzt, Grund unbekannt",
   "3551": "fehlte zuletzt, Grund unbekannt",
   "931": "fehlte im DEL-Boxscore vom 01.11., Grund unbekannt (Boxscore unvollständig)",
-  "4160": "fehlte am 01.11., Grund unbekannt (U20-Kandidat, evtl. überzählig)",
-  "4310": "fehlte am 01.11., Grund unbekannt (U20-Kandidat, evtl. überzählig)",
+  "4160": "laut Eisbären leicht angeschlagen, fehlt im CHL-Spiel in Kouvola am 10.11.",
+  "4310": "reist mit zum CHL-Spiel in Kouvola am 10.11.",
   "1694": "fehlte zuletzt, Grund unbekannt",
-  "3433": "fehlte am 01.11. wegen U20-Einsatz (laut Haie-Meldung 29.10.)",
+  "3433": "musste U20-Einsatz verletzungsbedingt absagen, trainiert laut Haie (09.11.) wieder mit dem Team",
   "3122": "fehlte zuletzt, Grund unbekannt",
   "2817": "fehlte zuletzt, Grund unbekannt",
   "2868": "fehlte zuletzt, Grund unbekannt",
   "2202": "fehlte zuletzt, Grund unbekannt",
-  "3565": "fehlte zuletzt, Grund unbekannt",
+  "3565": "Adler melden zum Restart den kompletten Kader verfügbar (09.11.)",
   "1350": "spielte am 01.11. in Schwenningen (2 Tore), fehlt nur im lückenhaften DEL-Boxscore",
   "4324": "am 01.11. in Wolfsburg zurück",
   "1397": "am 01.11. zurück, 2 Tore gegen Ingolstadt",
   "1771": "am 01.11. Comeback nach sechs Monaten Verletzungspause",
-  "1069": "startete am 01.11. gegen Mannheim (6 der letzten 8 Ligastarts); beim Deutschland Cup am 05.11. Shutout gegen Österreich",
+  "1069": "erhält im CHL-Spiel am 10.11. in Kouvola eine Pause (Neiße reist mit, LaFontaine damit wohl Starter) – spricht für Neffin-Start am 13.11. in Wolfsburg",
   "3442": "laut DEB leicht angeschlagen, für den Deutschland Cup durch Napravnik ersetzt; soll zum Ligastart wieder fit sein",
   "2935": "fehlte am 01.11. in Schwenningen kurzfristig erkrankt",
   "2820": "für den Deutschland Cup nachnominiert",
   "4899": "laut eishockeynews neu verpflichteter Mittelstürmer (Schwenningen)",
   "4317": "am 02.11. für ein Spiel gesperrt (Stockschlag gegen Bremerhaven)",
   "2804": "am 01.11. nach Fußverletzung zurück (rund 10 Minuten Eiszeit)",
-  "2501": "Rückkehr nach Unterkörperverletzung möglich, nicht bestätigt",
+  "2501": "laut Adler-Artikel vom 09.11. nach Verletzung wieder einsatzbereit (kompletter Kader zum Restart)",
   "3564": "vom 07. bis 12.11. Trainingsgast in Frankfurt, danach Neubewertung",
   "3586": "bis Saisonende in die DEL2 verliehen (Meldung Iserlohn ca. 08.11.)",
   "130": "beim Deutschland Cup am 07.11. gegen Lettland nicht eingesetzt, Grund nicht genannt",
@@ -240,6 +243,14 @@
   "1211": "startete beim Deutschland Cup am 07.11. gegen Lettland (1:3)"
  },
  "risiken": [
+  {
+   "text": "Mannheim, Berlin und Köln spielen vor dem Spieltag noch CHL. Mannheim am 10.11. gegen Tappara (Heim), Berlin am 10.11. in Kouvola, Köln am 11.11. gegen Liberec; bei Mannheim (12.11. in Iserlohn) sind Torhüterrotation und Belastung möglich.",
+   "schwer": false
+  },
+  {
+   "text": "Kris Bennett (Mannheim) wieder einsatzbereit. Laut Adler-Artikel vom 09.11. steht Trainer Eakins zum Restart der komplette Kader zur Verfügung.",
+   "schwer": false
+  },
   {
    "text": "Iserlohn holt Stürmer Magnus Eisenmenger und verleiht Bence Farkas. Eisenmenger (Center/Flügel, zuletzt Norwegen) ist mit sofortiger Wirkung spielberechtigt, Farkas geht bis Saisonende in die DEL2; Maximilian Eisenmenger bleibt vorerst verletzt.",
    "schwer": false
@@ -261,7 +272,7 @@
    "schwer": false
   },
   {
-   "text": "Jonas Neffin (Berlin) ist kein sicherer Starter (p_start 0.6). Er startete zuletzt am 01.11. gegen Mannheim, LaFontaine war Backup; Neffin spielt beim Deutschland Cup. Alternative gleichen Preises: Niklas Treutle (Nürnberg, 3 Pucks, p_start 0.8).",
+   "text": "Jonas Neffin (Berlin) ist kein ganz sicherer Starter (p_start 0.6 im Modell). Die Eisbären schonen ihn im CHL-Achtelfinale am 10.11. in Kouvola, LaFontaine dürfte dort starten – damit spricht viel für Neffin am 13.11. in Wolfsburg (Recherche-Schätzung 0.8). Alternative gleichen Preises: Niklas Treutle (Nürnberg, 3 Pucks, p_start 0.8).",
    "schwer": false
   },
   {
@@ -269,7 +280,7 @@
    "schwer": false
   },
   {
-   "text": "Länderspielpause bis 12.11. weiter ohne neue Verletzungsmeldungen. Vereinsseiten aller 14 Clubs, DEL-Kadernews und eishockeynews am 09.11. erneut geprüft; seit dem 08.11. keine neuen Ausfälle, Rückkehrer oder Sperren gemeldet (Grizzlys-Seite nicht erreichbar).",
+   "text": "Länderspielpause ohne neue schwere Ausfälle. Vereinsseiten am 10.11. erneut geprüft; neu: Bennett und kompletter Adler-Kader zurück, Stocker (Berlin) leicht angeschlagen, Späth (Köln) nach U20-Absage wieder im Training (Grizzlys- und hockeyweb-Seite nicht erreichbar).",
    "schwer": false
   },
   {
@@ -321,11 +332,6 @@
    "text": "Philipp Krening (München) fällt lange aus. Unterkörperverletzung, frühestens nach der Deutschland-Cup-Pause zurück.",
    "schwer": false,
    "bis": "2026-12-15"
-  },
-  {
-   "text": "Kris Bennett (Mannheim) weiter fraglich. Unterkörperverletzung vom 25.09. (vier bis sechs Wochen); Rückkehr zum Spiel in Iserlohn am 12.11. möglich, aber nicht gemeldet.",
-   "schwer": false,
-   "bis": "2026-11-12"
   },
   {
    "text": "Julian Chrobot (Wolfsburg) fällt monatelang aus. Kreuzbandverletzung aus der Vorbereitung.",
@@ -639,6 +645,30 @@
   {
    "titel": "eishockeynews: DEL",
    "url": "https://www.eishockeynews.de/del"
+  },
+  {
+   "titel": "Adler Mannheim: Das nächste Kapitel (CHL, Personal)",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/11/das-naechste-kapitel"
+  },
+  {
+   "titel": "Adler Mannheim: Offene Lizenzen, Spengler Cup und die Zukunft",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/11/offene-lizenzen-spengler-cup-und-die-zukunft"
+  },
+  {
+   "titel": "Eisbären: Achtelfinal-Hinspiel in Skandinavien",
+   "url": "https://www.eisbaeren.de/news/detail/achtelfinal-hinspiel-in-skandinavien"
+  },
+  {
+   "titel": "Kölner Haie: Haie zurück im Training",
+   "url": "https://www.haie.de/news/haie-zurueck-im-training-fokus-auf-liberec-schwenningen-und-wolfsburg/"
+  },
+  {
+   "titel": "Wild Wings: Verletzungsberichte",
+   "url": "https://www.schwenninger-wildwings.de/aktuell/verletzungsberichte/"
+  },
+  {
+   "titel": "Iserlohn: Roosters verpflichten Magnus Eisenmenger",
+   "url": "https://iserlohn-roosters.de/2026/11/08/roosters-verpflichten-magnus-eisenmenger-farkas-vor-abgang-in-richtung-del2/"
   }
  ],
  "odds": {},

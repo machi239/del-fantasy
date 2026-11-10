@@ -1,10 +1,22 @@
 {
  "spieltag": 15,
  "deadline": "Thu 12.11.2026 19:30",
- "erstellt": "10.11.2026 01:16",
+ "erstellt": "10.11.2026 14:56",
  "pucks": 60,
- "xp_gesamt": 36.2,
+ "xp_gesamt": 37.3,
  "aufstellung": [
+  {
+   "spieler_id": 1069,
+   "name": "Jonas Neffin",
+   "team": "Eisbären Berlin",
+   "team_id": 3,
+   "pos": "goal",
+   "preis": 3,
+   "dt_pass": true,
+   "xp": 4.62,
+   "gegner": "Grizzlys Wolfsburg",
+   "p_start": 0.8
+  },
   {
    "spieler_id": 4338,
    "name": "Adam Scheel",
@@ -16,18 +28,6 @@
    "xp": 4.14,
    "gegner": "Pinguins Bremerhaven",
    "p_start": 1.0
-  },
-  {
-   "spieler_id": 1069,
-   "name": "Jonas Neffin",
-   "team": "Eisbären Berlin",
-   "team_id": 3,
-   "pos": "goal",
-   "preis": 3,
-   "dt_pass": true,
-   "xp": 3.46,
-   "gegner": "Grizzlys Wolfsburg",
-   "p_start": 0.6
   },
   {
    "spieler_id": 3139,

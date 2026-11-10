@@ -1,6 +1,6 @@
 spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewaehlt_pct,hinweis,ppg,toi_faktor,matchup,p_einsatz,p_start,p_sieg60,xga,xsv
+1069,Jonas Neffin,Eisbären Berlin,goal,3,True,4.62,1.54,Grizzlys Wolfsburg,False,9,42.2,Startquote manuell,,,,,0.8,0.7,1.22,22.9
 4338,Adam Scheel,Löwen Frankfurt,goal,3,False,4.14,1.38,Pinguins Bremerhaven,True,11,5.3,,,,,,1.0,0.47,1.54,22.7
-1069,Jonas Neffin,Eisbären Berlin,goal,3,True,3.46,1.15,Grizzlys Wolfsburg,False,9,42.2,,,,,,0.6,0.7,1.22,22.9
 599,Niklas Treutle,Nürnberg Ice Tigers,goal,3,True,3.31,1.1,Krefeld Pinguine,False,13,21.7,,,,,,0.8,0.59,1.81,25.1
 1863,Thomas Heigl,Nürnberg Ice Tigers,for,5,True,2.77,0.55,Krefeld Pinguine,False,15,15.8,Eiszeit steigt,2.13,1.2,1.08,1,,,,
 648,Louis-Marc Aubry,Kölner Haie,for,5,True,2.62,0.52,Schwenninger Wild Wings,False,14,14.1,Eiszeit steigt,2.0,1.08,1.21,1,,,,
@@ -53,7 +53,6 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 3442,Samuel Dove-McFalls,Nürnberg Ice Tigers,for,5,True,1.56,0.31,Krefeld Pinguine,False,15,8.5,Eiszeit sinkt,1.68,0.86,1.08,1,,,,
 2835,Thomas Schemitsch,Schwenninger Wild Wings,def,4,False,1.55,0.39,Kölner Haie,True,15,1.1,,1.48,1.04,1.0,1,,,,
 1339,Phillip Bruggisser,Pinguins Bremerhaven,def,4,True,1.55,0.39,Löwen Frankfurt,False,14,19.5,,1.8,1.08,0.8,1.0,,,,
-4312,Jack LaFontaine,Eisbären Berlin,goal,2,False,1.53,0.77,Grizzlys Wolfsburg,False,5,7.8,,,,,,0.4,0.7,1.83,22.3
 3434,Veli-Matti Vittasmäki,Kölner Haie,def,4,False,1.53,0.38,Schwenninger Wild Wings,False,15,3.7,,1.22,1.04,1.21,1.0,,,,
 1404,Justin Schütz,Adler Mannheim,for,4,True,1.52,0.38,Iserlohn Roosters,False,10,14.2,,1.51,0.94,1.07,1,,,,
 512,Kai Wissmann,Eisbären Berlin,def,4,True,1.52,0.38,Grizzlys Wolfsburg,False,13,13.6,Einsatzquote 93%,1.42,1.03,1.12,0.93,,,,
@@ -61,6 +60,7 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 4142,Ville Pokka,EHC Red Bull München,def,5,False,1.5,0.3,Augsburger Panther,False,14,1.1,,1.54,1.0,0.98,1.0,,,,
 4701,Brandon Davidson,Eisbären Berlin,def,3,False,1.5,0.5,Grizzlys Wolfsburg,False,14,8.8,Eiszeit steigt,1.18,1.13,1.12,1.0,,,,
 2504,Tom Kühnhackl,Adler Mannheim,for,3,True,1.49,0.5,Iserlohn Roosters,False,14,9.9,Eiszeit steigt,1.23,1.13,1.07,1,,,,
+3565,Zachary Solow,Adler Mannheim,for,4,False,1.47,0.37,Iserlohn Roosters,False,13,3.2,,1.4,0.98,1.07,1,,,,
 4333,Jérémie Poirier,Adler Mannheim,def,3,False,1.47,0.49,Iserlohn Roosters,False,13,15.4,,1.37,1.0,1.07,1,,,,
 4315,Joseph Duszak,Straubing Tigers,def,3,False,1.43,0.48,ERC Ingolstadt,False,14,13.5,,1.26,0.99,1.15,1,,,,
 1072,Ryan Jones,Nürnberg Ice Tigers,def,3,False,1.43,0.48,Krefeld Pinguine,False,15,7.9,,1.22,1.08,1.08,1,,,,
@@ -152,11 +152,11 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 2028,Skyler McKenzie,Straubing Tigers,for,2,True,0.79,0.4,ERC Ingolstadt,False,14,5.5,Eiszeit sinkt,0.81,0.85,1.15,1.0,,,,
 2816,Johannes Krauß,Iserlohn Roosters,for,2,True,0.79,0.4,Adler Mannheim,True,14,2.5,,0.84,1.08,0.86,1.0,,,,
 2126,Eric Hördler,Eisbären Berlin,for,2,True,0.77,0.39,Grizzlys Wolfsburg,False,14,13.3,Eiszeit sinkt,0.75,0.92,1.12,1.0,,,,
+4312,Jack LaFontaine,Eisbären Berlin,goal,2,False,0.77,0.39,Grizzlys Wolfsburg,False,5,7.8,Startquote manuell,,,,,0.2,0.7,1.83,22.3
 4308,Alexander Broadhurst,Pinguins Bremerhaven,for,3,False,0.76,0.25,Löwen Frankfurt,False,6,0.9,Eiszeit sinkt,1.1,0.86,0.8,1,,,,
 235,Trevor Parkes,Augsburger Panther,for,2,True,0.76,0.38,EHC Red Bull München,True,14,17.2,Eiszeit sinkt,0.79,0.91,1.05,1,,,,
 2798,Luke Esposito,Adler Mannheim,for,2,False,0.75,0.38,Iserlohn Roosters,False,14,8.2,Einsatzquote 93%,0.76,0.98,1.07,0.93,,,,
 2489,John Gilmour,Adler Mannheim,def,4,False,0.74,0.18,Iserlohn Roosters,False,13,2.3,,1.45,0.95,1.07,0.5,,,,
-3565,Zachary Solow,Adler Mannheim,for,4,False,0.74,0.18,Iserlohn Roosters,False,13,3.2,,1.4,0.98,1.07,0.5,,,,
 1476,Tim Brunnhuber,Straubing Tigers,for,2,True,0.73,0.36,ERC Ingolstadt,False,14,2.4,,0.64,0.99,1.15,1.0,,,,
 4347,Luis Janett,Nürnberg Ice Tigers,goal,2,True,0.73,0.36,Krefeld Pinguine,False,2,0.9,,,,,,0.2,0.59,1.97,24.9
 4349,Austin Magera,Nürnberg Ice Tigers,for,2,False,0.69,0.34,Krefeld Pinguine,False,14,6.6,,0.67,0.95,1.08,1,,,,
@@ -218,6 +218,7 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 1764,Fabrizio Pilu,Augsburger Panther,def,2,True,0.46,0.23,EHC Red Bull München,True,12,2.0,Eiszeit sinkt,0.48,0.91,1.05,1,,,,
 990,Nicholas B. Jensen,Pinguins Bremerhaven,def,2,True,0.45,0.23,Löwen Frankfurt,False,9,3.1,,0.53,1.07,0.8,1,,,,
 4316,Spencer Kersten,Straubing Tigers,for,2,False,0.44,0.22,ERC Ingolstadt,False,11,2.7,Eiszeit sinkt,0.9,0.85,1.15,0.5,,,,
+2501,Kris Bennett,Adler Mannheim,for,2,False,0.44,0.22,Iserlohn Roosters,False,4,1.8,,0.41,0.99,1.07,1,,,,
 2131,Edwin Tropmann,ERC Ingolstadt,def,2,True,0.43,0.21,Straubing Tigers,True,15,10.8,Eiszeit sinkt,0.46,0.9,1.04,1.0,,,,
 4346,William Dufour,Nürnberg Ice Tigers,for,2,False,0.43,0.21,Krefeld Pinguine,False,10,1.6,Einsatzquote 67%,0.65,0.93,1.08,0.67,,,,
 2473,Markus Schweiger,Löwen Frankfurt,for,1,True,0.42,0.42,Pinguins Bremerhaven,True,14,1.5,Eiszeit steigt,0.41,1.17,0.88,1,,,,
@@ -252,12 +253,12 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 2367,Noah Dunham,Löwen Frankfurt,for,1,True,0.24,0.24,Pinguins Bremerhaven,True,14,0.7,Eiszeit steigt,0.24,1.14,0.88,1,,,,
 88,Oliver Mebus,Krefeld Pinguine,def,2,True,0.23,0.12,Nürnberg Ice Tigers,True,14,5.9,,0.53,1.02,0.86,0.5,,,,
 1705,Arkadiusz Dziambor,Schwenninger Wild Wings,def,2,True,0.23,0.12,Kölner Haie,True,14,1.5,Einsatzquote 88%,0.26,1.03,1.0,0.88,,,,
-2501,Kris Bennett,Adler Mannheim,for,2,False,0.22,0.11,Iserlohn Roosters,False,4,1.8,,0.41,0.99,1.07,0.5,,,,
 1405,Dennis Lobach,Iserlohn Roosters,for,1,True,0.21,0.21,Adler Mannheim,True,14,1.2,Eiszeit sinkt,0.27,0.91,0.86,1.0,,,,
 4330,Elias Pul,ERC Ingolstadt,for,1,True,0.2,0.2,Straubing Tigers,True,15,3.1,Eiszeit sinkt,0.22,0.85,1.04,1.0,,,,
 3309,Moritz Warnecke,EHC Red Bull München,def,1,True,0.2,0.2,Augsburger Panther,False,13,15.3,Eiszeit sinkt,0.24,0.85,0.98,1,,,,
 3585,Matthew Wedman,Löwen Frankfurt,for,1,False,0.2,0.2,Pinguins Bremerhaven,True,13,1.7,,0.22,1.07,0.88,1,,,,
 1856,Lennard Nieleck,Adler Mannheim,for,1,True,0.19,0.19,Iserlohn Roosters,False,13,6.5,Eiszeit sinkt,0.41,0.85,1.07,0.5,,,,
+4310,Rihards Griva,Eisbären Berlin,for,1,True,0.19,0.19,Grizzlys Wolfsburg,False,10,2.1,Eiszeit sinkt,0.2,0.85,1.12,1,,,,
 1836,Daniel Bruch,Krefeld Pinguine,for,1,True,0.19,0.19,Nürnberg Ice Tigers,True,12,4.1,"Eiszeit steigt, Einsatzquote 80%",0.25,1.08,0.86,0.8,,,,
 3433,Mateu Späth,Kölner Haie,for,1,True,0.19,0.19,Schwenninger Wild Wings,False,4,1.1,,0.31,1.0,1.21,0.5,,,,
 4148,Ty Glover,Löwen Frankfurt,for,1,False,0.19,0.19,Pinguins Bremerhaven,True,13,1.1,,0.22,0.97,0.88,1,,,,
@@ -276,7 +277,6 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 3553,Til Raab,Grizzlys Wolfsburg,for,1,True,0.11,0.11,Eisbären Berlin,True,0,0.7,,0.28,1.0,0.75,0.5,,,,
 1079,Eugen Alanov,Pinguins Bremerhaven,for,1,True,0.11,0.11,Löwen Frankfurt,False,6,0.5,Einsatzquote 43%,0.3,1.08,0.8,0.43,,,,
 4325,Luis Becker,EHC Red Bull München,for,1,True,0.1,0.1,Augsburger Panther,False,10,0.9,Einsatzquote 71%,0.15,0.93,0.98,0.71,,,,
-4310,Rihards Griva,Eisbären Berlin,for,1,True,0.09,0.09,Grizzlys Wolfsburg,False,10,2.1,Eiszeit sinkt,0.2,0.85,1.12,0.5,,,,
 3122,Robin Veber,Grizzlys Wolfsburg,for,1,True,0.09,0.09,Eisbären Berlin,True,5,0.2,Eiszeit sinkt,0.29,0.85,0.75,0.5,,,,
 513,Sven Ziegler,Grizzlys Wolfsburg,for,1,True,0.08,0.08,Eisbären Berlin,True,10,1.2,Eiszeit steigt,0.19,1.17,0.75,0.5,,,,
 1674,Yannick Proske,Krefeld Pinguine,for,1,True,0.08,0.08,Nürnberg Ice Tigers,True,6,2.6,,0.18,1.03,0.86,0.5,,,,
