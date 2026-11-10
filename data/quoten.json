@@ -1,22 +1,96 @@
 {
- "stand": "10.11.2026 19:39",
+ "stand": "10.11.2026 22:49",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
-  "bet365"
+  "bet365",
+  "unibet"
  ],
  "spiele": {
   "7-2": {
    "spiel": "Iserlohn Roosters - Adler Mannheim",
    "beginn": "12.11.2026 19:30",
    "buchmacher": [
+    "pinnacle",
+    "unibet"
+   ],
+   "p_home60": 0.214,
+   "p_draw60": 0.206,
+   "p_away60": 0.581,
+   "p_home_inkl_ot": 0.303,
+   "total": 5.71
+  },
+  "8-3": {
+   "spiel": "Grizzlys Wolfsburg - Eisbären Berlin",
+   "beginn": "13.11.2026 19:30",
+   "buchmacher": [
     "pinnacle"
    ],
-   "p_home60": 0.231,
-   "p_draw60": 0.217,
-   "p_away60": 0.553,
-   "p_home_inkl_ot": 0.322,
-   "total": 5.61
+   "p_home60": 0.244,
+   "p_draw60": 0.228,
+   "p_away60": 0.528,
+   "p_home_inkl_ot": 0.343,
+   "total": 6.04
+  },
+  "5-14": {
+   "spiel": "Krefeld Pinguine - Nürnberg Ice Tigers",
+   "beginn": "13.11.2026 19:30",
+   "buchmacher": [
+    "pinnacle"
+   ],
+   "p_home60": 0.387,
+   "p_draw60": 0.239,
+   "p_away60": 0.373,
+   "p_home_inkl_ot": 0.509,
+   "total": 6.09
+  },
+  "44-9": {
+   "spiel": "Löwen Frankfurt - Pinguins Bremerhaven",
+   "beginn": "13.11.2026 19:30",
+   "buchmacher": [
+    "pinnacle"
+   ],
+   "p_home60": 0.392,
+   "p_draw60": 0.244,
+   "p_away60": 0.363,
+   "p_home_inkl_ot": 0.516,
+   "total": 5.52
+  },
+  "13-12": {
+   "spiel": "Augsburger Panther - EHC Red Bull München",
+   "beginn": "13.11.2026 19:30",
+   "buchmacher": [
+    "pinnacle"
+   ],
+   "p_home60": 0.345,
+   "p_draw60": 0.238,
+   "p_away60": 0.417,
+   "p_home_inkl_ot": 0.459,
+   "total": 6.07
+  },
+  "1-6": {
+   "spiel": "ERC Ingolstadt - Straubing Tigers",
+   "beginn": "13.11.2026 19:30",
+   "buchmacher": [
+    "pinnacle"
+   ],
+   "p_home60": 0.458,
+   "p_draw60": 0.234,
+   "p_away60": 0.308,
+   "p_home_inkl_ot": 0.584,
+   "total": 6.15
+  },
+  "15-11": {
+   "spiel": "Schwenninger Wild Wings - Kölner Haie",
+   "beginn": "13.11.2026 19:30",
+   "buchmacher": [
+    "pinnacle"
+   ],
+   "p_home60": 0.285,
+   "p_draw60": 0.23,
+   "p_away60": 0.485,
+   "p_home_inkl_ot": 0.385,
+   "total": 5.98
   }
  }
 }
