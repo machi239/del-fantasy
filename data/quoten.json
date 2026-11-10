@@ -1,5 +1,5 @@
 {
- "stand": "09.11.2026 22:25",
+ "stand": "10.11.2026 01:16",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -12,11 +12,11 @@
    "buchmacher": [
     "pinnacle"
    ],
-   "p_home60": 0.229,
-   "p_draw60": 0.215,
-   "p_away60": 0.556,
-   "p_home_inkl_ot": 0.32,
-   "total": 5.73
+   "p_home60": 0.231,
+   "p_draw60": 0.217,
+   "p_away60": 0.553,
+   "p_home_inkl_ot": 0.322,
+   "total": 5.59
   }
  }
 }
