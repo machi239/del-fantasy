@@ -1,5 +1,5 @@
 {
- "stand": "10.11.2026 22:49",
+ "stand": "11.11.2026 19:41",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -14,11 +14,11 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.214,
-   "p_draw60": 0.206,
-   "p_away60": 0.581,
-   "p_home_inkl_ot": 0.303,
-   "total": 5.71
+   "p_home60": 0.219,
+   "p_draw60": 0.207,
+   "p_away60": 0.574,
+   "p_home_inkl_ot": 0.311,
+   "total": 5.81
   },
   "8-3": {
    "spiel": "Grizzlys Wolfsburg - Eisbären Berlin",
@@ -27,10 +27,10 @@
     "pinnacle"
    ],
    "p_home60": 0.244,
-   "p_draw60": 0.228,
-   "p_away60": 0.528,
-   "p_home_inkl_ot": 0.343,
-   "total": 6.04
+   "p_draw60": 0.232,
+   "p_away60": 0.524,
+   "p_home_inkl_ot": 0.344,
+   "total": 6.0
   },
   "5-14": {
    "spiel": "Krefeld Pinguine - Nürnberg Ice Tigers",
@@ -38,11 +38,11 @@
    "buchmacher": [
     "pinnacle"
    ],
-   "p_home60": 0.387,
-   "p_draw60": 0.239,
-   "p_away60": 0.373,
-   "p_home_inkl_ot": 0.509,
-   "total": 6.09
+   "p_home60": 0.353,
+   "p_draw60": 0.241,
+   "p_away60": 0.406,
+   "p_home_inkl_ot": 0.47,
+   "total": 6.01
   },
   "44-9": {
    "spiel": "Löwen Frankfurt - Pinguins Bremerhaven",
@@ -74,11 +74,11 @@
    "buchmacher": [
     "pinnacle"
    ],
-   "p_home60": 0.458,
-   "p_draw60": 0.234,
-   "p_away60": 0.308,
-   "p_home_inkl_ot": 0.584,
-   "total": 6.15
+   "p_home60": 0.41,
+   "p_draw60": 0.235,
+   "p_away60": 0.355,
+   "p_home_inkl_ot": 0.532,
+   "total": 6.14
   },
   "15-11": {
    "spiel": "Schwenninger Wild Wings - Kölner Haie",
@@ -86,10 +86,10 @@
    "buchmacher": [
     "pinnacle"
    ],
-   "p_home60": 0.285,
-   "p_draw60": 0.23,
-   "p_away60": 0.485,
-   "p_home_inkl_ot": 0.385,
+   "p_home60": 0.297,
+   "p_draw60": 0.232,
+   "p_away60": 0.471,
+   "p_home_inkl_ot": 0.402,
    "total": 5.98
   }
  }
