@@ -18,7 +18,7 @@
   "3695": 0,
   "1983": 0,
   "130": 1,
-  "2133": 0,
+  "2133": 0.5,
   "1075": 0,
   "1404": 1,
   "1823": 1,
@@ -153,7 +153,7 @@
   "1451": 1,
   "2468": 0,
   "3432": 1,
-  "3433": 0.5,
+  "3433": 1,
   "3567": 0.5,
   "1985": 1,
   "500": 1,
@@ -238,13 +238,19 @@
   "2501": "laut Adler-Artikel vom 09.11. nach Verletzung wieder einsatzbereit (kompletter Kader zum Restart)",
   "3564": "vom 07. bis 12.11. Trainingsgast in Frankfurt, danach Neubewertung",
   "3586": "bis Saisonende in die DEL2 verliehen (Meldung Iserlohn ca. 08.11.)",
-  "130": "beim Deutschland Cup am 07.11. gegen Lettland nicht eingesetzt, Grund nicht genannt",
+  "130": "beim Deutschland Cup in zwei von drei Spielen eingesetzt (2 Assists gegen die Slowakei), laut Haie zurück",
   "1755": "beim Deutschland Cup am 07.11. gegen Lettland nicht eingesetzt, Grund nicht genannt",
-  "1211": "startete beim Deutschland Cup am 07.11. gegen Lettland (1:3)"
+  "1211": "startete beim Deutschland Cup am 07.11. gegen Lettland (1:3)",
+  "2133": "laut Abendzeitung (10.11.) vor Comeback, Einsatz in Augsburg am 13.11. möglich",
+  "550": "laut Abendzeitung (10.11.) weiter verletzt",
+  "1753": "laut Abendzeitung (10.11.) weiter verletzt",
+  "3562": "fehlte im CHL-Spiel am 10.11. nur wegen fehlender U23-Pflicht, kein Ausfall",
+  "1985": "stand im CHL-Achtelfinale am 10.11. gegen Tappara im Tor (4:2); Mannheim rotiert zuletzt regelmäßig",
+  "500": "nach Hildebrands CHL-Einsatz am 10.11. spricht die Rotation für Franzreb in Iserlohn am 12.11. (nicht bestätigt)"
  },
  "risiken": [
   {
-   "text": "Mannheim, Berlin und Köln spielen vor dem Spieltag noch CHL. Mannheim am 10.11. gegen Tappara (Heim), Berlin am 10.11. in Kouvola, Köln am 11.11. gegen Liberec; bei Mannheim (12.11. in Iserlohn) sind Torhüterrotation und Belastung möglich.",
+   "text": "Mannheim und Berlin haben ihre CHL-Hinspiele gewonnen, Köln spielt am 11.11. gegen Liberec. Mannheim schlug Tappara am 10.11. 4:2 mit Hildebrand im Tor – bei der zuletzt regelmäßigen Rotation dürfte Franzreb am 12.11. in Iserlohn starten; Berlin gewann 5:3 in Kouvola (Kirk 2 Tore), keine neuen Verletzungen gemeldet.",
    "schwer": false
   },
   {
@@ -272,7 +278,7 @@
    "schwer": false
   },
   {
-   "text": "Jonas Neffin (Berlin) ist kein ganz sicherer Starter (p_start 0.6 im Modell). Die Eisbären schonen ihn im CHL-Achtelfinale am 10.11. in Kouvola, LaFontaine dürfte dort starten – damit spricht viel für Neffin am 13.11. in Wolfsburg (Recherche-Schätzung 0.8). Alternative gleichen Preises: Niklas Treutle (Nürnberg, 3 Pucks, p_start 0.8).",
+   "text": "Jonas Neffin (Berlin) ist wahrscheinlicher, aber nicht bestätigter Starter in Wolfsburg (p_start 0.8). Nach dem CHL-Spiel am 10.11. in Kouvola, in dem er geschont werden sollte, spricht viel für ihn am 13.11.; DEL-Spieler des Monats Oktober. Alternative gleichen Preises: Niklas Treutle (Nürnberg, 3 Pucks, p_start 0.8).",
    "schwer": false
   },
   {
@@ -280,13 +286,13 @@
    "schwer": false
   },
   {
-   "text": "Länderspielpause ohne neue schwere Ausfälle. Vereinsseiten am 10.11. erneut geprüft; neu: Bennett und kompletter Adler-Kader zurück, Stocker (Berlin) leicht angeschlagen, Späth (Köln) nach U20-Absage wieder im Training (Grizzlys- und hockeyweb-Seite nicht erreichbar).",
+   "text": "Keine neuen schweren Ausfälle vor dem Restart. Vereinsseiten und Medien am 11.11. erneut geprüft; neu: Krening (München) vor Comeback, Kahun und DeSousa weiter raus, Bokk (Köln) nach Deutschland Cup zurück; Schwenninger Verletzungsbericht unverändert (Grizzlys-Seite nicht erreichbar).",
    "schwer": false
   },
   {
-   "text": "Dominik Kahun (München) fällt bis nach der Länderspielpause aus. Unterkörperverletzung, Rückkehr frühestens am 13.11.; verpasst auch den Deutschland Cup.",
+   "text": "Dominik Kahun (München) fällt weiter aus. Laut Abendzeitung vom 10.11. vor dem Spiel in Augsburg noch verletzt (Unterkörper); Rückkehrtermin offen.",
    "schwer": true,
-   "bis": "2026-11-13"
+   "bis": "2026-11-20"
   },
   {
    "text": "Austin Ortega (Schwenningen) fällt mehrere Wochen aus. Operation am 19.10. laut Verein gut verlaufen; Neuzugang Connor Bunnaman debütierte am 23.10.",
@@ -324,14 +330,13 @@
    "bis": "2026-11-13"
   },
   {
-   "text": "Chris DeSousa (München) fällt weiter aus. Oberkörperverletzung seit Saisonauftakt, laut Vorschau vom 31.10. weiter out.",
+   "text": "Chris DeSousa (München) fällt weiter aus. Oberkörperverletzung seit Saisonauftakt, laut Abendzeitung vom 10.11. weiter verletzt.",
    "schwer": true,
-   "bis": "2026-11-13"
+   "bis": "2026-11-20"
   },
   {
-   "text": "Philipp Krening (München) fällt lange aus. Unterkörperverletzung, frühestens nach der Deutschland-Cup-Pause zurück.",
-   "schwer": false,
-   "bis": "2026-12-15"
+   "text": "Philipp Krening (München) vor dem Comeback. Laut Abendzeitung vom 10.11. ist ein Einsatz in Augsburg am 13.11. möglich; Niederberger und Rio Kaiser bleiben raus.",
+   "schwer": false
   },
   {
    "text": "Julian Chrobot (Wolfsburg) fällt monatelang aus. Kreuzbandverletzung aus der Vorbereitung.",
@@ -487,16 +492,8 @@
    "url": "https://www.straubing-tigers.de/"
   },
   {
-   "titel": "Straubing: Hudson Elynuik für ein Spiel gesperrt",
-   "url": "https://www.straubing-tigers.de/"
-  },
-  {
    "titel": "Kölner Haie News (Späth U20)",
    "url": "https://www.haie.de/news/"
-  },
-  {
-   "titel": "Iserlohn Roosters News 04.11.",
-   "url": "https://iserlohn-roosters.de/"
   },
   {
    "titel": "Löwen Frankfurt News",
@@ -669,6 +666,26 @@
   {
    "titel": "Iserlohn: Roosters verpflichten Magnus Eisenmenger",
    "url": "https://iserlohn-roosters.de/2026/11/08/roosters-verpflichten-magnus-eisenmenger-farkas-vor-abgang-in-richtung-del2/"
+  },
+  {
+   "titel": "eishockeynews: CHL – Berlin und Mannheim auf Viertelfinalkurs (10.11.)",
+   "url": "https://www.eishockeynews.de/artikel/siege-mit-zwei-toren-unterschied-berlin-und-mannheim-auf-europaeischem-viertelfinalkurs-1270521"
+  },
+  {
+   "titel": "RNZ: Adler Mannheim gegen Tappara Tampere",
+   "url": "https://www.rnz.de/sport/sportregional_artikel,-Adler-Mannheim-gegen-Tappara-Tampere-Die-Adler-melden-Ansprueche-aufs-Viertelfinale-an-_arid,2480098.html"
+  },
+  {
+   "titel": "Sportschau: Eisbären gewinnen Achtelfinal-Hinspiel in Finnland",
+   "url": "https://www.sportschau.de/regional/rbb/rbb-chl-eisbaeren-berlin-gewinnen-achtelfinal-hinspiel-in-finnland-100.html"
+  },
+  {
+   "titel": "Abendzeitung: Krening vor Comeback gegen Augsburg (10.11.)",
+   "url": "https://www.abendzeitung-muenchen.de/sport/ehc/az-info-blitz-comeback-gegen-augsburg-so-steht-es-um-ehc-stuermer-philipp-krening-art-1172398"
+  },
+  {
+   "titel": "Straubing Tigers: News",
+   "url": "https://www.straubing-tigers.de/?id=387"
   }
  ],
  "odds": {},
