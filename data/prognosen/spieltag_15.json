@@ -1,9 +1,9 @@
 {
  "spieltag": 15,
  "deadline": "Thu 12.11.2026 19:30",
- "erstellt": "11.11.2026 17:19",
+ "erstellt": "11.11.2026 19:41",
  "pucks": 60,
- "xp_gesamt": 34.4,
+ "xp_gesamt": 34.5,
  "aufstellung": [
   {
    "spieler_id": 1069,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 3.75,
+   "xp": 3.76,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": 0.8
   },
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.52,
+   "xp": 2.54,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -49,7 +49,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": true,
-   "xp": 2.46,
+   "xp": 2.47,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -61,20 +61,8 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.04,
+   "xp": 2.03,
    "gegner": "Grizzlys Wolfsburg",
-   "p_start": null
-  },
-  {
-   "spieler_id": 4251,
-   "name": "Robin Press",
-   "team": "Kölner Haie",
-   "team_id": 11,
-   "pos": "def",
-   "preis": 4,
-   "dt_pass": false,
-   "xp": 1.94,
-   "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
   {
@@ -85,7 +73,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.51,
+   "xp": 1.52,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -102,6 +90,18 @@
    "p_start": null
   },
   {
+   "spieler_id": 2916,
+   "name": "Linus Fröberg",
+   "team": "Löwen Frankfurt",
+   "team_id": 44,
+   "pos": "def",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.42,
+   "gegner": "Pinguins Bremerhaven",
+   "p_start": null
+  },
+  {
    "spieler_id": 1987,
    "name": "Davis Vandane",
    "team": "Krefeld Pinguine",
@@ -109,7 +109,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.43,
+   "xp": 1.39,
    "gegner": "Nürnberg Ice Tigers",
    "p_start": null
   },
@@ -121,20 +121,20 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": true,
-   "xp": 2.61,
+   "xp": 2.64,
    "gegner": "Krefeld Pinguine",
    "p_start": null
   },
   {
-   "spieler_id": 3410,
-   "name": "Liam Kirk",
-   "team": "Eisbären Berlin",
-   "team_id": 3,
+   "spieler_id": 2121,
+   "name": "Jean-Christophe Beaudin",
+   "team": "Straubing Tigers",
+   "team_id": 6,
    "pos": "for",
-   "preis": 5,
+   "preis": 4,
    "dt_pass": false,
-   "xp": 2.55,
-   "gegner": "Grizzlys Wolfsburg",
+   "xp": 2.01,
+   "gegner": "ERC Ingolstadt",
    "p_start": null
   },
   {
@@ -145,7 +145,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": true,
-   "xp": 1.65,
+   "xp": 1.66,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -157,8 +157,20 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": true,
-   "xp": 1.53,
+   "xp": 1.54,
    "gegner": "Iserlohn Roosters",
+   "p_start": null
+  },
+  {
+   "spieler_id": 4350,
+   "name": "Jackson Cates",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.54,
+   "gegner": "Krefeld Pinguine",
    "p_start": null
   },
   {
@@ -181,7 +193,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.06,
+   "xp": 1.07,
    "gegner": "Kölner Haie",
    "p_start": null
   },
@@ -193,7 +205,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.01,
+   "xp": 1.03,
    "gegner": "Krefeld Pinguine",
    "p_start": null
   },
@@ -205,7 +217,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.59,
+   "xp": 0.6,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -229,32 +241,20 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": false,
-   "xp": 0.55,
+   "xp": 0.53,
    "gegner": "Nürnberg Ice Tigers",
    "p_start": null
   },
   {
-   "spieler_id": 4311,
-   "name": "Tobias Krestan",
-   "team": "Eisbären Berlin",
-   "team_id": 3,
+   "spieler_id": 2801,
+   "name": "Nikolaus Heigl",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
    "xp": 0.48,
-   "gegner": "Grizzlys Wolfsburg",
-   "p_start": null
-  },
-  {
-   "spieler_id": 1896,
-   "name": "Philipp Krauß",
-   "team": "Augsburger Panther",
-   "team_id": 13,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.48,
-   "gegner": "EHC Red Bull München",
+   "gegner": "Krefeld Pinguine",
    "p_start": null
   }
  ]
