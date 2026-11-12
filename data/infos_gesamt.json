@@ -1,5 +1,5 @@
 {
- "spieltag": 15,
+ "spieltag": 16,
  "availability": {
   "2804": 1,
   "1753": 0,
@@ -38,7 +38,7 @@
   "92": 1,
   "3412": 0.5,
   "4344": 0,
-  "4317": 0,
+  "4317": 0.5,
   "1659": 0,
   "2510": 0.5,
   "1397": 1,
@@ -160,7 +160,7 @@
   "235": 1,
   "268": 1,
   "1306": 1,
-  "1447": 0,
+  "1447": 1,
   "1553": 1,
   "1657": 1,
   "1682": 1,
@@ -207,105 +207,13 @@
   "3564": 0.5,
   "3586": 0
  },
- "goalie_start": {
-  "1069": 0.8,
-  "4312": 0.2
- },
- "notizen": {
-  "104": "fehlte zuletzt, Grund unbekannt",
-  "3551": "fehlte zuletzt, Grund unbekannt",
-  "931": "fehlte im DEL-Boxscore vom 01.11., Grund unbekannt (Boxscore unvollständig)",
-  "4160": "laut Eisbären leicht angeschlagen, fehlte im CHL-Spiel in Kouvola am 10.11.",
-  "4310": "reist mit zum CHL-Spiel in Kouvola am 10.11.",
-  "1694": "spielte am 11.11. im CHL-Hinspiel gegen Liberec (Assist), einsatzbereit",
-  "3433": "musste U20-Einsatz verletzungsbedingt absagen, trainiert laut Haie (09.11.) wieder mit dem Team",
-  "3122": "fehlte zuletzt, Grund unbekannt",
-  "2817": "fehlte zuletzt, Grund unbekannt",
-  "2868": "fehlte zuletzt, Grund unbekannt",
-  "2202": "fehlte zuletzt, Grund unbekannt",
-  "3565": "Adler melden zum Restart den kompletten Kader verfügbar (09.11.)",
-  "1350": "spielte am 01.11. in Schwenningen (2 Tore), fehlt nur im lückenhaften DEL-Boxscore",
-  "4324": "am 01.11. in Wolfsburg zurück",
-  "1397": "am 01.11. zurück, 2 Tore gegen Ingolstadt",
-  "1771": "am 01.11. Comeback nach sechs Monaten Verletzungspause",
-  "1069": "wurde im CHL-Spiel am 10.11. in Kouvola geschont (LaFontaine startete) – spricht für Neffin-Start am 13.11. in Wolfsburg, nicht bestätigt",
-  "3442": "laut DEB leicht angeschlagen, für den Deutschland Cup durch Napravnik ersetzt; soll zum Ligastart wieder fit sein",
-  "2935": "fehlte am 01.11. in Schwenningen kurzfristig erkrankt",
-  "2820": "für den Deutschland Cup nachnominiert",
-  "4899": "laut eishockeynews neu verpflichteter Mittelstürmer (Schwenningen)",
-  "4317": "am 02.11. für ein Spiel gesperrt (Stockschlag gegen Bremerhaven)",
-  "2804": "am 01.11. nach Fußverletzung zurück (rund 10 Minuten Eiszeit)",
-  "2501": "laut Adler-Artikel vom 09.11. nach Verletzung wieder einsatzbereit (kompletter Kader zum Restart)",
-  "3564": "vom 07. bis 12.11. Trainingsgast in Frankfurt, danach Neubewertung",
-  "3586": "bis Saisonende in die DEL2 verliehen (Meldung Iserlohn ca. 08.11.)",
-  "130": "beim Deutschland Cup in zwei von drei Spielen eingesetzt (2 Assists gegen die Slowakei), laut Haie zurück",
-  "1755": "beim Deutschland Cup am 07.11. gegen Lettland nicht eingesetzt, Grund nicht genannt",
-  "1211": "startete beim Deutschland Cup am 07.11. gegen Lettland (1:3)",
-  "2133": "laut Verein (10.11.) erstmals wieder voll im Mannschaftstraining, Einsatz in Augsburg oder gegen Krefeld noch offen",
-  "550": "laut Abendzeitung (10.11.) weiter verletzt",
-  "1753": "laut Abendzeitung (10.11.) weiter verletzt",
-  "3562": "fehlte im CHL-Spiel am 10.11. nur wegen fehlender U23-Pflicht, kein Ausfall",
-  "1985": "stand im CHL-Achtelfinale am 10.11. gegen Tappara im Tor (4:2); Mannheim rotiert zuletzt regelmäßig",
-  "500": "nach Hildebrands CHL-Einsatz am 10.11. spricht die Rotation für Franzreb in Iserlohn am 12.11. (nicht bestätigt)",
-  "2172": "spielte am 11.11. im CHL-Hinspiel gegen Liberec (Tor in Unterzahl), zurück",
-  "1075": "laut Schwäbischer (11.11.) nach Fußbruch zurück, muss Rhythmus finden; Einsatz gegen Köln offen",
-  "1435": "laut Schwäbischer (11.11.) Einsatz gegen Köln unklar",
-  "597": "laut Schwäbischer (11.11.) Einsatz gegen Köln unklar",
-  "3323": "Muskelverletzung, Ausfall laut Verein bis zur Länderspielpause; Rückkehr nicht bestätigt",
-  "4336": "Muskelverletzung, Ausfall laut Verein für einige Wochen (15.10.); Rückkehr nicht bestätigt",
-  "4312": "startete am 10.11. im CHL-Spiel in Kouvola, daher in Wolfsburg eher Backup",
-  "998": "hielt beide Spiele vor der Pause; Jenike (6 Spiele) Alternative, Starter gegen Mannheim nicht genannt",
-  "1659": "laut Adler-Vorbericht (11.11.) weiter mit Fußbruch raus"
- },
+ "goalie_start": {},
+ "notizen": {},
  "risiken": [
-  {
-   "text": "Mannheim, Berlin und Köln haben ihre CHL-Hinspiele gewonnen. Mannheim schlug Tappara am 10.11. 4:2 mit Hildebrand im Tor – bei der zuletzt regelmäßigen Rotation dürfte Franzreb am 12.11. in Iserlohn starten (nicht bestätigt); Berlin gewann 5:3 in Kouvola mit LaFontaine, Köln 4:2 gegen Liberec mit Juvonen; keine neuen Verletzungen gemeldet.",
-   "schwer": false
-  },
-  {
-   "text": "Kris Bennett (Mannheim) wieder einsatzbereit. Laut Adler-Artikel vom 09.11. steht Trainer Eakins zum Restart der komplette Kader zur Verfügung.",
-   "schwer": false
-  },
-  {
-   "text": "Iserlohn holt Stürmer Magnus Eisenmenger und verleiht Bence Farkas. Eisenmenger ist sofort spielberechtigt; Maximilian Eisenmenger fällt laut Adler-Vorbericht vom 11.11. weiter mit Fußbruch aus. Im Iserlohner Tor hielt Hane beide Spiele vor der Pause.",
-   "schwer": false
-  },
-  {
-   "text": "Markus Phillips neu in Frankfurt. Linksschießender Verteidiger aus der KHL, Vertrag bis Saisonende, erstes Training am 07.11.; Einsatz gegen Bremerhaven am 13.11. möglich.",
-   "schwer": false
-  },
-  {
-   "text": "Colin Schlenker (Mannheim) vom 07. bis 12.11. Trainingsgast in Frankfurt. Leihe zur Entwicklung, Einsatz für Mannheim in Iserlohn am 12.11. fraglich.",
-   "schwer": false
-  },
-  {
-   "text": "Hudson Elynuik (Straubing) für ein Spiel gesperrt. Stockschlag im Spiel in Bremerhaven, Meldung vom 02.11.; betrifft voraussichtlich das Spiel in Ingolstadt am 13.11.",
-   "schwer": false
-  },
-  {
-   "text": "Marcel Brandt (Straubing) fehlte am 01.11. in Bremerhaven. Grund weiter nicht gemeldet, auch Tyler Madden fehlte; Vereinsseite ohne Verletzungsmeldung, vor dem Spiel in Ingolstadt am 13.11. erneut prüfen.",
-   "schwer": false
-  },
-  {
-   "text": "Jonas Neffin (Berlin) ist wahrscheinlicher, aber nicht bestätigter Starter in Wolfsburg (p_start 0.8). Nach dem CHL-Spiel am 10.11. in Kouvola, in dem er geschont werden sollte, spricht viel für ihn am 13.11.; DEL-Spieler des Monats Oktober. Alternative gleichen Preises: Niklas Treutle (Nürnberg, 3 Pucks, p_start 0.8).",
-   "schwer": false
-  },
-  {
-   "text": "Samuel Dove-McFalls (Nürnberg) leicht angeschlagen. Der DEB hat ihn am 02.11. für den Deutschland Cup durch Julian Napravnik (Iserlohn) ersetzt, damit er zum Ligastart am 12./13.11. fit ist.",
-   "schwer": false
-  },
-  {
-   "text": "Keine neuen schweren Ausfälle am Spieltag des Restarts. Vereinsseiten und Medien am 12.11. erneut geprüft; neu: MacInnis und Sennhenn (Köln) spielten am 11.11. in der CHL (4:2 gegen Liberec, Juvonen im Tor), Hungerecker (Schwenningen) zurück, Krening (München) wieder voll im Training; Grizzlys-Seite weiter nicht erreichbar.",
-   "schwer": false
-  },
   {
    "text": "Dominik Kahun (München) fällt weiter aus. Laut Abendzeitung vom 10.11. vor dem Spiel in Augsburg noch verletzt (Unterkörper); Rückkehrtermin offen.",
    "schwer": true,
    "bis": "2026-11-20"
-  },
-  {
-   "text": "Schwenningen vor dem Spiel gegen Köln mit offenen Personalfragen. Laut Schwäbischer vom 11.11. ist Phil Hungerecker nach Fußbruch zurück, bei Uvira und Ortega ist ein Einsatz unklar; zu Schreiner und Lebster (laut Verletzungsbericht bis zur Pause bzw. einige Wochen raus) keine neue Meldung.",
-   "schwer": false
   },
   {
    "text": "Straubing ohne Torhüter Florian Bugl. Unterkörperverletzung vom 09.10., fällt laut Verein langfristig aus; Skarek spielt seitdem jedes Spiel, Backup Pantkowski.",
@@ -336,10 +244,6 @@
    "text": "Chris DeSousa (München) fällt weiter aus. Oberkörperverletzung seit Saisonauftakt, laut Abendzeitung vom 10.11. weiter verletzt.",
    "schwer": true,
    "bis": "2026-11-20"
-  },
-  {
-   "text": "Philipp Krening (München) vor dem Comeback. Laut Abendzeitung vom 10.11. ist ein Einsatz in Augsburg am 13.11. möglich; Niederberger und Rio Kaiser bleiben raus.",
-   "schwer": false
   },
   {
    "text": "Julian Chrobot (Wolfsburg) fällt monatelang aus. Kreuzbandverletzung aus der Vorbereitung.",
@@ -390,18 +294,6 @@
    "text": "Rio Kaiser (München) fällt bis Anfang 2027 aus. Unterkörperverletzung, zugezogen beim Einsatz für Riessersee, Meldung vom 30.10.",
    "schwer": false,
    "bis": "2027-01-15"
-  },
-  {
-   "text": "Krefeld nennt für das Heimspiel gegen Nürnberg am 13.11. 19:00 Uhr als Beginn. Im Spielplan steht 19:30 Uhr; für die Deadline (12.11., 19:30) ohne Bedeutung.",
-   "schwer": false
-  },
-  {
-   "text": "Hudson Elynuik gesperrt. 1 Spiel(e) laut DEL-Strafbank (gemeldet 2026-11-02), letztes gesperrtes Spiel am 2026-11-13.",
-   "schwer": true
-  },
-  {
-   "text": "Maximilian Glötzl gesperrt. 2 Spiel(e) laut DEL-Strafbank (gemeldet 2026-10-30), letztes gesperrtes Spiel am 2026-11-13.",
-   "schwer": true
   }
  ],
  "quellen": [
@@ -720,14 +612,6 @@
   {
    "titel": "Grizzlys: Schinko, Pasanen und Co. belegen Rang zwei (08.11.)",
    "url": "https://www.grizzlys.de/news_2841.html"
-  },
-  {
-   "titel": "DEL-Strafbank: Ein Spiel Sperre für Straubings Hudson Elynuik",
-   "url": "https://www.penny-del.org/fair-play/strafbank/detail/ein-spiel-sperre-fuer-straubings-hudson-elynuik"
-  },
-  {
-   "titel": "DEL-Strafbank: Zwei Spiele Sperre für Augsburgs Maximilian Glötzl",
-   "url": "https://www.penny-del.org/fair-play/strafbank/detail/zwei-spiele-sperre-fuer-augsburgs-maximilian-gloetzl"
   }
  ],
  "odds": {},
