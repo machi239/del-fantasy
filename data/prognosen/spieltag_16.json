@@ -1,9 +1,9 @@
 {
  "spieltag": 16,
  "deadline": "Sun 15.11.2026 14:00",
- "erstellt": "12.11.2026 19:54",
+ "erstellt": "12.11.2026 20:11",
  "pucks": 60,
- "xp_gesamt": 38.2,
+ "xp_gesamt": 38.0,
  "aufstellung": [
   {
    "spieler_id": 599,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 3.67,
+   "xp": 3.73,
    "gegner": "Iserlohn Roosters",
    "p_start": 0.8
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 3.57,
+   "xp": 3.56,
    "gegner": "Schwenninger Wild Wings",
    "p_start": 0.6
   },
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.76,
+   "xp": 2.71,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -49,20 +49,8 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.29,
+   "xp": 2.31,
    "gegner": "Schwenninger Wild Wings",
-   "p_start": null
-  },
-  {
-   "spieler_id": 100,
-   "name": "Marcus Weber",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
-   "pos": "def",
-   "preis": 4,
-   "dt_pass": true,
-   "xp": 2.22,
-   "gegner": "Iserlohn Roosters",
    "p_start": null
   },
   {
@@ -73,8 +61,20 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 2.21,
+   "xp": 2.23,
    "gegner": "Grizzlys Wolfsburg",
+   "p_start": null
+  },
+  {
+   "spieler_id": 100,
+   "name": "Marcus Weber",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "def",
+   "preis": 4,
+   "dt_pass": true,
+   "xp": 2.17,
+   "gegner": "Iserlohn Roosters",
    "p_start": null
   },
   {
@@ -85,7 +85,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.67,
+   "xp": 1.68,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
@@ -97,7 +97,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.65,
+   "xp": 1.62,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -109,7 +109,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.65,
+   "xp": 1.62,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": true,
-   "xp": 3.2,
+   "xp": 3.13,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -133,7 +133,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.86,
+   "xp": 2.89,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
@@ -145,7 +145,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.87,
+   "xp": 1.83,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -157,7 +157,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": true,
-   "xp": 1.8,
+   "xp": 1.77,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -169,7 +169,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": true,
-   "xp": 1.69,
+   "xp": 1.71,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   },
@@ -181,7 +181,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.24,
+   "xp": 1.22,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -193,7 +193,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.0,
+   "xp": 1.01,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -205,7 +205,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.65,
+   "xp": 0.64,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -217,19 +217,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.58,
-   "gegner": "Iserlohn Roosters",
-   "p_start": null
-  },
-  {
-   "spieler_id": 3577,
-   "name": "Timo Bakos",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.54,
+   "xp": 0.57,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -241,8 +229,20 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.53,
+   "xp": 0.54,
    "gegner": "Schwenninger Wild Wings",
+   "p_start": null
+  },
+  {
+   "spieler_id": 3577,
+   "name": "Timo Bakos",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 1,
+   "dt_pass": true,
+   "xp": 0.53,
+   "gegner": "Iserlohn Roosters",
    "p_start": null
   },
   {
@@ -253,7 +253,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.51,
+   "xp": 0.52,
    "gegner": "Straubing Tigers",
    "p_start": null
   }
