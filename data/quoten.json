@@ -1,5 +1,5 @@
 {
- "stand": "11.11.2026 23:42",
+ "stand": "12.11.2026 19:53",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -7,19 +7,6 @@
   "unibet"
  ],
  "spiele": {
-  "7-2": {
-   "spiel": "Iserlohn Roosters - Adler Mannheim",
-   "beginn": "12.11.2026 19:30",
-   "buchmacher": [
-    "pinnacle",
-    "unibet"
-   ],
-   "p_home60": 0.218,
-   "p_draw60": 0.206,
-   "p_away60": 0.576,
-   "p_home_inkl_ot": 0.309,
-   "total": 5.81
-  },
   "8-3": {
    "spiel": "Grizzlys Wolfsburg - Eisbären Berlin",
    "beginn": "13.11.2026 19:30",
@@ -66,9 +53,9 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.331,
-   "p_draw60": 0.237,
-   "p_away60": 0.432,
+   "p_home60": 0.33,
+   "p_draw60": 0.236,
+   "p_away60": 0.433,
    "p_home_inkl_ot": 0.446,
    "total": 6.01
   },
