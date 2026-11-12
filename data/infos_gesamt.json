@@ -19,7 +19,7 @@
   "1983": 0,
   "130": 1,
   "2133": 0.5,
-  "1075": 0,
+  "1075": 0.5,
   "1404": 1,
   "1823": 1,
   "1360": 0.5,
@@ -66,7 +66,7 @@
   "486": 1,
   "1430": 1,
   "4897": 1,
-  "4336": 0,
+  "4336": 0.5,
   "1887": 1,
   "3424": 1,
   "1594": 1,
@@ -81,7 +81,7 @@
   "3553": 0.5,
   "1644": 1,
   "4243": 1,
-  "2172": 0,
+  "2172": 1,
   "1678": 1,
   "1799": 1,
   "3569": 0,
@@ -90,8 +90,8 @@
   "4324": 1,
   "2194": 0,
   "4349": 1,
-  "1435": 0,
-  "3323": 0,
+  "1435": 0.5,
+  "3323": 0.5,
   "478": 1,
   "4335": 0.5,
   "3585": 1,
@@ -132,7 +132,7 @@
   "80": 1,
   "648": 1,
   "1684": 1,
-  "597": 0,
+  "597": 0.5,
   "3560": 0.5,
   "3559": 1,
   "4160": 0.5,
@@ -194,7 +194,7 @@
   "4153": 0,
   "1825": 0,
   "2521": 0,
-  "1694": 0.5,
+  "1694": 1,
   "4307": 0,
   "3551": 0.5,
   "4310": 1,
@@ -215,9 +215,9 @@
   "104": "fehlte zuletzt, Grund unbekannt",
   "3551": "fehlte zuletzt, Grund unbekannt",
   "931": "fehlte im DEL-Boxscore vom 01.11., Grund unbekannt (Boxscore unvollständig)",
-  "4160": "laut Eisbären leicht angeschlagen, fehlt im CHL-Spiel in Kouvola am 10.11.",
+  "4160": "laut Eisbären leicht angeschlagen, fehlte im CHL-Spiel in Kouvola am 10.11.",
   "4310": "reist mit zum CHL-Spiel in Kouvola am 10.11.",
-  "1694": "fehlte zuletzt, Grund unbekannt",
+  "1694": "spielte am 11.11. im CHL-Hinspiel gegen Liberec (Assist), einsatzbereit",
   "3433": "musste U20-Einsatz verletzungsbedingt absagen, trainiert laut Haie (09.11.) wieder mit dem Team",
   "3122": "fehlte zuletzt, Grund unbekannt",
   "2817": "fehlte zuletzt, Grund unbekannt",
@@ -228,7 +228,7 @@
   "4324": "am 01.11. in Wolfsburg zurück",
   "1397": "am 01.11. zurück, 2 Tore gegen Ingolstadt",
   "1771": "am 01.11. Comeback nach sechs Monaten Verletzungspause",
-  "1069": "erhält im CHL-Spiel am 10.11. in Kouvola eine Pause (Neiße reist mit, LaFontaine damit wohl Starter) – spricht für Neffin-Start am 13.11. in Wolfsburg",
+  "1069": "wurde im CHL-Spiel am 10.11. in Kouvola geschont (LaFontaine startete) – spricht für Neffin-Start am 13.11. in Wolfsburg, nicht bestätigt",
   "3442": "laut DEB leicht angeschlagen, für den Deutschland Cup durch Napravnik ersetzt; soll zum Ligastart wieder fit sein",
   "2935": "fehlte am 01.11. in Schwenningen kurzfristig erkrankt",
   "2820": "für den Deutschland Cup nachnominiert",
@@ -241,16 +241,25 @@
   "130": "beim Deutschland Cup in zwei von drei Spielen eingesetzt (2 Assists gegen die Slowakei), laut Haie zurück",
   "1755": "beim Deutschland Cup am 07.11. gegen Lettland nicht eingesetzt, Grund nicht genannt",
   "1211": "startete beim Deutschland Cup am 07.11. gegen Lettland (1:3)",
-  "2133": "laut Abendzeitung (10.11.) vor Comeback, Einsatz in Augsburg am 13.11. möglich",
+  "2133": "laut Verein (10.11.) erstmals wieder voll im Mannschaftstraining, Einsatz in Augsburg oder gegen Krefeld noch offen",
   "550": "laut Abendzeitung (10.11.) weiter verletzt",
   "1753": "laut Abendzeitung (10.11.) weiter verletzt",
   "3562": "fehlte im CHL-Spiel am 10.11. nur wegen fehlender U23-Pflicht, kein Ausfall",
   "1985": "stand im CHL-Achtelfinale am 10.11. gegen Tappara im Tor (4:2); Mannheim rotiert zuletzt regelmäßig",
-  "500": "nach Hildebrands CHL-Einsatz am 10.11. spricht die Rotation für Franzreb in Iserlohn am 12.11. (nicht bestätigt)"
+  "500": "nach Hildebrands CHL-Einsatz am 10.11. spricht die Rotation für Franzreb in Iserlohn am 12.11. (nicht bestätigt)",
+  "2172": "spielte am 11.11. im CHL-Hinspiel gegen Liberec (Tor in Unterzahl), zurück",
+  "1075": "laut Schwäbischer (11.11.) nach Fußbruch zurück, muss Rhythmus finden; Einsatz gegen Köln offen",
+  "1435": "laut Schwäbischer (11.11.) Einsatz gegen Köln unklar",
+  "597": "laut Schwäbischer (11.11.) Einsatz gegen Köln unklar",
+  "3323": "Muskelverletzung, Ausfall laut Verein bis zur Länderspielpause; Rückkehr nicht bestätigt",
+  "4336": "Muskelverletzung, Ausfall laut Verein für einige Wochen (15.10.); Rückkehr nicht bestätigt",
+  "4312": "startete am 10.11. im CHL-Spiel in Kouvola, daher in Wolfsburg eher Backup",
+  "998": "hielt beide Spiele vor der Pause; Jenike (6 Spiele) Alternative, Starter gegen Mannheim nicht genannt",
+  "1659": "laut Adler-Vorbericht (11.11.) weiter mit Fußbruch raus"
  },
  "risiken": [
   {
-   "text": "Mannheim und Berlin haben ihre CHL-Hinspiele gewonnen, Köln spielt am 11.11. gegen Liberec. Mannheim schlug Tappara am 10.11. 4:2 mit Hildebrand im Tor – bei der zuletzt regelmäßigen Rotation dürfte Franzreb am 12.11. in Iserlohn starten; Berlin gewann 5:3 in Kouvola (Kirk 2 Tore), keine neuen Verletzungen gemeldet.",
+   "text": "Mannheim, Berlin und Köln haben ihre CHL-Hinspiele gewonnen. Mannheim schlug Tappara am 10.11. 4:2 mit Hildebrand im Tor – bei der zuletzt regelmäßigen Rotation dürfte Franzreb am 12.11. in Iserlohn starten (nicht bestätigt); Berlin gewann 5:3 in Kouvola mit LaFontaine, Köln 4:2 gegen Liberec mit Juvonen; keine neuen Verletzungen gemeldet.",
    "schwer": false
   },
   {
@@ -258,7 +267,7 @@
    "schwer": false
   },
   {
-   "text": "Iserlohn holt Stürmer Magnus Eisenmenger und verleiht Bence Farkas. Eisenmenger (Center/Flügel, zuletzt Norwegen) ist mit sofortiger Wirkung spielberechtigt, Farkas geht bis Saisonende in die DEL2; Maximilian Eisenmenger bleibt vorerst verletzt.",
+   "text": "Iserlohn holt Stürmer Magnus Eisenmenger und verleiht Bence Farkas. Eisenmenger ist sofort spielberechtigt; Maximilian Eisenmenger fällt laut Adler-Vorbericht vom 11.11. weiter mit Fußbruch aus. Im Iserlohner Tor hielt Hane beide Spiele vor der Pause.",
    "schwer": false
   },
   {
@@ -286,7 +295,7 @@
    "schwer": false
   },
   {
-   "text": "Keine neuen schweren Ausfälle vor dem Restart. Vereinsseiten und Medien am 11.11. erneut geprüft; neu: Krening (München) vor Comeback, Kahun und DeSousa weiter raus, Bokk (Köln) nach Deutschland Cup zurück; Schwenninger Verletzungsbericht unverändert (Grizzlys-Seite nicht erreichbar).",
+   "text": "Keine neuen schweren Ausfälle am Spieltag des Restarts. Vereinsseiten und Medien am 12.11. erneut geprüft; neu: MacInnis und Sennhenn (Köln) spielten am 11.11. in der CHL (4:2 gegen Liberec, Juvonen im Tor), Hungerecker (Schwenningen) zurück, Krening (München) wieder voll im Training; Grizzlys-Seite weiter nicht erreichbar.",
    "schwer": false
   },
   {
@@ -295,14 +304,8 @@
    "bis": "2026-11-20"
   },
   {
-   "text": "Austin Ortega (Schwenningen) fällt mehrere Wochen aus. Operation am 19.10. laut Verein gut verlaufen; Neuzugang Connor Bunnaman debütierte am 23.10.",
-   "schwer": true,
-   "bis": "2026-11-15"
-  },
-  {
-   "text": "Schwenningen ohne Schreiner, Lebster, Phil Hungerecker und Uvira bis nach der Länderspielpause. Beim 0:6 in Krefeld am 28.10. als verletzt geführt; Trivellato und Hempel wieder dabei, Höfflin, Feist und Hänelt spielten.",
-   "schwer": true,
-   "bis": "2026-11-13"
+   "text": "Schwenningen vor dem Spiel gegen Köln mit offenen Personalfragen. Laut Schwäbischer vom 11.11. ist Phil Hungerecker nach Fußbruch zurück, bei Uvira und Ortega ist ein Einsatz unklar; zu Schreiner und Lebster (laut Verletzungsbericht bis zur Pause bzw. einige Wochen raus) keine neue Meldung.",
+   "schwer": false
   },
   {
    "text": "Straubing ohne Torhüter Florian Bugl. Unterkörperverletzung vom 09.10., fällt laut Verein langfristig aus; Skarek spielt seitdem jedes Spiel, Backup Pantkowski.",
@@ -382,11 +385,6 @@
    "text": "Maksim Matushkin (Frankfurt) fällt rund drei Monate aus. Unterkörperverletzung aus dem letzten Heimspiel, Meldung vom 27.10.",
    "schwer": false,
    "bis": "2027-01-27"
-  },
-  {
-   "text": "Köln ohne Ryan MacInnis bis nach der Pause. MacInnis fehlte auch am 30.10. in Krefeld; Torhüter Brückmann ist nach Verletzung zurück (Shutout), Luca Münzenberger nach Kassel gewechselt.",
-   "schwer": false,
-   "bis": "2026-11-13"
   },
   {
    "text": "Rio Kaiser (München) fällt bis Anfang 2027 aus. Unterkörperverletzung, zugezogen beim Einsatz für Riessersee, Meldung vom 30.10.",
@@ -694,6 +692,34 @@
   {
    "titel": "Straubing Tigers: News",
    "url": "https://www.straubing-tigers.de/?id=387"
+  },
+  {
+   "titel": "Adler Mannheim: Performance-Check Iserlohn Roosters (11.11.)",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/11/performance-check-iserlohn-roosters"
+  },
+  {
+   "titel": "Kölner Haie: 4:2-Sieg gegen Liberec (11.11.)",
+   "url": "https://www.haie.de/news/42-sieg-gegen-liberec-haie-gewinnen-chl-achtelfinal-hinspiel-vor-stimmungsvoller-kulisse/"
+  },
+  {
+   "titel": "Schwäbische: Neustart nach Länderspielpause – Schwenningen (11.11.)",
+   "url": "https://www.schwaebische.de/regional/zollernalb/balingen/neustart-nach-laenderspielpause-schwenningen-strebt-trendwende-an-5000383"
+  },
+  {
+   "titel": "Red Bull München: Red Bulls zurück im Training – Krening mit dabei (10.11.)",
+   "url": "https://www.redbullmuenchen.de/de/news/ehc-red-bull-muenchen-trainingsrueckkehr-mit-philipp-krening"
+  },
+  {
+   "titel": "Eisbären: Null zu Zwei ist noch lange nicht verloren (10.11.)",
+   "url": "https://www.eisbaeren.de/news/detail/null-zu-zwei-ist-noch-lange-nicht-verloren"
+  },
+  {
+   "titel": "ERC Ingolstadt: Heim-Derby zum Restart (10.11.)",
+   "url": "https://www.erc-ingolstadt.de/saison/heim-derby-zum-restart"
+  },
+  {
+   "titel": "Grizzlys: Schinko, Pasanen und Co. belegen Rang zwei (08.11.)",
+   "url": "https://www.grizzlys.de/news_2841.html"
   },
   {
    "titel": "DEL-Strafbank: Ein Spiel Sperre für Straubings Hudson Elynuik",
