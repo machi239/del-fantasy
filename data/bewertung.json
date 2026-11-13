@@ -15,7 +15,7 @@
      "schnitt": 8.49,
      "summe": 76.4,
      "median_stufe": 22.0,
-     "abstand": 3.53,
+     "abstand": 3.57,
      "fair": 4,
      "sicherheit": "deutlich"
     },
@@ -29,7 +29,7 @@
      "schnitt": 3.76,
      "summe": 33.8,
      "median_stufe": 5.3,
-     "abstand": 1.85,
+     "abstand": 1.87,
      "fair": 3,
      "sicherheit": "deutlich"
     },
@@ -43,7 +43,7 @@
      "schnitt": 2.09,
      "summe": 23.0,
      "median_stufe": 1.0,
-     "abstand": 1.43,
+     "abstand": 1.45,
      "fair": 5,
      "sicherheit": "knapp"
     },
@@ -57,7 +57,7 @@
      "schnitt": 3.67,
      "summe": 44.0,
      "median_stufe": 22.0,
-     "abstand": 1.43,
+     "abstand": 1.45,
      "fair": 4,
      "sicherheit": "knapp"
     }
@@ -73,7 +73,7 @@
      "schnitt": -1.88,
      "summe": -18.8,
      "median_stufe": 22.0,
-     "abstand": 2.65,
+     "abstand": 2.68,
      "fair": 2,
      "sicherheit": "deutlich"
     },
@@ -87,7 +87,7 @@
      "schnitt": -0.54,
      "summe": -3.8,
      "median_stufe": 22.0,
-     "abstand": 1.67,
+     "abstand": 1.7,
      "fair": 2,
      "sicherheit": "deutlich"
     }
@@ -105,9 +105,23 @@
      "spiele": 14,
      "schnitt": 2.52,
      "summe": 35.3,
-     "median_stufe": 18.5,
-     "abstand": 1.47,
+     "median_stufe": 19.4,
+     "abstand": 1.38,
      "fair": 5,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "4333",
+     "name": "Jérémie Poirier",
+     "team_id": "2",
+     "preis": 3,
+     "dt_pass": false,
+     "spiele": 13,
+     "schnitt": 2.08,
+     "summe": 27.0,
+     "median_stufe": 13.5,
+     "abstand": 1.17,
+     "fair": 4,
      "sicherheit": "deutlich"
     },
     {
@@ -119,24 +133,24 @@
      "spiele": 14,
      "schnitt": 2.31,
      "summe": 32.3,
-     "median_stufe": 18.5,
-     "abstand": 1.21,
+     "median_stufe": 19.4,
+     "abstand": 1.12,
      "fair": 5,
      "sicherheit": "deutlich"
     },
     {
-     "id": "4333",
-     "name": "Jérémie Poirier",
-     "team_id": "2",
-     "preis": 3,
+     "id": "3591",
+     "name": "Robin Norell",
+     "team_id": "7",
+     "preis": 2,
      "dt_pass": false,
-     "spiele": 12,
-     "schnitt": 2.21,
-     "summe": 26.5,
-     "median_stufe": 13.5,
-     "abstand": 1.14,
-     "fair": 4,
-     "sicherheit": "deutlich"
+     "spiele": 15,
+     "schnitt": 1.18,
+     "summe": 17.7,
+     "median_stufe": 5.0,
+     "abstand": 1.1,
+     "fair": 3,
+     "sicherheit": "knapp"
     },
     {
      "id": "1987",
@@ -148,22 +162,8 @@
      "schnitt": 1.83,
      "summe": 25.6,
      "median_stufe": 13.5,
-     "abstand": 1.06,
+     "abstand": 1.05,
      "fair": 4,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "4251",
-     "name": "Robin Press",
-     "team_id": "11",
-     "preis": 4,
-     "dt_pass": false,
-     "spiele": 14,
-     "schnitt": 2.14,
-     "summe": 29.9,
-     "median_stufe": 18.5,
-     "abstand": 1.0,
-     "fair": 5,
      "sicherheit": "knapp"
     },
     {
@@ -176,7 +176,7 @@
      "schnitt": 1.78,
      "summe": 24.9,
      "median_stufe": 13.5,
-     "abstand": 1.0,
+     "abstand": 0.99,
      "fair": 4,
      "sicherheit": "knapp"
     },
@@ -206,7 +206,7 @@
      "schnitt": -0.92,
      "summe": -10.1,
      "median_stufe": 13.5,
-     "abstand": 2.06,
+     "abstand": 2.05,
      "fair": 2,
      "sicherheit": "deutlich"
     },
@@ -220,7 +220,7 @@
      "schnitt": -0.7,
      "summe": -7.0,
      "median_stufe": 13.5,
-     "abstand": 1.79,
+     "abstand": 1.78,
      "fair": 2,
      "sicherheit": "deutlich"
     },
@@ -261,8 +261,8 @@
      "spiele": 7,
      "schnitt": 0.54,
      "summe": 3.8,
-     "median_stufe": 18.5,
-     "abstand": 1.28,
+     "median_stufe": 19.4,
+     "abstand": 1.36,
      "fair": 3,
      "sicherheit": "deutlich"
     },
@@ -281,6 +281,20 @@
      "sicherheit": "deutlich"
     },
     {
+     "id": "2754",
+     "name": "Lukas Kälble",
+     "team_id": "2",
+     "preis": 4,
+     "dt_pass": true,
+     "spiele": 9,
+     "schnitt": 0.7,
+     "summe": 6.3,
+     "median_stufe": 19.4,
+     "abstand": 1.14,
+     "fair": 3,
+     "sicherheit": "deutlich"
+    },
+    {
      "id": "2191",
      "name": "Rayan Bettahar",
      "team_id": "9",
@@ -292,20 +306,6 @@
      "median_stufe": 13.5,
      "abstand": 1.1,
      "fair": 2,
-     "sicherheit": "deutlich"
-    },
-    {
-     "id": "1705",
-     "name": "Arkadiusz Dziambor",
-     "team_id": "15",
-     "preis": 2,
-     "dt_pass": true,
-     "spiele": 12,
-     "schnitt": -0.46,
-     "summe": -5.5,
-     "median_stufe": 5.0,
-     "abstand": 0.92,
-     "fair": 1,
      "sicherheit": "knapp"
     }
    ],
@@ -323,7 +323,7 @@
      "schnitt": 1.84,
      "summe": 25.7,
      "median_stufe": 6.9,
-     "abstand": 1.82,
+     "abstand": 1.81,
      "fair": 3,
      "sicherheit": "deutlich"
     },
@@ -337,8 +337,22 @@
      "schnitt": 2.21,
      "summe": 30.9,
      "median_stufe": 12.1,
-     "abstand": 1.82,
+     "abstand": 1.81,
      "fair": 4,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "2605",
+     "name": "Tyler Boland",
+     "team_id": "7",
+     "preis": 4,
+     "dt_pass": false,
+     "spiele": 15,
+     "schnitt": 2.33,
+     "summe": 34.9,
+     "median_stufe": 17.7,
+     "abstand": 1.65,
+     "fair": 5,
      "sicherheit": "deutlich"
     },
     {
@@ -351,8 +365,22 @@
      "schnitt": 1.22,
      "summe": 17.1,
      "median_stufe": 1.1,
-     "abstand": 1.55,
+     "abstand": 1.54,
      "fair": 2,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "2389",
+     "name": "Cole Maier",
+     "team_id": "7",
+     "preis": 3,
+     "dt_pass": false,
+     "spiele": 15,
+     "schnitt": 1.87,
+     "summe": 28.0,
+     "median_stufe": 12.1,
+     "abstand": 1.53,
+     "fair": 4,
      "sicherheit": "deutlich"
     },
     {
@@ -364,9 +392,23 @@
      "spiele": 14,
      "schnitt": 2.35,
      "summe": 32.9,
-     "median_stufe": 17.4,
-     "abstand": 1.5,
+     "median_stufe": 17.7,
+     "abstand": 1.46,
      "fair": 5,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "2816",
+     "name": "Johannes Krauß",
+     "team_id": "7",
+     "preis": 2,
+     "dt_pass": true,
+     "spiele": 15,
+     "schnitt": 1.47,
+     "summe": 22.0,
+     "median_stufe": 6.9,
+     "abstand": 1.45,
+     "fair": 3,
      "sicherheit": "deutlich"
     },
     {
@@ -379,22 +421,8 @@
      "schnitt": 1.57,
      "summe": 22.0,
      "median_stufe": 6.9,
-     "abstand": 1.46,
+     "abstand": 1.45,
      "fair": 3,
-     "sicherheit": "deutlich"
-    },
-    {
-     "id": "2605",
-     "name": "Tyler Boland",
-     "team_id": "7",
-     "preis": 4,
-     "dt_pass": false,
-     "spiele": 14,
-     "schnitt": 2.29,
-     "summe": 32.1,
-     "median_stufe": 17.4,
-     "abstand": 1.43,
-     "fair": 5,
      "sicherheit": "deutlich"
     },
     {
@@ -407,7 +435,7 @@
      "schnitt": 2.01,
      "summe": 26.1,
      "median_stufe": 12.1,
-     "abstand": 1.36,
+     "abstand": 1.34,
      "fair": 4,
      "sicherheit": "deutlich"
     },
@@ -421,7 +449,7 @@
      "schnitt": 1.47,
      "summe": 20.6,
      "median_stufe": 6.9,
-     "abstand": 1.33,
+     "abstand": 1.32,
      "fair": 3,
      "sicherheit": "deutlich"
     },
@@ -434,23 +462,9 @@
      "spiele": 13,
      "schnitt": 2.39,
      "summe": 31.1,
-     "median_stufe": 17.4,
-     "abstand": 1.33,
+     "median_stufe": 17.7,
+     "abstand": 1.29,
      "fair": 5,
-     "sicherheit": "deutlich"
-    },
-    {
-     "id": "2389",
-     "name": "Cole Maier",
-     "team_id": "7",
-     "preis": 3,
-     "dt_pass": false,
-     "spiele": 14,
-     "schnitt": 1.8,
-     "summe": 25.2,
-     "median_stufe": 12.1,
-     "abstand": 1.27,
-     "fair": 4,
      "sicherheit": "deutlich"
     },
     {
@@ -462,10 +476,10 @@
      "spiele": 14,
      "schnitt": 2.15,
      "summe": 30.1,
-     "median_stufe": 17.4,
-     "abstand": 1.23,
+     "median_stufe": 17.7,
+     "abstand": 1.19,
      "fair": 5,
-     "sicherheit": "deutlich"
+     "sicherheit": "knapp"
     },
     {
      "id": "2935",
@@ -477,9 +491,9 @@
      "schnitt": 1.74,
      "summe": 24.4,
      "median_stufe": 12.1,
-     "abstand": 1.19,
+     "abstand": 1.18,
      "fair": 4,
-     "sicherheit": "deutlich"
+     "sicherheit": "knapp"
     },
     {
      "id": "1896",
@@ -491,50 +505,22 @@
      "schnitt": 0.91,
      "summe": 12.8,
      "median_stufe": 1.1,
-     "abstand": 1.13,
+     "abstand": 1.12,
      "fair": 2,
      "sicherheit": "knapp"
     },
     {
-     "id": "2238",
-     "name": "Kyle Platzer",
-     "team_id": "15",
+     "id": "4296",
+     "name": "Peter Quenneville",
+     "team_id": "7",
      "preis": 3,
      "dt_pass": false,
-     "spiele": 14,
-     "schnitt": 1.64,
+     "spiele": 15,
+     "schnitt": 1.53,
      "summe": 23.0,
      "median_stufe": 12.1,
-     "abstand": 1.06,
-     "fair": 4,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "1347",
-     "name": "Miha Verlic",
-     "team_id": "9",
-     "preis": 4,
-     "dt_pass": false,
-     "spiele": 14,
-     "schnitt": 2.01,
-     "summe": 28.2,
-     "median_stufe": 17.4,
      "abstand": 1.05,
-     "fair": 5,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "2801",
-     "name": "Nikolaus Heigl",
-     "team_id": "14",
-     "preis": 1,
-     "dt_pass": true,
-     "spiele": 14,
-     "schnitt": 0.84,
-     "summe": 11.7,
-     "median_stufe": 1.1,
-     "abstand": 1.03,
-     "fair": 2,
+     "fair": 4,
      "sicherheit": "knapp"
     }
    ],
@@ -549,7 +535,7 @@
      "schnitt": -0.49,
      "summe": -6.9,
      "median_stufe": 12.1,
-     "abstand": 1.84,
+     "abstand": 1.83,
      "fair": 2,
      "sicherheit": "deutlich"
     },
@@ -562,8 +548,8 @@
      "spiele": 14,
      "schnitt": 0.05,
      "summe": 0.7,
-     "median_stufe": 17.4,
-     "abstand": 1.62,
+     "median_stufe": 17.7,
+     "abstand": 1.63,
      "fair": 3,
      "sicherheit": "deutlich"
     },
@@ -577,7 +563,7 @@
      "schnitt": -0.28,
      "summe": -3.7,
      "median_stufe": 12.1,
-     "abstand": 1.53,
+     "abstand": 1.52,
      "fair": 2,
      "sicherheit": "deutlich"
     },
@@ -590,8 +576,8 @@
      "spiele": 14,
      "schnitt": 0.19,
      "summe": 2.6,
-     "median_stufe": 17.4,
-     "abstand": 1.44,
+     "median_stufe": 17.7,
+     "abstand": 1.45,
      "fair": 3,
      "sicherheit": "deutlich"
     },
@@ -604,8 +590,22 @@
      "spiele": 1,
      "schnitt": 3.3,
      "summe": 3.3,
-     "median_stufe": 17.4,
-     "abstand": 1.37,
+     "median_stufe": 17.7,
+     "abstand": 1.38,
+     "fair": 3,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "4332",
+     "name": "Patrick Brown",
+     "team_id": "2",
+     "preis": 4,
+     "dt_pass": false,
+     "spiele": 14,
+     "schnitt": 0.38,
+     "summe": 5.3,
+     "median_stufe": 17.7,
+     "abstand": 1.19,
      "fair": 3,
      "sicherheit": "deutlich"
     },
@@ -619,7 +619,7 @@
      "schnitt": null,
      "summe": 0.0,
      "median_stufe": 12.1,
-     "abstand": 1.17,
+     "abstand": 1.16,
      "fair": 2,
      "sicherheit": "knapp"
     },
@@ -633,7 +633,7 @@
      "schnitt": 0.1,
      "summe": 0.2,
      "median_stufe": 12.1,
-     "abstand": 1.15,
+     "abstand": 1.14,
      "fair": 2,
      "sicherheit": "knapp"
     },
@@ -646,8 +646,8 @@
      "spiele": 7,
      "schnitt": 0.9,
      "summe": 6.3,
-     "median_stufe": 17.4,
-     "abstand": 1.08,
+     "median_stufe": 17.7,
+     "abstand": 1.1,
      "fair": 3,
      "sicherheit": "knapp"
     },
@@ -661,7 +661,7 @@
      "schnitt": -0.29,
      "summe": -4.1,
      "median_stufe": 6.9,
-     "abstand": 1.07,
+     "abstand": 1.06,
      "fair": 1,
      "sicherheit": "knapp"
     }

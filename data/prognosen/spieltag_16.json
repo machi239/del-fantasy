@@ -1,22 +1,10 @@
 {
  "spieltag": 16,
  "deadline": "Sun 15.11.2026 14:00",
- "erstellt": "13.11.2026 14:36",
+ "erstellt": "13.11.2026 15:45",
  "pucks": 60,
- "xp_gesamt": 38.0,
+ "xp_gesamt": 37.6,
  "aufstellung": [
-  {
-   "spieler_id": 599,
-   "name": "Niklas Treutle",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
-   "pos": "goal",
-   "preis": 3,
-   "dt_pass": true,
-   "xp": 3.73,
-   "gegner": "Iserlohn Roosters",
-   "p_start": 0.8
-  },
   {
    "spieler_id": 1069,
    "name": "Jonas Neffin",
@@ -25,9 +13,21 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 3.56,
+   "xp": 3.57,
    "gegner": "Schwenninger Wild Wings",
    "p_start": 0.6
+  },
+  {
+   "spieler_id": 599,
+   "name": "Niklas Treutle",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "goal",
+   "preis": 3,
+   "dt_pass": true,
+   "xp": 3.52,
+   "gegner": "Iserlohn Roosters",
+   "p_start": 0.8
   },
   {
    "spieler_id": 2411,
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.71,
+   "xp": 2.76,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -49,7 +49,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.31,
+   "xp": 2.28,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
@@ -61,7 +61,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 2.23,
+   "xp": 2.2,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   },
@@ -73,20 +73,8 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.17,
+   "xp": 2.18,
    "gegner": "Iserlohn Roosters",
-   "p_start": null
-  },
-  {
-   "spieler_id": 4701,
-   "name": "Brandon Davidson",
-   "team": "Eisbären Berlin",
-   "team_id": 3,
-   "pos": "def",
-   "preis": 3,
-   "dt_pass": false,
-   "xp": 1.68,
-   "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
   {
@@ -97,8 +85,20 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.62,
+   "xp": 1.69,
    "gegner": "ERC Ingolstadt",
+   "p_start": null
+  },
+  {
+   "spieler_id": 4701,
+   "name": "Brandon Davidson",
+   "team": "Eisbären Berlin",
+   "team_id": 3,
+   "pos": "def",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.67,
+   "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
   {
@@ -109,7 +109,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.62,
+   "xp": 1.63,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -133,7 +133,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.89,
+   "xp": 2.84,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
@@ -150,18 +150,6 @@
    "p_start": null
   },
   {
-   "spieler_id": 1525,
-   "name": "Alexander Ehl",
-   "team": "Adler Mannheim",
-   "team_id": 2,
-   "pos": "for",
-   "preis": 3,
-   "dt_pass": true,
-   "xp": 1.77,
-   "gegner": "ERC Ingolstadt",
-   "p_start": null
-  },
-  {
    "spieler_id": 507,
    "name": "Marcel Noebels",
    "team": "Kölner Haie",
@@ -169,7 +157,19 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": true,
-   "xp": 1.71,
+   "xp": 1.68,
+   "gegner": "Grizzlys Wolfsburg",
+   "p_start": null
+  },
+  {
+   "spieler_id": 4260,
+   "name": "Markus Ljungh",
+   "team": "Kölner Haie",
+   "team_id": 11,
+   "pos": "for",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.6,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   },
@@ -193,7 +193,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.01,
+   "xp": 1.0,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -205,7 +205,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.64,
+   "xp": 0.67,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -217,7 +217,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.57,
+   "xp": 0.58,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -241,7 +241,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.53,
+   "xp": 0.54,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -253,7 +253,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.52,
+   "xp": 0.51,
    "gegner": "Straubing Tigers",
    "p_start": null
   }

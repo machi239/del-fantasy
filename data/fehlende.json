@@ -89,11 +89,29 @@
   "zuletzt_gespielt": "2026-10-30",
   "verpasst": "2026-11-01"
  },
- "3565": {
-  "name": "Zachary Solow",
+ "1441": {
+  "name": "Colin Ugbekile",
+  "team_id": "7",
+  "zuletzt_gespielt": "2026-11-01",
+  "verpasst": "2026-11-12"
+ },
+ "554": {
+  "name": "Brooks Macek",
   "team_id": "2",
-  "zuletzt_gespielt": "2026-10-30",
-  "verpasst": "2026-11-01"
+  "zuletzt_gespielt": "2026-11-01",
+  "verpasst": "2026-11-12"
+ },
+ "1856": {
+  "name": "Lennard Nieleck",
+  "team_id": "2",
+  "zuletzt_gespielt": "2026-11-01",
+  "verpasst": "2026-11-12"
+ },
+ "2798": {
+  "name": "Luke Esposito",
+  "team_id": "2",
+  "zuletzt_gespielt": "2026-11-01",
+  "verpasst": "2026-11-12"
  },
  "597": {
   "name": "Sebastian Uvira",
