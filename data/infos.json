@@ -18,7 +18,7 @@
   "3695": 0,
   "1983": 0,
   "130": 1,
-  "2133": 0.5,
+  "2133": 1,
   "1075": 0.5,
   "1404": 1,
   "1823": 1,
@@ -31,7 +31,7 @@
   "2199": 1,
   "143": 0,
   "2191": 0,
-  "4323": 0,
+  "4323": 0.5,
   "1764": 1,
   "3167": 1,
   "2835": 1,
@@ -90,7 +90,7 @@
   "4324": 1,
   "2194": 0,
   "4349": 1,
-  "1435": 0.5,
+  "1435": 0,
   "3323": 0.5,
   "478": 1,
   "4335": 0.5,
@@ -140,7 +140,7 @@
   "3072": 0.5,
   "122": 0,
   "4154": 1,
-  "3472": 0,
+  "3472": 0.5,
   "4498": 0.5,
   "3581": 1,
   "102": 1,
@@ -205,11 +205,41 @@
   "3442": 1,
   "2935": 1,
   "3564": 0.5,
-  "3586": 0
+  "3586": 0,
+  "16": 0
  },
  "goalie_start": {},
- "notizen": {},
+ "notizen": {
+  "597": "Muskuläre Probleme, laut Verletzungsbericht 11.11. Rückkehr zeitnah möglich.",
+  "3323": "Muskelverletzung im Bein, Rückkehr laut Verein zeitnah möglich (11.11.).",
+  "4336": "Muskelverletzung, Rückkehr laut Verein zeitnah möglich (11.11.).",
+  "1075": "Fußverletzung, operiert; Rückkehr laut Verein zeitnah möglich (11.11.).",
+  "2133": "Zurück im Mannschaftstraining, Comeback steht bevor (10.11.).",
+  "3472": "Sollte nach der Deutschland-Cup-Pause zurückkehren, Rückkehr unbestätigt.",
+  "4323": "Sollte nach der Deutschland-Cup-Pause zurückkehren, Rückkehr unbestätigt.",
+  "931": "Laut Vorschau nicht im Aufgebot für Krefeld - Nürnberg am 13.11., Grund unbekannt.",
+  "1069": "Rotation mit LaFontaine (zuletzt Neffin am 01.11.); Berlin spielt Fr in Wolfsburg und So gegen Schwenningen.",
+  "500": "Startete am 12.11. beim 2:6 in Iserlohn."
+ },
  "risiken": [
+  {
+   "text": "Unsichere Torhüter-Lage bei Jonas Neffin (Berlin). Berlin rotiert zwischen Neffin und LaFontaine und spielt Freitag und Sonntag; Startwahrscheinlichkeit nur rund 60 %. Alternative gleichen Preises: Jakub Skarek (Straubing, 3 Pucks, Stammtorhüter ohne Konkurrenz).",
+   "schwer": true
+  },
+  {
+   "text": "Fabio Wagner (München) fällt mehrere Wochen aus. Unterkörperverletzung beim Länderspiel am 08.11., Vereinsmeldung vom 12.11.",
+   "schwer": true,
+   "bis": "2026-12-06"
+  },
+  {
+   "text": "Austin Ortega (Schwenningen) weiter verletzt. Nach Operation mehrere Wochen raus (Verletzungsbericht, Stand 19.10.); Uvira, Lebster, Hungerecker und Schreiner vor zeitnaher Rückkehr.",
+   "schwer": false,
+   "bis": "2026-11-22"
+  },
+  {
+   "text": "Mannheim verlor am 12.11. mit 2:6 in Iserlohn. Mattinen, Poirier, Ehl und Calce spielten, Franzreb stand im Tor; keine neuen Ausfälle gemeldet.",
+   "schwer": false
+  },
   {
    "text": "Dominik Kahun (München) fällt weiter aus. Laut Abendzeitung vom 10.11. vor dem Spiel in Augsburg noch verletzt (Unterkörper); Rückkehrtermin offen.",
    "schwer": true,
@@ -221,14 +251,14 @@
    "bis": "2026-11-30"
   },
   {
-   "text": "Iserlohn ohne Maximilian Eisenmenger. Unterkörperverletzung vom 04.10., Ausfall bis nach der Deutschland-Cup-Pause.",
+   "text": "Iserlohn ohne Maximilian Eisenmenger. Fußbruch vom 04.10., laut Adler-Vorschau vom 11.11. weiter verletzt; Bruder Magnus neu verpflichtet.",
    "schwer": false,
-   "bis": "2026-11-15"
+   "bis": "2026-11-29"
   },
   {
    "text": "Bremerhaven weiter mit bis zu neun Verletzten. Eminger und Reinwald laut DEL-Kadernews vom 28.10. auf unbestimmte Zeit raus, Bettahar, Kechter und Boos länger verletzt, Conrad fehlte am 01.11.; nur fünf Verteidiger gegen Straubing, Gudlevskis im Tor.",
    "schwer": true,
-   "bis": "2026-11-13"
+   "bis": "2026-11-15"
   },
   {
    "text": "Rausch, Roßmy und Krämmer (Bremerhaven) Saison-Aus. Schwere Knieverletzungen.",
@@ -236,9 +266,9 @@
    "bis": "2027-03-07"
   },
   {
-   "text": "Chris Jandric (Nürnberg) fällt rund sechs Wochen aus. Knieverletzung vom 02.10.",
-   "schwer": true,
-   "bis": "2026-11-13"
+   "text": "Chris Jandric (Nürnberg) weiter fraglich. Knieverletzung vom 02.10., Prognose rund sechs Wochen; Rückkehr bisher nicht offiziell bestätigt.",
+   "schwer": false,
+   "bis": "2026-11-15"
   },
   {
    "text": "Chris DeSousa (München) fällt weiter aus. Oberkörperverletzung seit Saisonauftakt, laut Abendzeitung vom 10.11. weiter verletzt.",
@@ -256,9 +286,9 @@
    "bis": "2026-12-15"
   },
   {
-   "text": "Augsburg ohne Sean Malone und D.J. Busdeker bis nach dem Deutschland Cup. Beide fehlten auch beim 4:0 in Wolfsburg am 01.11.; Luke Toporowski ist zurück, Ancicka hielt den Shutout, Glötzl gesperrt (auch am 13.11.).",
+   "text": "Rückkehr von Sean Malone und D.J. Busdeker (Augsburg) unklar. Beide sollten bis nach dem Deutschland Cup fehlen; München-Vorschau vom 12.11. nennt Busdeker weiter als zuletzt verletzt. Glötzl im Derby am 13.11. noch gesperrt.",
    "schwer": false,
-   "bis": "2026-11-13"
+   "bis": "2026-11-15"
   },
   {
    "text": "Kevin Wall nicht mehr in Krefeld. Vertrag am 22.09. aufgelöst; Nachfolger Phil Varone (ID 2631) spielt seit 02.10.",
@@ -266,9 +296,9 @@
    "bis": "2027-03-07"
   },
   {
-   "text": "Brandon Biro (Frankfurt) weiter nicht dabei. Daniel Pfaffengut ist dagegen seit 01.11. zurück (2 Tore gegen Ingolstadt).",
+   "text": "Brandon Biro (Frankfurt) weiter nicht dabei. Seit 18.10. ohne Einsatz; Neuzugang Markus Phillips (Verteidiger) debütiert am 13.11.",
    "schwer": false,
-   "bis": "2026-11-13"
+   "bis": "2026-11-20"
   },
   {
    "text": "Daniel Wirt (Frankfurt) fällt zwei bis drei Monate aus. Oberkörperverletzung, am 21.10. operiert.",
@@ -276,9 +306,9 @@
    "bis": "2027-01-15"
   },
   {
-   "text": "Danjo Leonhardt (Straubing) fällt weiter aus. Oberkörperverletzung vom 25.09., laut Vorbericht vom 26.10. weiter raus.",
+   "text": "Straubing weiter ohne Danjo Leonhardt. Laut Vereinsvorschau vom 12.11. fehlen Leonhardt und Bugl weiterhin; Elynuik in Ingolstadt gesperrt.",
    "schwer": false,
-   "bis": "2026-11-13"
+   "bis": "2026-11-30"
   },
   {
    "text": "Mathias Niederberger (München) fällt voraussichtlich bis Jahresende aus. Unterkörperverletzung vom 23.10. laut Vereinsmeldung vom 27.10.; Bibeau ist die Nummer 1.",
@@ -612,6 +642,50 @@
   {
    "titel": "Grizzlys: Schinko, Pasanen und Co. belegen Rang zwei (08.11.)",
    "url": "https://www.grizzlys.de/news_2841.html"
+  },
+  {
+   "titel": "PENNY DEL Boxscore Iserlohn - Mannheim 12.11.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/12112026_iserlohn-roosters_gg_adler-mannheim_4490/boxscore"
+  },
+  {
+   "titel": "Adler Mannheim: Spielbericht Iserlohn (12.11.)",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/11/-4"
+  },
+  {
+   "titel": "Iserlohn: Spiel gedreht – 6:2 gegen Mannheim (12.11.)",
+   "url": "https://iserlohn-roosters.de/2026/11/12/spiel-gedreht-62-heimsieg-gegen-mannheim/"
+  },
+  {
+   "titel": "Red Bull München: Fabio Wagner fällt verletzt aus (12.11.)",
+   "url": "https://www.redbullmuenchen.de/de/news/ehc-red-bull-muenchen-fabio-wagner-faellt-verletzt-aus"
+  },
+  {
+   "titel": "Red Bull München: Vorschau 15. Spieltag in Augsburg",
+   "url": "https://www.redbullmuenchen.de/de/news/del-vorschau-15-spieltag-red-bull-muenchen-zu-gast-bei-den-augsburger-panthern"
+  },
+  {
+   "titel": "Straubing: Tigers starten mit Auswärtsderby (12.11.)",
+   "url": "https://www.straubing-tigers.de/tigers-starten-mit-auswaertsderby-in-ingolstadt-und-heimspiel-gegen-frankfurt-aus-der-laenderspielpause/"
+  },
+  {
+   "titel": "Löwen Frankfurt: Vorschau gegen Bremerhaven (12.11.)",
+   "url": "https://www.loewen-frankfurt.de/saison/aktuelles/details/vorschau-loewen-frankfurt-gegen-bremerhaven"
+  },
+  {
+   "titel": "Kölner Haie: Auswärts in Schwenningen (12.11.)",
+   "url": "https://www.haie.de/news/auswaerts-in-schwenningen-haie-auf-kleinstem-eis-der-liga-gefordert/"
+  },
+  {
+   "titel": "tipsterio: Vorschau Krefeld - Nürnberg 13.11.",
+   "url": "https://tipsterio.de/sportwetten-tipps/krefeld-pinguine-vs-nuernberg-ice-tigers-wett-tipp-prognose-13-11-2026"
+  },
+  {
+   "titel": "tipsterio: Vorschau Wolfsburg - Berlin 13.11.",
+   "url": "https://tipsterio.de/sportwetten-tipps/grizzlys-wolfsburg-vs-eisbaeren-berlin-wett-tipp-prognose-13-11-2026"
+  },
+  {
+   "titel": "ERC Ingolstadt: Heimspiel gegen Tigers (12.11.)",
+   "url": "https://www.erc-ingolstadt.de/saison/heimspiel-gegen-tigers"
   }
  ],
  "odds": {},
