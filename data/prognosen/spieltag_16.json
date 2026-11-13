@@ -1,9 +1,9 @@
 {
  "spieltag": 16,
  "deadline": "Sun 15.11.2026 14:00",
- "erstellt": "13.11.2026 17:33",
+ "erstellt": "13.11.2026 19:30",
  "pucks": 60,
- "xp_gesamt": 37.6,
+ "xp_gesamt": 35.2,
  "aufstellung": [
   {
    "spieler_id": 1069,
@@ -18,16 +18,16 @@
    "p_start": 0.6
   },
   {
-   "spieler_id": 599,
-   "name": "Niklas Treutle",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
+   "spieler_id": 4319,
+   "name": "Jakub Skarek",
+   "team": "Straubing Tigers",
+   "team_id": 6,
    "pos": "goal",
    "preis": 3,
-   "dt_pass": true,
-   "xp": 3.52,
-   "gegner": "Iserlohn Roosters",
-   "p_start": 0.8
+   "dt_pass": false,
+   "xp": 2.96,
+   "gegner": "Löwen Frankfurt",
+   "p_start": 1.0
   },
   {
    "spieler_id": 2411,
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.76,
+   "xp": 2.54,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -54,39 +54,15 @@
    "p_start": null
   },
   {
-   "spieler_id": 4251,
-   "name": "Robin Press",
-   "team": "Kölner Haie",
-   "team_id": 11,
-   "pos": "def",
-   "preis": 4,
-   "dt_pass": false,
-   "xp": 2.2,
-   "gegner": "Grizzlys Wolfsburg",
-   "p_start": null
-  },
-  {
-   "spieler_id": 100,
-   "name": "Marcus Weber",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
+   "spieler_id": 1339,
+   "name": "Phillip Bruggisser",
+   "team": "Pinguins Bremerhaven",
+   "team_id": 9,
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.18,
-   "gegner": "Iserlohn Roosters",
-   "p_start": null
-  },
-  {
-   "spieler_id": 4333,
-   "name": "Jérémie Poirier",
-   "team": "Adler Mannheim",
-   "team_id": 2,
-   "pos": "def",
-   "preis": 3,
-   "dt_pass": false,
-   "xp": 1.69,
-   "gegner": "ERC Ingolstadt",
+   "xp": 1.98,
+   "gegner": "Augsburger Panther",
    "p_start": null
   },
   {
@@ -102,27 +78,39 @@
    "p_start": null
   },
   {
-   "spieler_id": 1072,
-   "name": "Ryan Jones",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
+   "spieler_id": 4333,
+   "name": "Jérémie Poirier",
+   "team": "Adler Mannheim",
+   "team_id": 2,
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.63,
-   "gegner": "Iserlohn Roosters",
+   "xp": 1.55,
+   "gegner": "ERC Ingolstadt",
    "p_start": null
   },
   {
-   "spieler_id": 1863,
-   "name": "Thomas Heigl",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
-   "pos": "for",
-   "preis": 5,
+   "spieler_id": 3533,
+   "name": "Adam Smith",
+   "team": "Eisbären Berlin",
+   "team_id": 3,
+   "pos": "def",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.48,
+   "gegner": "Schwenninger Wild Wings",
+   "p_start": null
+  },
+  {
+   "spieler_id": 1748,
+   "name": "Peter Spornberger",
+   "team": "Iserlohn Roosters",
+   "team_id": 7,
+   "pos": "def",
+   "preis": 1,
    "dt_pass": true,
-   "xp": 3.13,
-   "gegner": "Iserlohn Roosters",
+   "xp": 0.32,
+   "gegner": "Nürnberg Ice Tigers",
    "p_start": null
   },
   {
@@ -138,6 +126,42 @@
    "p_start": null
   },
   {
+   "spieler_id": 2209,
+   "name": "Ty Ronning",
+   "team": "Eisbären Berlin",
+   "team_id": 3,
+   "pos": "for",
+   "preis": 5,
+   "dt_pass": false,
+   "xp": 2.72,
+   "gegner": "Schwenninger Wild Wings",
+   "p_start": null
+  },
+  {
+   "spieler_id": 1863,
+   "name": "Thomas Heigl",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 5,
+   "dt_pass": true,
+   "xp": 2.72,
+   "gegner": "Iserlohn Roosters",
+   "p_start": null
+  },
+  {
+   "spieler_id": 2121,
+   "name": "Jean-Christophe Beaudin",
+   "team": "Straubing Tigers",
+   "team_id": 6,
+   "pos": "for",
+   "preis": 4,
+   "dt_pass": false,
+   "xp": 2.19,
+   "gegner": "Löwen Frankfurt",
+   "p_start": null
+  },
+  {
    "spieler_id": 4350,
    "name": "Jackson Cates",
    "team": "Nürnberg Ice Tigers",
@@ -145,43 +169,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.83,
-   "gegner": "Iserlohn Roosters",
-   "p_start": null
-  },
-  {
-   "spieler_id": 507,
-   "name": "Marcel Noebels",
-   "team": "Kölner Haie",
-   "team_id": 11,
-   "pos": "for",
-   "preis": 3,
-   "dt_pass": true,
-   "xp": 1.68,
-   "gegner": "Grizzlys Wolfsburg",
-   "p_start": null
-  },
-  {
-   "spieler_id": 4260,
-   "name": "Markus Ljungh",
-   "team": "Kölner Haie",
-   "team_id": 11,
-   "pos": "for",
-   "preis": 3,
-   "dt_pass": false,
-   "xp": 1.6,
-   "gegner": "Grizzlys Wolfsburg",
-   "p_start": null
-  },
-  {
-   "spieler_id": 4345,
-   "name": "Noah Samanski",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
-   "pos": "for",
-   "preis": 2,
-   "dt_pass": true,
-   "xp": 1.22,
+   "xp": 1.59,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -193,8 +181,20 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.0,
+   "xp": 1.06,
    "gegner": "Pinguins Bremerhaven",
+   "p_start": null
+  },
+  {
+   "spieler_id": 4345,
+   "name": "Noah Samanski",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 2,
+   "dt_pass": true,
+   "xp": 1.06,
+   "gegner": "Iserlohn Roosters",
    "p_start": null
   },
   {
@@ -205,20 +205,8 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.67,
+   "xp": 0.61,
    "gegner": "ERC Ingolstadt",
-   "p_start": null
-  },
-  {
-   "spieler_id": 2801,
-   "name": "Nikolaus Heigl",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.58,
-   "gegner": "Iserlohn Roosters",
    "p_start": null
   },
   {
@@ -234,18 +222,6 @@
    "p_start": null
   },
   {
-   "spieler_id": 3577,
-   "name": "Timo Bakos",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.54,
-   "gegner": "Iserlohn Roosters",
-   "p_start": null
-  },
-  {
    "spieler_id": 3580,
    "name": "Timo Kose",
    "team": "Löwen Frankfurt",
@@ -253,8 +229,32 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.51,
+   "xp": 0.54,
    "gegner": "Straubing Tigers",
+   "p_start": null
+  },
+  {
+   "spieler_id": 2801,
+   "name": "Nikolaus Heigl",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 1,
+   "dt_pass": true,
+   "xp": 0.5,
+   "gegner": "Iserlohn Roosters",
+   "p_start": null
+  },
+  {
+   "spieler_id": 1896,
+   "name": "Philipp Krauß",
+   "team": "Augsburger Panther",
+   "team_id": 13,
+   "pos": "for",
+   "preis": 1,
+   "dt_pass": true,
+   "xp": 0.48,
+   "gegner": "Pinguins Bremerhaven",
    "p_start": null
   }
  ]
