@@ -1,5 +1,5 @@
 {
- "stand": "14.11.2026 18:03",
+ "stand": "14.11.2026 21:44",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -14,11 +14,11 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.609,
-   "p_draw60": 0.198,
-   "p_away60": 0.193,
-   "p_home_inkl_ot": 0.723,
-   "total": 6.13
+   "p_home60": 0.621,
+   "p_draw60": 0.193,
+   "p_away60": 0.186,
+   "p_home_inkl_ot": 0.731,
+   "total": 6.16
   },
   "9-13": {
    "spiel": "Pinguins Bremerhaven - Augsburger Panther",
@@ -53,11 +53,11 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.543,
-   "p_draw60": 0.211,
-   "p_away60": 0.247,
-   "p_home_inkl_ot": 0.659,
-   "total": 5.99
+   "p_home60": 0.547,
+   "p_draw60": 0.21,
+   "p_away60": 0.244,
+   "p_home_inkl_ot": 0.662,
+   "total": 6.0
   },
   "2-1": {
    "spiel": "Adler Mannheim - ERC Ingolstadt",
