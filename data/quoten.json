@@ -1,5 +1,5 @@
 {
- "stand": "13.11.2026 22:59",
+ "stand": "14.11.2026 18:03",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -14,11 +14,11 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.602,
-   "p_draw60": 0.201,
-   "p_away60": 0.197,
-   "p_home_inkl_ot": 0.717,
-   "total": 6.23
+   "p_home60": 0.609,
+   "p_draw60": 0.198,
+   "p_away60": 0.193,
+   "p_home_inkl_ot": 0.723,
+   "total": 6.13
   },
   "9-13": {
    "spiel": "Pinguins Bremerhaven - Augsburger Panther",
@@ -27,11 +27,11 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.483,
-   "p_draw60": 0.22,
-   "p_away60": 0.296,
-   "p_home_inkl_ot": 0.603,
-   "total": 6.23
+   "p_home60": 0.474,
+   "p_draw60": 0.222,
+   "p_away60": 0.304,
+   "p_home_inkl_ot": 0.594,
+   "total": 6.06
   },
   "11-8": {
    "spiel": "Kölner Haie - Grizzlys Wolfsburg",
@@ -40,10 +40,10 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.614,
-   "p_draw60": 0.195,
-   "p_away60": 0.191,
-   "p_home_inkl_ot": 0.727,
+   "p_home60": 0.617,
+   "p_draw60": 0.193,
+   "p_away60": 0.19,
+   "p_home_inkl_ot": 0.729,
    "total": 6.12
   },
   "14-7": {
@@ -53,11 +53,11 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.514,
-   "p_draw60": 0.221,
-   "p_away60": 0.265,
-   "p_home_inkl_ot": 0.636,
-   "total": 5.97
+   "p_home60": 0.543,
+   "p_draw60": 0.211,
+   "p_away60": 0.247,
+   "p_home_inkl_ot": 0.659,
+   "total": 5.99
   },
   "2-1": {
    "spiel": "Adler Mannheim - ERC Ingolstadt",
@@ -66,11 +66,11 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.527,
-   "p_draw60": 0.209,
-   "p_away60": 0.264,
-   "p_home_inkl_ot": 0.641,
-   "total": 6.14
+   "p_home60": 0.54,
+   "p_draw60": 0.206,
+   "p_away60": 0.253,
+   "p_home_inkl_ot": 0.654,
+   "total": 6.15
   },
   "6-44": {
    "spiel": "Straubing Tigers - Löwen Frankfurt",
@@ -79,11 +79,11 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.571,
-   "p_draw60": 0.208,
-   "p_away60": 0.221,
-   "p_home_inkl_ot": 0.69,
-   "total": 5.91
+   "p_home60": 0.585,
+   "p_draw60": 0.205,
+   "p_away60": 0.21,
+   "p_home_inkl_ot": 0.703,
+   "total": 5.92
   },
   "3-15": {
    "spiel": "Eisbären Berlin - Schwenninger Wild Wings",
@@ -92,11 +92,11 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.616,
-   "p_draw60": 0.195,
-   "p_away60": 0.189,
-   "p_home_inkl_ot": 0.728,
-   "total": 5.95
+   "p_home60": 0.626,
+   "p_draw60": 0.192,
+   "p_away60": 0.182,
+   "p_home_inkl_ot": 0.736,
+   "total": 5.97
   }
  }
 }
