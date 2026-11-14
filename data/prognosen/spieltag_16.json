@@ -1,9 +1,9 @@
 {
  "spieltag": 16,
  "deadline": "Sun 15.11.2026 14:00",
- "erstellt": "13.11.2026 23:00",
+ "erstellt": "14.11.2026 13:41",
  "pucks": 60,
- "xp_gesamt": 35.3,
+ "xp_gesamt": 35.0,
  "aufstellung": [
   {
    "spieler_id": 4319,
@@ -25,9 +25,9 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.87,
+   "xp": 2.63,
    "gegner": "Schwenninger Wild Wings",
-   "p_start": 0.6
+   "p_start": 0.55
   },
   {
    "spieler_id": 2411,
@@ -222,18 +222,6 @@
    "p_start": null
   },
   {
-   "spieler_id": 2801,
-   "name": "Nikolaus Heigl",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.53,
-   "gegner": "Iserlohn Roosters",
-   "p_start": null
-  },
-  {
    "spieler_id": 4311,
    "name": "Tobias Krestan",
    "team": "Eisbären Berlin",
@@ -243,6 +231,18 @@
    "dt_pass": true,
    "xp": 0.51,
    "gegner": "Schwenninger Wild Wings",
+   "p_start": null
+  },
+  {
+   "spieler_id": 3600,
+   "name": "C.J. Suess",
+   "team": "Krefeld Pinguine",
+   "team_id": 5,
+   "pos": "for",
+   "preis": 1,
+   "dt_pass": false,
+   "xp": 0.49,
+   "gegner": "EHC Red Bull München",
    "p_start": null
   },
   {
