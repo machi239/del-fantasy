@@ -1,9 +1,9 @@
 {
  "spieltag": 16,
  "deadline": "Sun 15.11.2026 14:00",
- "erstellt": "14.11.2026 18:20",
+ "erstellt": "14.11.2026 21:44",
  "pucks": 60,
- "xp_gesamt": 35.2,
+ "xp_gesamt": 35.3,
  "aufstellung": [
   {
    "spieler_id": 4319,
@@ -90,18 +90,6 @@
    "p_start": null
   },
   {
-   "spieler_id": 4701,
-   "name": "Brandon Davidson",
-   "team": "Eisbären Berlin",
-   "team_id": 3,
-   "pos": "def",
-   "preis": 3,
-   "dt_pass": false,
-   "xp": 1.5,
-   "gegner": "Schwenninger Wild Wings",
-   "p_start": null
-  },
-  {
    "spieler_id": 1694,
    "name": "Jan Luca Sennhenn",
    "team": "Kölner Haie",
@@ -114,6 +102,18 @@
    "p_start": null
   },
   {
+   "spieler_id": 4314,
+   "name": "Max Bleicher",
+   "team": "Straubing Tigers",
+   "team_id": 6,
+   "pos": "def",
+   "preis": 1,
+   "dt_pass": true,
+   "xp": 0.36,
+   "gegner": "Löwen Frankfurt",
+   "p_start": null
+  },
+  {
    "spieler_id": 1863,
    "name": "Thomas Heigl",
    "team": "Nürnberg Ice Tigers",
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": true,
-   "xp": 2.83,
+   "xp": 2.84,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -159,6 +159,18 @@
    "dt_pass": false,
    "xp": 2.14,
    "gegner": "Löwen Frankfurt",
+   "p_start": null
+  },
+  {
+   "spieler_id": 4350,
+   "name": "Jackson Cates",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.61,
+   "gegner": "Iserlohn Roosters",
    "p_start": null
   },
   {
@@ -205,7 +217,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.57,
+   "xp": 0.58,
    "gegner": "Krefeld Pinguine",
    "p_start": null
   },
@@ -243,18 +255,6 @@
    "dt_pass": true,
    "xp": 0.51,
    "gegner": "Pinguins Bremerhaven",
-   "p_start": null
-  },
-  {
-   "spieler_id": 1684,
-   "name": "Håkon Hänelt",
-   "team": "Schwenninger Wild Wings",
-   "team_id": 15,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.47,
-   "gegner": "Eisbären Berlin",
    "p_start": null
   }
  ]
