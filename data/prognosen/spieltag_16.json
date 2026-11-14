@@ -1,9 +1,9 @@
 {
  "spieltag": 16,
  "deadline": "Sun 15.11.2026 14:00",
- "erstellt": "14.11.2026 16:11",
+ "erstellt": "14.11.2026 18:04",
  "pucks": 60,
- "xp_gesamt": 35.1,
+ "xp_gesamt": 35.2,
  "aufstellung": [
   {
    "spieler_id": 4319,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": false,
-   "xp": 3.22,
+   "xp": 3.31,
    "gegner": "Löwen Frankfurt",
    "p_start": 1.0
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.64,
+   "xp": 2.67,
    "gegner": "Schwenninger Wild Wings",
    "p_start": 0.55
   },
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.6,
+   "xp": 2.62,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -54,18 +54,6 @@
    "p_start": null
   },
   {
-   "spieler_id": 1339,
-   "name": "Phillip Bruggisser",
-   "team": "Pinguins Bremerhaven",
-   "team_id": 9,
-   "pos": "def",
-   "preis": 4,
-   "dt_pass": true,
-   "xp": 2.2,
-   "gegner": "Augsburger Panther",
-   "p_start": null
-  },
-  {
    "spieler_id": 506,
    "name": "Jonas Müller",
    "team": "Eisbären Berlin",
@@ -73,8 +61,20 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.14,
+   "xp": 2.16,
    "gegner": "Schwenninger Wild Wings",
+   "p_start": null
+  },
+  {
+   "spieler_id": 1339,
+   "name": "Phillip Bruggisser",
+   "team": "Pinguins Bremerhaven",
+   "team_id": 9,
+   "pos": "def",
+   "preis": 4,
+   "dt_pass": true,
+   "xp": 2.15,
+   "gegner": "Augsburger Panther",
    "p_start": null
   },
   {
@@ -85,7 +85,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.59,
+   "xp": 1.6,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -97,7 +97,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.49,
+   "xp": 1.5,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": true,
-   "xp": 2.79,
+   "xp": 2.83,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -133,7 +133,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.71,
+   "xp": 2.72,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
@@ -145,7 +145,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.69,
+   "xp": 2.7,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
@@ -157,7 +157,7 @@
    "pos": "for",
    "preis": 4,
    "dt_pass": false,
-   "xp": 2.13,
+   "xp": 2.14,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -169,7 +169,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.17,
+   "xp": 1.15,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -181,7 +181,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.71,
+   "xp": 0.72,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
@@ -193,7 +193,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.63,
+   "xp": 0.64,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -217,7 +217,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.57,
+   "xp": 0.56,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
@@ -229,7 +229,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": false,
-   "xp": 0.54,
+   "xp": 0.53,
    "gegner": "EHC Red Bull München",
    "p_start": null
   },
@@ -241,7 +241,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.52,
+   "xp": 0.51,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
