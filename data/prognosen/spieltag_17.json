@@ -1,9 +1,9 @@
 {
  "spieltag": 17,
  "deadline": "Thu 19.11.2026 19:30",
- "erstellt": "15.11.2026 15:09",
+ "erstellt": "15.11.2026 16:44",
  "pucks": 60,
- "xp_gesamt": 36.0,
+ "xp_gesamt": 36.1,
  "aufstellung": [
   {
    "spieler_id": 4338,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": false,
-   "xp": 4.25,
+   "xp": 4.21,
    "gegner": "Schwenninger Wild Wings",
    "p_start": 1.0
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 3.08,
+   "xp": 3.09,
    "gegner": "ERC Ingolstadt",
    "p_start": 0.6
   },
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.21,
+   "xp": 2.2,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -49,7 +49,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 2.03,
+   "xp": 2.02,
    "gegner": "EHC Red Bull München",
    "p_start": null
   },
@@ -61,7 +61,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 1.89,
+   "xp": 1.93,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -85,7 +85,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.51,
+   "xp": 1.5,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -97,7 +97,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.42,
+   "xp": 1.41,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
@@ -109,7 +109,7 @@
    "pos": "def",
    "preis": 2,
    "dt_pass": true,
-   "xp": 0.87,
+   "xp": 0.89,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": true,
-   "xp": 2.86,
+   "xp": 2.92,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -133,7 +133,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.79,
+   "xp": 2.78,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -145,7 +145,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.77,
+   "xp": 2.76,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -157,7 +157,7 @@
    "pos": "for",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.01,
+   "xp": 2.04,
    "gegner": "Kölner Haie",
    "p_start": null
   },
@@ -169,7 +169,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.62,
+   "xp": 1.65,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -193,7 +193,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.04,
+   "xp": 1.01,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   },
@@ -217,7 +217,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.65,
+   "xp": 0.64,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
@@ -229,7 +229,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": false,
-   "xp": 0.58,
+   "xp": 0.57,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
@@ -253,7 +253,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.55,
+   "xp": 0.56,
    "gegner": "Kölner Haie",
    "p_start": null
   }
