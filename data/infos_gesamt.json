@@ -1,5 +1,5 @@
 {
- "spieltag": 16,
+ "spieltag": 17,
  "availability": {
   "2804": 1,
   "1753": 0,
@@ -61,7 +61,7 @@
   "426": 1,
   "3530": 1,
   "1904": 0,
-  "990": 1,
+  "990": 0.5,
   "4319": 1,
   "486": 1,
   "1430": 1,
@@ -82,7 +82,7 @@
   "1644": 1,
   "4243": 1,
   "2172": 1,
-  "1678": 1,
+  "1678": 0.5,
   "1799": 1,
   "3569": 0,
   "550": 0,
@@ -92,7 +92,7 @@
   "4349": 1,
   "1435": 0,
   "3323": 0.5,
-  "478": 1,
+  "478": 0.5,
   "4335": 0.5,
   "3585": 1,
   "1345": 1,
@@ -134,7 +134,7 @@
   "1684": 1,
   "597": 0.5,
   "3560": 0.5,
-  "3559": 1,
+  "3559": 0.5,
   "4160": 0.5,
   "4312": 1,
   "3072": 0.5,
@@ -168,7 +168,7 @@
   "1896": 1,
   "1998": 1,
   "2090": 1,
-  "3592": 1,
+  "3592": 0.5,
   "3594": 1,
   "3870": 1,
   "4321": 1,
@@ -176,7 +176,7 @@
   "528": 1,
   "539": 1,
   "1088": 1,
-  "1677": 1,
+  "1677": 0.5,
   "2367": 1,
   "2463": 1,
   "2473": 1,
@@ -188,7 +188,7 @@
   "4148": 1,
   "4338": 1,
   "4339": 1,
-  "4340": 1,
+  "4340": 0.5,
   "2182": 0,
   "3595": 0,
   "4153": 0,
@@ -211,56 +211,16 @@
   "554": 0.5,
   "2798": 0.5,
   "1441": 0.5,
-  "4157": 1
+  "4157": 1,
+  "3434": 0.5,
+  "115": 0.5,
+  "2131": 0.5,
+  "3307": 0.5,
+  "4325": 0.5
  },
- "goalie_start": {
-  "1069": 0.55,
-  "4312": 0.45,
-  "4157": 0.8,
-  "516": 0.2,
-  "1985": 0.75,
-  "500": 0.25,
-  "4319": 1.0,
-  "599": 0.75,
-  "4154": 0.85,
-  "1547": 0.7,
-  "1451": 0.3,
-  "1459": 0.6,
-  "2351": 0.4,
-  "4338": 1.0
- },
- "notizen": {
-  "597": "Am 13.11. noch nicht im Aufgebot; Lebster, Hungerecker und Schreiner zurück.",
-  "3323": "Muskelverletzung im Bein, Rückkehr laut Verein zeitnah möglich (11.11.).",
-  "4336": "Muskelverletzung, Rückkehr laut Verein zeitnah möglich (11.11.).",
-  "1075": "Fußverletzung, operiert; Rückkehr laut Verein zeitnah möglich (11.11.).",
-  "4323": "Am 13.11. weiter nicht im Aufgebot; Rückkehr unbestätigt.",
-  "1069": "Startete Fr 13.11. in Wolfsburg (3:4 n.P.); Berlin ließ Neffin früher oft Fr+So spielen, LaFontaine zuletzt am 25. und 30.10. Sonntag offen.",
-  "4312": "Backup am 13.11.; möglicher Starter am So gegen Schwenningen.",
-  "4157": "Brückmann startete Fr in Schwenningen; Juvonen bei Doppelspieltagen meist am Sonntag im Tor.",
-  "516": "Startete Fr 13.11. in Schwenningen (1:2).",
-  "1985": "Laut Vorschau (tipsterio) Favorit für den Start gegen Ingolstadt; Franzreb spielte am 12.11. in Iserlohn.",
-  "2801": "Fehlte zuletzt, Grund unbekannt (nicht im Aufgebot in Krefeld am 13.11.).",
-  "4310": "Fehlte zuletzt, Grund unbekannt (nicht im Aufgebot in Wolfsburg am 13.11.).",
-  "554": "Am 12.11. in Iserlohn geschont (Verschnaufpause laut RNZ).",
-  "2798": "Am 12.11. in Iserlohn geschont (Verschnaufpause laut RNZ).",
-  "1856": "Fehlte zuletzt, Grund unbekannt.",
-  "1441": "Fehlte am 12.11.; laut Verein alle fit außer Eisenmenger, ein Spieler überzählig.",
-  "2631": "Matchstrafe am 13.11. in Nürnberg (Check zum Kopf); mögliche Sperre.",
-  "3575": "Am 13.11. in Krefeld zurück im Aufgebot.",
-  "4341": "Am 13.11. gegen Bremerhaven wieder dabei.",
-  "1564": "Am 13.11. in Frankfurt wieder im Aufgebot.",
-  "2868": "Spielte am 13.11.; laut Vorschau fraglich für Sonntag."
- },
+ "goalie_start": {},
+ "notizen": {},
  "risiken": [
-  {
-   "text": "Unsichere Torhüter-Lage bei Jonas Neffin (Berlin). Neffin stand schon am Freitag in Wolfsburg im Tor; ob er am Sonntag gegen Schwenningen erneut startet oder LaFontaine übernimmt, ist offen (Schätzung 55 %). Alternative gleichen Preises: Jakub Skarek (Straubing, 3 Pucks, ohne Konkurrenz, Bugl verletzt) oder Niklas Treutle (Nürnberg, 3 Pucks).",
-   "schwer": true
-  },
-  {
-   "text": "Nikolaus Heigl (Nürnberg) fehlte am Freitag in Krefeld. Nicht im Aufgebot beim 4:2, Grund nicht veröffentlicht; Einsatz gegen Iserlohn fraglich. Günstige Alternative im Sturm prüfen.",
-   "schwer": true
-  },
   {
    "text": "Fabio Wagner (München) fällt mehrere Wochen aus. Unterkörperverletzung beim Länderspiel am 08.11., Vereinsmeldung vom 12.11.",
    "schwer": true,
@@ -332,22 +292,6 @@
    "bis": "2027-01-15"
   },
   {
-   "text": "Juvonen dürfte bei Köln gegen Wolfsburg starten. Brückmann spielte am Freitag beim 1:2 in Schwenningen; Noebels, Press, Aubry und Kemiläinen im Aufgebot.",
-   "schwer": false
-  },
-  {
-   "text": "Mannheim schonte Macek und Esposito in Iserlohn. Laut RNZ nur Verschnaufpause, Calce und Heim rückten ins Aufgebot; gegen Ingolstadt wohl Hildebrand im Tor. Calce könnte bei Rückkehr der beiden wieder herausrotieren.",
-   "schwer": false
-  },
-  {
-   "text": "Bremerhaven mit Eminger zurück, aber weiter dünn besetzt. Beim 3:2 in Frankfurt nur fünf Verteidiger (u. a. Bruggisser), Gudlevskis im Tor; Reinwald, Bettahar, Kechter, Boos weiter verletzt.",
-   "schwer": false
-  },
-  {
-   "text": "Augsburg: Busdeker zurück, Malone weiter nicht im Aufgebot. Beim 4:5 gegen München spielte Wohlgemuth; Glötzls Sperre ist abgesessen.",
-   "schwer": false
-  },
-  {
    "text": "Austin Ortega (Schwenningen) weiter verletzt. Am 13.11. nicht im Aufgebot; Uvira ebenfalls noch nicht dabei.",
    "schwer": false,
    "bis": "2026-11-22"
@@ -356,10 +300,6 @@
    "text": "Nathan Burns (Ingolstadt) fällt auf unbestimmte Zeit aus. Oberkörperverletzung laut Vorschau vom 14.11.; Ruopp fraglich, Rosa-Preto zurück.",
    "schwer": false,
    "bis": "2026-11-30"
-  },
-  {
-   "text": "Phil Varone (Krefeld) mit Matchstrafe am 13.11. Mögliche Sperre für das Spiel in München.",
-   "schwer": false
   }
  ],
  "quellen": [
@@ -786,6 +726,58 @@
   {
    "titel": "Nürnberg Ice Tigers: Startseite",
    "url": "https://icetigers.de/"
+  },
+  {
+   "titel": "Red Bull München: Vorschau 16. Spieltag gegen Krefeld (14.11.)",
+   "url": "https://www.redbullmuenchen.de/de/news/del-vorschau-16-spieltag-red-bull-muenchen-empfaengt-die-krefeld-pinguine"
+  },
+  {
+   "titel": "Eisbären: Endlich wieder Heimspiel (14.11.)",
+   "url": "https://www.eisbaeren.de/news/detail/endlich-wieder-heimspiel-5"
+  },
+  {
+   "titel": "Wild Wings: Verletzungsberichte (11.11.)",
+   "url": "https://www.schwenninger-wildwings.de/aktuell/verletzungsberichte/"
+  },
+  {
+   "titel": "Kölner Haie: Heimspiel am Sonntag gegen Wolfsburg (14.11.)",
+   "url": "https://www.haie.de/news/heimspiel-am-sonntag-die-grizzlys-wolfsburg-zu-gast-im-haifischbecken/"
+  },
+  {
+   "titel": "Grizzlys: Diesen Schwung wollen die Grizzlys mitnehmen",
+   "url": "https://www.grizzlys.de/news_2847.html"
+  },
+  {
+   "titel": "Adler Mannheim: Performance-Check ERC Ingolstadt (14.11.)",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/11/performance-check-erc-ingolstadt"
+  },
+  {
+   "titel": "ERC Ingolstadt: Mit Rückenwind nach Mannheim (14.11.)",
+   "url": "https://www.erc-ingolstadt.de/saison/mit-rueckenwind-nach-mannheim"
+  },
+  {
+   "titel": "Straubing: Tigers unterliegen in Ingolstadt 1:4 (13.11.)",
+   "url": "https://www.straubing-tigers.de/tigers-unterliegen-im-derby-beim-erc-ingolstadt-mit-14/"
+  },
+  {
+   "titel": "Sportschau: Kader Berlin - Schwenningen",
+   "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189685/eisbaeren-berlin_schwenninger-wild-wings/spiel-kader"
+  },
+  {
+   "titel": "PENNY DEL Boxscore München - Krefeld 15.11.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/15112026_ehc-red-bull-muenchen_gg_krefeld-pinguine_4501/boxscore"
+  },
+  {
+   "titel": "PENNY DEL Boxscore Bremerhaven - Augsburg 15.11.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/15112026_pinguins-bremerhaven_gg_augsburger-panther_4500/boxscore"
+  },
+  {
+   "titel": "ran Ticker München - Krefeld 15.11.",
+   "url": "https://ran.joyn.de/sports/ticker/ma12189667-ehc-muenchen-krefeld-pinguine"
+  },
+  {
+   "titel": "AEV-Forum Spieltag 16 Bremerhaven - Augsburg",
+   "url": "https://www.aev-forum.de/viewtopic.php?p=1587330"
   }
  ],
  "odds": {},
