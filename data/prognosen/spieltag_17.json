@@ -1,9 +1,9 @@
 {
  "spieltag": 17,
  "deadline": "Thu 19.11.2026 19:30",
- "erstellt": "15.11.2026 18:42",
+ "erstellt": "15.11.2026 19:00",
  "pucks": 60,
- "xp_gesamt": 36.1,
+ "xp_gesamt": 35.9,
  "aufstellung": [
   {
    "spieler_id": 4338,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": false,
-   "xp": 4.21,
+   "xp": 4.07,
    "gegner": "Schwenninger Wild Wings",
    "p_start": 1.0
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 3.09,
+   "xp": 3.1,
    "gegner": "ERC Ingolstadt",
    "p_start": 0.6
   },
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.2,
+   "xp": 2.21,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -49,7 +49,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 2.02,
+   "xp": 1.98,
    "gegner": "EHC Red Bull München",
    "p_start": null
   },
@@ -61,7 +61,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 1.93,
+   "xp": 1.9,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -85,20 +85,20 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.5,
+   "xp": 1.51,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
   {
-   "spieler_id": 2916,
-   "name": "Linus Fröberg",
-   "team": "Löwen Frankfurt",
-   "team_id": 44,
+   "spieler_id": 4333,
+   "name": "Jérémie Poirier",
+   "team": "Adler Mannheim",
+   "team_id": 2,
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.41,
-   "gegner": "Schwenninger Wild Wings",
+   "xp": 1.42,
+   "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
   {
@@ -109,7 +109,7 @@
    "pos": "def",
    "preis": 2,
    "dt_pass": true,
-   "xp": 0.89,
+   "xp": 0.88,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": true,
-   "xp": 2.92,
+   "xp": 2.88,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -133,7 +133,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.78,
+   "xp": 2.79,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -145,7 +145,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.76,
+   "xp": 2.77,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -169,7 +169,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.65,
+   "xp": 1.63,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -217,20 +217,8 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.64,
+   "xp": 0.63,
    "gegner": "Schwenninger Wild Wings",
-   "p_start": null
-  },
-  {
-   "spieler_id": 3600,
-   "name": "C.J. Suess",
-   "team": "Krefeld Pinguine",
-   "team_id": 5,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": false,
-   "xp": 0.57,
-   "gegner": "Straubing Tigers",
    "p_start": null
   },
   {
@@ -243,6 +231,18 @@
    "dt_pass": true,
    "xp": 0.56,
    "gegner": "Pinguins Bremerhaven",
+   "p_start": null
+  },
+  {
+   "spieler_id": 3600,
+   "name": "C.J. Suess",
+   "team": "Krefeld Pinguine",
+   "team_id": 5,
+   "pos": "for",
+   "preis": 1,
+   "dt_pass": false,
+   "xp": 0.56,
+   "gegner": "Straubing Tigers",
    "p_start": null
   },
   {
