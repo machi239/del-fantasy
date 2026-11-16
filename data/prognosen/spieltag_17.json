@@ -1,9 +1,9 @@
 {
  "spieltag": 17,
  "deadline": "Thu 19.11.2026 19:30",
- "erstellt": "16.11.2026 15:14",
+ "erstellt": "16.11.2026 17:08",
  "pucks": 60,
- "xp_gesamt": 35.9,
+ "xp_gesamt": 35.7,
  "aufstellung": [
   {
    "spieler_id": 4338,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": false,
-   "xp": 4.07,
+   "xp": 3.74,
    "gegner": "Schwenninger Wild Wings",
    "p_start": 1.0
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 3.1,
+   "xp": 2.83,
    "gegner": "ERC Ingolstadt",
    "p_start": 0.6
   },
@@ -37,44 +37,20 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.21,
+   "xp": 2.1,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
   {
-   "spieler_id": 4251,
-   "name": "Robin Press",
-   "team": "Kölner Haie",
-   "team_id": 11,
-   "pos": "def",
-   "preis": 4,
-   "dt_pass": false,
-   "xp": 1.98,
-   "gegner": "EHC Red Bull München",
-   "p_start": null
-  },
-  {
-   "spieler_id": 100,
-   "name": "Marcus Weber",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
+   "spieler_id": 1339,
+   "name": "Phillip Bruggisser",
+   "team": "Pinguins Bremerhaven",
+   "team_id": 9,
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 1.9,
-   "gegner": "Augsburger Panther",
-   "p_start": null
-  },
-  {
-   "spieler_id": 4701,
-   "name": "Brandon Davidson",
-   "team": "Eisbären Berlin",
-   "team_id": 3,
-   "pos": "def",
-   "preis": 3,
-   "dt_pass": false,
-   "xp": 1.53,
-   "gegner": "ERC Ingolstadt",
+   "xp": 1.98,
+   "gegner": "Adler Mannheim",
    "p_start": null
   },
   {
@@ -85,7 +61,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.51,
+   "xp": 1.5,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -97,8 +73,32 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.42,
+   "xp": 1.46,
    "gegner": "Pinguins Bremerhaven",
+   "p_start": null
+  },
+  {
+   "spieler_id": 4315,
+   "name": "Joseph Duszak",
+   "team": "Straubing Tigers",
+   "team_id": 6,
+   "pos": "def",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.46,
+   "gegner": "Krefeld Pinguine",
+   "p_start": null
+  },
+  {
+   "spieler_id": 4701,
+   "name": "Brandon Davidson",
+   "team": "Eisbären Berlin",
+   "team_id": 3,
+   "pos": "def",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.43,
+   "gegner": "ERC Ingolstadt",
    "p_start": null
   },
   {
@@ -109,32 +109,8 @@
    "pos": "def",
    "preis": 2,
    "dt_pass": true,
-   "xp": 0.88,
+   "xp": 0.96,
    "gegner": "Augsburger Panther",
-   "p_start": null
-  },
-  {
-   "spieler_id": 1863,
-   "name": "Thomas Heigl",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
-   "pos": "for",
-   "preis": 5,
-   "dt_pass": true,
-   "xp": 2.88,
-   "gegner": "Augsburger Panther",
-   "p_start": null
-  },
-  {
-   "spieler_id": 3410,
-   "name": "Liam Kirk",
-   "team": "Eisbären Berlin",
-   "team_id": 3,
-   "pos": "for",
-   "preis": 5,
-   "dt_pass": false,
-   "xp": 2.79,
-   "gegner": "ERC Ingolstadt",
    "p_start": null
   },
   {
@@ -145,8 +121,32 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.77,
+   "xp": 2.97,
    "gegner": "ERC Ingolstadt",
+   "p_start": null
+  },
+  {
+   "spieler_id": 3410,
+   "name": "Liam Kirk",
+   "team": "Eisbären Berlin",
+   "team_id": 3,
+   "pos": "for",
+   "preis": 5,
+   "dt_pass": false,
+   "xp": 2.87,
+   "gegner": "ERC Ingolstadt",
+   "p_start": null
+  },
+  {
+   "spieler_id": 1863,
+   "name": "Thomas Heigl",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 5,
+   "dt_pass": true,
+   "xp": 2.84,
+   "gegner": "Augsburger Panther",
    "p_start": null
   },
   {
@@ -157,7 +157,7 @@
    "pos": "for",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.04,
+   "xp": 1.98,
    "gegner": "Kölner Haie",
    "p_start": null
   },
@@ -169,7 +169,19 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.63,
+   "xp": 1.81,
+   "gegner": "Augsburger Panther",
+   "p_start": null
+  },
+  {
+   "spieler_id": 3579,
+   "name": "Tyler Spezia",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.6,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -181,20 +193,20 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.1,
+   "xp": 1.04,
    "gegner": "Nürnberg Ice Tigers",
    "p_start": null
   },
   {
-   "spieler_id": 2816,
-   "name": "Johannes Krauß",
-   "team": "Iserlohn Roosters",
-   "team_id": 7,
+   "spieler_id": 2133,
+   "name": "Philipp Krening",
+   "team": "EHC Red Bull München",
+   "team_id": 12,
    "pos": "for",
-   "preis": 2,
+   "preis": 1,
    "dt_pass": true,
-   "xp": 1.01,
-   "gegner": "Grizzlys Wolfsburg",
+   "xp": 0.76,
+   "gegner": "Kölner Haie",
    "p_start": null
   },
   {
@@ -205,8 +217,20 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.73,
+   "xp": 0.69,
    "gegner": "ERC Ingolstadt",
+   "p_start": null
+  },
+  {
+   "spieler_id": 1896,
+   "name": "Philipp Krauß",
+   "team": "Augsburger Panther",
+   "team_id": 13,
+   "pos": "for",
+   "preis": 1,
+   "dt_pass": true,
+   "xp": 0.56,
+   "gegner": "Nürnberg Ice Tigers",
    "p_start": null
   },
   {
@@ -217,7 +241,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.63,
+   "xp": 0.56,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
@@ -229,32 +253,8 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.56,
+   "xp": 0.55,
    "gegner": "Pinguins Bremerhaven",
-   "p_start": null
-  },
-  {
-   "spieler_id": 3600,
-   "name": "C.J. Suess",
-   "team": "Krefeld Pinguine",
-   "team_id": 5,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": false,
-   "xp": 0.56,
-   "gegner": "Straubing Tigers",
-   "p_start": null
-  },
-  {
-   "spieler_id": 2133,
-   "name": "Philipp Krening",
-   "team": "EHC Red Bull München",
-   "team_id": 12,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.56,
-   "gegner": "Kölner Haie",
    "p_start": null
   }
  ]
