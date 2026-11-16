@@ -1,9 +1,9 @@
 {
  "spieltag": 17,
  "deadline": "Thu 19.11.2026 19:30",
- "erstellt": "16.11.2026 19:40",
+ "erstellt": "16.11.2026 22:01",
  "pucks": 60,
- "xp_gesamt": 35.7,
+ "xp_gesamt": 35.6,
  "aufstellung": [
   {
    "spieler_id": 4338,
@@ -78,18 +78,6 @@
    "p_start": null
   },
   {
-   "spieler_id": 4315,
-   "name": "Joseph Duszak",
-   "team": "Straubing Tigers",
-   "team_id": 6,
-   "pos": "def",
-   "preis": 3,
-   "dt_pass": false,
-   "xp": 1.46,
-   "gegner": "Krefeld Pinguine",
-   "p_start": null
-  },
-  {
    "spieler_id": 4701,
    "name": "Brandon Davidson",
    "team": "Eisbären Berlin",
@@ -99,6 +87,18 @@
    "dt_pass": false,
    "xp": 1.43,
    "gegner": "ERC Ingolstadt",
+   "p_start": null
+  },
+  {
+   "spieler_id": 1694,
+   "name": "Jan Luca Sennhenn",
+   "team": "Kölner Haie",
+   "team_id": 11,
+   "pos": "def",
+   "preis": 3,
+   "dt_pass": true,
+   "xp": 1.39,
+   "gegner": "EHC Red Bull München",
    "p_start": null
   },
   {
