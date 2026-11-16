@@ -27,7 +27,7 @@
   "3122": 0.5,
   "1771": 1,
   "537": 0.5,
-  "3408": 1,
+  "3408": 0.5,
   "2199": 1,
   "143": 0,
   "2191": 0,
@@ -43,7 +43,7 @@
   "2510": 0.5,
   "1397": 1,
   "1982": 0,
-  "1674": 0.5,
+  "1674": 1,
   "3950": 1,
   "3411": 0.5,
   "1168": 1,
@@ -92,9 +92,9 @@
   "4349": 1,
   "1435": 0,
   "3323": 0.5,
-  "478": 0.5,
-  "4335": 0.5,
-  "3585": 1,
+  "478": 1,
+  "4335": 1,
+  "3585": 0.5,
   "1345": 1,
   "88": 0.5,
   "2411": 1,
@@ -132,7 +132,7 @@
   "80": 1,
   "648": 1,
   "1684": 1,
-  "597": 0.5,
+  "597": 1,
   "3560": 0.5,
   "3559": 0.5,
   "4160": 0.5,
@@ -176,7 +176,7 @@
   "528": 1,
   "539": 1,
   "1088": 1,
-  "1677": 0.5,
+  "1677": 1,
   "2367": 1,
   "2463": 1,
   "2473": 1,
@@ -188,7 +188,7 @@
   "4148": 1,
   "4338": 1,
   "4339": 1,
-  "4340": 0.5,
+  "4340": 1,
   "2182": 0,
   "3595": 0,
   "4153": 0,
@@ -198,7 +198,7 @@
   "4307": 0,
   "3551": 0.5,
   "4310": 0.5,
-  "2817": 0.5,
+  "2817": 1,
   "2868": 1,
   "2202": 1,
   "3565": 1,
@@ -208,28 +208,85 @@
   "3586": 0,
   "16": 0,
   "2801": 0.5,
-  "554": 0.5,
-  "2798": 0.5,
+  "554": 1,
+  "2798": 1,
   "1441": 0.5,
   "4157": 1,
   "3434": 0.5,
-  "115": 0.5,
+  "115": 1,
   "2131": 0.5,
-  "3307": 0.5,
-  "4325": 0.5
+  "3307": 1,
+  "4325": 0.5,
+  "139": 1,
+  "3600": 1,
+  "2816": 1,
+  "4251": 1,
+  "3562": 1,
+  "4701": 1,
+  "3533": 1,
+  "4311": 1
  },
- "goalie_start": {},
- "notizen": {},
+ "goalie_start": {
+  "4319": 0.7,
+  "486": 0.3
+ },
+ "notizen": {
+  "4310": "fehlte am 13. und 15.11., Grund unbekannt",
+  "3551": "fehlte am 13. und 15.11., Verein nennt keinen Grund",
+  "3434": "fehlte am 13. und 15.11., Grund unbekannt",
+  "1678": "fehlte am 13. und 15.11., Grund unbekannt",
+  "1360": "fehlte am 13. und 15.11., Grund unbekannt",
+  "3128": "fehlte am 13. und 15.11., Grund unbekannt",
+  "3122": "fehlte zuletzt, Grund unbekannt",
+  "3592": "fehlte am 13. und 15.11., Grund unbekannt",
+  "2801": "setzte am 15.11. laut Ice-Tigers-Ticker erneut aus, Grund nicht genannt",
+  "990": "fehlte am 13. und 15.11., Bremerhaven nur mit fünf Verteidigern",
+  "2131": "fehlte zuletzt, Grund unbekannt",
+  "1441": "fehlte zuletzt, Grund unbekannt",
+  "4325": "fehlte zuletzt, Grund unbekannt",
+  "1856": "fehlte zuletzt, Grund unbekannt",
+  "3559": "fehlte zuletzt, Grund unbekannt",
+  "2420": "am 15.11. nicht im Aufgebot, Grund nicht genannt",
+  "3408": "am 15.11. vom Trainer nicht berücksichtigt",
+  "3585": "am 15.11. vom Trainer nicht berücksichtigt",
+  "4160": "fehlte zuletzt, Grund unbekannt",
+  "2510": "fehlte zuletzt, Grund unbekannt",
+  "4157": "am 15.11. gegen Wolfsburg nach dem 1. Drittel für Brückmann ausgewechselt, Grund nicht genannt",
+  "1069": "startete 13. und 15.11., am 15.11. nach 40 Minuten für LaFontaine ausgewechselt",
+  "4319": "am 15.11. nur Backup, Neuzugang Pantkowski startete",
+  "486": "Debüt-Start am 15.11. gegen Frankfurt (5:1)",
+  "599": "startete 13. und 15.11."
+ },
  "risiken": [
+  {
+   "text": "Jonas Neffins Start gegen Ingolstadt ist nicht sicher (p_start 0.6). Er stand am 13. und 15.11. im Tor, wurde aber am 15.11. beim 2:4 gegen Schwenningen nach 40 Minuten für LaFontaine ausgewechselt; Alternative gleichen Preises: Niklas Treutle (Nürnberg, 3 Pucks, startete zuletzt beide Spiele).",
+   "schwer": false
+  },
+  {
+   "text": "Straubing ließ am 15.11. Neuzugang Mirko Pantkowski statt Jakub Skarek starten. Grund nicht genannt; Skarek hatte seit Bugls Verletzung jedes Spiel bestritten, Rotation am Donnerstag in Krefeld möglich.",
+   "schwer": false
+  },
+  {
+   "text": "Wolfsburg zuletzt zweimal ohne Möser, Ramoser und Veber. Gründe wurden nicht veröffentlicht.",
+   "schwer": false
+  },
+  {
+   "text": "Köln wechselte am 15.11. Torhüter Juvonen nach dem ersten Drittel aus. Brückmann kam, Grund nicht genannt; Torhüterfrage für München offen.",
+   "schwer": false
+  },
+  {
+   "text": "Bremerhaven spielte am 15.11. nur mit fünf Verteidigern. Nicholas B. Jensen fehlte zum zweiten Mal, Grund unbekannt.",
+   "schwer": false
+  },
   {
    "text": "Fabio Wagner (München) fällt mehrere Wochen aus. Unterkörperverletzung beim Länderspiel am 08.11., Vereinsmeldung vom 12.11.",
    "schwer": true,
    "bis": "2026-12-06"
   },
   {
-   "text": "Dominik Kahun (München) fällt weiter aus. Laut Abendzeitung vom 10.11. vor dem Spiel in Augsburg noch verletzt (Unterkörper); Rückkehrtermin offen.",
+   "text": "Dominik Kahun (München) fällt weiter aus. Unterkörperverletzung, auch am 15.11. gegen Krefeld nicht im Aufgebot; Rückkehrtermin offen.",
    "schwer": true,
-   "bis": "2026-11-20"
+   "bis": "2026-11-22"
   },
   {
    "text": "Straubing ohne Torhüter Florian Bugl. Unterkörperverletzung vom 09.10., fällt laut Verein langfristig aus; Skarek spielt seitdem jedes Spiel, Backup Pantkowski.",
@@ -247,9 +304,9 @@
    "bis": "2027-03-07"
   },
   {
-   "text": "Chris DeSousa (München) fällt weiter aus. Oberkörperverletzung seit Saisonauftakt, laut Abendzeitung vom 10.11. weiter verletzt.",
+   "text": "Chris DeSousa (München) fällt weiter aus. Oberkörperverletzung seit Saisonauftakt, auch am 15.11. nicht im Aufgebot.",
    "schwer": true,
-   "bis": "2026-11-20"
+   "bis": "2026-11-22"
   },
   {
    "text": "Julian Chrobot (Wolfsburg) fällt monatelang aus. Kreuzbandverletzung aus der Vorbereitung.",
@@ -272,7 +329,7 @@
    "bis": "2027-01-15"
   },
   {
-   "text": "Straubing weiter ohne Danjo Leonhardt. Laut Vereinsvorschau vom 12.11. fehlen Leonhardt und Bugl weiterhin; Elynuik in Ingolstadt gesperrt.",
+   "text": "Straubing weiter ohne Danjo Leonhardt. Laut Spielbericht vom 15.11. fehlen Leonhardt, Madden, Brandl und Kukuk; Elynuik wieder dabei.",
    "schwer": false,
    "bis": "2026-11-30"
   },
@@ -292,7 +349,7 @@
    "bis": "2027-01-15"
   },
   {
-   "text": "Austin Ortega (Schwenningen) weiter verletzt. Am 13.11. nicht im Aufgebot; Uvira ebenfalls noch nicht dabei.",
+   "text": "Austin Ortega (Schwenningen) weiter verletzt. Auch am 15.11. in Berlin nicht im Aufgebot; Uvira ist zurück.",
    "schwer": false,
    "bis": "2026-11-22"
   },
@@ -304,364 +361,28 @@
  ],
  "quellen": [
   {
-   "titel": "eishockeynews: 14. Spieltag 01.11.",
-   "url": "https://www.eishockeynews.de/artikel/mannheim-schlaegt-berlin-erneut-muenchen-beendet-nuernbergs-lauf-augsburg-verschaerft-wolfsburgs-krise-1267484"
-  },
-  {
-   "titel": "PENNY DEL Kadernews",
-   "url": "https://www.penny-del.org/news/detail/news-update-kaderplanung-in-der-penny-del-1"
-  },
-  {
-   "titel": "PENNY DEL Boxscore Bremerhaven - Straubing 01.11.",
-   "url": "https://www.penny-del.org/statistik/spieldetails/01112026_pinguins-bremerhaven_gg_straubing-tigers_4489/boxscore"
-  },
-  {
-   "titel": "PENNY DEL Boxscore Schwenningen - Krefeld 01.11.",
-   "url": "https://www.penny-del.org/statistik/spieldetails/01112026_schwenninger-wild-wings_gg_krefeld-pinguine_4486/boxscore"
-  },
-  {
-   "titel": "Wild Wings: Karachun krönt wilden Schlussspurt",
-   "url": "https://www.schwenninger-wildwings.de/spielbericht/karachun-kroent-wilden-schlussspurt/"
-  },
-  {
-   "titel": "eishockey-online: Karachun wird zum Matchwinner",
-   "url": "https://www.eishockey-online.news/del/2026/11/02/karachun-wird-zum-matchwinner-wild-wings-belohnen-sich-fuer-starke-moral/"
-  },
-  {
-   "titel": "AEV: Klarer Sieg in Wolfsburg",
-   "url": "https://www.aev-panther.de/artikel/klarer-sieg-in-wolfsburg/01a197cf-b151-7c54-bff6-e8da99db5df7"
-  },
-  {
-   "titel": "ERC: Löwen kontern Panther aus",
-   "url": "https://www.erc-ingolstadt.de/saison/loewen-kontern-panther-aus"
-  },
-  {
-   "titel": "Eisbären: Niederlage gegen den Erzrivalen",
-   "url": "https://www.eisbaeren.de/news/detail/niederlage-gegen-den-erzrevialen"
-  },
-  {
-   "titel": "Straubing: Tigers unterliegen Bremerhaven 2:5",
-   "url": "https://www.straubing-tigers.de/tigers-unterliegen-bremerhaven-trotz-doppelpack-von-adrian-klein-mit-25/"
-  },
-  {
-   "titel": "buten un binnen: Pinguins drehen das Spiel",
-   "url": "https://www.butenunbinnen.de/sport/eishockey-del-pinguins-bremerhaven-straubing-100.html"
-  },
-  {
-   "titel": "eishockey-online: Pinguine gehen mit Sieg in die Pause",
-   "url": "https://www.eishockey-online.news/del/2026/11/01/fischtown-pinguine-gehen-mit-einem-sieg-gegen-straubing-tigers-in-die-pause/"
-  },
-  {
-   "titel": "Haie: Finaler Einsatz vor der Länderspielpause",
-   "url": "https://www.haie.de/news/finaler-einsatz-vor-der-laenderspielpause-heimspiel-am-sonntag-gegen-iserlohn/"
-  },
-  {
-   "titel": "Presseportal Kölner Haie 01.11.",
-   "url": "https://presseportal.de/pm/147981/6381908"
-  },
-  {
-   "titel": "Iserlohn: Spieltag 14 Roosters @ Köln",
-   "url": "https://iserlohn-roosters.de/2026/11/01/spieltag-14-roosters-koeln/"
-  },
-  {
-   "titel": "hessenschau: Löwen-Heimsieg gegen Ingolstadt",
-   "url": "https://www.hessenschau.de/sport/mehr-sport/del-loewen-feiern-wichtigen-heimsieg-gegen-ingolstadt-v1,loewen-ingolstadt-144.html"
-  },
-  {
-   "titel": "Straubing: Fünf Tigers nominiert",
-   "url": "https://www.straubing-tigers.de/fuenf-straubing-tigers-fuer-deutsche-nationalmannschaften-nominiert/"
-  },
-  {
-   "titel": "sport1: Napravnik ersetzt Dove-McFalls im DEB-Kader",
-   "url": "https://www.sport1.de/news/eishockey/deutschlandcup/2026/11/deutschland-cup-napravnik-ersetzt-dove-mcfalls-im-deb-kader"
-  },
-  {
-   "titel": "DEB: Julian Napravnik rückt in den Kader für den Deutschland Cup",
-   "url": "https://www.deb-online.de/2026/11/02/julian-napravnik-rueckt-in-den-kader-fuer-den-deutschland-cup/"
-  },
-  {
-   "titel": "Krefeld Pinguine: Spielbericht Schwenningen 01.11.",
-   "url": "https://www.krefeld-pinguine.de/"
-  },
-  {
-   "titel": "Eishockey NEWS Übersicht",
-   "url": "https://www.eishockeynews.de/aktuelles/homepage-ehw"
-  },
-  {
-   "titel": "Iserlohn Roosters News",
-   "url": "https://iserlohn-roosters.de/"
-  },
-  {
-   "titel": "Straubing Tigers News",
-   "url": "https://www.straubing-tigers.de/"
-  },
-  {
-   "titel": "Kölner Haie News (Späth U20)",
-   "url": "https://www.haie.de/news/"
-  },
-  {
-   "titel": "Löwen Frankfurt News",
-   "url": "https://www.loewen-frankfurt.de/"
-  },
-  {
-   "titel": "Schwenninger Wild Wings News",
-   "url": "https://www.schwenninger-wildwings.de/"
-  },
-  {
-   "titel": "Adler Mannheim Aktuelles",
-   "url": "https://www.adler-mannheim.de/aktuelles"
-  },
-  {
-   "titel": "Eisbären Berlin News",
-   "url": "https://www.eisbaeren.de/news"
-  },
-  {
-   "titel": "ERC Ingolstadt News",
-   "url": "https://www.erc-ingolstadt.de/"
-  },
-  {
-   "titel": "eishockeynews: Napravnik rückt nach",
-   "url": "https://www.eishockeynews.de/artikel/napravnik-rueckt-nach-aenderung-in-rankels-deb-kader-1267877"
-  },
-  {
-   "titel": "Pinguins: Spieler freuen sich auf Erholungspause",
-   "url": "https://fischtown-pinguins.de/spieler-freuen-sich-auf-erholungspause-fans-auf-d-cup/"
-  },
-  {
-   "titel": "Grizzlys: Heimpleite gegen Augsburg",
-   "url": "https://www.grizzlys.de/news_2839.html"
-  },
-  {
-   "titel": "Grizzlys Wolfsburg News",
-   "url": "https://www.grizzlys.de/"
-  },
-  {
-   "titel": "Fischtown Pinguins News",
-   "url": "https://www.fischtown-pinguins.de/"
-  },
-  {
-   "titel": "Red Bull München News",
-   "url": "https://www.redbullmuenchen.de/de/news"
-  },
-  {
-   "titel": "Nürnberg Ice Tigers News",
-   "url": "https://www.icetigers.de/"
-  },
-  {
-   "titel": "Augsburger Panther News",
-   "url": "https://www.aev-panther.de/"
-  },
-  {
-   "titel": "DEB: Deutschland Cup Auftakt gegen Österreich",
-   "url": "https://www.deb-online.de/2026/11/04/deutschland-cup-deb-auswahl-startet-gegen-sterreich-ins-heimturnier/"
-  },
-  {
-   "titel": "Löwen Frankfurt: Markus Phillips unterschreibt",
-   "url": "https://www.loewen-frankfurt.de/saison/aktuelles/details/markus-phillips-unterschreibt-in-frankfurt"
-  },
-  {
-   "titel": "Adler Mannheim: Schlenker Trainingsgast in Frankfurt",
-   "url": "https://www.adler-mannheim.de/aktuelles/2026/11/schlenker-trainingsgast-in-frankfurt"
-  },
-  {
-   "titel": "DEB: Männer starten mit Sieg gegen Österreich",
-   "url": "https://www.deb-online.de/2026/11/05/geraut/"
-  },
-  {
-   "titel": "Krefeld Pinguine: Niederlage nach Verlängerung im Schwarzwald",
-   "url": "https://krefeld-pinguine.de/news/pinguine-verlieren-nach-verlaengerung-im-schwarzwald/"
-  },
-  {
    "titel": "Red Bull München: Rio Kaiser fällt bis Anfang 2027 aus",
    "url": "https://www.redbullmuenchen.de/de/news/ehc-red-bull-muenchen-rio-kaiser-muss-verletzt-pausieren"
-  },
-  {
-   "titel": "Iserlohn: Vier Roosters mit Nationalteams unterwegs",
-   "url": "https://iserlohn-roosters.de/2026/11/03/vier-roosters-mit-nationalteams-unterwegs/"
-  },
-  {
-   "titel": "sport1: Deutschland Cup Lettland besiegt Slowakei",
-   "url": "https://www.sport1.de/news/eishockey/deutschlandcup/2026/11/deutschland-cup-lettland-besiegt-slowakei-in-der-overtime"
-  },
-  {
-   "titel": "Löwen Frankfurt: Colin Schlenker Trainingsgast",
-   "url": "https://www.loewen-frankfurt.de/saison/aktuelles/details/colin-schlenker-als-trainingsgast-bei-den-loewen-frankfurt"
-  },
-  {
-   "titel": "eishockeynews: Frankfurt vergibt letzte Importlizenz an Phillips",
-   "url": "https://www.eishockeynews.de/artikel/gezeigt-wie-verlaesslich-er-ist-frankfurt-vergibt-letzte-importlizenz-an-phillips-1268910"
-  },
-  {
-   "titel": "eishockeynews: Iserlohn holt Eisenmenger-Bruder und verleiht Farkas",
-   "url": "https://www.eishockeynews.de/artikel/iserlohn-roosters-holen-eisenmenger-bruder-und-verleihen-farkas-1269692"
-  },
-  {
-   "titel": "DEB: Deutschland Cup 2026, DEB-Auswahl unterliegt Lettland",
-   "url": "https://www.deb-online.de/2026/11/07/gerlat/"
-  },
-  {
-   "titel": "Krefeld Pinguine: Startseite/Gamereport",
-   "url": "https://www.krefeld-pinguine.de"
-  },
-  {
-   "titel": "Iserlohn Roosters: News",
-   "url": "https://www.iserlohn-roosters.de"
-  },
-  {
-   "titel": "Straubing Tigers: News",
-   "url": "https://www.straubing-tigers.de"
-  },
-  {
-   "titel": "Löwen Frankfurt: News",
-   "url": "https://www.loewen-frankfurt.de"
-  },
-  {
-   "titel": "Augsburger Panther: News",
-   "url": "https://www.aev-panther.de/panther/news"
-  },
-  {
-   "titel": "Fischtown Pinguins: News",
-   "url": "https://www.fischtown-pinguins.de"
-  },
-  {
-   "titel": "EHC Red Bull München: News",
-   "url": "https://www.redbullmuenchen.de"
-  },
-  {
-   "titel": "Kölner Haie: News",
-   "url": "https://www.haie.de"
-  },
-  {
-   "titel": "Eisbären Berlin: News",
-   "url": "https://www.eisbaeren.de"
-  },
-  {
-   "titel": "ERC Ingolstadt: News",
-   "url": "https://www.erc-ingolstadt.de/news"
-  },
-  {
-   "titel": "Nürnberg Ice Tigers: News",
-   "url": "https://www.icetigers.de"
-  },
-  {
-   "titel": "eishockeynews: DEL",
-   "url": "https://www.eishockeynews.de/del"
-  },
-  {
-   "titel": "Adler Mannheim: Das nächste Kapitel (CHL, Personal)",
-   "url": "https://www.adler-mannheim.de/aktuelles/2026/11/das-naechste-kapitel"
-  },
-  {
-   "titel": "Adler Mannheim: Offene Lizenzen, Spengler Cup und die Zukunft",
-   "url": "https://www.adler-mannheim.de/aktuelles/2026/11/offene-lizenzen-spengler-cup-und-die-zukunft"
-  },
-  {
-   "titel": "Eisbären: Achtelfinal-Hinspiel in Skandinavien",
-   "url": "https://www.eisbaeren.de/news/detail/achtelfinal-hinspiel-in-skandinavien"
-  },
-  {
-   "titel": "Kölner Haie: Haie zurück im Training",
-   "url": "https://www.haie.de/news/haie-zurueck-im-training-fokus-auf-liberec-schwenningen-und-wolfsburg/"
-  },
-  {
-   "titel": "Wild Wings: Verletzungsberichte",
-   "url": "https://www.schwenninger-wildwings.de/aktuell/verletzungsberichte/"
   },
   {
    "titel": "Iserlohn: Roosters verpflichten Magnus Eisenmenger",
    "url": "https://iserlohn-roosters.de/2026/11/08/roosters-verpflichten-magnus-eisenmenger-farkas-vor-abgang-in-richtung-del2/"
   },
   {
-   "titel": "eishockeynews: CHL – Berlin und Mannheim auf Viertelfinalkurs (10.11.)",
-   "url": "https://www.eishockeynews.de/artikel/siege-mit-zwei-toren-unterschied-berlin-und-mannheim-auf-europaeischem-viertelfinalkurs-1270521"
-  },
-  {
-   "titel": "RNZ: Adler Mannheim gegen Tappara Tampere",
-   "url": "https://www.rnz.de/sport/sportregional_artikel,-Adler-Mannheim-gegen-Tappara-Tampere-Die-Adler-melden-Ansprueche-aufs-Viertelfinale-an-_arid,2480098.html"
-  },
-  {
-   "titel": "Sportschau: Eisbären gewinnen Achtelfinal-Hinspiel in Finnland",
-   "url": "https://www.sportschau.de/regional/rbb/rbb-chl-eisbaeren-berlin-gewinnen-achtelfinal-hinspiel-in-finnland-100.html"
-  },
-  {
-   "titel": "Abendzeitung: Krening vor Comeback gegen Augsburg (10.11.)",
-   "url": "https://www.abendzeitung-muenchen.de/sport/ehc/az-info-blitz-comeback-gegen-augsburg-so-steht-es-um-ehc-stuermer-philipp-krening-art-1172398"
-  },
-  {
-   "titel": "Straubing Tigers: News",
-   "url": "https://www.straubing-tigers.de/?id=387"
-  },
-  {
-   "titel": "Adler Mannheim: Performance-Check Iserlohn Roosters (11.11.)",
-   "url": "https://www.adler-mannheim.de/aktuelles/2026/11/performance-check-iserlohn-roosters"
-  },
-  {
-   "titel": "Kölner Haie: 4:2-Sieg gegen Liberec (11.11.)",
-   "url": "https://www.haie.de/news/42-sieg-gegen-liberec-haie-gewinnen-chl-achtelfinal-hinspiel-vor-stimmungsvoller-kulisse/"
-  },
-  {
-   "titel": "Schwäbische: Neustart nach Länderspielpause – Schwenningen (11.11.)",
-   "url": "https://www.schwaebische.de/regional/zollernalb/balingen/neustart-nach-laenderspielpause-schwenningen-strebt-trendwende-an-5000383"
-  },
-  {
-   "titel": "Red Bull München: Red Bulls zurück im Training – Krening mit dabei (10.11.)",
-   "url": "https://www.redbullmuenchen.de/de/news/ehc-red-bull-muenchen-trainingsrueckkehr-mit-philipp-krening"
-  },
-  {
-   "titel": "Eisbären: Null zu Zwei ist noch lange nicht verloren (10.11.)",
-   "url": "https://www.eisbaeren.de/news/detail/null-zu-zwei-ist-noch-lange-nicht-verloren"
-  },
-  {
-   "titel": "ERC Ingolstadt: Heim-Derby zum Restart (10.11.)",
-   "url": "https://www.erc-ingolstadt.de/saison/heim-derby-zum-restart"
-  },
-  {
-   "titel": "Grizzlys: Schinko, Pasanen und Co. belegen Rang zwei (08.11.)",
-   "url": "https://www.grizzlys.de/news_2841.html"
-  },
-  {
-   "titel": "PENNY DEL Boxscore Iserlohn - Mannheim 12.11.",
-   "url": "https://www.penny-del.org/statistik/spieldetails/12112026_iserlohn-roosters_gg_adler-mannheim_4490/boxscore"
-  },
-  {
-   "titel": "Adler Mannheim: Spielbericht Iserlohn (12.11.)",
-   "url": "https://www.adler-mannheim.de/aktuelles/2026/11/-4"
-  },
-  {
-   "titel": "Iserlohn: Spiel gedreht – 6:2 gegen Mannheim (12.11.)",
-   "url": "https://iserlohn-roosters.de/2026/11/12/spiel-gedreht-62-heimsieg-gegen-mannheim/"
+   "titel": "Wild Wings: Verletzungsberichte",
+   "url": "https://www.schwenninger-wildwings.de/aktuell/verletzungsberichte/"
   },
   {
    "titel": "Red Bull München: Fabio Wagner fällt verletzt aus (12.11.)",
    "url": "https://www.redbullmuenchen.de/de/news/ehc-red-bull-muenchen-fabio-wagner-faellt-verletzt-aus"
   },
   {
-   "titel": "Red Bull München: Vorschau 15. Spieltag in Augsburg",
-   "url": "https://www.redbullmuenchen.de/de/news/del-vorschau-15-spieltag-red-bull-muenchen-zu-gast-bei-den-augsburger-panthern"
+   "titel": "Red Bull München: Red Bulls zurück im Training – Krening mit dabei (10.11.)",
+   "url": "https://www.redbullmuenchen.de/de/news/ehc-red-bull-muenchen-trainingsrueckkehr-mit-philipp-krening"
   },
   {
-   "titel": "Straubing: Tigers starten mit Auswärtsderby (12.11.)",
-   "url": "https://www.straubing-tigers.de/tigers-starten-mit-auswaertsderby-in-ingolstadt-und-heimspiel-gegen-frankfurt-aus-der-laenderspielpause/"
-  },
-  {
-   "titel": "Löwen Frankfurt: Vorschau gegen Bremerhaven (12.11.)",
-   "url": "https://www.loewen-frankfurt.de/saison/aktuelles/details/vorschau-loewen-frankfurt-gegen-bremerhaven"
-  },
-  {
-   "titel": "Kölner Haie: Auswärts in Schwenningen (12.11.)",
-   "url": "https://www.haie.de/news/auswaerts-in-schwenningen-haie-auf-kleinstem-eis-der-liga-gefordert/"
-  },
-  {
-   "titel": "tipsterio: Vorschau Krefeld - Nürnberg 13.11.",
-   "url": "https://tipsterio.de/sportwetten-tipps/krefeld-pinguine-vs-nuernberg-ice-tigers-wett-tipp-prognose-13-11-2026"
-  },
-  {
-   "titel": "tipsterio: Vorschau Wolfsburg - Berlin 13.11.",
-   "url": "https://tipsterio.de/sportwetten-tipps/grizzlys-wolfsburg-vs-eisbaeren-berlin-wett-tipp-prognose-13-11-2026"
-  },
-  {
-   "titel": "ERC Ingolstadt: Heimspiel gegen Tigers (12.11.)",
-   "url": "https://www.erc-ingolstadt.de/saison/heimspiel-gegen-tigers"
+   "titel": "ERC Ingolstadt: Mit Rückenwind nach Mannheim (14.11.)",
+   "url": "https://www.erc-ingolstadt.de/saison/mit-rueckenwind-nach-mannheim"
   },
   {
    "titel": "PENNY DEL Boxscore Wolfsburg - Berlin 13.11.",
@@ -688,82 +409,6 @@
    "url": "https://www.penny-del.org/statistik/spieldetails/13112026_loewen-frankfurt_gg_pinguins-bremerhaven_4493/boxscore"
   },
   {
-   "titel": "Eisbären: Zwei Mal geführt und doch verloren (13.11.)",
-   "url": "https://www.eisbaeren.de/news/detail/zwei-mal-gefuehrt-und-doch-verloren"
-  },
-  {
-   "titel": "Adler Mannheim: Nicht immer linear (13.11.)",
-   "url": "https://www.adler-mannheim.de/aktuelles/2026/11/nicht-immer-linear"
-  },
-  {
-   "titel": "RNZ: Böse Überraschung beim Tabellenletzten",
-   "url": "https://www.rnz.de/sport/sportregional_artikel,-Adler-Mannheim-gegen-Iserlohn-Roosters-Boese-Ueberraschung-beim-Tabellenletzten-_arid,2482569.html"
-  },
-  {
-   "titel": "tipsterio: Vorschau Mannheim - Ingolstadt 15.11.",
-   "url": "https://tipsterio.de/sportwetten-tipps/adler-mannheim-vs-erc-ingolstadt-wett-tipp-prognose-15-11-2026"
-  },
-  {
-   "titel": "Iserlohn: Spieltag 15 Roosters vs. Mannheim",
-   "url": "https://iserlohn-roosters.de/2026/11/12/spieltag-15-roosters-vs-mannheim/"
-  },
-  {
-   "titel": "Sportschau/WDR: Krefeld unterliegt Nürnberg (13.11.)",
-   "url": "https://www.sportschau.de/regional/wdr/wdr-bitter-und-enttaeuschend-krefeld-unterliegt-nuernberg-100.html"
-  },
-  {
-   "titel": "NN: Barratt und die Ice Tigers gewinnen glücklich",
-   "url": "https://www.nn.de/sport/ice-tigers/evan-barratt-macht-barratt-sachen-und-die-nurnberg-ice-tigers-gewinnen-glucklich-1.15352923"
-  },
-  {
-   "titel": "NN: Vorschau gegen Krefeld (Heigl-Brüder zurück vom D-Cup)",
-   "url": "https://www.nn.de/sport/ice-tigers/erneute-geschichtsstunde-gegen-krefeld-den-verruckten-heigl-brudern-ist-es-zuzutrauen-1.15351440"
-  },
-  {
-   "titel": "Kölner Haie: Haie unterliegen in Schwenningen 1:2 (13.11.)",
-   "url": "https://www.haie.de/news/15-anschlusstreffer-reicht-nicht-haie-unterliegen-in-schwenningen-mit-12/"
-  },
-  {
-   "titel": "Nürnberg Ice Tigers: Startseite",
-   "url": "https://icetigers.de/"
-  },
-  {
-   "titel": "Red Bull München: Vorschau 16. Spieltag gegen Krefeld (14.11.)",
-   "url": "https://www.redbullmuenchen.de/de/news/del-vorschau-16-spieltag-red-bull-muenchen-empfaengt-die-krefeld-pinguine"
-  },
-  {
-   "titel": "Eisbären: Endlich wieder Heimspiel (14.11.)",
-   "url": "https://www.eisbaeren.de/news/detail/endlich-wieder-heimspiel-5"
-  },
-  {
-   "titel": "Wild Wings: Verletzungsberichte (11.11.)",
-   "url": "https://www.schwenninger-wildwings.de/aktuell/verletzungsberichte/"
-  },
-  {
-   "titel": "Kölner Haie: Heimspiel am Sonntag gegen Wolfsburg (14.11.)",
-   "url": "https://www.haie.de/news/heimspiel-am-sonntag-die-grizzlys-wolfsburg-zu-gast-im-haifischbecken/"
-  },
-  {
-   "titel": "Grizzlys: Diesen Schwung wollen die Grizzlys mitnehmen",
-   "url": "https://www.grizzlys.de/news_2847.html"
-  },
-  {
-   "titel": "Adler Mannheim: Performance-Check ERC Ingolstadt (14.11.)",
-   "url": "https://www.adler-mannheim.de/aktuelles/2026/11/performance-check-erc-ingolstadt"
-  },
-  {
-   "titel": "ERC Ingolstadt: Mit Rückenwind nach Mannheim (14.11.)",
-   "url": "https://www.erc-ingolstadt.de/saison/mit-rueckenwind-nach-mannheim"
-  },
-  {
-   "titel": "Straubing: Tigers unterliegen in Ingolstadt 1:4 (13.11.)",
-   "url": "https://www.straubing-tigers.de/tigers-unterliegen-im-derby-beim-erc-ingolstadt-mit-14/"
-  },
-  {
-   "titel": "Sportschau: Kader Berlin - Schwenningen",
-   "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189685/eisbaeren-berlin_schwenninger-wild-wings/spiel-kader"
-  },
-  {
    "titel": "PENNY DEL Boxscore München - Krefeld 15.11.",
    "url": "https://www.penny-del.org/statistik/spieldetails/15112026_ehc-red-bull-muenchen_gg_krefeld-pinguine_4501/boxscore"
   },
@@ -772,12 +417,48 @@
    "url": "https://www.penny-del.org/statistik/spieldetails/15112026_pinguins-bremerhaven_gg_augsburger-panther_4500/boxscore"
   },
   {
-   "titel": "ran Ticker München - Krefeld 15.11.",
-   "url": "https://ran.joyn.de/sports/ticker/ma12189667-ehc-muenchen-krefeld-pinguine"
+   "titel": "PENNY DEL Boxscore Mannheim - Ingolstadt 15.11.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/15112026_adler-mannheim_gg_erc-ingolstadt_4499/boxscore"
   },
   {
-   "titel": "AEV-Forum Spieltag 16 Bremerhaven - Augsburg",
-   "url": "https://www.aev-forum.de/viewtopic.php?p=1587330"
+   "titel": "PENNY DEL Boxscore Köln - Wolfsburg 15.11.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/15112026_koelner-haie_gg_grizzlys-wolfsburg_4497/boxscore"
+  },
+  {
+   "titel": "PENNY DEL Boxscore Nürnberg - Iserlohn 15.11.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/15112026_nuernberg-ice-tigers_gg_iserlohn-roosters_4498/boxscore"
+  },
+  {
+   "titel": "PENNY DEL Boxscore Straubing - Frankfurt 15.11.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/15112026_straubing-tigers_gg_loewen-frankfurt_4502/boxscore"
+  },
+  {
+   "titel": "PENNY DEL Boxscore Berlin - Schwenningen 15.11.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/15112026_eisbaeren-berlin_gg_schwenninger-wild-wings_4503/boxscore"
+  },
+  {
+   "titel": "Straubing: Tigers melden sich mit 5:1-Heimsieg zurück (15.11.)",
+   "url": "https://www.straubing-tigers.de/tigers-melden-sich-mit-51-heimsieg-gegen-frankfurt-zurueck/"
+  },
+  {
+   "titel": "Kölner Haie: 1:4-Niederlage gegen Wolfsburg (15.11.)",
+   "url": "https://www.haie.de/news/16-14-niederlage-gegen-wolfsburg/"
+  },
+  {
+   "titel": "Eisbären: Stürmische Schwäne nutzen zweites Drittel (15.11.)",
+   "url": "https://www.eisbaeren.de/news/detail/stuermische-schwaene-nutzen-zweites-drittel-zum-sieg"
+  },
+  {
+   "titel": "Adler Mannheim: Adler kehren in Erfolgsspur zurück (15.11.)",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/11/adler-kehren-in-erfolgsspur-zurueck"
+  },
+  {
+   "titel": "Red Bull München: Dritter Sieg in Folge gegen Krefeld (15.11.)",
+   "url": "https://www.redbullmuenchen.de/de/news/del-16-spieltag-ehc-red-bull-muenchen-gewinnt-gegen-krefeld-pinguine"
+  },
+  {
+   "titel": "Ice Tigers Liveticker Nürnberg - Iserlohn (15.11.)",
+   "url": "https://liveticker.icetigers.de/"
   }
  ],
  "odds": {},
