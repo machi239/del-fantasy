@@ -1,5 +1,5 @@
 {
- "stand": "17.11.2026 20:49",
+ "stand": "18.11.2026 00:31",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -12,7 +12,6 @@
    "beginn": "19.11.2026 19:30",
    "buchmacher": [
     "pinnacle",
-    "bet365",
     "unibet"
    ],
    "p_home60": 0.28,
@@ -85,7 +84,8 @@
    "spiel": "Grizzlys Wolfsburg - Iserlohn Roosters",
    "beginn": "20.11.2026 19:30",
    "buchmacher": [
-    "pinnacle"
+    "pinnacle",
+    "bet365"
    ],
    "p_home60": 0.495,
    "p_draw60": 0.244,
