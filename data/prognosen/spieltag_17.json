@@ -1,9 +1,9 @@
 {
  "spieltag": 17,
  "deadline": "Thu 19.11.2026 19:30",
- "erstellt": "18.11.2026 20:38",
+ "erstellt": "18.11.2026 23:58",
  "pucks": 60,
- "xp_gesamt": 33.6,
+ "xp_gesamt": 33.7,
  "aufstellung": [
   {
    "spieler_id": 4338,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": false,
-   "xp": 2.75,
+   "xp": 2.57,
    "gegner": "Schwenninger Wild Wings",
    "p_start": 1.0
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.51,
+   "xp": 2.52,
    "gegner": "ERC Ingolstadt",
    "p_start": 0.6
   },
@@ -37,20 +37,8 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.36,
+   "xp": 2.35,
    "gegner": "Pinguins Bremerhaven",
-   "p_start": null
-  },
-  {
-   "spieler_id": 1339,
-   "name": "Phillip Bruggisser",
-   "team": "Pinguins Bremerhaven",
-   "team_id": 9,
-   "pos": "def",
-   "preis": 4,
-   "dt_pass": true,
-   "xp": 2.05,
-   "gegner": "Adler Mannheim",
    "p_start": null
   },
   {
@@ -61,8 +49,20 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 1.98,
+   "xp": 2.04,
    "gegner": "ERC Ingolstadt",
+   "p_start": null
+  },
+  {
+   "spieler_id": 1339,
+   "name": "Phillip Bruggisser",
+   "team": "Pinguins Bremerhaven",
+   "team_id": 9,
+   "pos": "def",
+   "preis": 4,
+   "dt_pass": true,
+   "xp": 2.04,
+   "gegner": "Adler Mannheim",
    "p_start": null
   },
   {
@@ -85,8 +85,20 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.49,
+   "xp": 1.48,
    "gegner": "Pinguins Bremerhaven",
+   "p_start": null
+  },
+  {
+   "spieler_id": 3533,
+   "name": "Adam Smith",
+   "team": "Eisbären Berlin",
+   "team_id": 3,
+   "pos": "def",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.45,
+   "gegner": "ERC Ingolstadt",
    "p_start": null
   },
   {
@@ -102,18 +114,6 @@
    "p_start": null
   },
   {
-   "spieler_id": 3533,
-   "name": "Adam Smith",
-   "team": "Eisbären Berlin",
-   "team_id": 3,
-   "pos": "def",
-   "preis": 3,
-   "dt_pass": false,
-   "xp": 1.41,
-   "gegner": "ERC Ingolstadt",
-   "p_start": null
-  },
-  {
    "spieler_id": 2209,
    "name": "Ty Ronning",
    "team": "Eisbären Berlin",
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.81,
+   "xp": 2.89,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -133,7 +133,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.71,
+   "xp": 2.79,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -145,7 +145,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": true,
-   "xp": 2.55,
+   "xp": 2.57,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -157,7 +157,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.63,
+   "xp": 1.64,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -169,7 +169,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.16,
+   "xp": 1.18,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -205,7 +205,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.65,
+   "xp": 0.67,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -229,7 +229,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.58,
+   "xp": 0.59,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -241,7 +241,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.56,
+   "xp": 0.55,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
