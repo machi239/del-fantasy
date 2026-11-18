@@ -1,5 +1,5 @@
 {
- "stand": "18.11.2026 00:31",
+ "stand": "18.11.2026 20:23",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -38,17 +38,18 @@
    "buchmacher": [
     "pinnacle"
    ],
-   "p_home60": 0.401,
+   "p_home60": 0.388,
    "p_draw60": 0.247,
-   "p_away60": 0.352,
-   "p_home_inkl_ot": 0.527,
+   "p_away60": 0.365,
+   "p_home_inkl_ot": 0.515,
    "total": 5.48
   },
   "13-14": {
    "spiel": "Augsburger Panther - Nürnberg Ice Tigers",
    "beginn": "20.11.2026 19:30",
    "buchmacher": [
-    "pinnacle"
+    "pinnacle",
+    "bet365"
    ],
    "p_home60": 0.371,
    "p_draw60": 0.242,
@@ -72,26 +73,26 @@
    "spiel": "EHC Red Bull München - Kölner Haie",
    "beginn": "20.11.2026 19:30",
    "buchmacher": [
-    "pinnacle"
+    "pinnacle",
+    "bet365"
    ],
-   "p_home60": 0.484,
-   "p_draw60": 0.224,
-   "p_away60": 0.292,
+   "p_home60": 0.485,
+   "p_draw60": 0.228,
+   "p_away60": 0.288,
    "p_home_inkl_ot": 0.608,
-   "total": 6.13
+   "total": 6.12
   },
   "8-7": {
    "spiel": "Grizzlys Wolfsburg - Iserlohn Roosters",
    "beginn": "20.11.2026 19:30",
    "buchmacher": [
-    "pinnacle",
-    "bet365"
+    "pinnacle"
    ],
-   "p_home60": 0.495,
-   "p_draw60": 0.244,
-   "p_away60": 0.261,
-   "p_home_inkl_ot": 0.632,
-   "total": 5.29
+   "p_home60": 0.493,
+   "p_draw60": 0.245,
+   "p_away60": 0.262,
+   "p_home_inkl_ot": 0.631,
+   "total": 5.33
   }
  }
 }
