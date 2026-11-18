@@ -1,7 +1,7 @@
 {
  "spieltag": 17,
  "deadline": "Thu 19.11.2026 19:30",
- "erstellt": "18.11.2026 00:32",
+ "erstellt": "18.11.2026 15:45",
  "budget": 60,
  "pucks": 60,
  "auslaender": 9,
@@ -701,27 +701,6 @@
     "wert_pro_puck": 0.41
    },
    {
-    "spieler_id": 3139,
-    "name": "Valtteri Kemiläinen",
-    "team_id": 11,
-    "pos": "def",
-    "preis": 5,
-    "dt_pass": false,
-    "gewaehlt_pct": 9.0,
-    "spiele": 17,
-    "xp": 2.05,
-    "gegner_id": 12,
-    "heim": false,
-    "hinweis": "Eiszeit steigt",
-    "ppg": 1.92,
-    "toi_faktor": 1.11,
-    "matchup": 0.96,
-    "p_einsatz": 1.0,
-    "team": "Kölner Haie",
-    "gegner": "EHC Red Bull München",
-    "wert_pro_puck": 0.41
-   },
-   {
     "spieler_id": 3445,
     "name": "Owen Headrick",
     "team_id": 14,
@@ -741,6 +720,27 @@
     "team": "Nürnberg Ice Tigers",
     "gegner": "Augsburger Panther",
     "wert_pro_puck": 0.41
+   },
+   {
+    "spieler_id": 3594,
+    "name": "Kyle Mayhew",
+    "team_id": 13,
+    "pos": "def",
+    "preis": 5,
+    "dt_pass": false,
+    "gewaehlt_pct": 11.2,
+    "spiele": 16,
+    "xp": 1.98,
+    "gegner_id": 14,
+    "heim": true,
+    "hinweis": "",
+    "ppg": 1.99,
+    "toi_faktor": 0.99,
+    "matchup": 1.0,
+    "p_einsatz": 1,
+    "team": "Augsburger Panther",
+    "gegner": "Nürnberg Ice Tigers",
+    "wert_pro_puck": 0.4
    }
   ],
   "for": [
