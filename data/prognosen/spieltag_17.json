@@ -1,9 +1,9 @@
 {
  "spieltag": 17,
  "deadline": "Thu 19.11.2026 19:30",
- "erstellt": "18.11.2026 18:21",
+ "erstellt": "18.11.2026 20:24",
  "pucks": 60,
- "xp_gesamt": 33.7,
+ "xp_gesamt": 33.6,
  "aufstellung": [
   {
    "spieler_id": 4338,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": false,
-   "xp": 2.83,
+   "xp": 2.75,
    "gegner": "Schwenninger Wild Wings",
    "p_start": 1.0
   },
@@ -169,7 +169,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.15,
+   "xp": 1.16,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -229,7 +229,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.57,
+   "xp": 0.58,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -253,7 +253,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.56,
+   "xp": 0.55,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   }

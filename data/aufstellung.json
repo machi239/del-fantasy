@@ -1,11 +1,11 @@
 {
  "spieltag": 17,
  "deadline": "Thu 19.11.2026 19:30",
- "erstellt": "18.11.2026 18:21",
+ "erstellt": "18.11.2026 20:24",
  "budget": 60,
  "pucks": 60,
  "auslaender": 9,
- "xp_gesamt": 33.7,
+ "xp_gesamt": 33.6,
  "spiele": [
   {
    "spiel": "Krefeld Pinguine - Straubing Tigers",
@@ -32,10 +32,10 @@
    "datum": "2026-11-20",
    "uhrzeit": "19:30",
    "quelle": "Quoten",
-   "xg_heim": 3.37,
-   "xg_gast": 2.76,
-   "p_heim_60": 0.516,
-   "p_gast_60": 0.324
+   "xg_heim": 3.38,
+   "xg_gast": 2.74,
+   "p_heim_60": 0.518,
+   "p_gast_60": 0.321
   },
   {
    "spiel": "Eisbären Berlin - ERC Ingolstadt",
@@ -52,20 +52,20 @@
    "datum": "2026-11-20",
    "uhrzeit": "19:30",
    "quelle": "Quoten",
-   "xg_heim": 3.0,
-   "xg_gast": 2.29,
-   "p_heim_60": 0.532,
-   "p_gast_60": 0.298
+   "xg_heim": 3.01,
+   "xg_gast": 2.32,
+   "p_heim_60": 0.53,
+   "p_gast_60": 0.299
   },
   {
    "spiel": "Löwen Frankfurt - Schwenninger Wild Wings",
    "datum": "2026-11-20",
    "uhrzeit": "19:30",
    "quelle": "Quoten",
-   "xg_heim": 2.81,
-   "xg_gast": 2.67,
-   "p_heim_60": 0.437,
-   "p_gast_60": 0.388
+   "xg_heim": 2.77,
+   "xg_gast": 2.71,
+   "p_heim_60": 0.424,
+   "p_gast_60": 0.401
   },
   {
    "spiel": "Pinguins Bremerhaven - Adler Mannheim",
@@ -88,18 +88,18 @@
    "dt_pass": false,
    "gewaehlt_pct": 5.3,
    "spiele": 13,
-   "xp": 2.83,
+   "xp": 2.75,
    "gegner_id": 15,
    "heim": true,
    "hinweis": "",
    "p_start": 1.0,
-   "p_sieg60": 0.44,
+   "p_sieg60": 0.42,
    "fangquote": 0.917,
-   "xga": 2.16,
-   "xsv": 25.3,
+   "xga": 2.19,
+   "xsv": 25.5,
    "team": "Löwen Frankfurt",
    "gegner": "Schwenninger Wild Wings",
-   "wert_pro_puck": 0.94
+   "wert_pro_puck": 0.92
   },
   {
    "spieler_id": 1069,
@@ -363,7 +363,7 @@
    "dt_pass": true,
    "gewaehlt_pct": 13.9,
    "spiele": 18,
-   "xp": 1.15,
+   "xp": 1.16,
    "gegner_id": 44,
    "heim": false,
    "hinweis": "",
@@ -373,7 +373,7 @@
    "p_einsatz": 1,
    "team": "Schwenninger Wild Wings",
    "gegner": "Löwen Frankfurt",
-   "wert_pro_puck": 0.57
+   "wert_pro_puck": 0.58
   },
   {
    "spieler_id": 1306,
@@ -468,7 +468,7 @@
    "dt_pass": true,
    "gewaehlt_pct": 5.7,
    "spiele": 18,
-   "xp": 0.57,
+   "xp": 0.58,
    "gegner_id": 44,
    "heim": false,
    "hinweis": "",
@@ -478,7 +478,7 @@
    "p_einsatz": 1,
    "team": "Schwenninger Wild Wings",
    "gegner": "Löwen Frankfurt",
-   "wert_pro_puck": 0.57
+   "wert_pro_puck": 0.58
   },
   {
    "spieler_id": 3562,
@@ -510,17 +510,17 @@
    "dt_pass": true,
    "gewaehlt_pct": 8.3,
    "spiele": 16,
-   "xp": 0.56,
+   "xp": 0.55,
    "gegner_id": 15,
    "heim": true,
    "hinweis": "",
    "ppg": 0.6,
    "toi_faktor": 0.94,
-   "matchup": 0.98,
+   "matchup": 0.97,
    "p_einsatz": 1,
    "team": "Löwen Frankfurt",
    "gegner": "Schwenninger Wild Wings",
-   "wert_pro_puck": 0.56
+   "wert_pro_puck": 0.55
   }
  ],
  "alternativen": {
@@ -556,18 +556,18 @@
     "dt_pass": true,
     "gewaehlt_pct": 4.8,
     "spiele": 15,
-    "xp": 2.05,
+    "xp": 2.02,
     "gegner_id": 7,
     "heim": true,
     "hinweis": "",
     "p_start": 0.8,
     "p_sieg60": 0.53,
     "fangquote": 0.902,
-    "xga": 2.18,
-    "xsv": 22.8,
+    "xga": 2.21,
+    "xsv": 22.9,
     "team": "Grizzlys Wolfsburg",
     "gegner": "Iserlohn Roosters",
-    "wert_pro_puck": 0.41
+    "wert_pro_puck": 0.4
    },
    {
     "spieler_id": 4319,
@@ -600,14 +600,14 @@
     "dt_pass": false,
     "gewaehlt_pct": 2.0,
     "spiele": 10,
-    "xp": 1.63,
+    "xp": 1.66,
     "gegner_id": 11,
     "heim": true,
     "hinweis": "",
     "p_start": 1.0,
     "p_sieg60": 0.52,
     "fangquote": 0.899,
-    "xga": 2.7,
+    "xga": 2.68,
     "xsv": 24.6,
     "team": "EHC Red Bull München",
     "gegner": "Kölner Haie",
