@@ -286,6 +286,18 @@
  },
  "risiken": [
   {
+   "text": "Last-Minute-Stand 18:17. Offizielle Aufstellungen berücksichtigt: keine.",
+   "schwer": false
+  },
+  {
+   "text": "Aufstellung von Krefeld Pinguine noch nicht veröffentlicht. DEL-Boxscore um 18:17 noch leer.",
+   "schwer": false
+  },
+  {
+   "text": "Aufstellung von Straubing Tigers noch nicht veröffentlicht. Starter zwischen Skarek und Pantkowski weiter offen (Duszak in der Aufstellung betroffen nur indirekt).",
+   "schwer": false
+  },
+  {
    "text": "Jonas Neffins Start gegen Ingolstadt ist wahrscheinlich, aber nicht bestätigt (p_start 0.6, Recherche 0.75). Jack LaFontaine stand am 18.11. beim 9:2 in der CHL gegen Kouvola im Tor, was für Neffin am Freitag spricht; am 15.11. war Neffin nach 40 Minuten ausgewechselt worden. Alternative gleichen Preises: Niklas Treutle (Nürnberg, 3 Pucks, startete zuletzt beide Spiele).",
    "schwer": false
   },
@@ -598,6 +610,14 @@
   {
    "titel": "Sportschau: 9:2 gegen Kouvola – Eisbären im CHL-Viertelfinale",
    "url": "https://www.sportschau.de/regional/rbb/rbb-eisbaeren-berlin-erreichen-das-viertelfinale-der-chl-102.html"
+  },
+  {
+   "titel": "PENNY DEL Boxscore Krefeld – Straubing 19.11.2026",
+   "url": "https://www.penny-del.org/statistik/spieldetails/19112026_krefeld-pinguine_gg_straubing-tigers_4504/boxscore"
+  },
+  {
+   "titel": "Sportschau: Krefeld – Straubing Spielinfo",
+   "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189688/krefeld-pinguine_straubing-tigers/info"
   }
  ],
  "odds": {},
