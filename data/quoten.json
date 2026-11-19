@@ -1,5 +1,5 @@
 {
- "stand": "18.11.2026 23:57",
+ "stand": "19.11.2026 20:28",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -7,31 +7,19 @@
   "unibet"
  ],
  "spiele": {
-  "5-6": {
-   "spiel": "Krefeld Pinguine - Straubing Tigers",
-   "beginn": "19.11.2026 19:30",
-   "buchmacher": [
-    "pinnacle",
-    "unibet"
-   ],
-   "p_home60": 0.28,
-   "p_draw60": 0.233,
-   "p_away60": 0.487,
-   "p_home_inkl_ot": 0.388,
-   "total": 5.81
-  },
   "3-1": {
    "spiel": "Eisbären Berlin - ERC Ingolstadt",
    "beginn": "20.11.2026 19:30",
    "buchmacher": [
     "pinnacle",
+    "bet365",
     "unibet"
    ],
-   "p_home60": 0.581,
-   "p_draw60": 0.199,
-   "p_away60": 0.22,
-   "p_home_inkl_ot": 0.693,
-   "total": 6.11
+   "p_home60": 0.566,
+   "p_draw60": 0.205,
+   "p_away60": 0.229,
+   "p_home_inkl_ot": 0.682,
+   "total": 6.0
   },
   "44-15": {
    "spiel": "Löwen Frankfurt - Schwenninger Wild Wings",
@@ -40,10 +28,10 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.378,
-   "p_draw60": 0.233,
-   "p_away60": 0.389,
-   "p_home_inkl_ot": 0.497,
+   "p_home60": 0.383,
+   "p_draw60": 0.231,
+   "p_away60": 0.386,
+   "p_home_inkl_ot": 0.5,
    "total": 5.6
   },
   "13-14": {
@@ -51,13 +39,12 @@
    "beginn": "20.11.2026 19:30",
    "buchmacher": [
     "pinnacle",
-    "bet365",
     "unibet"
    ],
-   "p_home60": 0.374,
-   "p_draw60": 0.226,
-   "p_away60": 0.401,
-   "p_home_inkl_ot": 0.485,
+   "p_home60": 0.365,
+   "p_draw60": 0.224,
+   "p_away60": 0.411,
+   "p_home_inkl_ot": 0.474,
    "total": 5.95
   },
   "9-2": {
@@ -65,12 +52,13 @@
    "beginn": "20.11.2026 19:30",
    "buchmacher": [
     "pinnacle",
+    "bet365",
     "unibet"
    ],
-   "p_home60": 0.34,
-   "p_draw60": 0.236,
-   "p_away60": 0.424,
-   "p_home_inkl_ot": 0.454,
+   "p_home60": 0.337,
+   "p_draw60": 0.234,
+   "p_away60": 0.43,
+   "p_home_inkl_ot": 0.451,
    "total": 5.7
   },
   "12-11": {
@@ -78,13 +66,14 @@
    "beginn": "20.11.2026 19:30",
    "buchmacher": [
     "pinnacle",
+    "bet365",
     "unibet"
    ],
-   "p_home60": 0.471,
-   "p_draw60": 0.231,
-   "p_away60": 0.298,
-   "p_home_inkl_ot": 0.597,
-   "total": 6.09
+   "p_home60": 0.477,
+   "p_draw60": 0.228,
+   "p_away60": 0.295,
+   "p_home_inkl_ot": 0.6,
+   "total": 6.1
   },
   "8-7": {
    "spiel": "Grizzlys Wolfsburg - Iserlohn Roosters",
@@ -93,10 +82,10 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.497,
-   "p_draw60": 0.236,
-   "p_away60": 0.267,
-   "p_home_inkl_ot": 0.628,
+   "p_home60": 0.494,
+   "p_draw60": 0.231,
+   "p_away60": 0.275,
+   "p_home_inkl_ot": 0.622,
    "total": 5.33
   }
  }
