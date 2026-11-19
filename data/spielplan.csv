@@ -115,7 +115,7 @@ spieltag,datum,uhrzeit,heim,gast,heim_id,gast_id,tore_heim,tore_gast,entscheidun
 16,2026-11-15,16:30,Nürnberg Ice Tigers,Iserlohn Roosters,14,7,3,2,SO,beendet,4498,/statistik/spieldetails/15112026_nuernberg-ice-tigers_gg_iserlohn-roosters_4498,ja
 16,2026-11-15,16:30,Straubing Tigers,Löwen Frankfurt,6,44,5,1,REG,beendet,4502,/statistik/spieldetails/15112026_straubing-tigers_gg_loewen-frankfurt_4502,ja
 16,2026-11-15,19:00,Eisbären Berlin,Schwenninger Wild Wings,3,15,2,4,REG,beendet,4503,/statistik/spieldetails/15112026_eisbaeren-berlin_gg_schwenninger-wild-wings_4503,ja
-17,2026-11-19,19:30,Krefeld Pinguine,Straubing Tigers,5,6,,,,offen,,,
+17,2026-11-19,19:30,Krefeld Pinguine,Straubing Tigers,5,6,0,0,REG,beendet,4504,/statistik/spieldetails/19112026_krefeld-pinguine_gg_straubing-tigers_4504,
 17,2026-11-20,19:30,Augsburger Panther,Nürnberg Ice Tigers,13,14,,,,offen,,,
 17,2026-11-20,19:30,EHC Red Bull München,Kölner Haie,12,11,,,,offen,,,
 17,2026-11-20,19:30,Eisbären Berlin,ERC Ingolstadt,3,1,,,,offen,,,
