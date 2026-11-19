@@ -1,5 +1,5 @@
 {
- "stand": "19.11.2026 20:28",
+ "stand": "20.11.2026 00:04",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -12,14 +12,13 @@
    "beginn": "20.11.2026 19:30",
    "buchmacher": [
     "pinnacle",
-    "bet365",
     "unibet"
    ],
-   "p_home60": 0.566,
-   "p_draw60": 0.205,
-   "p_away60": 0.229,
-   "p_home_inkl_ot": 0.682,
-   "total": 6.0
+   "p_home60": 0.57,
+   "p_draw60": 0.204,
+   "p_away60": 0.226,
+   "p_home_inkl_ot": 0.685,
+   "total": 6.01
   },
   "44-15": {
    "spiel": "Löwen Frankfurt - Schwenninger Wild Wings",
@@ -52,7 +51,6 @@
    "beginn": "20.11.2026 19:30",
    "buchmacher": [
     "pinnacle",
-    "bet365",
     "unibet"
    ],
    "p_home60": 0.337,
@@ -66,7 +64,6 @@
    "beginn": "20.11.2026 19:30",
    "buchmacher": [
     "pinnacle",
-    "bet365",
     "unibet"
    ],
    "p_home60": 0.477,
@@ -82,11 +79,11 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.494,
-   "p_draw60": 0.231,
-   "p_away60": 0.275,
-   "p_home_inkl_ot": 0.622,
-   "total": 5.33
+   "p_home60": 0.535,
+   "p_draw60": 0.222,
+   "p_away60": 0.243,
+   "p_home_inkl_ot": 0.661,
+   "total": 5.37
   }
  }
 }
