@@ -65,7 +65,7 @@
   "4319": 1,
   "486": 1,
   "1430": 1,
-  "4897": 1,
+  "4897": 0.5,
   "4336": 1,
   "1887": 1,
   "3424": 1,
@@ -87,7 +87,7 @@
   "3569": 0,
   "550": 0,
   "3309": 1,
-  "4324": 1,
+  "4324": 0.5,
   "2194": 0,
   "4349": 1,
   "1435": 0,
@@ -200,7 +200,7 @@
   "4310": 0.5,
   "2817": 1,
   "2868": 1,
-  "2202": 1,
+  "2202": 0.5,
   "3565": 1,
   "3442": 1,
   "2935": 1,
@@ -236,7 +236,9 @@
  },
  "goalie_start": {
   "4319": 0.7,
-  "486": 0.3
+  "486": 0.3,
+  "1069": 0.75,
+  "4312": 0.25
  },
  "notizen": {
   "4310": "fehlte am 13. und 15.11., Grund unbekannt",
@@ -246,7 +248,7 @@
   "1360": "fehlte am 13. und 15.11., Grund unbekannt",
   "3128": "fehlte am 13. und 15.11., Grund unbekannt",
   "3122": "fehlte zuletzt, Grund unbekannt",
-  "3592": "fehlte am 13. und 15.11., Grund unbekannt",
+  "3592": "fehlte am 13. und 15.11.; besitzt Förderlizenz für die Eisbären Regensburg (DEL2)",
   "2801": "setzte am 15.11. laut Ice-Tigers-Ticker erneut aus, Grund nicht genannt",
   "990": "fehlte am 13. und 15.11., Bremerhaven nur mit fünf Verteidigern",
   "2131": "fehlte zuletzt, Grund unbekannt",
@@ -260,7 +262,7 @@
   "4160": "fehlte zuletzt, Grund unbekannt",
   "2510": "fehlte zuletzt, Grund unbekannt",
   "4157": "am 15.11. gegen Wolfsburg nach dem 1. Drittel für Brückmann ausgewechselt, Grund nicht genannt",
-  "1069": "startete 13. und 15.11., am 15.11. nach 40 Minuten für LaFontaine ausgewechselt",
+  "1069": "startete 13. und 15.11. (am 15.11. nach 40 Min. ausgewechselt); LaFontaine spielte am 18.11. in der CHL, daher Start gegen Ingolstadt wahrscheinlich",
   "4319": "am 15.11. nur Backup, Neuzugang Pantkowski startete",
   "486": "Debüt-Start am 15.11. gegen Frankfurt (5:1)",
   "599": "startete 13. und 15.11.",
@@ -276,15 +278,19 @@
   "4498": "fehlte zuletzt, Grund unbekannt",
   "3139": "schied im CHL-Achtelfinale in Liberec am 17.11. nach dem 1. Drittel aus, Grund nicht genannt",
   "4336": "nach Muskelverletzung zurück, Doppelpack am 15.11. in Berlin",
-  "1985": "stand am 17.11. im CHL-Spiel in Tampere im Tor"
+  "1985": "stand am 17.11. im CHL-Spiel in Tampere im Tor",
+  "2202": "fehlte zuletzt, Grund unbekannt",
+  "4324": "fehlte zuletzt, Grund unbekannt",
+  "4897": "fehlte zuletzt, Grund unbekannt",
+  "4312": "stand am 18.11. beim 9:2 gegen KooKoo Kouvola (CHL) im Tor"
  },
  "risiken": [
   {
-   "text": "Jonas Neffins Start gegen Ingolstadt ist nicht sicher (p_start 0.6). Er stand am 13. und 15.11. im Tor, wurde aber am 15.11. beim 2:4 gegen Schwenningen nach 40 Minuten für LaFontaine ausgewechselt; Alternative gleichen Preises: Niklas Treutle (Nürnberg, 3 Pucks, startete zuletzt beide Spiele).",
+   "text": "Jonas Neffins Start gegen Ingolstadt ist wahrscheinlich, aber nicht bestätigt (p_start 0.6, Recherche 0.75). Jack LaFontaine stand am 18.11. beim 9:2 in der CHL gegen Kouvola im Tor, was für Neffin am Freitag spricht; am 15.11. war Neffin nach 40 Minuten ausgewechselt worden. Alternative gleichen Preises: Niklas Treutle (Nürnberg, 3 Pucks, startete zuletzt beide Spiele).",
    "schwer": false
   },
   {
-   "text": "Straubing ließ am 15.11. Neuzugang Mirko Pantkowski statt Jakub Skarek starten. Grund nicht genannt; Skarek hatte seit Bugls Verletzung jedes Spiel bestritten, Rotation am Donnerstag in Krefeld möglich.",
+   "text": "Straubings Torhüter für Krefeld offen. Am 15.11. startete Neuzugang Pantkowski (5:1 gegen Frankfurt) statt Skarek; die Vereinsvorschau vom 18.11. nennt keinen Starter, Rotation möglich.",
    "schwer": false
   },
   {
@@ -366,7 +372,7 @@
    "bis": "2027-01-15"
   },
   {
-   "text": "Straubing weiter ohne Danjo Leonhardt. Laut Spielbericht vom 15.11. fehlen Leonhardt, Madden, Brandl und Kukuk; Elynuik wieder dabei.",
+   "text": "Straubing weiter ohne Danjo Leonhardt. Laut Vereinsvorschau vom 18.11. steht Leonhardt weiter nicht zur Verfügung; Madden, Brandl und Kukuk fehlten am 15.11. ohne genannten Grund, Bugl fällt längerfristig aus.",
    "schwer": false,
    "bis": "2026-11-30"
   },
@@ -394,6 +400,14 @@
    "text": "Nathan Burns (Ingolstadt) fällt auf unbestimmte Zeit aus. Oberkörperverletzung laut Vorschau vom 14.11.; Ruopp fraglich, Rosa-Preto zurück.",
    "schwer": false,
    "bis": "2026-11-30"
+  },
+  {
+   "text": "Augsburg verpflichtet Center Mitchell Hoelscher. Zuletzt fehlten Luke Toporowski und Sebastian Zwickl (Förderlizenz Regensburg); Gründe für Toporowski nicht genannt.",
+   "schwer": false
+  },
+  {
+   "text": "Ingolstadt am 15.11. ohne Nicolas Schindler und Edwin Tropmann. Gründe nicht genannt; Burns fällt aus, Ruopp fraglich.",
+   "schwer": false
   }
  ],
  "quellen": [
@@ -564,6 +578,26 @@
   {
    "titel": "Sportschau: Kader Berlin – Ingolstadt (17. Spieltag)",
    "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189691/eisbaeren-berlin_erc-ingolstadt/spiel-kader"
+  },
+  {
+   "titel": "eishockeynews: Berlin – KooKoo 9:2, CHL (18.11.)",
+   "url": "https://www.eishockeynews.de/spiel/berlin-gegen-kookoo-2026-chl-5273766/bericht"
+  },
+  {
+   "titel": "Straubing Tigers: Tigers vor Auswärtsspiel in Krefeld (18.11.)",
+   "url": "https://www.straubing-tigers.de/tigers-vor-auswaertsspiel-in-krefeld-und-heimduell-mit-dem-deutschen-meister/"
+  },
+  {
+   "titel": "Regensburger Nachrichten: Zwickl erhält Förderlizenz für Regensburg",
+   "url": "https://www.regensburger-nachrichten.de/sport-und-freizeit/100236-sebastian-zwickl-erhaelt-foerderlizenz-fuer-die-eisbaeren-regensburg"
+  },
+  {
+   "titel": "Augsburger Panther: News",
+   "url": "https://www.aev-panther.de/"
+  },
+  {
+   "titel": "Sportschau: 9:2 gegen Kouvola – Eisbären im CHL-Viertelfinale",
+   "url": "https://www.sportschau.de/regional/rbb/rbb-eisbaeren-berlin-erreichen-das-viertelfinale-der-chl-102.html"
   }
  ],
  "odds": {},
