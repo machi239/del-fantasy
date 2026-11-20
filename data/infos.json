@@ -31,7 +31,7 @@
   "2199": 1,
   "143": 0,
   "2191": 0,
-  "4323": 0.5,
+  "4323": 0,
   "1764": 1,
   "3167": 0.5,
   "2835": 1,
@@ -58,7 +58,7 @@
   "4341": 1,
   "1903": 0.5,
   "4333": 1,
-  "426": 1,
+  "426": 0.5,
   "3530": 1,
   "1904": 0,
   "990": 0.5,
@@ -90,13 +90,13 @@
   "4324": 0.5,
   "2194": 0,
   "4349": 1,
-  "1435": 0,
+  "1435": 0.5,
   "3323": 0.5,
-  "478": 1,
+  "478": 0.5,
   "4335": 1,
   "3585": 0.5,
   "1345": 1,
-  "88": 0.5,
+  "88": 1,
   "2411": 1,
   "1611": 1,
   "1525": 1,
@@ -105,7 +105,7 @@
   "1987": 1,
   "1350": 1,
   "931": 1,
-  "506": 1,
+  "506": 0,
   "3410": 1,
   "2209": 1,
   "2121": 1,
@@ -132,16 +132,16 @@
   "80": 1,
   "648": 1,
   "1684": 1,
-  "597": 1,
+  "597": 0.5,
   "3560": 0.5,
-  "3559": 0.5,
+  "3559": 0,
   "4160": 0.5,
   "4312": 1,
   "3072": 0.5,
   "122": 0,
   "4154": 1,
   "3472": 1,
-  "4498": 0.5,
+  "4498": 1,
   "3581": 1,
   "102": 1,
   "4342": 1,
@@ -210,7 +210,7 @@
   "2801": 0.5,
   "554": 1,
   "2798": 1,
-  "1441": 0.5,
+  "1441": 1,
   "4157": 1,
   "3434": 0.5,
   "115": 1,
@@ -229,14 +229,58 @@
   "3429": 0.5,
   "2754": 0.5,
   "2125": 0.5,
-  "1382": 0.5,
+  "1382": 1,
   "1343": 0.5,
   "499": 0.5,
   "3139": 0.5
  },
- "goalie_start": {},
- "notizen": {},
+ "goalie_start": {
+  "4342": 0.7,
+  "102": 0.3,
+  "486": 0.5,
+  "4319": 0.5
+ },
+ "notizen": {
+  "1435": "Laut Wild Wings (19.11.) grünes Licht nach OP, Comeback am 22.11. möglich.",
+  "478": "Fällt laut Wild Wings für 20.11. in Frankfurt voraussichtlich aus, Grund nicht genannt.",
+  "426": "Fällt laut Wild Wings für 20.11. in Frankfurt voraussichtlich aus, Grund nicht genannt.",
+  "597": "Laut Wild Wings-Vorschau 19.11. für Bassen aus dem Lineup.",
+  "3559": "An Ravensburg Towerstars ausgeliehen.",
+  "4342": "Startete bis 15.11. fast jedes Spiel, am 19.11. aber Bick im Tor (Sieg, 42 Paraden).",
+  "102": "Starter beim 19.11. gegen Straubing (Sieg).",
+  "486": "Startete am 15.11. und 19.11. statt Skarek.",
+  "4319": "Zuletzt zweimal nur Backup hinter Pantkowski; kein Verletzungshinweis.",
+  "3551": "Fehlte auch am 19.11., Grund unbekannt.",
+  "2420": "Fehlte auch am 19.11., Grund unbekannt.",
+  "3958": "Fehlte auch am 19.11., Grund unbekannt.",
+  "4323": "Laut Panther-Vorschau 20.11. weiter verletzt.",
+  "1441": "Laut Roosters-Vorschau 19.11. wieder verfügbar.",
+  "88": "Spielte am 19.11.",
+  "4498": "Spielte am 19.11."
+ },
  "risiken": [
+  {
+   "text": "Juha Jatkola (Krefeld, in der Aufstellung) ist kein sicherer Starter. Am 19.11. gegen Straubing stand Bick im Tor und gewann mit 42 Paraden; Startwahrscheinlichkeit Jatkola gegen Wolfsburg etwa 70 %. Alternative zum gleichen Preis: Hendrik Hane (Iserlohn, 2 Pucks).",
+   "schwer": false
+  },
+  {
+   "text": "Jonas Müller (Berlin) fällt langfristig aus. Laut Eisbären-Meldung vom 19.11. krankheitsbedingt auf unbestimmte Zeit.",
+   "schwer": true,
+   "bis": "2026-12-31"
+  },
+  {
+   "text": "Sean Malone (Augsburg) weiter verletzt. Laut Panther-Vorschau vom 20.11. nicht dabei, Dauer offen.",
+   "schwer": false
+  },
+  {
+   "text": "Bremerhaven ohne Kechter, Reinwald, Boos und Bettahar. Kechter, Reinwald und Boos fehlen auf unbestimmte Zeit, Bettahar nach OP noch mehrere Wochen (Adler-Performance-Check 19.11.).",
+   "schwer": false,
+   "bis": "2026-12-06"
+  },
+  {
+   "text": "Austin Ortega (Schwenningen) vor Comeback. Nach OP voll im Training, laut Trainer Walker ist Sonntag gegen Augsburg ein realistischer Rückkehrtermin; Bittner und Trivellato fehlen am Freitag voraussichtlich.",
+   "schwer": false
+  },
   {
    "text": "Fabio Wagner (München) fällt mehrere Wochen aus. Unterkörperverletzung beim Länderspiel am 08.11., Vereinsmeldung vom 12.11.",
    "schwer": true,
@@ -248,7 +292,7 @@
    "bis": "2026-11-22"
   },
   {
-   "text": "Straubing ohne Torhüter Florian Bugl. Unterkörperverletzung vom 09.10., fällt laut Verein langfristig aus; Skarek spielt seitdem jedes Spiel, Backup Pantkowski.",
+   "text": "Straubing ohne Torhüter Florian Bugl. Unterkörperverletzung vom 09.10., fällt laut Verein langfristig aus; zuletzt startete am 15.11. und 19.11. Pantkowski statt Skarek, Torhüterfrage gegen Berlin offen.",
    "schwer": true,
    "bis": "2026-11-30"
   },
@@ -306,11 +350,6 @@
    "text": "Rio Kaiser (München) fällt bis Anfang 2027 aus. Unterkörperverletzung, zugezogen beim Einsatz für Riessersee, Meldung vom 30.10.",
    "schwer": false,
    "bis": "2027-01-15"
-  },
-  {
-   "text": "Austin Ortega (Schwenningen) fällt nach Operation weiter aus. Am 15.11. in Berlin als 'OP' nicht im Kader; Verein nennt keinen Rückkehrtermin.",
-   "schwer": false,
-   "bis": "2026-11-29"
   },
   {
    "text": "Nathan Burns (Ingolstadt) fällt auf unbestimmte Zeit aus. Oberkörperverletzung laut Vorschau vom 14.11.; Ruopp fraglich, Rosa-Preto zurück.",
@@ -514,6 +553,50 @@
   {
    "titel": "Sportschau: Krefeld – Straubing Spielinfo",
    "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189688/krefeld-pinguine_straubing-tigers/info"
+  },
+  {
+   "titel": "Eisbären: Jonas Müller fällt krankheitsbedingt langfristig aus (19.11.)",
+   "url": "https://www.eisbaeren.de/news/detail/eisbaeren-verteidiger-jonas-mueller-faellt-krankheitsbedingt-langfristig-aus"
+  },
+  {
+   "titel": "Augsburger Panther: Panther erwarten Spitzenreiter Nürnberg (20.11.)",
+   "url": "https://www.aev-panther.de/artikel/panther-erwarten-spitzenreiter-nuernberg-ice-tigers/01a1f447-f13a-7491-bbae-f856d0f2465e"
+  },
+  {
+   "titel": "Adler Mannheim: Performance-Check Bremerhaven (19.11.)",
+   "url": "https://www.adler-mannheim.de/aktuelles/2026/11/performance-check-fischtown-pinguins-bremerhaven"
+  },
+  {
+   "titel": "Wild Wings: Vereinte Kräfte (19.11.)",
+   "url": "https://www.schwenninger-wildwings.de/aktuell/vereinte-kraefte/"
+  },
+  {
+   "titel": "Iserlohn Roosters: Spieltag 17 Roosters @ Wolfsburg (19.11.)",
+   "url": "https://iserlohn-roosters.de/2026/11/19/spieltag-17-roosters-wolfsburg/"
+  },
+  {
+   "titel": "Straubing Tigers: Tigers in Krefeld trotz später Aufholjagd ohne Punkte (19.11.)",
+   "url": "https://www.straubing-tigers.de/tigers-in-krefeld-trotz-spaeter-aufholjagd-ohne-punkte/"
+  },
+  {
+   "titel": "Krefeld Pinguine: Heimsieg perfekt (19.11.)",
+   "url": "https://krefeld-pinguine.de/news/heimsieg-perfekt-tigers-beissen-sich-an-pinguinen-die-zaehne-aus/"
+  },
+  {
+   "titel": "Kölner Haie: Auswärts-Doppelpack am Wochenende (19.11.)",
+   "url": "https://www.haie.de/news/auswaerts-doppelpack-am-wochenende-haie-starten-freitag-mit-spiel-in-muenchen/"
+  },
+  {
+   "titel": "Eisbären: Schanzer zu Gast an der Spree (19.11.)",
+   "url": "https://www.eisbaeren.de/news/detail/schanzer-zu-gast-an-der-spree"
+  },
+  {
+   "titel": "Red Bull München: Vorschau 17. Spieltag gegen Köln (19.11.)",
+   "url": "https://www.redbullmuenchen.de/de/news/del-vorschau-17-spieltag-red-bull-muenchen-empfaengt-die-koelner-haie"
+  },
+  {
+   "titel": "Grizzlys Wolfsburg: Vorschau Iserlohn (19.11.)",
+   "url": "https://www.grizzlys.de/news_2851.html"
   }
  ],
  "odds": {},
