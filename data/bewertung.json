@@ -29,7 +29,7 @@
      "schnitt": 3.61,
      "summe": 50.6,
      "median_stufe": 22.0,
-     "abstand": 1.87,
+     "abstand": 1.86,
      "fair": 4,
      "sicherheit": "deutlich"
     },
@@ -42,8 +42,8 @@
      "spiele": 10,
      "schnitt": 3.0,
      "summe": 30.0,
-     "median_stufe": 5.2,
-     "abstand": 1.62,
+     "median_stufe": 7.0,
+     "abstand": 1.5,
      "fair": 3,
      "sicherheit": "knapp"
     }
@@ -73,7 +73,7 @@
      "schnitt": -1.38,
      "summe": -15.2,
      "median_stufe": 12.8,
-     "abstand": 1.83,
+     "abstand": 1.82,
      "fair": 3,
      "sicherheit": "deutlich"
     },
@@ -106,7 +106,7 @@
      "schnitt": 3.12,
      "summe": 49.9,
      "median_stufe": 21.5,
-     "abstand": 2.22,
+     "abstand": 2.2,
      "fair": 5,
      "sicherheit": "deutlich"
     },
@@ -120,7 +120,7 @@
      "schnitt": 2.16,
      "summe": 30.2,
      "median_stufe": 16.3,
-     "abstand": 1.09,
+     "abstand": 1.08,
      "fair": 4,
      "sicherheit": "deutlich"
     },
@@ -134,9 +134,23 @@
      "schnitt": 2.2,
      "summe": 35.2,
      "median_stufe": 21.5,
-     "abstand": 1.07,
+     "abstand": 1.06,
      "fair": 5,
      "sicherheit": "deutlich"
+    },
+    {
+     "id": "1811",
+     "name": "Mario Zimmermann",
+     "team_id": "6",
+     "preis": 2,
+     "dt_pass": true,
+     "spiele": 17,
+     "schnitt": 1.13,
+     "summe": 19.2,
+     "median_stufe": 6.2,
+     "abstand": 1.01,
+     "fair": 3,
+     "sicherheit": "knapp"
     },
     {
      "id": "506",
@@ -148,22 +162,8 @@
      "schnitt": 2.16,
      "summe": 34.5,
      "median_stufe": 21.5,
-     "abstand": 1.02,
+     "abstand": 1.01,
      "fair": 5,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "1811",
-     "name": "Mario Zimmermann",
-     "team_id": "6",
-     "preis": 2,
-     "dt_pass": true,
-     "spiele": 16,
-     "schnitt": 1.16,
-     "summe": 18.5,
-     "median_stufe": 6.0,
-     "abstand": 0.98,
-     "fair": 3,
      "sicherheit": "knapp"
     },
     {
@@ -175,8 +175,8 @@
      "spiele": 16,
      "schnitt": 1.14,
      "summe": 18.2,
-     "median_stufe": 6.0,
-     "abstand": 0.95,
+     "median_stufe": 6.2,
+     "abstand": 0.93,
      "fair": 3,
      "sicherheit": "knapp"
     },
@@ -190,7 +190,21 @@
      "schnitt": 0.74,
      "summe": 11.9,
      "median_stufe": 0.0,
-     "abstand": 0.93,
+     "abstand": 0.92,
+     "fair": 2,
+     "sicherheit": "knapp"
+    },
+    {
+     "id": "3931",
+     "name": "Zack Dybowski",
+     "team_id": "5",
+     "preis": 1,
+     "dt_pass": true,
+     "spiele": 17,
+     "schnitt": 0.69,
+     "summe": 11.8,
+     "median_stufe": 0.0,
+     "abstand": 0.91,
      "fair": 2,
      "sicherheit": "knapp"
     }
@@ -206,7 +220,7 @@
      "schnitt": 0.13,
      "summe": 2.0,
      "median_stufe": 30.1,
-     "abstand": 2.2,
+     "abstand": 2.18,
      "fair": 4,
      "sicherheit": "deutlich"
     },
@@ -220,7 +234,7 @@
      "schnitt": -0.72,
      "summe": -9.3,
      "median_stufe": 16.3,
-     "abstand": 2.0,
+     "abstand": 1.98,
      "fair": 2,
      "sicherheit": "deutlich"
     },
@@ -234,7 +248,7 @@
      "schnitt": -0.3,
      "summe": -3.6,
      "median_stufe": 16.3,
-     "abstand": 1.56,
+     "abstand": 1.54,
      "fair": 2,
      "sicherheit": "deutlich"
     },
@@ -248,7 +262,7 @@
      "schnitt": 0.54,
      "summe": 3.8,
      "median_stufe": 21.5,
-     "abstand": 1.38,
+     "abstand": 1.37,
      "fair": 3,
      "sicherheit": "deutlich"
     },
@@ -262,7 +276,7 @@
      "schnitt": 0.81,
      "summe": 12.9,
      "median_stufe": 30.1,
-     "abstand": 1.34,
+     "abstand": 1.33,
      "fair": 4,
      "sicherheit": "deutlich"
     },
@@ -276,7 +290,7 @@
      "schnitt": 0.18,
      "summe": 0.9,
      "median_stufe": 16.3,
-     "abstand": 1.2,
+     "abstand": 1.19,
      "fair": 2,
      "sicherheit": "deutlich"
     },
@@ -290,23 +304,9 @@
      "schnitt": 0.7,
      "summe": 6.3,
      "median_stufe": 21.5,
-     "abstand": 1.19,
+     "abstand": 1.18,
      "fair": 3,
      "sicherheit": "deutlich"
-    },
-    {
-     "id": "3434",
-     "name": "Veli-Matti Vittasmäki",
-     "team_id": "11",
-     "preis": 4,
-     "dt_pass": false,
-     "spiele": 14,
-     "schnitt": 0.75,
-     "summe": 10.5,
-     "median_stufe": 21.5,
-     "abstand": 0.86,
-     "fair": 3,
-     "sicherheit": "knapp"
     }
    ],
    "anzahl_erwartet": 15
@@ -323,7 +323,7 @@
      "schnitt": 2.18,
      "summe": 34.9,
      "median_stufe": 8.6,
-     "abstand": 2.33,
+     "abstand": 2.27,
      "fair": 3,
      "sicherheit": "deutlich"
     },
@@ -337,8 +337,22 @@
      "schnitt": 2.16,
      "summe": 34.5,
      "median_stufe": 14.3,
-     "abstand": 1.79,
+     "abstand": 1.75,
      "fair": 4,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "59",
+     "name": "Stefan Loibl",
+     "team_id": "6",
+     "preis": 4,
+     "dt_pass": true,
+     "spiele": 17,
+     "schnitt": 2.27,
+     "summe": 38.6,
+     "median_stufe": 20.4,
+     "abstand": 1.57,
+     "fair": 5,
      "sicherheit": "deutlich"
     },
     {
@@ -351,7 +365,7 @@
      "schnitt": 1.14,
      "summe": 18.2,
      "median_stufe": 1.1,
-     "abstand": 1.51,
+     "abstand": 1.48,
      "fair": 2,
      "sicherheit": "deutlich"
     },
@@ -365,7 +379,7 @@
      "schnitt": 1.11,
      "summe": 17.8,
      "median_stufe": 1.1,
-     "abstand": 1.48,
+     "abstand": 1.45,
      "fair": 2,
      "sicherheit": "deutlich"
     },
@@ -379,8 +393,22 @@
      "schnitt": 1.56,
      "summe": 25.0,
      "median_stufe": 8.6,
-     "abstand": 1.45,
+     "abstand": 1.42,
      "fair": 3,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "2935",
+     "name": "Max Newton",
+     "team_id": "5",
+     "preis": 3,
+     "dt_pass": false,
+     "spiele": 17,
+     "schnitt": 1.8,
+     "summe": 30.6,
+     "median_stufe": 14.3,
+     "abstand": 1.41,
+     "fair": 4,
      "sicherheit": "deutlich"
     },
     {
@@ -393,7 +421,7 @@
      "schnitt": 2.26,
      "summe": 36.2,
      "median_stufe": 20.4,
-     "abstand": 1.4,
+     "abstand": 1.37,
      "fair": 5,
      "sicherheit": "deutlich"
     },
@@ -407,7 +435,7 @@
      "schnitt": 2.26,
      "summe": 36.1,
      "median_stufe": 20.4,
-     "abstand": 1.39,
+     "abstand": 1.36,
      "fair": 5,
      "sicherheit": "deutlich"
     },
@@ -421,7 +449,7 @@
      "schnitt": 0.99,
      "summe": 15.9,
      "median_stufe": 1.1,
-     "abstand": 1.31,
+     "abstand": 1.28,
      "fair": 2,
      "sicherheit": "deutlich"
     },
@@ -435,9 +463,23 @@
      "schnitt": 1.81,
      "summe": 28.9,
      "median_stufe": 14.3,
-     "abstand": 1.29,
+     "abstand": 1.26,
      "fair": 4,
      "sicherheit": "deutlich"
+    },
+    {
+     "id": "3950",
+     "name": "Mathew Santos",
+     "team_id": "5",
+     "preis": 3,
+     "dt_pass": false,
+     "spiele": 16,
+     "schnitt": 1.74,
+     "summe": 27.8,
+     "median_stufe": 14.3,
+     "abstand": 1.17,
+     "fair": 4,
+     "sicherheit": "knapp"
     },
     {
      "id": "2816",
@@ -449,21 +491,21 @@
      "schnitt": 1.38,
      "summe": 22.1,
      "median_stufe": 8.6,
-     "abstand": 1.19,
+     "abstand": 1.17,
      "fair": 3,
-     "sicherheit": "deutlich"
+     "sicherheit": "knapp"
     },
     {
-     "id": "59",
-     "name": "Stefan Loibl",
+     "id": "2121",
+     "name": "Jean-Christophe Beaudin",
      "team_id": "6",
      "preis": 4,
-     "dt_pass": true,
+     "dt_pass": false,
      "spiele": 16,
-     "schnitt": 2.09,
-     "summe": 33.4,
+     "schnitt": 2.08,
+     "summe": 33.2,
      "median_stufe": 20.4,
-     "abstand": 1.15,
+     "abstand": 1.11,
      "fair": 5,
      "sicherheit": "knapp"
     },
@@ -477,7 +519,7 @@
      "schnitt": 1.33,
      "summe": 21.3,
      "median_stufe": 8.6,
-     "abstand": 1.12,
+     "abstand": 1.1,
      "fair": 3,
      "sicherheit": "knapp"
     },
@@ -491,35 +533,7 @@
      "schnitt": 1.33,
      "summe": 21.3,
      "median_stufe": 8.6,
-     "abstand": 1.12,
-     "fair": 3,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "1846",
-     "name": "Tyler Gaudet",
-     "team_id": "8",
-     "preis": 4,
-     "dt_pass": false,
-     "spiele": 16,
-     "schnitt": 2.03,
-     "summe": 32.5,
-     "median_stufe": 20.4,
-     "abstand": 1.07,
-     "fair": 5,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "1795",
-     "name": "Christian Wejse",
-     "team_id": "9",
-     "preis": 2,
-     "dt_pass": true,
-     "spiele": 16,
-     "schnitt": 1.28,
-     "summe": 20.5,
-     "median_stufe": 8.6,
-     "abstand": 1.05,
+     "abstand": 1.1,
      "fair": 3,
      "sicherheit": "knapp"
     }
@@ -531,12 +545,26 @@
      "team_id": "5",
      "preis": 2,
      "dt_pass": false,
-     "spiele": 12,
-     "schnitt": -1.09,
-     "summe": -13.1,
+     "spiele": 13,
+     "schnitt": -1.08,
+     "summe": -14.1,
      "median_stufe": 8.6,
-     "abstand": 1.92,
+     "abstand": 1.96,
      "fair": 1,
+     "sicherheit": "deutlich"
+    },
+    {
+     "id": "4140",
+     "name": "Tanner Kero",
+     "team_id": "5",
+     "preis": 4,
+     "dt_pass": false,
+     "spiele": 17,
+     "schnitt": -0.05,
+     "summe": -0.9,
+     "median_stufe": 20.4,
+     "abstand": 1.84,
+     "fair": 3,
      "sicherheit": "deutlich"
     },
     {
@@ -549,7 +577,7 @@
      "schnitt": 0.02,
      "summe": 0.3,
      "median_stufe": 20.4,
-     "abstand": 1.78,
+     "abstand": 1.74,
      "fair": 3,
      "sicherheit": "deutlich"
     },
@@ -563,22 +591,8 @@
      "schnitt": -0.33,
      "summe": -5.3,
      "median_stufe": 14.3,
-     "abstand": 1.73,
+     "abstand": 1.69,
      "fair": 2,
-     "sicherheit": "deutlich"
-    },
-    {
-     "id": "4140",
-     "name": "Tanner Kero",
-     "team_id": "5",
-     "preis": 4,
-     "dt_pass": false,
-     "spiele": 16,
-     "schnitt": 0.06,
-     "summe": 1.0,
-     "median_stufe": 20.4,
-     "abstand": 1.72,
-     "fair": 3,
      "sicherheit": "deutlich"
     },
     {
@@ -591,7 +605,7 @@
      "schnitt": 3.3,
      "summe": 3.3,
      "median_stufe": 20.4,
-     "abstand": 1.51,
+     "abstand": 1.48,
      "fair": 3,
      "sicherheit": "deutlich"
     },
@@ -605,7 +619,7 @@
      "schnitt": 0.39,
      "summe": 3.5,
      "median_stufe": 20.4,
-     "abstand": 1.5,
+     "abstand": 1.46,
      "fair": 3,
      "sicherheit": "deutlich"
     },
@@ -619,9 +633,9 @@
      "schnitt": 0.1,
      "summe": 0.2,
      "median_stufe": 14.3,
-     "abstand": 1.25,
+     "abstand": 1.22,
      "fair": 2,
-     "sicherheit": "deutlich"
+     "sicherheit": "knapp"
     },
     {
      "id": "1346",
@@ -633,7 +647,7 @@
      "schnitt": -0.26,
      "summe": -4.2,
      "median_stufe": 8.6,
-     "abstand": 1.13,
+     "abstand": 1.11,
      "fair": 1,
      "sicherheit": "knapp"
     },
@@ -647,21 +661,7 @@
      "schnitt": 0.1,
      "summe": 1.5,
      "median_stufe": 14.3,
-     "abstand": 1.13,
-     "fair": 2,
-     "sicherheit": "knapp"
-    },
-    {
-     "id": "1075",
-     "name": "Phil Hungerecker",
-     "team_id": "15",
-     "preis": 3,
-     "dt_pass": true,
-     "spiele": 2,
-     "schnitt": 1.0,
-     "summe": 2.0,
-     "median_stufe": 14.3,
-     "abstand": 1.09,
+     "abstand": 1.11,
      "fair": 2,
      "sicherheit": "knapp"
     }

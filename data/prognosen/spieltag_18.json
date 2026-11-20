@@ -1,9 +1,9 @@
 {
  "spieltag": 18,
  "deadline": "Sun 22.11.2026 14:00",
- "erstellt": "20.11.2026 15:34",
+ "erstellt": "20.11.2026 16:39",
  "pucks": 60,
- "xp_gesamt": 35.6,
+ "xp_gesamt": 35.7,
  "aufstellung": [
   {
    "spieler_id": 599,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 3.58,
+   "xp": 3.6,
    "gegner": "Pinguins Bremerhaven",
    "p_start": 0.8
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": false,
-   "xp": 2.89,
+   "xp": 2.92,
    "gegner": "Iserlohn Roosters",
    "p_start": 1.0
   },
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.81,
+   "xp": 2.79,
    "gegner": "Kölner Haie",
    "p_start": null
   },
@@ -49,7 +49,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": true,
-   "xp": 2.54,
+   "xp": 2.51,
    "gegner": "Kölner Haie",
    "p_start": null
   },
@@ -61,7 +61,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 2.11,
+   "xp": 2.09,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
@@ -73,7 +73,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 1.86,
+   "xp": 1.84,
    "gegner": "Adler Mannheim",
    "p_start": null
   },
@@ -85,20 +85,8 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.77,
+   "xp": 1.76,
    "gegner": "Kölner Haie",
-   "p_start": null
-  },
-  {
-   "spieler_id": 1694,
-   "name": "Jan Luca Sennhenn",
-   "team": "Kölner Haie",
-   "team_id": 11,
-   "pos": "def",
-   "preis": 3,
-   "dt_pass": true,
-   "xp": 1.36,
-   "gegner": "Adler Mannheim",
    "p_start": null
   },
   {
@@ -114,6 +102,18 @@
    "p_start": null
   },
   {
+   "spieler_id": 3931,
+   "name": "Zack Dybowski",
+   "team": "Krefeld Pinguine",
+   "team_id": 5,
+   "pos": "def",
+   "preis": 1,
+   "dt_pass": true,
+   "xp": 0.42,
+   "gegner": "Grizzlys Wolfsburg",
+   "p_start": null
+  },
+  {
    "spieler_id": 1863,
    "name": "Thomas Heigl",
    "team": "Nürnberg Ice Tigers",
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": true,
-   "xp": 2.73,
+   "xp": 2.72,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -133,7 +133,19 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.55,
+   "xp": 2.63,
+   "gegner": "Straubing Tigers",
+   "p_start": null
+  },
+  {
+   "spieler_id": 3410,
+   "name": "Liam Kirk",
+   "team": "Eisbären Berlin",
+   "team_id": 3,
+   "pos": "for",
+   "preis": 5,
+   "dt_pass": false,
+   "xp": 2.54,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
@@ -145,7 +157,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.75,
+   "xp": 1.73,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -157,20 +169,8 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": true,
-   "xp": 1.59,
+   "xp": 1.58,
    "gegner": "Kölner Haie",
-   "p_start": null
-  },
-  {
-   "spieler_id": 3579,
-   "name": "Tyler Spezia",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
-   "pos": "for",
-   "preis": 3,
-   "dt_pass": false,
-   "xp": 1.54,
-   "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
   {
@@ -181,7 +181,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.21,
+   "xp": 1.2,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
@@ -193,7 +193,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.2,
+   "xp": 1.19,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -205,7 +205,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.72,
+   "xp": 0.71,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -217,7 +217,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.66,
+   "xp": 0.65,
    "gegner": "Kölner Haie",
    "p_start": null
   },
@@ -229,20 +229,20 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.66,
+   "xp": 0.65,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
   {
-   "spieler_id": 1684,
-   "name": "Håkon Hänelt",
-   "team": "Schwenninger Wild Wings",
-   "team_id": 15,
+   "spieler_id": 3600,
+   "name": "C.J. Suess",
+   "team": "Krefeld Pinguine",
+   "team_id": 5,
    "pos": "for",
    "preis": 1,
-   "dt_pass": true,
-   "xp": 0.6,
-   "gegner": "Augsburger Panther",
+   "dt_pass": false,
+   "xp": 0.61,
+   "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   },
   {
@@ -253,7 +253,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.59,
+   "xp": 0.6,
    "gegner": "Straubing Tigers",
    "p_start": null
   }
