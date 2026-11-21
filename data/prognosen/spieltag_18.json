@@ -1,9 +1,9 @@
 {
  "spieltag": 18,
  "deadline": "Sun 22.11.2026 14:00",
- "erstellt": "21.11.2026 14:52",
+ "erstellt": "21.11.2026 15:50",
  "pucks": 60,
- "xp_gesamt": 33.2,
+ "xp_gesamt": 32.9,
  "aufstellung": [
   {
    "spieler_id": 599,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.65,
+   "xp": 2.59,
    "gegner": "Pinguins Bremerhaven",
    "p_start": 0.8
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.02,
+   "xp": 2.05,
    "gegner": "Straubing Tigers",
    "p_start": 0.65
   },
@@ -37,19 +37,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.54,
-   "gegner": "Kölner Haie",
-   "p_start": null
-  },
-  {
-   "spieler_id": 1611,
-   "name": "Leon Gawanke",
-   "team": "Adler Mannheim",
-   "team_id": 2,
-   "pos": "def",
-   "preis": 5,
-   "dt_pass": true,
-   "xp": 2.29,
+   "xp": 2.58,
    "gegner": "Kölner Haie",
    "p_start": null
   },
@@ -61,8 +49,20 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.04,
+   "xp": 2.06,
    "gegner": "Nürnberg Ice Tigers",
+   "p_start": null
+  },
+  {
+   "spieler_id": 2868,
+   "name": "Sam Ruopp",
+   "team": "ERC Ingolstadt",
+   "team_id": 1,
+   "pos": "def",
+   "preis": 4,
+   "dt_pass": true,
+   "xp": 2.01,
+   "gegner": "EHC Red Bull München",
    "p_start": null
   },
   {
@@ -73,7 +73,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 1.97,
+   "xp": 1.88,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
@@ -85,7 +85,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.61,
+   "xp": 1.41,
    "gegner": "Kölner Haie",
    "p_start": null
   },
@@ -97,31 +97,19 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.38,
+   "xp": 1.34,
    "gegner": "Eisbären Berlin",
    "p_start": null
   },
   {
-   "spieler_id": 1748,
-   "name": "Peter Spornberger",
-   "team": "Iserlohn Roosters",
-   "team_id": 7,
-   "pos": "def",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.45,
-   "gegner": "Löwen Frankfurt",
-   "p_start": null
-  },
-  {
-   "spieler_id": 1863,
-   "name": "Thomas Heigl",
+   "spieler_id": 2804,
+   "name": "Jakob Weber",
    "team": "Nürnberg Ice Tigers",
    "team_id": 14,
-   "pos": "for",
-   "preis": 5,
+   "pos": "def",
+   "preis": 2,
    "dt_pass": true,
-   "xp": 2.7,
+   "xp": 1.13,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -133,7 +121,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.65,
+   "xp": 2.54,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
@@ -145,8 +133,20 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.56,
+   "xp": 2.53,
    "gegner": "Straubing Tigers",
+   "p_start": null
+  },
+  {
+   "spieler_id": 1863,
+   "name": "Thomas Heigl",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 5,
+   "dt_pass": true,
+   "xp": 2.43,
+   "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
   {
@@ -157,7 +157,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.72,
+   "xp": 1.56,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -181,20 +181,20 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.14,
+   "xp": 1.06,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
   {
-   "spieler_id": 2816,
-   "name": "Johannes Krauß",
-   "team": "Iserlohn Roosters",
-   "team_id": 7,
+   "spieler_id": 931,
+   "name": "Philip Gogulla",
+   "team": "Krefeld Pinguine",
+   "team_id": 5,
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.08,
-   "gegner": "Löwen Frankfurt",
+   "xp": 1.05,
+   "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   },
   {
@@ -205,32 +205,8 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.7,
+   "xp": 0.8,
    "gegner": "ERC Ingolstadt",
-   "p_start": null
-  },
-  {
-   "spieler_id": 3600,
-   "name": "C.J. Suess",
-   "team": "Krefeld Pinguine",
-   "team_id": 5,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": false,
-   "xp": 0.64,
-   "gegner": "Grizzlys Wolfsburg",
-   "p_start": null
-  },
-  {
-   "spieler_id": 1684,
-   "name": "Håkon Hänelt",
-   "team": "Schwenninger Wild Wings",
-   "team_id": 15,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.63,
-   "gegner": "Augsburger Panther",
    "p_start": null
   },
   {
@@ -241,20 +217,44 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.61,
+   "xp": 0.7,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
   {
-   "spieler_id": 1896,
-   "name": "Philipp Krauß",
-   "team": "Augsburger Panther",
-   "team_id": 13,
+   "spieler_id": 3562,
+   "name": "Max Calce",
+   "team": "Adler Mannheim",
+   "team_id": 2,
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.61,
-   "gegner": "Schwenninger Wild Wings",
+   "xp": 0.65,
+   "gegner": "Kölner Haie",
+   "p_start": null
+  },
+  {
+   "spieler_id": 1704,
+   "name": "Roman Kechter",
+   "team": "Pinguins Bremerhaven",
+   "team_id": 9,
+   "pos": "for",
+   "preis": 1,
+   "dt_pass": true,
+   "xp": 0.64,
+   "gegner": "Nürnberg Ice Tigers",
+   "p_start": null
+  },
+  {
+   "spieler_id": 1684,
+   "name": "Håkon Hänelt",
+   "team": "Schwenninger Wild Wings",
+   "team_id": 15,
+   "pos": "for",
+   "preis": 1,
+   "dt_pass": true,
+   "xp": 0.64,
+   "gegner": "Augsburger Panther",
    "p_start": null
   }
  ]
