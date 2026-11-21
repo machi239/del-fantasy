@@ -1,9 +1,9 @@
 {
  "spieltag": 18,
  "deadline": "Sun 22.11.2026 14:00",
- "erstellt": "20.11.2026 23:41",
+ "erstellt": "21.11.2026 14:52",
  "pucks": 60,
- "xp_gesamt": 33.5,
+ "xp_gesamt": 33.2,
  "aufstellung": [
   {
    "spieler_id": 599,
@@ -18,16 +18,16 @@
    "p_start": 0.8
   },
   {
-   "spieler_id": 998,
-   "name": "Hendrik Hane",
-   "team": "Iserlohn Roosters",
-   "team_id": 7,
+   "spieler_id": 1069,
+   "name": "Jonas Neffin",
+   "team": "Eisbären Berlin",
+   "team_id": 3,
    "pos": "goal",
-   "preis": 2,
+   "preis": 3,
    "dt_pass": true,
-   "xp": 1.85,
-   "gegner": "Löwen Frankfurt",
-   "p_start": 0.8
+   "xp": 2.02,
+   "gegner": "Straubing Tigers",
+   "p_start": 0.65
   },
   {
    "spieler_id": 2411,
@@ -102,15 +102,15 @@
    "p_start": null
   },
   {
-   "spieler_id": 2804,
-   "name": "Jakob Weber",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
+   "spieler_id": 1748,
+   "name": "Peter Spornberger",
+   "team": "Iserlohn Roosters",
+   "team_id": 7,
    "pos": "def",
-   "preis": 2,
+   "preis": 1,
    "dt_pass": true,
-   "xp": 0.91,
-   "gegner": "Pinguins Bremerhaven",
+   "xp": 0.45,
+   "gegner": "Löwen Frankfurt",
    "p_start": null
   },
   {
