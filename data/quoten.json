@@ -1,5 +1,5 @@
 {
- "stand": "20.11.2026 23:40",
+ "stand": "21.11.2026 18:57",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -14,10 +14,10 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.473,
-   "p_draw60": 0.22,
-   "p_away60": 0.307,
-   "p_home_inkl_ot": 0.592,
+   "p_home60": 0.469,
+   "p_draw60": 0.222,
+   "p_away60": 0.31,
+   "p_home_inkl_ot": 0.586,
    "total": 5.82
   },
   "1-12": {
@@ -27,11 +27,11 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.383,
-   "p_draw60": 0.226,
-   "p_away60": 0.392,
-   "p_home_inkl_ot": 0.496,
-   "total": 6.23
+   "p_home60": 0.384,
+   "p_draw60": 0.223,
+   "p_away60": 0.393,
+   "p_home_inkl_ot": 0.497,
+   "total": 6.4
   },
   "6-3": {
    "spiel": "Straubing Tigers - Eisbären Berlin",
@@ -40,10 +40,10 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.339,
+   "p_home60": 0.335,
    "p_draw60": 0.237,
-   "p_away60": 0.423,
-   "p_home_inkl_ot": 0.456,
+   "p_away60": 0.428,
+   "p_home_inkl_ot": 0.45,
    "total": 5.87
   },
   "2-11": {
@@ -53,10 +53,10 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.478,
-   "p_draw60": 0.226,
-   "p_away60": 0.296,
-   "p_home_inkl_ot": 0.602,
+   "p_home60": 0.483,
+   "p_draw60": 0.225,
+   "p_away60": 0.292,
+   "p_home_inkl_ot": 0.606,
    "total": 6.04
   },
   "15-13": {
@@ -77,13 +77,14 @@
    "beginn": "22.11.2026 18:00",
    "buchmacher": [
     "pinnacle",
+    "bet365",
     "unibet"
    ],
-   "p_home60": 0.458,
-   "p_draw60": 0.236,
-   "p_away60": 0.306,
-   "p_home_inkl_ot": 0.584,
-   "total": 5.64
+   "p_home60": 0.461,
+   "p_draw60": 0.228,
+   "p_away60": 0.311,
+   "p_home_inkl_ot": 0.578,
+   "total": 5.6
   },
   "5-8": {
    "spiel": "Krefeld Pinguine - Grizzlys Wolfsburg",
@@ -92,11 +93,11 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.39,
-   "p_draw60": 0.236,
-   "p_away60": 0.373,
-   "p_home_inkl_ot": 0.511,
-   "total": 5.94
+   "p_home60": 0.379,
+   "p_draw60": 0.239,
+   "p_away60": 0.382,
+   "p_home_inkl_ot": 0.501,
+   "total": 5.92
   }
  }
 }
