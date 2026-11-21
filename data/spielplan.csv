@@ -116,12 +116,12 @@ spieltag,datum,uhrzeit,heim,gast,heim_id,gast_id,tore_heim,tore_gast,entscheidun
 16,2026-11-15,16:30,Straubing Tigers,Löwen Frankfurt,6,44,5,1,REG,beendet,4502,/statistik/spieldetails/15112026_straubing-tigers_gg_loewen-frankfurt_4502,ja
 16,2026-11-15,19:00,Eisbären Berlin,Schwenninger Wild Wings,3,15,2,4,REG,beendet,4503,/statistik/spieldetails/15112026_eisbaeren-berlin_gg_schwenninger-wild-wings_4503,ja
 17,2026-11-19,19:30,Krefeld Pinguine,Straubing Tigers,5,6,4,3,REG,beendet,4504,/statistik/spieldetails/19112026_krefeld-pinguine_gg_straubing-tigers_4504,ja
-17,2026-11-20,19:30,Augsburger Panther,Nürnberg Ice Tigers,13,14,1,1,REG,beendet,4507,/statistik/spieldetails/20112026_augsburger-panther_gg_nuernberg-ice-tigers_4507,
-17,2026-11-20,19:30,EHC Red Bull München,Kölner Haie,12,11,1,1,REG,beendet,4509,/statistik/spieldetails/20112026_ehc-red-bull-muenchen_gg_koelner-haie_4509,
-17,2026-11-20,19:30,Eisbären Berlin,ERC Ingolstadt,3,1,2,1,REG,beendet,4505,/statistik/spieldetails/20112026_eisbaeren-berlin_gg_erc-ingolstadt_4505,
-17,2026-11-20,19:30,Grizzlys Wolfsburg,Iserlohn Roosters,8,7,4,0,REG,beendet,4510,/statistik/spieldetails/20112026_grizzlys-wolfsburg_gg_iserlohn-roosters_4510,
-17,2026-11-20,19:30,Löwen Frankfurt,Schwenninger Wild Wings,44,15,0,2,REG,beendet,4506,/statistik/spieldetails/20112026_loewen-frankfurt_gg_schwenninger-wild-wings_4506,
-17,2026-11-20,19:30,Pinguins Bremerhaven,Adler Mannheim,9,2,2,0,REG,beendet,4508,/statistik/spieldetails/20112026_pinguins-bremerhaven_gg_adler-mannheim_4508,
+17,2026-11-20,19:30,Augsburger Panther,Nürnberg Ice Tigers,13,14,5,4,SO,beendet,4507,/statistik/spieldetails/20112026_augsburger-panther_gg_nuernberg-ice-tigers_4507,ja
+17,2026-11-20,19:30,EHC Red Bull München,Kölner Haie,12,11,4,3,OT,beendet,4509,/statistik/spieldetails/20112026_ehc-red-bull-muenchen_gg_koelner-haie_4509,ja
+17,2026-11-20,19:30,Eisbären Berlin,ERC Ingolstadt,3,1,5,3,REG,beendet,4505,/statistik/spieldetails/20112026_eisbaeren-berlin_gg_erc-ingolstadt_4505,ja
+17,2026-11-20,19:30,Grizzlys Wolfsburg,Iserlohn Roosters,8,7,7,2,REG,beendet,4510,/statistik/spieldetails/20112026_grizzlys-wolfsburg_gg_iserlohn-roosters_4510,ja
+17,2026-11-20,19:30,Löwen Frankfurt,Schwenninger Wild Wings,44,15,2,3,REG,beendet,4506,/statistik/spieldetails/20112026_loewen-frankfurt_gg_schwenninger-wild-wings_4506,ja
+17,2026-11-20,19:30,Pinguins Bremerhaven,Adler Mannheim,9,2,6,3,REG,beendet,4508,/statistik/spieldetails/20112026_pinguins-bremerhaven_gg_adler-mannheim_4508,ja
 18,2026-11-22,14:00,ERC Ingolstadt,EHC Red Bull München,1,12,,,,offen,,,
 18,2026-11-22,14:00,Nürnberg Ice Tigers,Pinguins Bremerhaven,14,9,,,,offen,,,
 18,2026-11-22,14:00,Straubing Tigers,Eisbären Berlin,6,3,,,,offen,,,
