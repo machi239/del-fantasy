@@ -1,5 +1,5 @@
 {
- "stand": "21.11.2026 18:57",
+ "stand": "21.11.2026 22:40",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -27,11 +27,11 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.384,
-   "p_draw60": 0.223,
-   "p_away60": 0.393,
-   "p_home_inkl_ot": 0.497,
-   "total": 6.4
+   "p_home60": 0.382,
+   "p_draw60": 0.226,
+   "p_away60": 0.392,
+   "p_home_inkl_ot": 0.496,
+   "total": 6.31
   },
   "6-3": {
    "spiel": "Straubing Tigers - Eisbären Berlin",
@@ -53,10 +53,10 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.483,
+   "p_home60": 0.494,
    "p_draw60": 0.225,
-   "p_away60": 0.292,
-   "p_home_inkl_ot": 0.606,
+   "p_away60": 0.281,
+   "p_home_inkl_ot": 0.618,
    "total": 6.04
   },
   "15-13": {
@@ -77,13 +77,12 @@
    "beginn": "22.11.2026 18:00",
    "buchmacher": [
     "pinnacle",
-    "bet365",
     "unibet"
    ],
-   "p_home60": 0.461,
-   "p_draw60": 0.228,
-   "p_away60": 0.311,
-   "p_home_inkl_ot": 0.578,
+   "p_home60": 0.45,
+   "p_draw60": 0.238,
+   "p_away60": 0.312,
+   "p_home_inkl_ot": 0.577,
    "total": 5.6
   },
   "5-8": {
