@@ -1,9 +1,9 @@
 {
  "spieltag": 19,
  "deadline": "Tue 24.11.2026 19:30",
- "erstellt": "22.11.2026 14:45",
+ "erstellt": "22.11.2026 15:45",
  "pucks": 60,
- "xp_gesamt": 35.6,
+ "xp_gesamt": 35.7,
  "aufstellung": [
   {
    "spieler_id": 1069,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 3.23,
+   "xp": 3.22,
    "gegner": "Löwen Frankfurt",
    "p_start": 0.6
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.94,
+   "xp": 3.01,
    "gegner": "Kölner Haie",
    "p_start": 1.0
   },
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.52,
+   "xp": 2.56,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
@@ -49,7 +49,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.22,
+   "xp": 2.21,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -73,7 +73,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 1.92,
+   "xp": 1.89,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -85,7 +85,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.53,
+   "xp": 1.52,
    "gegner": "Adler Mannheim",
    "p_start": null
   },
@@ -97,7 +97,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.38,
+   "xp": 1.4,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
@@ -109,7 +109,7 @@
    "pos": "def",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.24,
+   "xp": 1.22,
    "gegner": "Kölner Haie",
    "p_start": null
   },
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": true,
-   "xp": 2.67,
+   "xp": 2.63,
    "gegner": "Kölner Haie",
    "p_start": null
   },
@@ -133,7 +133,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.57,
+   "xp": 2.6,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -145,7 +145,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.55,
+   "xp": 2.58,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -157,7 +157,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.72,
+   "xp": 1.69,
    "gegner": "Kölner Haie",
    "p_start": null
   },
@@ -193,7 +193,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.15,
+   "xp": 1.13,
    "gegner": "Kölner Haie",
    "p_start": null
   },
@@ -205,7 +205,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.84,
+   "xp": 0.86,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   },
@@ -217,7 +217,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.71,
+   "xp": 0.72,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -234,6 +234,18 @@
    "p_start": null
   },
   {
+   "spieler_id": 3562,
+   "name": "Max Calce",
+   "team": "Adler Mannheim",
+   "team_id": 2,
+   "pos": "for",
+   "preis": 1,
+   "dt_pass": true,
+   "xp": 0.65,
+   "gegner": "Straubing Tigers",
+   "p_start": null
+  },
+  {
    "spieler_id": 1684,
    "name": "Håkon Hänelt",
    "team": "Schwenninger Wild Wings",
@@ -243,18 +255,6 @@
    "dt_pass": true,
    "xp": 0.65,
    "gegner": "Iserlohn Roosters",
-   "p_start": null
-  },
-  {
-   "spieler_id": 3562,
-   "name": "Max Calce",
-   "team": "Adler Mannheim",
-   "team_id": 2,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.64,
-   "gegner": "Straubing Tigers",
    "p_start": null
   }
  ]
