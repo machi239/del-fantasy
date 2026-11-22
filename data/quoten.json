@@ -1,5 +1,5 @@
 {
- "stand": "22.11.2026 19:29",
+ "stand": "22.11.2026 22:47",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -7,41 +7,94 @@
   "unibet"
  ],
  "spiele": {
+  "3-44": {
+   "spiel": "Eisbären Berlin - Löwen Frankfurt",
+   "beginn": "24.11.2026 19:30",
+   "buchmacher": [
+    "pinnacle",
+    "unibet"
+   ],
+   "p_home60": 0.646,
+   "p_draw60": 0.19,
+   "p_away60": 0.163,
+   "p_home_inkl_ot": 0.755,
+   "total": 5.83
+  },
+  "13-5": {
+   "spiel": "Augsburger Panther - Krefeld Pinguine",
+   "beginn": "24.11.2026 19:30",
+   "buchmacher": [
+    "pinnacle",
+    "unibet"
+   ],
+   "p_home60": 0.444,
+   "p_draw60": 0.233,
+   "p_away60": 0.324,
+   "p_home_inkl_ot": 0.569,
+   "total": 5.94
+  },
   "1-9": {
    "spiel": "ERC Ingolstadt - Pinguins Bremerhaven",
    "beginn": "24.11.2026 19:30",
    "buchmacher": [
-    "pinnacle"
+    "pinnacle",
+    "unibet"
    ],
-   "p_home60": 0.507,
-   "p_draw60": 0.223,
-   "p_away60": 0.27,
-   "p_home_inkl_ot": 0.633,
-   "total": 6.26
+   "p_home60": 0.497,
+   "p_draw60": 0.21,
+   "p_away60": 0.293,
+   "p_home_inkl_ot": 0.613,
+   "total": 6.34
   },
   "6-2": {
    "spiel": "Straubing Tigers - Adler Mannheim",
    "beginn": "24.11.2026 19:30",
    "buchmacher": [
-    "pinnacle"
+    "pinnacle",
+    "unibet"
    ],
-   "p_home60": 0.404,
-   "p_draw60": 0.238,
-   "p_away60": 0.358,
-   "p_home_inkl_ot": 0.527,
-   "total": 6.13
+   "p_home60": 0.389,
+   "p_draw60": 0.237,
+   "p_away60": 0.374,
+   "p_home_inkl_ot": 0.509,
+   "total": 5.99
   },
   "11-14": {
    "spiel": "Kölner Haie - Nürnberg Ice Tigers",
    "beginn": "24.11.2026 19:30",
    "buchmacher": [
+    "pinnacle",
+    "unibet"
+   ],
+   "p_home60": 0.499,
+   "p_draw60": 0.218,
+   "p_away60": 0.284,
+   "p_home_inkl_ot": 0.619,
+   "total": 6.13
+  },
+  "12-8": {
+   "spiel": "EHC Red Bull München - Grizzlys Wolfsburg",
+   "beginn": "25.11.2026 19:30",
+   "buchmacher": [
     "pinnacle"
    ],
-   "p_home60": 0.505,
-   "p_draw60": 0.227,
-   "p_away60": 0.268,
-   "p_home_inkl_ot": 0.632,
-   "total": 6.15
+   "p_home60": 0.552,
+   "p_draw60": 0.224,
+   "p_away60": 0.224,
+   "p_home_inkl_ot": 0.68,
+   "total": 5.91
+  },
+  "15-7": {
+   "spiel": "Schwenninger Wild Wings - Iserlohn Roosters",
+   "beginn": "25.11.2026 19:30",
+   "buchmacher": [
+    "pinnacle"
+   ],
+   "p_home60": 0.485,
+   "p_draw60": 0.231,
+   "p_away60": 0.284,
+   "p_home_inkl_ot": 0.613,
+   "total": 5.73
   }
  }
 }
