@@ -1,9 +1,9 @@
 {
  "spieltag": 19,
  "deadline": "Tue 24.11.2026 19:30",
- "erstellt": "22.11.2026 19:30",
+ "erstellt": "22.11.2026 19:40",
  "pucks": 60,
- "xp_gesamt": 34.8,
+ "xp_gesamt": 34.9,
  "aufstellung": [
   {
    "spieler_id": 1069,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 3.2,
+   "xp": 3.24,
    "gegner": "Löwen Frankfurt",
    "p_start": 0.6
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 2,
    "dt_pass": true,
-   "xp": 2.52,
+   "xp": 2.55,
    "gegner": "Krefeld Pinguine",
    "p_start": 0.8
   },
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.43,
+   "xp": 2.42,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
@@ -49,7 +49,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.4,
+   "xp": 2.33,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   },
@@ -85,7 +85,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 1.99,
+   "xp": 2.0,
    "gegner": "Krefeld Pinguine",
    "p_start": null
   },
@@ -97,7 +97,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 1.92,
+   "xp": 1.91,
    "gegner": "Nürnberg Ice Tigers",
    "p_start": null
   },
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.62,
+   "xp": 2.64,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -133,20 +133,8 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.6,
+   "xp": 2.62,
    "gegner": "Löwen Frankfurt",
-   "p_start": null
-  },
-  {
-   "spieler_id": 139,
-   "name": "Patrick Hager",
-   "team": "EHC Red Bull München",
-   "team_id": 12,
-   "pos": "for",
-   "preis": 4,
-   "dt_pass": true,
-   "xp": 1.92,
-   "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   },
   {
@@ -162,6 +150,18 @@
    "p_start": null
   },
   {
+   "spieler_id": 4350,
+   "name": "Jackson Cates",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.41,
+   "gegner": "Kölner Haie",
+   "p_start": null
+  },
+  {
    "spieler_id": 1850,
    "name": "Philip Feist",
    "team": "Schwenninger Wild Wings",
@@ -169,7 +169,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.25,
+   "xp": 1.27,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -181,8 +181,20 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.12,
+   "xp": 1.13,
    "gegner": "Krefeld Pinguine",
+   "p_start": null
+  },
+  {
+   "spieler_id": 4317,
+   "name": "Hudson Elynuik",
+   "team": "Straubing Tigers",
+   "team_id": 6,
+   "pos": "for",
+   "preis": 2,
+   "dt_pass": false,
+   "xp": 1.06,
+   "gegner": "Adler Mannheim",
    "p_start": null
   },
   {
@@ -193,7 +205,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.87,
+   "xp": 0.85,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   },
@@ -205,7 +217,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.72,
+   "xp": 0.73,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -229,7 +241,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.64,
+   "xp": 0.65,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -243,18 +255,6 @@
    "dt_pass": true,
    "xp": 0.61,
    "gegner": "Straubing Tigers",
-   "p_start": null
-  },
-  {
-   "spieler_id": 1896,
-   "name": "Philipp Krauß",
-   "team": "Augsburger Panther",
-   "team_id": 13,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.59,
-   "gegner": "Krefeld Pinguine",
    "p_start": null
   }
  ]
