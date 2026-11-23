@@ -122,13 +122,13 @@ spieltag,datum,uhrzeit,heim,gast,heim_id,gast_id,tore_heim,tore_gast,entscheidun
 17,2026-11-20,19:30,Grizzlys Wolfsburg,Iserlohn Roosters,8,7,7,2,REG,beendet,4510,/statistik/spieldetails/20112026_grizzlys-wolfsburg_gg_iserlohn-roosters_4510,ja
 17,2026-11-20,19:30,Löwen Frankfurt,Schwenninger Wild Wings,44,15,2,3,REG,beendet,4506,/statistik/spieldetails/20112026_loewen-frankfurt_gg_schwenninger-wild-wings_4506,ja
 17,2026-11-20,19:30,Pinguins Bremerhaven,Adler Mannheim,9,2,6,3,REG,beendet,4508,/statistik/spieldetails/20112026_pinguins-bremerhaven_gg_adler-mannheim_4508,ja
-18,2026-11-22,14:00,ERC Ingolstadt,EHC Red Bull München,1,12,5,8,REG,beendet,4513,/statistik/spieldetails/22112026_erc-ingolstadt_gg_ehc-red-bull-muenchen_4513,
-18,2026-11-22,14:00,Nürnberg Ice Tigers,Pinguins Bremerhaven,14,9,2,1,REG,beendet,4511,/statistik/spieldetails/22112026_nuernberg-ice-tigers_gg_pinguins-bremerhaven_4511,
-18,2026-11-22,14:00,Straubing Tigers,Eisbären Berlin,6,3,4,6,REG,beendet,4515,/statistik/spieldetails/22112026_straubing-tigers_gg_eisbaeren-berlin_4515,
-18,2026-11-22,16:30,Adler Mannheim,Kölner Haie,2,11,4,2,REG,beendet,4512,/statistik/spieldetails/22112026_adler-mannheim_gg_koelner-haie_4512,
-18,2026-11-22,16:30,Schwenninger Wild Wings,Augsburger Panther,15,13,4,5,REG,beendet,4516,/statistik/spieldetails/22112026_schwenninger-wild-wings_gg_augsburger-panther_4516,
-18,2026-11-22,18:00,Iserlohn Roosters,Löwen Frankfurt,7,44,4,2,REG,beendet,4514,/statistik/spieldetails/22112026_iserlohn-roosters_gg_loewen-frankfurt_4514,
-18,2026-11-22,19:00,Krefeld Pinguine,Grizzlys Wolfsburg,5,8,0,0,REG,beendet,4517,/statistik/spieldetails/22112026_krefeld-pinguine_gg_grizzlys-wolfsburg_4517,
+18,2026-11-22,14:00,ERC Ingolstadt,EHC Red Bull München,1,12,5,8,REG,beendet,4513,/statistik/spieldetails/22112026_erc-ingolstadt_gg_ehc-red-bull-muenchen_4513,ja
+18,2026-11-22,14:00,Nürnberg Ice Tigers,Pinguins Bremerhaven,14,9,2,1,REG,beendet,4511,/statistik/spieldetails/22112026_nuernberg-ice-tigers_gg_pinguins-bremerhaven_4511,ja
+18,2026-11-22,14:00,Straubing Tigers,Eisbären Berlin,6,3,4,6,REG,beendet,4515,/statistik/spieldetails/22112026_straubing-tigers_gg_eisbaeren-berlin_4515,ja
+18,2026-11-22,16:30,Adler Mannheim,Kölner Haie,2,11,4,2,REG,beendet,4512,/statistik/spieldetails/22112026_adler-mannheim_gg_koelner-haie_4512,ja
+18,2026-11-22,16:30,Schwenninger Wild Wings,Augsburger Panther,15,13,4,5,REG,beendet,4516,/statistik/spieldetails/22112026_schwenninger-wild-wings_gg_augsburger-panther_4516,ja
+18,2026-11-22,18:00,Iserlohn Roosters,Löwen Frankfurt,7,44,5,3,REG,beendet,4514,/statistik/spieldetails/22112026_iserlohn-roosters_gg_loewen-frankfurt_4514,ja
+18,2026-11-22,19:00,Krefeld Pinguine,Grizzlys Wolfsburg,5,8,4,0,REG,beendet,4517,/statistik/spieldetails/22112026_krefeld-pinguine_gg_grizzlys-wolfsburg_4517,ja
 19,2026-11-24,19:30,Augsburger Panther,Krefeld Pinguine,13,5,,,,offen,,,
 19,2026-11-24,19:30,ERC Ingolstadt,Pinguins Bremerhaven,1,9,,,,offen,,,
 19,2026-11-24,19:30,Eisbären Berlin,Löwen Frankfurt,3,44,,,,offen,,,
