@@ -1,9 +1,9 @@
 {
  "spieltag": 19,
  "deadline": "Tue 24.11.2026 19:30",
- "erstellt": "22.11.2026 22:48",
+ "erstellt": "23.11.2026 17:47",
  "pucks": 60,
- "xp_gesamt": 34.8,
+ "xp_gesamt": 34.3,
  "aufstellung": [
   {
    "spieler_id": 1069,
@@ -13,9 +13,9 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.95,
+   "xp": 2.46,
    "gegner": "Löwen Frankfurt",
-   "p_start": 0.6
+   "p_start": 0.5
   },
   {
    "spieler_id": 1211,
