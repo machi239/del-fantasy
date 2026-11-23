@@ -1,9 +1,9 @@
 {
  "spieltag": 19,
  "deadline": "Tue 24.11.2026 19:30",
- "erstellt": "23.11.2026 17:47",
+ "erstellt": "23.11.2026 19:31",
  "pucks": 60,
- "xp_gesamt": 34.3,
+ "xp_gesamt": 34.1,
  "aufstellung": [
   {
    "spieler_id": 1069,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.46,
+   "xp": 2.29,
    "gegner": "Löwen Frankfurt",
    "p_start": 0.5
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 2,
    "dt_pass": true,
-   "xp": 2.24,
+   "xp": 2.14,
    "gegner": "Krefeld Pinguine",
    "p_start": 0.8
   },
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.41,
+   "xp": 2.56,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
@@ -49,20 +49,8 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.32,
+   "xp": 2.38,
    "gegner": "Grizzlys Wolfsburg",
-   "p_start": null
-  },
-  {
-   "spieler_id": 2868,
-   "name": "Sam Ruopp",
-   "team": "ERC Ingolstadt",
-   "team_id": 1,
-   "pos": "def",
-   "preis": 4,
-   "dt_pass": true,
-   "xp": 2.15,
-   "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
   {
@@ -73,8 +61,20 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.14,
+   "xp": 2.26,
    "gegner": "ERC Ingolstadt",
+   "p_start": null
+  },
+  {
+   "spieler_id": 2868,
+   "name": "Sam Ruopp",
+   "team": "ERC Ingolstadt",
+   "team_id": 1,
+   "pos": "def",
+   "preis": 4,
+   "dt_pass": true,
+   "xp": 2.07,
+   "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
   {
@@ -85,8 +85,20 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 1.98,
+   "xp": 2.04,
    "gegner": "Krefeld Pinguine",
+   "p_start": null
+  },
+  {
+   "spieler_id": 1425,
+   "name": "Eric Mik",
+   "team": "Eisbären Berlin",
+   "team_id": 3,
+   "pos": "def",
+   "preis": 4,
+   "dt_pass": true,
+   "xp": 1.93,
+   "gegner": "Löwen Frankfurt",
    "p_start": null
   },
   {
@@ -97,20 +109,8 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 1.9,
+   "xp": 1.91,
    "gegner": "Nürnberg Ice Tigers",
-   "p_start": null
-  },
-  {
-   "spieler_id": 3533,
-   "name": "Adam Smith",
-   "team": "Eisbären Berlin",
-   "team_id": 3,
-   "pos": "def",
-   "preis": 3,
-   "dt_pass": false,
-   "xp": 1.49,
-   "gegner": "Löwen Frankfurt",
    "p_start": null
   },
   {
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.84,
+   "xp": 2.56,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -133,7 +133,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.82,
+   "xp": 2.53,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -145,7 +145,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.49,
+   "xp": 1.59,
    "gegner": "Nürnberg Ice Tigers",
    "p_start": null
   },
@@ -157,7 +157,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.29,
+   "xp": 1.3,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -169,32 +169,20 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.12,
+   "xp": 1.17,
    "gegner": "Krefeld Pinguine",
    "p_start": null
   },
   {
-   "spieler_id": 4317,
-   "name": "Hudson Elynuik",
-   "team": "Straubing Tigers",
-   "team_id": 6,
+   "spieler_id": 4324,
+   "name": "Luke Toporowski",
+   "team": "Augsburger Panther",
+   "team_id": 13,
    "pos": "for",
    "preis": 2,
    "dt_pass": false,
-   "xp": 1.04,
-   "gegner": "Adler Mannheim",
-   "p_start": null
-  },
-  {
-   "spieler_id": 931,
-   "name": "Philip Gogulla",
-   "team": "Krefeld Pinguine",
-   "team_id": 5,
-   "pos": "for",
-   "preis": 2,
-   "dt_pass": true,
-   "xp": 1.0,
-   "gegner": "Augsburger Panther",
+   "xp": 1.11,
+   "gegner": "Krefeld Pinguine",
    "p_start": null
   },
   {
@@ -205,8 +193,20 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.85,
+   "xp": 0.86,
    "gegner": "Grizzlys Wolfsburg",
+   "p_start": null
+  },
+  {
+   "spieler_id": 3562,
+   "name": "Max Calce",
+   "team": "Adler Mannheim",
+   "team_id": 2,
+   "pos": "for",
+   "preis": 1,
+   "dt_pass": true,
+   "xp": 0.76,
+   "gegner": "Straubing Tigers",
    "p_start": null
   },
   {
@@ -217,20 +217,8 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.78,
+   "xp": 0.73,
    "gegner": "Löwen Frankfurt",
-   "p_start": null
-  },
-  {
-   "spieler_id": 1704,
-   "name": "Roman Kechter",
-   "team": "Pinguins Bremerhaven",
-   "team_id": 9,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.67,
-   "gegner": "ERC Ingolstadt",
    "p_start": null
   },
   {
@@ -246,15 +234,27 @@
    "p_start": null
   },
   {
-   "spieler_id": 3562,
-   "name": "Max Calce",
-   "team": "Adler Mannheim",
-   "team_id": 2,
+   "spieler_id": 3600,
+   "name": "C.J. Suess",
+   "team": "Krefeld Pinguine",
+   "team_id": 5,
+   "pos": "for",
+   "preis": 1,
+   "dt_pass": false,
+   "xp": 0.64,
+   "gegner": "Augsburger Panther",
+   "p_start": null
+  },
+  {
+   "spieler_id": 1704,
+   "name": "Roman Kechter",
+   "team": "Pinguins Bremerhaven",
+   "team_id": 9,
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.61,
-   "gegner": "Straubing Tigers",
+   "xp": 0.62,
+   "gegner": "ERC Ingolstadt",
    "p_start": null
   }
  ]
