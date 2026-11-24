@@ -196,7 +196,7 @@
   "2521": 0,
   "1694": 1,
   "4307": 0,
-  "3551": 0,
+  "3551": 0.5,
   "4310": 0.5,
   "2817": 1,
   "2868": 1,
@@ -350,7 +350,7 @@
   "1580": "verletzungsbedingt außer Gefecht laut Vorschau 19.11.",
   "2877": "am 22.11. nach Crash in die Bande behandelt (Name nicht bestätigt)",
   "2801": "fehlte zuletzt, Grund unbekannt",
-  "3551": "verletzungsbedingt nicht im Aufgebot am 22.11.",
+  "3551": "laut Tigers-Vorbericht 24.11. angeschlagen, Einsatz offen",
   "3958": "fehlte am 22.11., Grund unbekannt",
   "1069": "startete 22.11. in Straubing, LaFontaine 18.11. (CHL) und 20.11.; Starter für 24.11. nicht angekündigt; auch im Vorbericht 23.11. kein Starter genannt",
   "4312": "startete 18.11. und 20.11., Backup am 22.11.",
@@ -363,16 +363,59 @@
   "500": "startete 22.11., Hildebrand 20.11.",
   "4154": "startete 20.11. und 22.11.",
   "3424": "startete 22.11., Eriksson 20.11.",
-  "998": "startete 22.11., Jenike 20.11."
+  "998": "startete 22.11., Jenike 20.11.",
+  "4316": "laut Tigers-Vorbericht 24.11. angeschlagen, Einsatz offen",
+  "1901": "laut Tigers-Vorbericht 24.11. verletzt",
+  "1904": "laut Tigers-Vorbericht 24.11. verletzt"
  },
  "risiken": [
   {
-   "text": "Jonas Neffin (Berlin) ist als Starter unsicher. Neffin und LaFontaine wechseln sich ab (LaFontaine 18./20.11., Neffin 22.11.), auch der Eisbären-Vorbericht vom 23.11. nennt keinen Starter; Alternative bis 3 Punkte: Jonas Stettmer (Ingolstadt, laut Vorschau Nummer eins) oder Felix Brückmann (Köln, 2 Punkte).",
-   "schwer": true
+   "text": "Last-Minute-Stand 18:52. Offizielle Aufstellungen berücksichtigt: keine.",
+   "schwer": false
   },
   {
-   "text": "Startgoalies für den 24./25.11. noch nirgends angekündigt. Vorberichte von Berlin, Köln und Ingolstadt (23.11.) nennen keine Torhüter; wechselnde Torhüter zuletzt bei Berlin, Köln, Mannheim, Ingolstadt, Krefeld, Schwenningen und Iserlohn.",
+   "text": "Aufstellung von Augsburger Panther noch nicht veröffentlicht.",
    "schwer": false
+  },
+  {
+   "text": "Aufstellung von Krefeld Pinguine noch nicht veröffentlicht.",
+   "schwer": false
+  },
+  {
+   "text": "Aufstellung von ERC Ingolstadt noch nicht veröffentlicht.",
+   "schwer": false
+  },
+  {
+   "text": "Aufstellung von Pinguins Bremerhaven noch nicht veröffentlicht.",
+   "schwer": false
+  },
+  {
+   "text": "Aufstellung von Eisbären Berlin noch nicht veröffentlicht.",
+   "schwer": false
+  },
+  {
+   "text": "Aufstellung von Löwen Frankfurt noch nicht veröffentlicht.",
+   "schwer": false
+  },
+  {
+   "text": "Aufstellung von Kölner Haie noch nicht veröffentlicht.",
+   "schwer": false
+  },
+  {
+   "text": "Aufstellung von Nürnberg Ice Tigers noch nicht veröffentlicht.",
+   "schwer": false
+  },
+  {
+   "text": "Aufstellung von Straubing Tigers noch nicht veröffentlicht.",
+   "schwer": false
+  },
+  {
+   "text": "Aufstellung von Adler Mannheim noch nicht veröffentlicht.",
+   "schwer": false
+  },
+  {
+   "text": "Jonas Neffin (Berlin) ist als Starter unsicher. Neffin und LaFontaine wechseln sich ab (LaFontaine 18./20.11., Neffin 22.11.); bis 18:52 kein Starter angekündigt, DEL-Boxscore nicht abrufbar, Sportschau-Kader ohne Spieltagsaufstellung. Alternative bis 3 Punkte: Jonas Stettmer (Ingolstadt, 3 Punkte), Jack LaFontaine (Berlin, 2 Punkte) oder Felix Brückmann (Köln, 2 Punkte).",
+   "schwer": true
   },
   {
    "text": "Bremerhaven weiter ohne Reinwald, Boos und Bettahar. Eminger und Verlic fehlten am 20. und 22.11. ohne genannten Grund; Kechter ist seit 20.11. zurück, Byström spielte trotz Blessur am 22.11.",
@@ -922,6 +965,54 @@
   {
    "titel": "Tipsterio: Berlin – Frankfurt Vorschau 24.11.",
    "url": "https://tipsterio.de/sportwetten-tipps/eisbaeren-berlin-vs-loewen-frankfurt-wett-tipp-prognose-24-11-2026"
+  },
+  {
+   "titel": "PENNY DEL Boxscore Berlin – Frankfurt",
+   "url": "https://www.penny-del.org/statistik/spieldetails/24112026_eisbaeren-berlin_gg_loewen-frankfurt_4518/boxscore"
+  },
+  {
+   "titel": "PENNY DEL Boxscore Augsburg – Krefeld",
+   "url": "https://www.penny-del.org/statistik/spieldetails/24112026_augsburger-panther_gg_krefeld-pinguine_4519/boxscore"
+  },
+  {
+   "titel": "PENNY DEL Boxscore Ingolstadt – Bremerhaven",
+   "url": "https://www.penny-del.org/statistik/spieldetails/24112026_erc-ingolstadt_gg_pinguins-bremerhaven_4520/boxscore"
+  },
+  {
+   "titel": "PENNY DEL Boxscore Straubing – Mannheim",
+   "url": "https://www.penny-del.org/statistik/spieldetails/24112026_straubing-tigers_gg_adler-mannheim_4521/boxscore"
+  },
+  {
+   "titel": "PENNY DEL Boxscore Köln – Nürnberg",
+   "url": "https://www.penny-del.org/statistik/spieldetails/24112026_koelner-haie_gg_nuernberg-ice-tigers_4522/boxscore"
+  },
+  {
+   "titel": "Straubing Tigers: Drei Spiele in sechs Tagen (24.11.)",
+   "url": "https://www.straubing-tigers.de/drei-spiele-in-sechs-tagen-tigers-treffen-auf-mannheim-koeln-und-muenchen/"
+  },
+  {
+   "titel": "Löwen Frankfurt: Vorschau Auswärts gefordert (24.11.)",
+   "url": "https://www.loewen-frankfurt.de/saison/aktuelles/details/vorschau-auswaerts-gefordert-derby-im-loewenkaefig"
+  },
+  {
+   "titel": "Eisbären Berlin Startseite",
+   "url": "https://www.eisbaeren.de/"
+  },
+  {
+   "titel": "Kölner Haie Startseite",
+   "url": "https://www.haie.de/"
+  },
+  {
+   "titel": "Sportschau Kader Berlin – Frankfurt (19. Spieltag)",
+   "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189730/eisbaeren-berlin_loewen-frankfurt/spiel-kader"
+  },
+  {
+   "titel": "Sportschau Kader Köln – Nürnberg (19. Spieltag)",
+   "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189742/koelner-haie_nuernberg-ice-tigers/spiel-kader"
+  },
+  {
+   "titel": "Sportschau Kader Straubing – Mannheim (19. Spieltag)",
+   "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189739/straubing-tigers_adler-mannheim/spiel-kader"
   }
  ],
  "odds": {},

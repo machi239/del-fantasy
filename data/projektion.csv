@@ -170,6 +170,7 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 3560,Eric Martinsson,Schwenninger Wild Wings,def,4,False,0.74,0.18,Iserlohn Roosters,True,20,1.6,,1.35,1.06,1.03,0.5,,,,
 4311,Tobias Krestan,Eisbären Berlin,for,1,True,0.73,0.73,Löwen Frankfurt,True,18,8.0,Eiszeit steigt,0.57,1.12,1.14,1,,,,
 3424,Simon Wolf,Schwenninger Wild Wings,goal,1,True,0.73,0.73,Iserlohn Roosters,True,7,2.0,Startquote manuell,,,,,0.4,0.52,2.5,23.2
+3551,Tyler Madden,Straubing Tigers,for,4,False,0.72,0.18,Adler Mannheim,True,13,1.4,,1.41,1.02,1.01,0.5,,,,
 1430,Nino Kinder,Pinguins Bremerhaven,for,2,True,0.72,0.36,ERC Ingolstadt,False,13,1.7,,0.79,0.96,0.96,1,,,,
 1811,Mario Zimmermann,Straubing Tigers,def,2,True,0.71,0.35,Adler Mannheim,True,18,11.9,,0.76,0.94,1.01,1,,,,
 3432,Juhani Tyrväinen,Kölner Haie,for,3,False,0.71,0.24,Nürnberg Ice Tigers,True,18,3.8,,0.66,1.0,1.08,1,,,,
@@ -326,7 +327,6 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 1901,Danjo Leonhardt,Straubing Tigers,for,3,True,0.0,0.0,Adler Mannheim,True,2,2.3,faellt aus,1.02,1.0,1.01,0,,,,
 1904,Florian Bugl,Straubing Tigers,goal,1,True,0.0,0.0,Adler Mannheim,True,2,1.9,faellt aus,,,,,0.0,0.44,2.79,23.3
 3548,Sebastian Wieber,Straubing Tigers,goal,1,True,0.0,0.0,Adler Mannheim,True,1,0.4,,,,,,0.0,0.44,2.88,23.2
-3551,Tyler Madden,Straubing Tigers,for,4,False,0.0,0.0,Adler Mannheim,True,13,1.4,faellt aus,1.41,1.02,1.01,0,,,,
 1675,Finn Becker,Iserlohn Roosters,goal,1,True,0.0,0.0,Schwenninger Wild Wings,False,0,0.2,,,,,,0.0,0.31,2.97,26.4
 3199,Marian Bauer,Iserlohn Roosters,def,1,True,0.0,0.0,Schwenninger Wild Wings,False,0,0.3,Einsatzquote 0%,0.19,1.0,0.9,0.0,,,,
 3586,Bence Farkas,Iserlohn Roosters,for,1,True,0.0,0.0,Schwenninger Wild Wings,False,0,0.6,faellt aus,0.34,1.0,0.9,0,,,,
