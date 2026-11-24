@@ -1,9 +1,9 @@
 {
  "spieltag": 20,
  "deadline": "Thu 26.11.2026 19:30",
- "erstellt": "24.11.2026 20:34",
+ "erstellt": "24.11.2026 22:10",
  "pucks": 60,
- "xp_gesamt": 36.1,
+ "xp_gesamt": 36.5,
  "aufstellung": [
   {
    "spieler_id": 1547,
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.56,
+   "xp": 2.87,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.51,
+   "xp": 2.49,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -133,7 +133,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.48,
+   "xp": 2.46,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -205,7 +205,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.76,
+   "xp": 0.86,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -253,7 +253,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.63,
+   "xp": 0.64,
    "gegner": "Adler Mannheim",
    "p_start": null
   }
