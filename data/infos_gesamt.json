@@ -165,7 +165,7 @@
   "1657": 1,
   "1682": 1,
   "1868": 1,
-  "1896": 0.5,
+  "1896": 0,
   "1998": 1,
   "2090": 1,
   "3592": 0.5,
@@ -317,8 +317,8 @@
   "83": 0.5
  },
  "notizen": {
-  "4323": "Oberkörperverletzung, fehlte auch am 22.11.",
-  "1896": "am 20.11. verletzt (Oberkörper), fehlte am 22.11.; Dauer offen",
+  "4323": "hartnäckige Oberkörperverletzung; trainiert wieder ohne Körperkontakt, Rückkehr behutsam (AEV 23.11.)",
+  "1896": "Oberkörperverletzung vom 20.11., wird operiert; fällt in den kommenden Wochen aus (AEV 23.11.)",
   "1447": "fehlte zuletzt, Grund unbekannt",
   "3592": "fehlte zuletzt, Grund unbekannt",
   "1681": "Förderlizenz Hannover Scorpions, spielt vorerst dort",
@@ -326,7 +326,7 @@
   "3128": "fehlte zuletzt, Grund unbekannt",
   "1564": "fehlte 20./22.11., Grund unbekannt",
   "1347": "fehlte 20./22.11., Grund unbekannt",
-  "2384": "am 20.11. angeschlagen, spielte aber am 22.11.",
+  "2384": "nach Check am 20.11. fraglich, spielte am 22.11.",
   "4148": "Spieldauer-Disziplinarstrafe am 22.11. (Check gegen den Kopf), Sperre möglich",
   "4341": "am 20.11. verletzt, fehlte am 22.11.; Dauer offen",
   "1489": "fehlte zuletzt, Grund unbekannt",
@@ -352,7 +352,7 @@
   "2801": "fehlte zuletzt, Grund unbekannt",
   "3551": "verletzungsbedingt nicht im Aufgebot am 22.11.",
   "3958": "fehlte am 22.11., Grund unbekannt",
-  "1069": "startete 22.11. in Straubing, LaFontaine 18.11. (CHL) und 20.11.; Starter für 24.11. nicht angekündigt",
+  "1069": "startete 22.11. in Straubing, LaFontaine 18.11. (CHL) und 20.11.; Starter für 24.11. nicht angekündigt; auch im Vorbericht 23.11. kein Starter genannt",
   "4312": "startete 18.11. und 20.11., Backup am 22.11.",
   "1211": "startete 20.11. und 22.11.",
   "102": "startete 19.11. und 22.11. (Shutout)",
@@ -367,11 +367,11 @@
  },
  "risiken": [
   {
-   "text": "Jonas Neffin (Berlin) ist als Starter unsicher. Neffin und LaFontaine wechseln sich ab (LaFontaine 18./20.11., Neffin 22.11.), für Dienstag ist nichts angekündigt; Alternative bis 3 Punkte: Niklas Treutle (Nürnberg, Stammtorhüter, nach Janetts Start am 22.11. wieder erwartet) oder Jonas Stettmer (Ingolstadt).",
+   "text": "Jonas Neffin (Berlin) ist als Starter unsicher. Neffin und LaFontaine wechseln sich ab (LaFontaine 18./20.11., Neffin 22.11.), auch der Eisbären-Vorbericht vom 23.11. nennt keinen Starter; Alternative bis 3 Punkte: Jonas Stettmer (Ingolstadt, laut Vorschau Nummer eins) oder Felix Brückmann (Köln, 2 Punkte).",
    "schwer": true
   },
   {
-   "text": "Startgoalies für den 24./25.11. noch nirgends angekündigt. Wechselnde Torhüter zuletzt bei Berlin, Köln, Mannheim, Ingolstadt, Krefeld, Schwenningen und Iserlohn.",
+   "text": "Startgoalies für den 24./25.11. noch nirgends angekündigt. Vorberichte von Berlin, Köln und Ingolstadt (23.11.) nennen keine Torhüter; wechselnde Torhüter zuletzt bei Berlin, Köln, Mannheim, Ingolstadt, Krefeld, Schwenningen und Iserlohn.",
    "schwer": false
   },
   {
@@ -455,9 +455,9 @@
    "bis": "2026-11-30"
   },
   {
-   "text": "Sean Malone und Philipp Krauß (Augsburg) fehlen. Malone mit Oberkörperverletzung seit Ende Oktober, Krauß am 20.11. verletzt und am 22.11. nicht dabei.",
+   "text": "Philipp Krauß (Augsburg) fällt wochenlang aus. Oberkörperverletzung vom 20.11., Operation in Kürze laut AEV-Meldung vom 23.11.; Sean Malone trainiert wieder ohne Körperkontakt, Einsatz gegen Krefeld offen.",
    "schwer": false,
-   "bis": "2026-11-30"
+   "bis": "2026-12-20"
   },
   {
    "text": "Maximilian Heim (Mannheim) verletzt. Fehlte am 22.11., Rückkehr offen; Greco und Schütz sind zurück, Brown hat seine Sperre abgesessen.",
@@ -894,6 +894,34 @@
   {
    "titel": "Sportschau Aufstellung Krefeld–Wolfsburg",
    "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189727/krefeld-pinguine_grizzlys-wolfsburg/taktische-aufstellung"
+  },
+  {
+   "titel": "AEV: Philipp Krauß fehlt Panthern in den kommenden Wochen (23.11.)",
+   "url": "https://www.aev-panther.de/artikel/philipp-krauss-fehlt-panthern-in-den-kommenden-wochen/01a208c2-e9ca-7f64-979c-bd5467a9936f"
+  },
+  {
+   "titel": "Radio Schwaben: Panther müssen auf Philipp Krauß verzichten",
+   "url": "https://www.radioschwaben.de/panther-muessen-auf-philipp-krauss-verzichten-818202/"
+  },
+  {
+   "titel": "Eisbären: Löwen zu Gast an der Spree (23.11.)",
+   "url": "https://www.eisbaeren.de/news/detail/loewen-zu-gast-an-der-spree"
+  },
+  {
+   "titel": "Haie: Auftakt in bayrische Heimspielwoche (23.11.)",
+   "url": "https://www.haie.de/news/auftakt-in-bayrische-heimspielwoche-haie-am-dienstag-gegen-nuernberg-im-einsatz/"
+  },
+  {
+   "titel": "ERC: Auftakt in Pinguine-Woche (23.11.)",
+   "url": "https://www.erc-ingolstadt.de/saison/auftakt-in-pinguine-woche"
+  },
+  {
+   "titel": "Tipsterio: Ingolstadt – Bremerhaven Vorschau 24.11.",
+   "url": "https://tipsterio.de/sportwetten-tipps/erc-ingolstadt-vs-fischtown-pinguins-wett-tipp-prognose-24-11-2026"
+  },
+  {
+   "titel": "Tipsterio: Berlin – Frankfurt Vorschau 24.11.",
+   "url": "https://tipsterio.de/sportwetten-tipps/eisbaeren-berlin-vs-loewen-frankfurt-wett-tipp-prognose-24-11-2026"
   }
  ],
  "odds": {},

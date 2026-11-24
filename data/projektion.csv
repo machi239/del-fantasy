@@ -250,7 +250,6 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 1731,Luca Hauf,Krefeld Pinguine,for,1,True,0.3,0.3,Augsburger Panther,False,19,3.3,Eiszeit sinkt,0.38,0.85,0.94,1.0,,,,
 2470,Lua Niehus,Iserlohn Roosters,def,2,True,0.3,0.15,Schwenninger Wild Wings,False,17,1.6,"Eiszeit sinkt, Einsatzquote 94%",0.4,0.89,0.9,0.94,,,,
 2202,Nicolas Schindler,ERC Ingolstadt,for,1,True,0.29,0.29,Pinguins Bremerhaven,True,17,1.1,Eiszeit sinkt,0.32,0.85,1.08,1,,,,
-1896,Philipp Krauß,Augsburger Panther,for,1,True,0.29,0.29,Krefeld Pinguine,True,17,13.2,,0.54,1.05,1.04,0.5,,,,
 3593,Peyton Jones,Augsburger Panther,goal,1,True,0.29,0.29,Krefeld Pinguine,True,6,1.1,Startquote manuell,,,,,0.2,0.5,2.93,26.6
 2877,Myles Powell,ERC Ingolstadt,for,3,False,0.29,0.1,Pinguins Bremerhaven,True,19,0.6,Eiszeit sinkt,0.63,0.85,1.08,0.5,,,,
 537,Alexander Weiß,Krefeld Pinguine,for,2,True,0.28,0.14,Augsburger Panther,False,5,3.1,Eiszeit sinkt,0.66,0.9,0.94,0.5,,,,
@@ -356,6 +355,7 @@ spieler_id,name,team,pos,preis,dt_pass,xp,wert_pro_puck,gegner,heim,spiele,gewae
 2521,Rio Kaiser,EHC Red Bull München,def,1,True,0.0,0.0,Grizzlys Wolfsburg,True,0,2.1,faellt aus,0.19,1.0,1.11,0,,,,
 4325,Luis Becker,EHC Red Bull München,for,1,True,0.0,0.0,Grizzlys Wolfsburg,True,11,0.9,"Eiszeit sinkt, faellt aus",0.19,0.85,1.11,0,,,,
 4326,Max Bolle,EHC Red Bull München,goal,1,True,0.0,0.0,Grizzlys Wolfsburg,True,0,0.2,faellt aus,,,,,0.0,0.62,2.18,25.2
+1896,Philipp Krauß,Augsburger Panther,for,1,True,0.0,0.0,Krefeld Pinguine,True,17,13.2,faellt aus,0.54,1.05,1.04,0,,,,
 2182,Justus Roth,Augsburger Panther,goal,1,True,0.0,0.0,Krefeld Pinguine,True,0,0.0,faellt aus,,,,,0.0,0.5,2.54,27.0
 3595,Liron Alec Pellizzari,Augsburger Panther,def,1,True,0.0,0.0,Krefeld Pinguine,True,1,0.6,faellt aus,0.18,1.0,1.04,0,,,,
 4153,Dave Dützka,Augsburger Panther,goal,1,True,0.0,0.0,Krefeld Pinguine,True,0,0.0,faellt aus,,,,,0.0,0.5,2.54,27.0
