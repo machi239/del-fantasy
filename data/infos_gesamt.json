@@ -1,5 +1,5 @@
 {
- "spieltag": 19,
+ "spieltag": 20,
  "availability": {
   "2804": 1,
   "1753": 0,
@@ -286,137 +286,9 @@
   "3851": 0.5,
   "4260": 1
  },
- "goalie_start": {
-  "1069": 0.5,
-  "4312": 0.5,
-  "1211": 0.8,
-  "3593": 0.2,
-  "102": 0.65,
-  "4342": 0.35,
-  "1459": 0.75,
-  "2351": 0.25,
-  "1547": 0.85,
-  "1451": 0.15,
-  "4338": 0.9,
-  "1825": 0.1,
-  "516": 0.55,
-  "4157": 0.45,
-  "599": 0.8,
-  "4347": 0.2,
-  "4319": 0.7,
-  "486": 0.3,
-  "500": 0.45,
-  "1985": 0.55,
-  "4154": 0.9,
-  "2831": 0.1,
-  "416": 0.8,
-  "157": 0.2,
-  "1594": 0.6,
-  "3424": 0.4,
-  "998": 0.5,
-  "83": 0.5
- },
- "notizen": {
-  "4323": "hartnäckige Oberkörperverletzung; trainiert wieder ohne Körperkontakt, Rückkehr behutsam (AEV 23.11.)",
-  "1896": "Oberkörperverletzung vom 20.11., wird operiert; fällt in den kommenden Wochen aus (AEV 23.11.)",
-  "1447": "fehlte zuletzt, Grund unbekannt",
-  "3592": "fehlte zuletzt, Grund unbekannt",
-  "1681": "Förderlizenz Hannover Scorpions, spielt vorerst dort",
-  "1360": "fehlte zuletzt, Grund unbekannt",
-  "3128": "fehlte zuletzt, Grund unbekannt",
-  "1564": "fehlte 20./22.11., Grund unbekannt",
-  "1347": "fehlte 20./22.11., Grund unbekannt",
-  "2384": "nach Check am 20.11. fraglich, spielte am 22.11.",
-  "4148": "Spieldauer-Disziplinarstrafe am 22.11. (Check gegen den Kopf), Sperre möglich",
-  "4341": "am 20.11. verletzt, fehlte am 22.11.; Dauer offen",
-  "1489": "fehlte zuletzt, Grund unbekannt",
-  "1836": "fehlte zuletzt, Grund unbekannt",
-  "537": "fehlte zuletzt, Grund unbekannt",
-  "1659": "Fußbruch; möglicherweise am 22.11. zurück (Verwechslung mit Bruder Magnus möglich)",
-  "2019": "fehlte am 22.11., Grund unbekannt",
-  "3851": "fehlte zuletzt, Grund unbekannt",
-  "3559": "an Ravensburg (DEL2) ausgeliehen",
-  "2125": "verletzt, fehlte am 22.11.; Rückkehr offen",
-  "1856": "spielt beim Kooperationspartner Bietigheim",
-  "4332": "Sperre (1 Spiel) am 22.11. abgesessen",
-  "2504": "am 22.11. aus der Rotation genommen",
-  "2754": "fehlte 20./22.11., Grund unbekannt",
-  "2489": "fehlte 20./22.11., Grund unbekannt",
-  "506": "krankheitsbedingt auf unbestimmte Zeit",
-  "3523": "nicht im Aufgebot am 22.11., Grund unbekannt",
-  "4160": "nicht im Aufgebot am 22.11., Grund unbekannt",
-  "1491": "fehlte zuletzt, Grund unbekannt",
-  "3433": "fehlte zuletzt, Grund unbekannt (auch DEL2-Einsätze für Düsseldorf)",
-  "1580": "verletzungsbedingt außer Gefecht laut Vorschau 19.11.",
-  "2877": "am 22.11. nach Crash in die Bande behandelt (Name nicht bestätigt)",
-  "2801": "fehlte zuletzt, Grund unbekannt",
-  "3551": "laut Tigers-Vorbericht 24.11. angeschlagen, Einsatz offen",
-  "3958": "fehlte am 22.11., Grund unbekannt",
-  "1069": "startete 22.11. in Straubing, LaFontaine 18.11. (CHL) und 20.11.; Starter für 24.11. nicht angekündigt; auch im Vorbericht 23.11. kein Starter genannt",
-  "4312": "startete 18.11. und 20.11., Backup am 22.11.",
-  "1211": "startete 20.11. und 22.11.",
-  "102": "startete 19.11. und 22.11. (Shutout)",
-  "2351": "startete 22.11., Stettmer 15./20.11.",
-  "4319": "startete 22.11. wieder, Pantkowski 15./19.11.",
-  "599": "Janett startete 22.11., Treutle davor 5x in Folge",
-  "4157": "startete 22.11., Brückmann 20.11.",
-  "500": "startete 22.11., Hildebrand 20.11.",
-  "4154": "startete 20.11. und 22.11.",
-  "3424": "startete 22.11., Eriksson 20.11.",
-  "998": "startete 22.11., Jenike 20.11.",
-  "4316": "laut Tigers-Vorbericht 24.11. angeschlagen, Einsatz offen",
-  "1901": "laut Tigers-Vorbericht 24.11. verletzt",
-  "1904": "laut Tigers-Vorbericht 24.11. verletzt"
- },
+ "goalie_start": {},
+ "notizen": {},
  "risiken": [
-  {
-   "text": "Last-Minute-Stand 18:52. Offizielle Aufstellungen berücksichtigt: keine.",
-   "schwer": false
-  },
-  {
-   "text": "Aufstellung von Augsburger Panther noch nicht veröffentlicht.",
-   "schwer": false
-  },
-  {
-   "text": "Aufstellung von Krefeld Pinguine noch nicht veröffentlicht.",
-   "schwer": false
-  },
-  {
-   "text": "Aufstellung von ERC Ingolstadt noch nicht veröffentlicht.",
-   "schwer": false
-  },
-  {
-   "text": "Aufstellung von Pinguins Bremerhaven noch nicht veröffentlicht.",
-   "schwer": false
-  },
-  {
-   "text": "Aufstellung von Eisbären Berlin noch nicht veröffentlicht.",
-   "schwer": false
-  },
-  {
-   "text": "Aufstellung von Löwen Frankfurt noch nicht veröffentlicht.",
-   "schwer": false
-  },
-  {
-   "text": "Aufstellung von Kölner Haie noch nicht veröffentlicht.",
-   "schwer": false
-  },
-  {
-   "text": "Aufstellung von Nürnberg Ice Tigers noch nicht veröffentlicht.",
-   "schwer": false
-  },
-  {
-   "text": "Aufstellung von Straubing Tigers noch nicht veröffentlicht.",
-   "schwer": false
-  },
-  {
-   "text": "Aufstellung von Adler Mannheim noch nicht veröffentlicht.",
-   "schwer": false
-  },
-  {
-   "text": "Jonas Neffin (Berlin) ist als Starter unsicher. Neffin und LaFontaine wechseln sich ab (LaFontaine 18./20.11., Neffin 22.11.); bis 18:52 kein Starter angekündigt, DEL-Boxscore nicht abrufbar, Sportschau-Kader ohne Spieltagsaufstellung. Alternative bis 3 Punkte: Jonas Stettmer (Ingolstadt, 3 Punkte), Jack LaFontaine (Berlin, 2 Punkte) oder Felix Brückmann (Köln, 2 Punkte).",
-   "schwer": true
-  },
   {
    "text": "Bremerhaven weiter ohne Reinwald, Boos und Bettahar. Eminger und Verlic fehlten am 20. und 22.11. ohne genannten Grund; Kechter ist seit 20.11. zurück, Byström spielte trotz Blessur am 22.11.",
    "schwer": false,
@@ -511,10 +383,6 @@
    "text": "Brandon Biro (Frankfurt) verletzt. Am 20.11. verletzt ausgeschieden, am 22.11. nicht im Aufgebot.",
    "schwer": false,
    "bis": "2026-11-30"
-  },
-  {
-   "text": "Ty Glover (Frankfurt) droht eine Sperre. Spieldauer-Disziplinarstrafe am 22.11. für einen Check gegen den Kopf; Entscheid noch offen.",
-   "schwer": false
   }
  ],
  "quellen": [
