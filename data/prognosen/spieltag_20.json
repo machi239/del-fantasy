@@ -1,9 +1,9 @@
 {
  "spieltag": 20,
  "deadline": "Thu 26.11.2026 19:30",
- "erstellt": "24.11.2026 22:10",
+ "erstellt": "24.11.2026 22:33",
  "pucks": 60,
- "xp_gesamt": 36.5,
+ "xp_gesamt": 36.2,
  "aufstellung": [
   {
    "spieler_id": 1547,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 4,
    "dt_pass": false,
-   "xp": 3.7,
+   "xp": 3.56,
    "gegner": "Schwenninger Wild Wings",
    "p_start": 1.0
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 3.37,
+   "xp": 3.4,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": 0.8
   },
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.87,
+   "xp": 2.84,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -49,20 +49,8 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": true,
-   "xp": 2.54,
+   "xp": 2.55,
    "gegner": "Kölner Haie",
-   "p_start": null
-  },
-  {
-   "spieler_id": 3557,
-   "name": "Ryan Murphy",
-   "team": "EHC Red Bull München",
-   "team_id": 12,
-   "pos": "def",
-   "preis": 5,
-   "dt_pass": false,
-   "xp": 2.48,
-   "gegner": "Iserlohn Roosters",
    "p_start": null
   },
   {
@@ -73,8 +61,20 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.46,
+   "xp": 2.44,
    "gegner": "Schwenninger Wild Wings",
+   "p_start": null
+  },
+  {
+   "spieler_id": 3557,
+   "name": "Ryan Murphy",
+   "team": "EHC Red Bull München",
+   "team_id": 12,
+   "pos": "def",
+   "preis": 5,
+   "dt_pass": false,
+   "xp": 2.43,
+   "gegner": "Iserlohn Roosters",
    "p_start": null
   },
   {
@@ -85,7 +85,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 1.93,
+   "xp": 2.0,
    "gegner": "Krefeld Pinguine",
    "p_start": null
   },
@@ -97,7 +97,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.59,
+   "xp": 1.6,
    "gegner": "Kölner Haie",
    "p_start": null
   },
@@ -109,7 +109,7 @@
    "pos": "def",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.24,
+   "xp": 1.23,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   },
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.49,
+   "xp": 2.46,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -133,7 +133,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.46,
+   "xp": 2.43,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -169,7 +169,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.1,
+   "xp": 1.08,
    "gegner": "EHC Red Bull München",
    "p_start": null
   },
@@ -181,7 +181,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.09,
+   "xp": 1.08,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   },
@@ -193,7 +193,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.89,
+   "xp": 0.88,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -205,7 +205,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.86,
+   "xp": 0.85,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -217,7 +217,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.71,
+   "xp": 0.7,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -241,7 +241,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": false,
-   "xp": 0.66,
+   "xp": 0.65,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
