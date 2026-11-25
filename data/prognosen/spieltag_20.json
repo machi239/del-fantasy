@@ -1,9 +1,9 @@
 {
  "spieltag": 20,
  "deadline": "Thu 26.11.2026 19:30",
- "erstellt": "25.11.2026 21:28",
+ "erstellt": "25.11.2026 21:41",
  "pucks": 60,
- "xp_gesamt": 35.7,
+ "xp_gesamt": 35.5,
  "aufstellung": [
   {
    "spieler_id": 1069,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 3.08,
+   "xp": 3.11,
    "gegner": "Augsburger Panther",
    "p_start": 0.85
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.39,
+   "xp": 2.41,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": 0.8
   },
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 3.15,
+   "xp": 3.13,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -49,7 +49,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": true,
-   "xp": 2.51,
+   "xp": 2.49,
    "gegner": "Kölner Haie",
    "p_start": null
   },
@@ -61,7 +61,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.4,
+   "xp": 2.38,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
@@ -73,7 +73,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 2.15,
+   "xp": 2.13,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
@@ -85,7 +85,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.13,
+   "xp": 2.11,
    "gegner": "Krefeld Pinguine",
    "p_start": null
   },
@@ -97,7 +97,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.05,
+   "xp": 2.04,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -109,7 +109,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.67,
+   "xp": 1.66,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.49,
+   "xp": 2.48,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -133,7 +133,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.39,
+   "xp": 2.37,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -145,7 +145,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.7,
+   "xp": 1.69,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
@@ -157,7 +157,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.21,
+   "xp": 1.2,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -169,7 +169,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": false,
-   "xp": 1.09,
+   "xp": 1.08,
    "gegner": "Eisbären Berlin",
    "p_start": null
   },
@@ -181,7 +181,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": false,
-   "xp": 1.02,
+   "xp": 1.01,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -193,7 +193,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.88,
+   "xp": 0.87,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -205,7 +205,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.77,
+   "xp": 0.76,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -217,7 +217,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.74,
+   "xp": 0.73,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
@@ -229,7 +229,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.7,
+   "xp": 0.69,
    "gegner": "Adler Mannheim",
    "p_start": null
   },
@@ -241,7 +241,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.62,
+   "xp": 0.61,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
