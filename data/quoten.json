@@ -1,5 +1,5 @@
 {
- "stand": "24.11.2026 22:09",
+ "stand": "25.11.2026 01:46",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -25,6 +25,7 @@
    "beginn": "25.11.2026 19:30",
    "buchmacher": [
     "pinnacle",
+    "bet365",
     "unibet"
    ],
    "p_home60": 0.492,
@@ -33,29 +34,54 @@
    "p_home_inkl_ot": 0.613,
    "total": 5.7
   },
+  "44-2": {
+   "spiel": "Löwen Frankfurt - Adler Mannheim",
+   "beginn": "26.11.2026 19:30",
+   "buchmacher": [
+    "pinnacle",
+    "unibet"
+   ],
+   "p_home60": 0.223,
+   "p_draw60": 0.198,
+   "p_away60": 0.579,
+   "p_home_inkl_ot": 0.311,
+   "total": 5.9
+  },
+  "11-6": {
+   "spiel": "Kölner Haie - Straubing Tigers",
+   "beginn": "27.11.2026 19:30",
+   "buchmacher": [
+    "pinnacle"
+   ],
+   "p_home60": 0.497,
+   "p_draw60": 0.23,
+   "p_away60": 0.273,
+   "p_home_inkl_ot": 0.626,
+   "total": 6.07
+  },
   "13-3": {
    "spiel": "Augsburger Panther - Eisbären Berlin",
    "beginn": "27.11.2026 19:30",
    "buchmacher": [
     "pinnacle"
    ],
-   "p_home60": 0.258,
-   "p_draw60": 0.226,
-   "p_away60": 0.516,
-   "p_home_inkl_ot": 0.356,
-   "total": 6.11
+   "p_home60": 0.271,
+   "p_draw60": 0.215,
+   "p_away60": 0.515,
+   "p_home_inkl_ot": 0.365,
+   "total": 6.55
   },
-  "44-2": {
-   "spiel": "Löwen Frankfurt - Adler Mannheim",
-   "beginn": "26.11.2026 19:30",
+  "1-5": {
+   "spiel": "ERC Ingolstadt - Krefeld Pinguine",
+   "beginn": "27.11.2026 19:30",
    "buchmacher": [
-    "unibet"
+    "pinnacle"
    ],
-   "p_home60": 0.214,
-   "p_draw60": 0.2,
-   "p_away60": 0.586,
-   "p_home_inkl_ot": 0.307,
-   "total": 5.89
+   "p_home60": 0.548,
+   "p_draw60": 0.216,
+   "p_away60": 0.236,
+   "p_home_inkl_ot": 0.672,
+   "total": 6.09
   }
  }
 }
