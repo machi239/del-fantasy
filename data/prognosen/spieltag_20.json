@@ -1,9 +1,9 @@
 {
  "spieltag": 20,
  "deadline": "Thu 26.11.2026 19:30",
- "erstellt": "24.11.2026 22:33",
+ "erstellt": "25.11.2026 01:47",
  "pucks": 60,
- "xp_gesamt": 36.2,
+ "xp_gesamt": 36.1,
  "aufstellung": [
   {
    "spieler_id": 1547,
@@ -37,20 +37,8 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.84,
+   "xp": 2.83,
    "gegner": "Löwen Frankfurt",
-   "p_start": null
-  },
-  {
-   "spieler_id": 104,
-   "name": "Marcel Brandt",
-   "team": "Straubing Tigers",
-   "team_id": 6,
-   "pos": "def",
-   "preis": 5,
-   "dt_pass": true,
-   "xp": 2.55,
-   "gegner": "Kölner Haie",
    "p_start": null
   },
   {
@@ -85,20 +73,32 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.0,
+   "xp": 2.09,
    "gegner": "Krefeld Pinguine",
    "p_start": null
   },
   {
-   "spieler_id": 4315,
-   "name": "Joseph Duszak",
-   "team": "Straubing Tigers",
-   "team_id": 6,
+   "spieler_id": 3870,
+   "name": "Kyle Wood",
+   "team": "Augsburger Panther",
+   "team_id": 13,
    "pos": "def",
-   "preis": 3,
+   "preis": 4,
    "dt_pass": false,
-   "xp": 1.6,
-   "gegner": "Kölner Haie",
+   "xp": 1.93,
+   "gegner": "Eisbären Berlin",
+   "p_start": null
+  },
+  {
+   "spieler_id": 1425,
+   "name": "Eric Mik",
+   "team": "Eisbären Berlin",
+   "team_id": 3,
+   "pos": "def",
+   "preis": 4,
+   "dt_pass": true,
+   "xp": 1.92,
+   "gegner": "Augsburger Panther",
    "p_start": null
   },
   {
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.46,
+   "xp": 2.55,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -133,7 +133,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.43,
+   "xp": 2.52,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -145,20 +145,20 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.59,
+   "xp": 1.58,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
   {
-   "spieler_id": 4317,
-   "name": "Hudson Elynuik",
-   "team": "Straubing Tigers",
-   "team_id": 6,
+   "spieler_id": 1306,
+   "name": "Tim Wohlgemuth",
+   "team": "Augsburger Panther",
+   "team_id": 13,
    "pos": "for",
    "preis": 2,
-   "dt_pass": false,
-   "xp": 1.11,
-   "gegner": "Kölner Haie",
+   "dt_pass": true,
+   "xp": 1.1,
+   "gegner": "Eisbären Berlin",
    "p_start": null
   },
   {
@@ -205,7 +205,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.85,
+   "xp": 0.84,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -217,7 +217,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.7,
+   "xp": 0.72,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -234,18 +234,6 @@
    "p_start": null
   },
   {
-   "spieler_id": 3600,
-   "name": "C.J. Suess",
-   "team": "Krefeld Pinguine",
-   "team_id": 5,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": false,
-   "xp": 0.65,
-   "gegner": "ERC Ingolstadt",
-   "p_start": null
-  },
-  {
    "spieler_id": 3580,
    "name": "Timo Kose",
    "team": "Löwen Frankfurt",
@@ -255,6 +243,18 @@
    "dt_pass": true,
    "xp": 0.64,
    "gegner": "Adler Mannheim",
+   "p_start": null
+  },
+  {
+   "spieler_id": 3600,
+   "name": "C.J. Suess",
+   "team": "Krefeld Pinguine",
+   "team_id": 5,
+   "pos": "for",
+   "preis": 1,
+   "dt_pass": false,
+   "xp": 0.6,
+   "gegner": "ERC Ingolstadt",
    "p_start": null
   }
  ]
