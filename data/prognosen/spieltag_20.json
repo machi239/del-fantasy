@@ -1,9 +1,9 @@
 {
  "spieltag": 20,
  "deadline": "Thu 26.11.2026 19:30",
- "erstellt": "25.11.2026 17:24",
+ "erstellt": "25.11.2026 18:27",
  "pucks": 60,
- "xp_gesamt": 35.6,
+ "xp_gesamt": 36.4,
  "aufstellung": [
   {
    "spieler_id": 599,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 3.4,
+   "xp": 3.33,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": 0.8
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.86,
+   "xp": 2.88,
    "gegner": "Augsburger Panther",
    "p_start": 0.85
   },
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.83,
+   "xp": 3.11,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -54,6 +54,30 @@
    "p_start": null
   },
   {
+   "spieler_id": 104,
+   "name": "Marcel Brandt",
+   "team": "Straubing Tigers",
+   "team_id": 6,
+   "pos": "def",
+   "preis": 5,
+   "dt_pass": true,
+   "xp": 2.42,
+   "gegner": "Kölner Haie",
+   "p_start": null
+  },
+  {
+   "spieler_id": 4251,
+   "name": "Robin Press",
+   "team": "Kölner Haie",
+   "team_id": 11,
+   "pos": "def",
+   "preis": 4,
+   "dt_pass": false,
+   "xp": 2.18,
+   "gegner": "Straubing Tigers",
+   "p_start": null
+  },
+  {
    "spieler_id": 2868,
    "name": "Sam Ruopp",
    "team": "ERC Ingolstadt",
@@ -61,20 +85,8 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.09,
+   "xp": 2.15,
    "gegner": "Krefeld Pinguine",
-   "p_start": null
-  },
-  {
-   "spieler_id": 3870,
-   "name": "Kyle Wood",
-   "team": "Augsburger Panther",
-   "team_id": 13,
-   "pos": "def",
-   "preis": 4,
-   "dt_pass": false,
-   "xp": 1.93,
-   "gegner": "Eisbären Berlin",
    "p_start": null
   },
   {
@@ -85,7 +97,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 1.92,
+   "xp": 2.06,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -97,20 +109,8 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.45,
+   "xp": 1.67,
    "gegner": "Augsburger Panther",
-   "p_start": null
-  },
-  {
-   "spieler_id": 2804,
-   "name": "Jakob Weber",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
-   "pos": "def",
-   "preis": 2,
-   "dt_pass": true,
-   "xp": 1.23,
-   "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   },
   {
@@ -121,20 +121,20 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.55,
+   "xp": 2.5,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
   {
-   "spieler_id": 3410,
-   "name": "Liam Kirk",
-   "team": "Eisbären Berlin",
-   "team_id": 3,
+   "spieler_id": 80,
+   "name": "Yasin Ehliz",
+   "team": "EHC Red Bull München",
+   "team_id": 12,
    "pos": "for",
-   "preis": 5,
-   "dt_pass": false,
-   "xp": 2.52,
-   "gegner": "Augsburger Panther",
+   "preis": 4,
+   "dt_pass": true,
+   "xp": 1.94,
+   "gegner": "Iserlohn Roosters",
    "p_start": null
   },
   {
@@ -145,31 +145,19 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.58,
+   "xp": 1.72,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
   {
-   "spieler_id": 4350,
-   "name": "Jackson Cates",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
-   "pos": "for",
-   "preis": 3,
-   "dt_pass": false,
-   "xp": 1.53,
-   "gegner": "Grizzlys Wolfsburg",
-   "p_start": null
-  },
-  {
-   "spieler_id": 1306,
-   "name": "Tim Wohlgemuth",
+   "spieler_id": 4324,
+   "name": "Luke Toporowski",
    "team": "Augsburger Panther",
    "team_id": 13,
    "pos": "for",
    "preis": 2,
-   "dt_pass": true,
-   "xp": 1.1,
+   "dt_pass": false,
+   "xp": 1.13,
    "gegner": "Eisbären Berlin",
    "p_start": null
   },
@@ -186,18 +174,6 @@
    "p_start": null
   },
   {
-   "spieler_id": 4345,
-   "name": "Noah Samanski",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
-   "pos": "for",
-   "preis": 2,
-   "dt_pass": true,
-   "xp": 1.08,
-   "gegner": "Grizzlys Wolfsburg",
-   "p_start": null
-  },
-  {
    "spieler_id": 1850,
    "name": "Philip Feist",
    "team": "Schwenninger Wild Wings",
@@ -207,6 +183,18 @@
    "dt_pass": true,
    "xp": 1.06,
    "gegner": "Pinguins Bremerhaven",
+   "p_start": null
+  },
+  {
+   "spieler_id": 4345,
+   "name": "Noah Samanski",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 2,
+   "dt_pass": true,
+   "xp": 1.05,
+   "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   },
   {
@@ -229,7 +217,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.72,
+   "xp": 0.77,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -241,7 +229,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.67,
+   "xp": 0.75,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
@@ -253,8 +241,20 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.64,
+   "xp": 0.7,
    "gegner": "Adler Mannheim",
+   "p_start": null
+  },
+  {
+   "spieler_id": 2020,
+   "name": "Josef Eham",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 1,
+   "dt_pass": true,
+   "xp": 0.6,
+   "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   }
  ]
