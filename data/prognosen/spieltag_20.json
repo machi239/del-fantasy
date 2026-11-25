@@ -1,22 +1,10 @@
 {
  "spieltag": 20,
  "deadline": "Thu 26.11.2026 19:30",
- "erstellt": "25.11.2026 01:47",
+ "erstellt": "25.11.2026 17:24",
  "pucks": 60,
- "xp_gesamt": 36.1,
+ "xp_gesamt": 35.6,
  "aufstellung": [
-  {
-   "spieler_id": 1547,
-   "name": "Kristers Gudlevskis",
-   "team": "Pinguins Bremerhaven",
-   "team_id": 9,
-   "pos": "goal",
-   "preis": 4,
-   "dt_pass": false,
-   "xp": 3.56,
-   "gegner": "Schwenninger Wild Wings",
-   "p_start": 1.0
-  },
   {
    "spieler_id": 599,
    "name": "Niklas Treutle",
@@ -28,6 +16,18 @@
    "xp": 3.4,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": 0.8
+  },
+  {
+   "spieler_id": 1069,
+   "name": "Jonas Neffin",
+   "team": "Eisbären Berlin",
+   "team_id": 3,
+   "pos": "goal",
+   "preis": 3,
+   "dt_pass": true,
+   "xp": 2.86,
+   "gegner": "Augsburger Panther",
+   "p_start": 0.85
   },
   {
    "spieler_id": 2411,
@@ -51,18 +51,6 @@
    "dt_pass": true,
    "xp": 2.44,
    "gegner": "Schwenninger Wild Wings",
-   "p_start": null
-  },
-  {
-   "spieler_id": 3557,
-   "name": "Ryan Murphy",
-   "team": "EHC Red Bull München",
-   "team_id": 12,
-   "pos": "def",
-   "preis": 5,
-   "dt_pass": false,
-   "xp": 2.43,
-   "gegner": "Iserlohn Roosters",
    "p_start": null
   },
   {
@@ -98,6 +86,18 @@
    "preis": 4,
    "dt_pass": true,
    "xp": 1.92,
+   "gegner": "Augsburger Panther",
+   "p_start": null
+  },
+  {
+   "spieler_id": 3412,
+   "name": "Mitchell Reinke",
+   "team": "Eisbären Berlin",
+   "team_id": 3,
+   "pos": "def",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.45,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -150,6 +150,18 @@
    "p_start": null
   },
   {
+   "spieler_id": 4350,
+   "name": "Jackson Cates",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.53,
+   "gegner": "Grizzlys Wolfsburg",
+   "p_start": null
+  },
+  {
    "spieler_id": 1306,
    "name": "Tim Wohlgemuth",
    "team": "Augsburger Panther",
@@ -186,6 +198,18 @@
    "p_start": null
   },
   {
+   "spieler_id": 1850,
+   "name": "Philip Feist",
+   "team": "Schwenninger Wild Wings",
+   "team_id": 15,
+   "pos": "for",
+   "preis": 2,
+   "dt_pass": true,
+   "xp": 1.06,
+   "gegner": "Pinguins Bremerhaven",
+   "p_start": null
+  },
+  {
    "spieler_id": 2133,
    "name": "Philipp Krening",
    "team": "EHC Red Bull München",
@@ -195,18 +219,6 @@
    "dt_pass": true,
    "xp": 0.88,
    "gegner": "Iserlohn Roosters",
-   "p_start": null
-  },
-  {
-   "spieler_id": 3562,
-   "name": "Max Calce",
-   "team": "Adler Mannheim",
-   "team_id": 2,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.84,
-   "gegner": "Löwen Frankfurt",
    "p_start": null
   },
   {
@@ -243,18 +255,6 @@
    "dt_pass": true,
    "xp": 0.64,
    "gegner": "Adler Mannheim",
-   "p_start": null
-  },
-  {
-   "spieler_id": 3600,
-   "name": "C.J. Suess",
-   "team": "Krefeld Pinguine",
-   "team_id": 5,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": false,
-   "xp": 0.6,
-   "gegner": "ERC Ingolstadt",
    "p_start": null
   }
  ]
