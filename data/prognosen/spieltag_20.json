@@ -1,9 +1,9 @@
 {
  "spieltag": 20,
  "deadline": "Thu 26.11.2026 19:30",
- "erstellt": "25.11.2026 21:41",
+ "erstellt": "26.11.2026 01:23",
  "pucks": 60,
- "xp_gesamt": 35.5,
+ "xp_gesamt": 35.6,
  "aufstellung": [
   {
    "spieler_id": 1069,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 3.11,
+   "xp": 3.13,
    "gegner": "Augsburger Panther",
    "p_start": 0.85
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.41,
+   "xp": 2.42,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": 0.8
   },
@@ -61,7 +61,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.38,
+   "xp": 2.45,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
@@ -126,15 +126,15 @@
    "p_start": null
   },
   {
-   "spieler_id": 3410,
-   "name": "Liam Kirk",
-   "team": "Eisbären Berlin",
-   "team_id": 3,
+   "spieler_id": 80,
+   "name": "Yasin Ehliz",
+   "team": "EHC Red Bull München",
+   "team_id": 12,
    "pos": "for",
-   "preis": 5,
-   "dt_pass": false,
-   "xp": 2.37,
-   "gegner": "Augsburger Panther",
+   "preis": 4,
+   "dt_pass": true,
+   "xp": 2.0,
+   "gegner": "Iserlohn Roosters",
    "p_start": null
   },
   {
@@ -157,7 +157,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.2,
+   "xp": 1.1,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -186,6 +186,18 @@
    "p_start": null
   },
   {
+   "spieler_id": 2816,
+   "name": "Johannes Krauß",
+   "team": "Iserlohn Roosters",
+   "team_id": 7,
+   "pos": "for",
+   "preis": 2,
+   "dt_pass": true,
+   "xp": 1.01,
+   "gegner": "EHC Red Bull München",
+   "p_start": null
+  },
+  {
    "spieler_id": 2133,
    "name": "Philipp Krening",
    "team": "EHC Red Bull München",
@@ -193,7 +205,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.87,
+   "xp": 0.91,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
@@ -205,7 +217,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.76,
+   "xp": 0.77,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -217,7 +229,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.73,
+   "xp": 0.75,
    "gegner": "Schwenninger Wild Wings",
    "p_start": null
   },
@@ -231,18 +243,6 @@
    "dt_pass": true,
    "xp": 0.69,
    "gegner": "Adler Mannheim",
-   "p_start": null
-  },
-  {
-   "spieler_id": 1684,
-   "name": "Håkon Hänelt",
-   "team": "Schwenninger Wild Wings",
-   "team_id": 15,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.61,
-   "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
   {
