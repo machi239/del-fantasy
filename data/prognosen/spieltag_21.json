@@ -1,9 +1,9 @@
 {
  "spieltag": 21,
  "deadline": "Sun 29.11.2026 14:00",
- "erstellt": "26.11.2026 21:10",
+ "erstellt": "26.11.2026 21:34",
  "pucks": 60,
- "xp_gesamt": 37.8,
+ "xp_gesamt": 37.9,
  "aufstellung": [
   {
    "spieler_id": 599,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 3.8,
+   "xp": 3.89,
    "gegner": "Löwen Frankfurt",
    "p_start": 0.8
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 3.77,
+   "xp": 3.76,
    "gegner": "Pinguins Bremerhaven",
    "p_start": 0.8
   },
@@ -61,7 +61,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 2.42,
+   "xp": 2.43,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -73,7 +73,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.07,
+   "xp": 2.08,
    "gegner": "Kölner Haie",
    "p_start": null
   },
@@ -109,7 +109,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.53,
+   "xp": 1.54,
    "gegner": "EHC Red Bull München",
    "p_start": null
   },
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.38,
+   "xp": 2.39,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -133,7 +133,7 @@
    "pos": "for",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.04,
+   "xp": 2.05,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
@@ -145,7 +145,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.91,
+   "xp": 1.92,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -169,7 +169,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": false,
-   "xp": 1.12,
+   "xp": 1.1,
    "gegner": "Adler Mannheim",
    "p_start": null
   },
@@ -181,7 +181,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.06,
+   "xp": 1.07,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   },
@@ -205,7 +205,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.03,
+   "xp": 1.01,
    "gegner": "Adler Mannheim",
    "p_start": null
   },
@@ -253,7 +253,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.64,
+   "xp": 0.65,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   }
