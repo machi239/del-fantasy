@@ -85,7 +85,7 @@
   "1678": 1,
   "1799": 1,
   "3569": 0,
-  "550": 0.5,
+  "550": 1,
   "3309": 1,
   "4324": 1,
   "2194": 0,
@@ -308,8 +308,8 @@
   "2351": 0.45,
   "416": 0.75,
   "157": 0.25,
-  "998": 0.6,
-  "83": 0.4,
+  "998": 0.5,
+  "83": 0.5,
   "1594": 0.5,
   "3424": 0.5,
   "4154": 0.9
@@ -321,7 +321,7 @@
   "599": "Janett startete am 22.11., Treutle am 24.11.; Starter für 27.11. nicht angekündigt.",
   "1985": "Angeschlagen, reiste nicht nach Straubing; Franzreb wahrscheinlich im Tor.",
   "500": "Wahrscheinlicher Starter, da Hildebrand angeschlagen.",
-  "550": "Seit 24.11. wieder voll im Mannschaftstraining, Einsatz kurzfristig offen.",
+  "550": "Comeback am 25.11. nach 45 Tagen Pause, traf gegen Wolfsburg.",
   "4316": "Angeschlagen, fehlte am 24.11.",
   "3551": "Angeschlagen, fehlte am 22. und 24.11.",
   "3593": "Am 24.11. kurzfristig nicht verfügbar, Grund unbekannt.",
@@ -338,16 +338,21 @@
   "4325": "Fehlte zuletzt, Grund unbekannt.",
   "3851": "Fehlte zuletzt, Grund unbekannt.",
   "2019": "Fehlte zuletzt, Grund unbekannt.",
-  "1343": "Seit Dienstag wieder auf dem Eis, Option für 25.11."
+  "1343": "Seit 24.11. wieder auf dem Eis, Einsatz am 25.11. nicht bestätigt.",
+  "998": "Startete am 25.11. in Schwenningen, nach 32 Minuten (1:6) für Jenike ausgewechselt; Starter gegen München offen.",
+  "416": "Startete am 25.11. in München.",
+  "4154": "Startete am 25.11. gegen Wolfsburg.",
+  "1594": "Startete am 25.11. gegen Iserlohn (6:1).",
+  "4338": "Laut Löwen-Vorschau vom 24.11. im Tor erwartet, keine offizielle Ansage."
  },
  "risiken": [
   {
-   "text": "Ryan Murphy (München) fällt mehrere Wochen aus. Unterkörperverletzung, laut Vereinsmeldung vom 25.11. mindestens zehn DEL-Spiele; steht in der aktuellen Aufstellung.",
+   "text": "Ryan Murphy (München) fällt mehrere Wochen aus. Unterkörperverletzung, laut Vereinsmeldung vom 25.11. mindestens zehn DEL-Spiele.",
    "schwer": true,
    "bis": "2027-01-03"
   },
   {
-   "text": "Max Calce verlässt Mannheim. Wechsel zu den Brantford Bulldogs (OHL) laut Vereinsmeldung; steht in der aktuellen Aufstellung.",
+   "text": "Max Calce verlässt Mannheim. Wechsel zu den Brantford Bulldogs (OHL) laut Vereinsmeldung.",
    "schwer": true,
    "bis": "2027-03-07"
   },
@@ -356,7 +361,7 @@
    "schwer": false
   },
   {
-   "text": "Mannheim-Torhüter Jake Hildebrand angeschlagen. Reiste nicht nach Straubing, die Adler lizenzierten Maximilian Leister als Backup; Franzreb dürfte in Frankfurt starten.",
+   "text": "Mannheim-Torhüter Jake Hildebrand angeschlagen. Reiste nicht nach Straubing, die Adler lizenzierten Maximilian Leister als Backup; Franzreb dürfte heute in Frankfurt starten, keine offizielle Ansage.",
    "schwer": false
   },
   {
@@ -375,7 +380,7 @@
    "bis": "2026-12-06"
   },
   {
-   "text": "Chris DeSousa (München) fällt weiter aus. Kahun trainiert seit 24.11. wieder voll mit, Einsatz kurzfristig offen.",
+   "text": "Chris DeSousa (München) fällt weiter aus. Oberkörperverletzung laut Vereinsmeldung vom 25.11.; Dominik Kahun feierte am 25.11. sein Comeback und traf.",
    "schwer": true,
    "bis": "2026-11-29"
   },
@@ -458,6 +463,10 @@
    "text": "Brandon Biro (Frankfurt) verletzt. Am 20.11. verletzt ausgeschieden, am 22.11. nicht im Aufgebot.",
    "schwer": false,
    "bis": "2026-11-30"
+  },
+  {
+   "text": "Iserlohns Torhüterfrage gegen München offen. Hendrik Hane wurde am 25.11. beim 1:6 in Schwenningen nach 32 Minuten für Andreas Jenike ausgewechselt; kein Starter angekündigt.",
+   "schwer": false
   }
  ],
  "quellen": [
@@ -1028,6 +1037,30 @@
   {
    "titel": "Sportschau Kader Straubing – Mannheim (19. Spieltag)",
    "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189739/straubing-tigers_adler-mannheim/spiel-kader"
+  },
+  {
+   "titel": "Red Bull München: 4:2 gegen Wolfsburg, Kahun-Comeback (25.11.)",
+   "url": "https://www.redbullmuenchen.de/de/news/del-19-spieltag-ehc-red-bull-muenchen-gewinnt-gegen-die-grizzlys-wolfsburg"
+  },
+  {
+   "titel": "eishockey-online: München schlägt Wolfsburg (25.11.)",
+   "url": "https://www.eishockey-online.news/del/2026/11/25/ehc-red-bull-muenchen-laesst-sich-auch-von-wolfsburg-nicht-aufhalten-und-marschiert-weiter-richtung-tabellenspitze/"
+  },
+  {
+   "titel": "Sport1: München springt auf Platz zwei (25.11.)",
+   "url": "https://www.sport1.de/news/eishockey/del/2026/11/del-red-bull-muenchen-springt-auf-platz-zwei"
+  },
+  {
+   "titel": "Iserlohn Roosters: Rabenschwarzer Abend, 1:6 in Schwenningen (25.11.)",
+   "url": "https://iserlohn-roosters.de/2026/11/25/rabenschwarzer-abend-16-in-schwenningen/"
+  },
+  {
+   "titel": "Iserlohn Roosters: Spieltag 19 Vorschau Schwenningen",
+   "url": "https://iserlohn-roosters.de/2026/11/25/spieltag-19-roosters-schwenningen-2/"
+  },
+  {
+   "titel": "Wild Wings: Torpremieren und drei Punkte (25.11.)",
+   "url": "https://www.schwenninger-wildwings.de/spielbericht/torpremieren-und-drei-punkte/"
   }
  ],
  "odds": {},
