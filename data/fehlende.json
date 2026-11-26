@@ -39,7 +39,13 @@
   "name": "Leo Hafenrichter",
   "team_id": "8",
   "zuletzt_gespielt": "2026-11-15",
-  "verpasst": "2026-11-22"
+  "verpasst": "2026-11-25"
+ },
+ "513": {
+  "name": "Sven Ziegler",
+  "team_id": "8",
+  "zuletzt_gespielt": "2026-11-22",
+  "verpasst": "2026-11-25"
  },
  "1896": {
   "name": "Philipp Krauß",
@@ -83,23 +89,23 @@
   "zuletzt_gespielt": "2026-11-22",
   "verpasst": "2026-11-24"
  },
- "2019": {
-  "name": "Jakub Borzecki",
-  "team_id": "7",
-  "zuletzt_gespielt": "2026-11-20",
-  "verpasst": "2026-11-22"
- },
  "3851": {
   "name": "Gordejs Radionovs",
   "team_id": "7",
   "zuletzt_gespielt": "2026-11-15",
-  "verpasst": "2026-11-22"
+  "verpasst": "2026-11-25"
  },
- "4325": {
-  "name": "Luis Becker",
-  "team_id": "12",
+ "2019": {
+  "name": "Jakub Borzecki",
+  "team_id": "7",
   "zuletzt_gespielt": "2026-11-20",
-  "verpasst": "2026-11-22"
+  "verpasst": "2026-11-25"
+ },
+ "3557": {
+  "name": "Ryan Murphy",
+  "team_id": "12",
+  "zuletzt_gespielt": "2026-11-22",
+  "verpasst": "2026-11-25"
  },
  "2489": {
   "name": "John Gilmour",
@@ -131,29 +137,29 @@
   "zuletzt_gespielt": "2026-11-22",
   "verpasst": "2026-11-24"
  },
- "1705": {
-  "name": "Arkadiusz Dziambor",
+ "426": {
+  "name": "Alex Trivellato",
   "team_id": "15",
-  "zuletzt_gespielt": "2026-11-20",
-  "verpasst": "2026-11-22"
+  "zuletzt_gespielt": "2026-11-22",
+  "verpasst": "2026-11-25"
  },
- "3167": {
-  "name": "Bode Wilde",
+ "1382": {
+  "name": "Boaz Bassen",
   "team_id": "15",
-  "zuletzt_gespielt": "2026-11-20",
-  "verpasst": "2026-11-22"
+  "zuletzt_gespielt": "2026-11-22",
+  "verpasst": "2026-11-25"
  },
- "1343": {
-  "name": "William Weber",
+ "4336": {
+  "name": "Reed Lebster",
   "team_id": "15",
-  "zuletzt_gespielt": "2026-11-20",
-  "verpasst": "2026-11-22"
+  "zuletzt_gespielt": "2026-11-22",
+  "verpasst": "2026-11-25"
  },
- "4337": {
-  "name": "Curtis Valk",
+ "4335": {
+  "name": "Alexander Peters",
   "team_id": "15",
-  "zuletzt_gespielt": "2026-11-20",
-  "verpasst": "2026-11-22"
+  "zuletzt_gespielt": "2026-11-22",
+  "verpasst": "2026-11-25"
  },
  "4341": {
   "name": "Brandon Biro",
