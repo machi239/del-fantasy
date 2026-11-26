@@ -1,5 +1,5 @@
 {
- "spieltag": 20,
+ "spieltag": 21,
  "availability": {
   "2804": 1,
   "1753": 0,
@@ -288,63 +288,8 @@
   "1705": 0.5,
   "4337": 0.5
  },
- "goalie_start": {
-  "1547": 0.8,
-  "1451": 0.2,
-  "599": 0.8,
-  "4347": 0.2,
-  "500": 0.9,
-  "1985": 0.1,
-  "1069": 0.85,
-  "4312": 0.15,
-  "4338": 0.85,
-  "1825": 0.15,
-  "1211": 0.9,
-  "102": 0.9,
-  "4319": 0.95,
-  "4157": 0.6,
-  "516": 0.4,
-  "1459": 0.55,
-  "2351": 0.45,
-  "416": 0.75,
-  "157": 0.25,
-  "998": 0.5,
-  "83": 0.5,
-  "1594": 0.5,
-  "3424": 0.5,
-  "4154": 0.9
- },
- "notizen": {
-  "3557": "Unterkörperverletzung, fällt mehrere Wochen aus (mind. 10 Spiele), Vereinsmeldung 25.11.",
-  "3562": "Verlässt Mannheim Richtung OHL (Brantford), Vereinsmeldung.",
-  "1547": "Hungerecker startete am 24.11. in Ingolstadt; Gudlevskis am 27.11. wahrscheinlich, nicht bestätigt.",
-  "599": "Janett startete am 22.11., Treutle am 24.11.; Starter für 27.11. nicht angekündigt.",
-  "1985": "Angeschlagen, reiste nicht nach Straubing; Franzreb wahrscheinlich im Tor.",
-  "500": "Wahrscheinlicher Starter, da Hildebrand angeschlagen.",
-  "550": "Comeback am 25.11. nach 45 Tagen Pause, traf gegen Wolfsburg.",
-  "4316": "Angeschlagen, fehlte am 24.11.",
-  "3551": "Angeschlagen, fehlte am 22. und 24.11.",
-  "3593": "Am 24.11. kurzfristig nicht verfügbar, Grund unbekannt.",
-  "2489": "Fehlte am 22. und 24.11., Grund unbekannt.",
-  "2754": "Fehlte am 22. und 24.11., Grund unbekannt.",
-  "3433": "Fehlte am 22. und 24.11., Grund unbekannt.",
-  "1705": "Am 22.11. als überzählig (Extra) geführt.",
-  "3167": "Am 22.11. als überzählig (Extra) geführt.",
-  "4337": "Am 22.11. als überzählig (Extra) geführt.",
-  "1677": "Fehlte am 22. und 24.11., Grund unbekannt.",
-  "1836": "Fehlte am 22. und 24.11., Grund unbekannt.",
-  "3523": "Fehlte am 22. und 24.11., Grund unbekannt.",
-  "1655": "Am 22.11. überzählig, am 24.11. nur 0:40 Eiszeit.",
-  "4325": "Fehlte zuletzt, Grund unbekannt.",
-  "3851": "Fehlte zuletzt, Grund unbekannt.",
-  "2019": "Fehlte zuletzt, Grund unbekannt.",
-  "1343": "Seit 24.11. wieder auf dem Eis, Einsatz am 25.11. nicht bestätigt.",
-  "998": "Startete am 25.11. in Schwenningen, nach 32 Minuten (1:6) für Jenike ausgewechselt; Starter gegen München offen.",
-  "416": "Startete am 25.11. in München.",
-  "4154": "Startete am 25.11. gegen Wolfsburg.",
-  "1594": "Startete am 25.11. gegen Iserlohn (6:1).",
-  "4338": "Laut Löwen-Vorschau vom 24.11. im Tor erwartet, keine offizielle Ansage."
- },
+ "goalie_start": {},
+ "notizen": {},
  "risiken": [
   {
    "text": "Ryan Murphy (München) fällt mehrere Wochen aus. Unterkörperverletzung, laut Vereinsmeldung vom 25.11. mindestens zehn DEL-Spiele.",
@@ -355,14 +300,6 @@
    "text": "Max Calce verlässt Mannheim. Wechsel zu den Brantford Bulldogs (OHL) laut Vereinsmeldung.",
    "schwer": true,
    "bis": "2027-03-07"
-  },
-  {
-   "text": "Gudlevskis (Bremerhaven) nicht sicher im Tor. Leon Hungerecker startete am 24.11. in Ingolstadt, Starter für 27.11. nicht angekündigt; Alternative gleichen oder geringeren Preises: Jonas Neffin (Berlin, 3 Pucks, klare Nummer 1).",
-   "schwer": false
-  },
-  {
-   "text": "Mannheim-Torhüter Jake Hildebrand angeschlagen. Reiste nicht nach Straubing, die Adler lizenzierten Maximilian Leister als Backup; Franzreb dürfte heute in Frankfurt starten, keine offizielle Ansage.",
-   "schwer": false
   },
   {
    "text": "Reed Lebster (Schwenningen) fällt diese Woche aus. Verpasst laut Vorschau vom 25.11. alle drei Spiele bis 29.11., Update nächste Woche.",
@@ -463,10 +400,6 @@
    "text": "Brandon Biro (Frankfurt) verletzt. Am 20.11. verletzt ausgeschieden, am 22.11. nicht im Aufgebot.",
    "schwer": false,
    "bis": "2026-11-30"
-  },
-  {
-   "text": "Iserlohns Torhüterfrage gegen München offen. Hendrik Hane wurde am 25.11. beim 1:6 in Schwenningen nach 32 Minuten für Andreas Jenike ausgewechselt; kein Starter angekündigt.",
-   "schwer": false
   }
  ],
  "quellen": [
@@ -1061,6 +994,22 @@
   {
    "titel": "Wild Wings: Torpremieren und drei Punkte (25.11.)",
    "url": "https://www.schwenninger-wildwings.de/spielbericht/torpremieren-und-drei-punkte/"
+  },
+  {
+   "titel": "PENNY DEL Boxscore Frankfurt – Mannheim 26.11. (noch leer)",
+   "url": "https://www.penny-del.org/statistik/spieldetails/26112026_loewen-frankfurt_gg_adler-mannheim_4525/boxscore"
+  },
+  {
+   "titel": "Löwen Frankfurt: Vorschau Derby im Löwenkäfig (24.11.)",
+   "url": "https://www.loewen-frankfurt.de/saison/aktuelles/details/vorschau-auswaerts-gefordert-derby-im-loewenkaefig"
+  },
+  {
+   "titel": "PENNY DEL Aufstellung Frankfurt – Mannheim 26.11. (noch leer)",
+   "url": "https://www.penny-del.org/statistik/spieldetails/26112026_loewen-frankfurt_gg_adler-mannheim_4525/lineup"
+  },
+  {
+   "titel": "Löwen Frankfurt: Liveticker",
+   "url": "https://www.loewen-frankfurt.de/live/live-ticker"
   }
  ],
  "odds": {},
