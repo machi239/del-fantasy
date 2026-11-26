@@ -1,5 +1,5 @@
 {
- "stand": "26.11.2026 01:23",
+ "stand": "26.11.2026 21:09",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -7,19 +7,6 @@
   "unibet"
  ],
  "spiele": {
-  "44-2": {
-   "spiel": "Löwen Frankfurt - Adler Mannheim",
-   "beginn": "26.11.2026 19:30",
-   "buchmacher": [
-    "pinnacle",
-    "unibet"
-   ],
-   "p_home60": 0.214,
-   "p_draw60": 0.196,
-   "p_away60": 0.59,
-   "p_home_inkl_ot": 0.3,
-   "total": 5.91
-  },
   "11-6": {
    "spiel": "Kölner Haie - Straubing Tigers",
    "beginn": "27.11.2026 19:30",
@@ -27,10 +14,10 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.459,
+   "p_home60": 0.457,
    "p_draw60": 0.228,
-   "p_away60": 0.314,
-   "p_home_inkl_ot": 0.581,
+   "p_away60": 0.316,
+   "p_home_inkl_ot": 0.579,
    "total": 6.08
   },
   "13-3": {
@@ -53,11 +40,11 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.529,
-   "p_draw60": 0.216,
-   "p_away60": 0.256,
-   "p_home_inkl_ot": 0.649,
-   "total": 5.63
+   "p_home60": 0.526,
+   "p_draw60": 0.215,
+   "p_away60": 0.259,
+   "p_home_inkl_ot": 0.646,
+   "total": 5.5
   },
   "1-5": {
    "spiel": "ERC Ingolstadt - Krefeld Pinguine",
@@ -80,10 +67,10 @@
     "unibet"
    ],
    "p_home60": 0.205,
-   "p_draw60": 0.211,
-   "p_away60": 0.585,
-   "p_home_inkl_ot": 0.296,
-   "total": 6.32
+   "p_draw60": 0.212,
+   "p_away60": 0.583,
+   "p_home_inkl_ot": 0.297,
+   "total": 6.29
   },
   "8-14": {
    "spiel": "Grizzlys Wolfsburg - Nürnberg Ice Tigers",
