@@ -137,12 +137,12 @@ spieltag,datum,uhrzeit,heim,gast,heim_id,gast_id,tore_heim,tore_gast,entscheidun
 19,2026-11-25,19:30,EHC Red Bull München,Grizzlys Wolfsburg,12,8,4,2,REG,beendet,4523,/statistik/spieldetails/25112026_ehc-red-bull-muenchen_gg_grizzlys-wolfsburg_4523,ja
 19,2026-11-25,19:30,Schwenninger Wild Wings,Iserlohn Roosters,15,7,6,1,REG,beendet,4524,/statistik/spieldetails/25112026_schwenninger-wild-wings_gg_iserlohn-roosters_4524,ja
 20,2026-11-26,19:30,Löwen Frankfurt,Adler Mannheim,44,2,0,4,REG,beendet,4525,/statistik/spieldetails/26112026_loewen-frankfurt_gg_adler-mannheim_4525,ja
-20,2026-11-27,19:30,Augsburger Panther,Eisbären Berlin,13,3,,,,offen,,,
-20,2026-11-27,19:30,ERC Ingolstadt,Krefeld Pinguine,1,5,,,,offen,,,
-20,2026-11-27,19:30,Grizzlys Wolfsburg,Nürnberg Ice Tigers,8,14,,,,offen,,,
-20,2026-11-27,19:30,Iserlohn Roosters,EHC Red Bull München,7,12,,,,offen,,,
-20,2026-11-27,19:30,Kölner Haie,Straubing Tigers,11,6,,,,offen,,,
-20,2026-11-27,19:30,Pinguins Bremerhaven,Schwenninger Wild Wings,9,15,,,,offen,,,
+20,2026-11-27,19:30,Augsburger Panther,Eisbären Berlin,13,3,2,3,REG,beendet,4527,/statistik/spieldetails/27112026_augsburger-panther_gg_eisbaeren-berlin_4527,
+20,2026-11-27,19:30,ERC Ingolstadt,Krefeld Pinguine,1,5,3,1,REG,beendet,4529,/statistik/spieldetails/27112026_erc-ingolstadt_gg_krefeld-pinguine_4529,
+20,2026-11-27,19:30,Grizzlys Wolfsburg,Nürnberg Ice Tigers,8,14,2,2,REG,beendet,4531,/statistik/spieldetails/27112026_grizzlys-wolfsburg_gg_nuernberg-ice-tigers_4531,
+20,2026-11-27,19:30,Iserlohn Roosters,EHC Red Bull München,7,12,1,1,REG,beendet,4530,/statistik/spieldetails/27112026_iserlohn-roosters_gg_ehc-red-bull-muenchen_4530,
+20,2026-11-27,19:30,Kölner Haie,Straubing Tigers,11,6,2,2,REG,beendet,4526,/statistik/spieldetails/27112026_koelner-haie_gg_straubing-tigers_4526,
+20,2026-11-27,19:30,Pinguins Bremerhaven,Schwenninger Wild Wings,9,15,3,0,REG,beendet,4528,/statistik/spieldetails/27112026_pinguins-bremerhaven_gg_schwenninger-wild-wings_4528,
 21,2026-11-29,14:00,Adler Mannheim,Augsburger Panther,2,13,,,,offen,,,
 21,2026-11-29,14:00,Eisbären Berlin,Pinguins Bremerhaven,3,9,,,,offen,,,
 21,2026-11-29,14:00,Kölner Haie,ERC Ingolstadt,11,1,,,,offen,,,
