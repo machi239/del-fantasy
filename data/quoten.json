@@ -1,5 +1,5 @@
 {
- "stand": "26.11.2026 21:09",
+ "stand": "27.11.2026 01:37",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -25,13 +25,14 @@
    "beginn": "27.11.2026 19:30",
    "buchmacher": [
     "pinnacle",
+    "bet365",
     "unibet"
    ],
-   "p_home60": 0.246,
-   "p_draw60": 0.21,
-   "p_away60": 0.543,
-   "p_home_inkl_ot": 0.341,
-   "total": 6.31
+   "p_home60": 0.261,
+   "p_draw60": 0.206,
+   "p_away60": 0.532,
+   "p_home_inkl_ot": 0.358,
+   "total": 6.28
   },
   "9-15": {
    "spiel": "Pinguins Bremerhaven - Schwenninger Wild Wings",
@@ -77,12 +78,13 @@
    "beginn": "27.11.2026 19:30",
    "buchmacher": [
     "pinnacle",
+    "bet365",
     "unibet"
    ],
-   "p_home60": 0.364,
-   "p_draw60": 0.233,
-   "p_away60": 0.403,
-   "p_home_inkl_ot": 0.479,
+   "p_home60": 0.368,
+   "p_draw60": 0.229,
+   "p_away60": 0.402,
+   "p_home_inkl_ot": 0.484,
    "total": 5.81
   }
  }
