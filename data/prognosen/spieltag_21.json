@@ -1,9 +1,9 @@
 {
  "spieltag": 21,
  "deadline": "Sun 29.11.2026 14:00",
- "erstellt": "27.11.2026 19:16",
+ "erstellt": "27.11.2026 20:56",
  "pucks": 60,
- "xp_gesamt": 36.1,
+ "xp_gesamt": 34.1,
  "aufstellung": [
   {
    "spieler_id": 1069,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 3.07,
+   "xp": 2.64,
    "gegner": "Pinguins Bremerhaven",
    "p_start": 0.65
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 2,
    "dt_pass": true,
-   "xp": 2.4,
+   "xp": 1.64,
    "gegner": "Löwen Frankfurt",
    "p_start": 0.5
   },
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 3.16,
+   "xp": 3.08,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -49,7 +49,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": true,
-   "xp": 2.66,
+   "xp": 2.51,
    "gegner": "EHC Red Bull München",
    "p_start": null
   },
@@ -61,32 +61,20 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 2.43,
+   "xp": 2.21,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
   {
-   "spieler_id": 2113,
-   "name": "Brady Austin",
-   "team": "Kölner Haie",
-   "team_id": 11,
-   "pos": "def",
-   "preis": 5,
-   "dt_pass": false,
-   "xp": 2.39,
-   "gegner": "ERC Ingolstadt",
-   "p_start": null
-  },
-  {
-   "spieler_id": 2868,
-   "name": "Sam Ruopp",
-   "team": "ERC Ingolstadt",
-   "team_id": 1,
+   "spieler_id": 1339,
+   "name": "Phillip Bruggisser",
+   "team": "Pinguins Bremerhaven",
+   "team_id": 9,
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.08,
-   "gegner": "Kölner Haie",
+   "xp": 2.04,
+   "gegner": "Eisbären Berlin",
    "p_start": null
   },
   {
@@ -97,7 +85,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 1.97,
+   "xp": 2.01,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -109,7 +97,19 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.6,
+   "xp": 1.63,
+   "gegner": "Pinguins Bremerhaven",
+   "p_start": null
+  },
+  {
+   "spieler_id": 4701,
+   "name": "Brandon Davidson",
+   "team": "Eisbären Berlin",
+   "team_id": 3,
+   "pos": "def",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.46,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -121,7 +121,19 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.39,
+   "xp": 2.43,
+   "gegner": "Pinguins Bremerhaven",
+   "p_start": null
+  },
+  {
+   "spieler_id": 3410,
+   "name": "Liam Kirk",
+   "team": "Eisbären Berlin",
+   "team_id": 3,
+   "pos": "for",
+   "preis": 5,
+   "dt_pass": false,
+   "xp": 2.33,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -133,7 +145,7 @@
    "pos": "for",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.05,
+   "xp": 1.92,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
@@ -145,7 +157,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.91,
+   "xp": 1.74,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -157,7 +169,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.22,
+   "xp": 1.18,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   },
@@ -169,32 +181,8 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": false,
-   "xp": 1.1,
+   "xp": 1.05,
    "gegner": "Adler Mannheim",
-   "p_start": null
-  },
-  {
-   "spieler_id": 4345,
-   "name": "Noah Samanski",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
-   "pos": "for",
-   "preis": 2,
-   "dt_pass": true,
-   "xp": 1.07,
-   "gegner": "Löwen Frankfurt",
-   "p_start": null
-  },
-  {
-   "spieler_id": 4317,
-   "name": "Hudson Elynuik",
-   "team": "Straubing Tigers",
-   "team_id": 6,
-   "pos": "for",
-   "preis": 2,
-   "dt_pass": false,
-   "xp": 1.04,
-   "gegner": "EHC Red Bull München",
    "p_start": null
   },
   {
@@ -205,7 +193,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.95,
+   "xp": 0.9,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
@@ -217,8 +205,20 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.74,
+   "xp": 0.75,
    "gegner": "Pinguins Bremerhaven",
+   "p_start": null
+  },
+  {
+   "spieler_id": 3580,
+   "name": "Timo Kose",
+   "team": "Löwen Frankfurt",
+   "team_id": 44,
+   "pos": "for",
+   "preis": 1,
+   "dt_pass": true,
+   "xp": 0.71,
+   "gegner": "Nürnberg Ice Tigers",
    "p_start": null
   },
   {
@@ -229,8 +229,20 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": false,
-   "xp": 0.66,
+   "xp": 0.65,
    "gegner": "Iserlohn Roosters",
+   "p_start": null
+  },
+  {
+   "spieler_id": 1704,
+   "name": "Roman Kechter",
+   "team": "Pinguins Bremerhaven",
+   "team_id": 9,
+   "pos": "for",
+   "preis": 1,
+   "dt_pass": true,
+   "xp": 0.63,
+   "gegner": "Eisbären Berlin",
    "p_start": null
   },
   {
@@ -241,20 +253,8 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.64,
+   "xp": 0.62,
    "gegner": "Grizzlys Wolfsburg",
-   "p_start": null
-  },
-  {
-   "spieler_id": 2020,
-   "name": "Josef Eham",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.61,
-   "gegner": "Löwen Frankfurt",
    "p_start": null
   }
  ]
