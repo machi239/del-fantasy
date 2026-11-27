@@ -1,5 +1,5 @@
 {
- "stand": "27.11.2026 01:37",
+ "stand": "27.11.2026 20:55",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -7,85 +7,89 @@
   "unibet"
  ],
  "spiele": {
-  "11-6": {
-   "spiel": "Kölner Haie - Straubing Tigers",
-   "beginn": "27.11.2026 19:30",
+  "11-1": {
+   "spiel": "Kölner Haie - ERC Ingolstadt",
+   "beginn": "29.11.2026 14:00",
    "buchmacher": [
-    "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.457,
-   "p_draw60": 0.228,
-   "p_away60": 0.316,
-   "p_home_inkl_ot": 0.579,
-   "total": 6.08
+   "p_home60": 0.487,
+   "p_draw60": 0.2,
+   "p_away60": 0.312,
+   "p_home_inkl_ot": 0.591,
+   "total": 6.33
   },
-  "13-3": {
-   "spiel": "Augsburger Panther - Eisbären Berlin",
-   "beginn": "27.11.2026 19:30",
+  "3-9": {
+   "spiel": "Eisbären Berlin - Pinguins Bremerhaven",
+   "beginn": "29.11.2026 14:00",
    "buchmacher": [
-    "pinnacle",
-    "bet365",
     "unibet"
    ],
-   "p_home60": 0.261,
-   "p_draw60": 0.206,
-   "p_away60": 0.532,
-   "p_home_inkl_ot": 0.358,
-   "total": 6.28
+   "p_home60": 0.578,
+   "p_draw60": 0.197,
+   "p_away60": 0.225,
+   "p_home_inkl_ot": 0.684,
+   "total": 5.91
   },
-  "9-15": {
-   "spiel": "Pinguins Bremerhaven - Schwenninger Wild Wings",
-   "beginn": "27.11.2026 19:30",
+  "2-13": {
+   "spiel": "Adler Mannheim - Augsburger Panther",
+   "beginn": "29.11.2026 14:00",
    "buchmacher": [
-    "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.526,
-   "p_draw60": 0.215,
-   "p_away60": 0.259,
-   "p_home_inkl_ot": 0.646,
-   "total": 5.5
+   "p_home60": 0.555,
+   "p_draw60": 0.196,
+   "p_away60": 0.249,
+   "p_home_inkl_ot": 0.666,
+   "total": 6.05
   },
-  "1-5": {
-   "spiel": "ERC Ingolstadt - Krefeld Pinguine",
-   "beginn": "27.11.2026 19:30",
+  "14-44": {
+   "spiel": "Nürnberg Ice Tigers - Löwen Frankfurt",
+   "beginn": "29.11.2026 16:30",
    "buchmacher": [
-    "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.515,
-   "p_draw60": 0.217,
+   "p_home60": 0.513,
+   "p_draw60": 0.22,
    "p_away60": 0.268,
-   "p_home_inkl_ot": 0.634,
-   "total": 6.11
+   "p_home_inkl_ot": 0.631,
+   "total": 5.89
   },
-  "7-12": {
-   "spiel": "Iserlohn Roosters - EHC Red Bull München",
-   "beginn": "27.11.2026 19:30",
+  "12-6": {
+   "spiel": "EHC Red Bull München - Straubing Tigers",
+   "beginn": "29.11.2026 16:30",
    "buchmacher": [
-    "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.205,
-   "p_draw60": 0.212,
-   "p_away60": 0.583,
-   "p_home_inkl_ot": 0.297,
-   "total": 6.29
+   "p_home60": 0.431,
+   "p_draw60": 0.249,
+   "p_away60": 0.32,
+   "p_home_inkl_ot": 0.561,
+   "total": 6.0
   },
-  "8-14": {
-   "spiel": "Grizzlys Wolfsburg - Nürnberg Ice Tigers",
-   "beginn": "27.11.2026 19:30",
+  "5-7": {
+   "spiel": "Krefeld Pinguine - Iserlohn Roosters",
+   "beginn": "29.11.2026 16:30",
    "buchmacher": [
-    "pinnacle",
-    "bet365",
     "unibet"
    ],
-   "p_home60": 0.368,
-   "p_draw60": 0.229,
-   "p_away60": 0.402,
-   "p_home_inkl_ot": 0.484,
-   "total": 5.81
+   "p_home60": 0.442,
+   "p_draw60": 0.242,
+   "p_away60": 0.317,
+   "p_home_inkl_ot": 0.569,
+   "total": 5.8
+  },
+  "15-8": {
+   "spiel": "Schwenninger Wild Wings - Grizzlys Wolfsburg",
+   "beginn": "29.11.2026 19:00",
+   "buchmacher": [
+    "unibet"
+   ],
+   "p_home60": 0.382,
+   "p_draw60": 0.219,
+   "p_away60": 0.399,
+   "p_home_inkl_ot": 0.491,
+   "total": 5.82
   }
  }
 }
