@@ -1,9 +1,9 @@
 {
  "spieltag": 21,
  "deadline": "Sun 29.11.2026 14:00",
- "erstellt": "27.11.2026 20:56",
+ "erstellt": "27.11.2026 21:21",
  "pucks": 60,
- "xp_gesamt": 34.1,
+ "xp_gesamt": 34.4,
  "aufstellung": [
   {
    "spieler_id": 1069,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.64,
+   "xp": 2.61,
    "gegner": "Pinguins Bremerhaven",
    "p_start": 0.65
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.64,
+   "xp": 1.62,
    "gegner": "Löwen Frankfurt",
    "p_start": 0.5
   },
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 3.08,
+   "xp": 3.11,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -49,7 +49,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": true,
-   "xp": 2.51,
+   "xp": 2.54,
    "gegner": "EHC Red Bull München",
    "p_start": null
   },
@@ -61,7 +61,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 2.21,
+   "xp": 2.23,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -73,7 +73,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.04,
+   "xp": 2.06,
    "gegner": "Eisbären Berlin",
    "p_start": null
   },
@@ -85,7 +85,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.01,
+   "xp": 2.03,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -97,7 +97,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.63,
+   "xp": 1.64,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -109,7 +109,7 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.46,
+   "xp": 1.47,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.43,
+   "xp": 2.46,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -133,7 +133,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.33,
+   "xp": 2.36,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -145,7 +145,7 @@
    "pos": "for",
    "preis": 4,
    "dt_pass": true,
-   "xp": 1.92,
+   "xp": 1.94,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
@@ -157,7 +157,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.74,
+   "xp": 1.76,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -169,7 +169,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.18,
+   "xp": 1.19,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   },
@@ -181,7 +181,7 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": false,
-   "xp": 1.05,
+   "xp": 1.06,
    "gegner": "Adler Mannheim",
    "p_start": null
   },
@@ -193,7 +193,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.9,
+   "xp": 0.91,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
@@ -205,7 +205,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.75,
+   "xp": 0.76,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -229,7 +229,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": false,
-   "xp": 0.65,
+   "xp": 0.66,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
