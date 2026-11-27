@@ -1,22 +1,10 @@
 {
  "spieltag": 21,
  "deadline": "Sun 29.11.2026 14:00",
- "erstellt": "27.11.2026 01:37",
+ "erstellt": "27.11.2026 16:48",
  "pucks": 60,
- "xp_gesamt": 37.9,
+ "xp_gesamt": 36.1,
  "aufstellung": [
-  {
-   "spieler_id": 599,
-   "name": "Niklas Treutle",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
-   "pos": "goal",
-   "preis": 3,
-   "dt_pass": true,
-   "xp": 3.89,
-   "gegner": "Löwen Frankfurt",
-   "p_start": 0.8
-  },
   {
    "spieler_id": 1069,
    "name": "Jonas Neffin",
@@ -25,9 +13,21 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 3.76,
+   "xp": 3.06,
    "gegner": "Pinguins Bremerhaven",
-   "p_start": 0.8
+   "p_start": 0.65
+  },
+  {
+   "spieler_id": 4347,
+   "name": "Luis Janett",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "goal",
+   "preis": 2,
+   "dt_pass": true,
+   "xp": 2.34,
+   "gegner": "Löwen Frankfurt",
+   "p_start": 0.5
   },
   {
    "spieler_id": 2411,
@@ -66,6 +66,18 @@
    "p_start": null
   },
   {
+   "spieler_id": 2113,
+   "name": "Brady Austin",
+   "team": "Kölner Haie",
+   "team_id": 11,
+   "pos": "def",
+   "preis": 5,
+   "dt_pass": false,
+   "xp": 2.39,
+   "gegner": "ERC Ingolstadt",
+   "p_start": null
+  },
+  {
    "spieler_id": 2868,
    "name": "Sam Ruopp",
    "team": "ERC Ingolstadt",
@@ -99,18 +111,6 @@
    "dt_pass": false,
    "xp": 1.6,
    "gegner": "Pinguins Bremerhaven",
-   "p_start": null
-  },
-  {
-   "spieler_id": 4315,
-   "name": "Joseph Duszak",
-   "team": "Straubing Tigers",
-   "team_id": 6,
-   "pos": "def",
-   "preis": 3,
-   "dt_pass": false,
-   "xp": 1.54,
-   "gegner": "EHC Red Bull München",
    "p_start": null
   },
   {
@@ -198,18 +198,6 @@
    "p_start": null
   },
   {
-   "spieler_id": 1306,
-   "name": "Tim Wohlgemuth",
-   "team": "Augsburger Panther",
-   "team_id": 13,
-   "pos": "for",
-   "preis": 2,
-   "dt_pass": true,
-   "xp": 1.01,
-   "gegner": "Adler Mannheim",
-   "p_start": null
-  },
-  {
    "spieler_id": 2133,
    "name": "Philipp Krening",
    "team": "EHC Red Bull München",
@@ -255,6 +243,18 @@
    "dt_pass": true,
    "xp": 0.65,
    "gegner": "Grizzlys Wolfsburg",
+   "p_start": null
+  },
+  {
+   "spieler_id": 2020,
+   "name": "Josef Eham",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 1,
+   "dt_pass": true,
+   "xp": 0.61,
+   "gegner": "Löwen Frankfurt",
    "p_start": null
   }
  ]
