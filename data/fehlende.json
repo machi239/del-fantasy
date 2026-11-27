@@ -107,35 +107,29 @@
   "zuletzt_gespielt": "2026-11-22",
   "verpasst": "2026-11-25"
  },
- "2489": {
-  "name": "John Gilmour",
+ "3428": {
+  "name": "Tobias Fohrler",
   "team_id": "2",
-  "zuletzt_gespielt": "2026-11-20",
-  "verpasst": "2026-11-24"
+  "zuletzt_gespielt": "2026-11-24",
+  "verpasst": "2026-11-26"
  },
- "2754": {
-  "name": "Lukas Kälble",
+ "2501": {
+  "name": "Kris Bennett",
   "team_id": "2",
-  "zuletzt_gespielt": "2026-11-20",
-  "verpasst": "2026-11-24"
+  "zuletzt_gespielt": "2026-11-24",
+  "verpasst": "2026-11-26"
  },
- "1525": {
-  "name": "Alexander Ehl",
+ "1609": {
+  "name": "Marc Michaelis",
   "team_id": "2",
-  "zuletzt_gespielt": "2026-11-22",
-  "verpasst": "2026-11-24"
- },
- "3567": {
-  "name": "Anthony Greco",
-  "team_id": "2",
-  "zuletzt_gespielt": "2026-11-22",
-  "verpasst": "2026-11-24"
+  "zuletzt_gespielt": "2026-11-24",
+  "verpasst": "2026-11-26"
  },
  "3562": {
   "name": "Max Calce",
   "team_id": "2",
   "zuletzt_gespielt": "2026-11-22",
-  "verpasst": "2026-11-24"
+  "verpasst": "2026-11-26"
  },
  "426": {
   "name": "Alex Trivellato",
@@ -161,16 +155,22 @@
   "zuletzt_gespielt": "2026-11-22",
   "verpasst": "2026-11-25"
  },
+ "2900": {
+  "name": "Philipp Bidoul",
+  "team_id": "44",
+  "zuletzt_gespielt": "2026-11-24",
+  "verpasst": "2026-11-26"
+ },
  "4341": {
   "name": "Brandon Biro",
   "team_id": "44",
   "zuletzt_gespielt": "2026-11-20",
-  "verpasst": "2026-11-24"
+  "verpasst": "2026-11-26"
  },
- "1677": {
-  "name": "Robin van Calster",
+ "2367": {
+  "name": "Noah Dunham",
   "team_id": "44",
-  "zuletzt_gespielt": "2026-11-20",
-  "verpasst": "2026-11-24"
+  "zuletzt_gespielt": "2026-11-24",
+  "verpasst": "2026-11-26"
  }
 }
