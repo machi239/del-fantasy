@@ -1,9 +1,9 @@
 {
  "spieltag": 21,
  "deadline": "Sun 29.11.2026 14:00",
- "erstellt": "28.11.2026 01:04",
+ "erstellt": "28.11.2026 15:43",
  "pucks": 60,
- "xp_gesamt": 34.7,
+ "xp_gesamt": 35.6,
  "aufstellung": [
   {
    "spieler_id": 1069,
@@ -13,21 +13,21 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.62,
+   "xp": 3.02,
    "gegner": "Pinguins Bremerhaven",
-   "p_start": 0.65
+   "p_start": 0.75
   },
   {
-   "spieler_id": 4347,
-   "name": "Luis Janett",
+   "spieler_id": 599,
+   "name": "Niklas Treutle",
    "team": "Nürnberg Ice Tigers",
    "team_id": 14,
    "pos": "goal",
-   "preis": 2,
+   "preis": 3,
    "dt_pass": true,
-   "xp": 1.93,
+   "xp": 2.84,
    "gegner": "Löwen Frankfurt",
-   "p_start": 0.5
+   "p_start": 0.7
   },
   {
    "spieler_id": 2411,
@@ -102,15 +102,15 @@
    "p_start": null
   },
   {
-   "spieler_id": 4701,
-   "name": "Brandon Davidson",
-   "team": "Eisbären Berlin",
-   "team_id": 3,
+   "spieler_id": 2804,
+   "name": "Jakob Weber",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
    "pos": "def",
-   "preis": 3,
-   "dt_pass": false,
-   "xp": 1.47,
-   "gegner": "Pinguins Bremerhaven",
+   "preis": 2,
+   "dt_pass": true,
+   "xp": 1.08,
+   "gegner": "Löwen Frankfurt",
    "p_start": null
   },
   {

@@ -10,8 +10,8 @@
   "1763": 0,
   "1901": 0,
   "1655": 0.5,
-  "3958": 0,
-  "2501": 1,
+  "3958": 1,
+  "2501": 0.5,
   "516": 1,
   "3575": 1,
   "1653": 0,
@@ -22,8 +22,8 @@
   "1075": 0.5,
   "1404": 1,
   "1823": 1,
-  "1360": 0.5,
-  "513": 0.5,
+  "1360": 1,
+  "513": 1,
   "3122": 0.5,
   "1771": 1,
   "537": 0.5,
@@ -47,13 +47,13 @@
   "3950": 1,
   "3411": 0.5,
   "1168": 1,
-  "1313": 0.5,
+  "1313": 0,
   "1491": 0.5,
   "1587": 1,
   "3128": 0.5,
   "2198": 1,
-  "4316": 0.5,
-  "2019": 0.5,
+  "4316": 0,
+  "2019": 1,
   "442": 1,
   "4341": 0,
   "1903": 0.5,
@@ -83,7 +83,7 @@
   "4243": 1,
   "2172": 1,
   "1678": 1,
-  "1799": 1,
+  "1799": 0.5,
   "3569": 0,
   "550": 1,
   "3309": 1,
@@ -93,7 +93,7 @@
   "1435": 1,
   "3323": 0.5,
   "478": 0,
-  "4335": 0.5,
+  "4335": 1,
   "3585": 1,
   "1345": 1,
   "88": 1,
@@ -116,7 +116,7 @@
   "1850": 1,
   "507": 1,
   "531": 0.5,
-  "2122": 0.5,
+  "2122": 0,
   "1489": 0.5,
   "1564": 1,
   "3428": 0.5,
@@ -132,7 +132,7 @@
   "80": 1,
   "648": 1,
   "1684": 1,
-  "597": 1,
+  "597": 0.5,
   "3560": 0.5,
   "3559": 0,
   "4160": 0.5,
@@ -141,13 +141,13 @@
   "122": 0,
   "4154": 1,
   "3472": 1,
-  "4498": 1,
+  "4498": 0.5,
   "3581": 1,
   "102": 1,
   "4342": 1,
   "4347": 1,
   "1211": 1,
-  "3593": 0.5,
+  "3593": 1,
   "2351": 1,
   "998": 1,
   "1451": 1,
@@ -155,7 +155,7 @@
   "3432": 1,
   "3433": 0.5,
   "3567": 1,
-  "1985": 0,
+  "1985": 0.5,
   "500": 1,
   "235": 1,
   "268": 1,
@@ -175,9 +175,9 @@
   "4322": 1,
   "528": 1,
   "539": 1,
-  "1088": 0,
+  "1088": 1,
   "1677": 1,
-  "2367": 1,
+  "2367": 0.5,
   "2463": 1,
   "2473": 1,
   "2900": 0,
@@ -212,7 +212,7 @@
   "2798": 1,
   "1441": 1,
   "4157": 1,
-  "3434": 0.5,
+  "3434": 1,
   "115": 1,
   "2131": 1,
   "3307": 1,
@@ -229,9 +229,9 @@
   "3429": 1,
   "2754": 0.5,
   "2125": 1,
-  "1382": 0.5,
+  "1382": 1,
   "1343": 1,
-  "499": 0.5,
+  "499": 1,
   "3139": 0.5,
   "2384": 0.5,
   "3523": 0.5,
@@ -250,10 +250,10 @@
   "4143": 0,
   "4146": 0,
   "4330": 1,
-  "4331": 0.5,
+  "4331": 1,
   "4911": 0,
   "2813": 1,
-  "2877": 0.5,
+  "2877": 1,
   "551": 1,
   "1364": 1,
   "2117": 1,
@@ -271,7 +271,7 @@
   "1347": 1,
   "1547": 1,
   "1585": 1,
-  "1615": 0.5,
+  "1615": 1,
   "1795": 1,
   "3546": 1,
   "4149": 1,
@@ -281,59 +281,89 @@
   "1346": 1,
   "1339": 1,
   "3407": 1,
-  "1681": 0,
-  "1836": 0.5,
-  "3851": 0.5,
+  "1681": 0.5,
+  "1836": 1,
+  "3851": 0,
   "4260": 1,
   "1705": 0.5,
   "4337": 0.5,
-  "2605": 0.5
+  "2605": 1,
+  "1762": 0,
+  "1609": 0.5,
+  "2491": 0.5
  },
  "goalie_start": {
   "500": 0.85,
-  "599": 0.5,
-  "4347": 0.5,
-  "1069": 0.65,
-  "4312": 0.35
+  "599": 0.7,
+  "4347": 0.3,
+  "1069": 0.75,
+  "4312": 0.25,
+  "1547": 0.8,
+  "1211": 0.8,
+  "516": 0.7,
+  "4157": 0.3,
+  "4154": 0.8,
+  "2831": 0.2,
+  "4319": 0.9,
+  "102": 0.7,
+  "4342": 0.3,
+  "83": 0.65,
+  "998": 0.35,
+  "4338": 0.75,
+  "3424": 0.5,
+  "1594": 0.5,
+  "416": 0.65,
+  "157": 0.35
  },
  "notizen": {
   "478": "Nicht mit nach Bremerhaven, weitere medizinische Untersuchungen; laut Trainer wohl auch 29.11. raus",
-  "426": "Am 25.11. überzählig (Rotation), fit; durch Bittner-Ausfall Rückkehr möglich",
-  "4335": "Am 25.11. überzählig (Rotation), fit; durch Bittner-Ausfall Rückkehr möglich",
-  "1382": "Am 25.11. überzählig (Rotation), fit; durch Bittner-Ausfall Rückkehr möglich",
+  "426": "am 25. und 27.11. überzählig, nicht verletzt",
   "1343": "Wieder im Training, Option seit 25.11.",
-  "1659": "Fußbruch, laut Roosters-Vorschau 27.11. möglicherweise wieder einsatzbereit",
-  "2605": "Puck ins Gesicht am 25.11., kleines Fragezeichen für 27.11.",
-  "3851": "fehlte zuletzt, Grund unbekannt (laut Radio MK keine weiteren Verletzten, wohl Kaderentscheidung)",
-  "2019": "fehlte zuletzt, Grund unbekannt (laut Radio MK keine weiteren Verletzten, wohl Kaderentscheidung)",
-  "1681": "fehlte zuletzt; Förderlizenz-Spieler, Grund unbekannt",
-  "513": "fehlte zuletzt, Grund unbekannt",
-  "1836": "fehlte zuletzt, Grund unbekannt",
-  "499": "fehlte am 24.11. gegen Nürnberg, Grund unbekannt",
-  "3433": "fehlte am 24.11. gegen Nürnberg, Grund unbekannt",
-  "1491": "fehlte am 24.11. gegen Nürnberg, Grund unbekannt",
-  "3434": "laut eishockeynews angeschlagen",
-  "2877": "laut eishockeynews angeschlagen",
-  "4331": "fehlte zuletzt, Grund unbekannt",
-  "1313": "laut eishockeynews Oberkörperverletzung, Dauer unbestimmt",
+  "1659": "Nach Fußbruch wieder im Eistraining, am 27.11. nicht im Aufgebot, für Sonntag fraglich",
+  "3851": "Mit Förderlizenz bei den Füchsen Duisburg (Oberliga), am 27.11. nicht im Iserlohner Kader",
+  "1681": "fehlte 25. und 27.11., Grund unbekannt",
+  "3433": "fehlte 24. und 27.11., Grund unbekannt",
+  "1491": "fehlte 24. und 27.11., Grund unbekannt",
+  "1313": "laut eishockeynews Oberkörperverletzung, auf unbestimmte Zeit; seit 15.11. nicht im Kader",
   "2801": "laut eishockeynews Unterkörper, fraglich",
-  "1985": "Angeschlagen, fehlte am 24. und 26.11.; Franzreb im Tor, Leister als Backup lizenziert",
+  "1985": "angeschlagen, fehlte am 24. und 26.11.; Rückkehr nicht gemeldet",
   "2489": "fehlte am 22. und 24.11., Grund unbekannt",
-  "2754": "fehlte am 22. und 24.11., Grund unbekannt",
+  "2754": "am 26.11. überzählig (Rotation in Woche mit vier Spielen laut RNZ), kein Verletzungsgrund genannt",
   "1525": "Am 24.11. nur Belastungspause",
   "3567": "Am 24.11. nur Belastungspause",
-  "3523": "fehlte zuletzt mehrfach, Grund unbekannt",
-  "4160": "fehlte zuletzt mehrfach, Grund unbekannt",
-  "2510": "fehlte zuletzt mehrfach, Grund unbekannt",
+  "3523": "fehlte 22. und 27.11., Grund unklar (evtl. Bandencheck am 22.11.)",
+  "4160": "fehlte 22. und 27.11., Grund unbekannt",
+  "2510": "am 27.11. nicht im Aufgebot, Grund unbekannt",
   "4310": "fehlte zuletzt mehrfach, Grund unbekannt",
   "1677": "Am 26.11. wieder im Line-up",
-  "4323": "Oberkörperverletzung, trainiert ohne Kontakt, Rückkehr naht",
-  "1615": "Am 24.11. Verschnaufpause, keine Verletzung",
+  "4323": "trainiert seit 24.11. ohne Kontakt, fehlte auch 27.11.",
   "1079": "fehlte zuletzt, Grund unbekannt",
-  "599": "Rotationsmuster: bei Fr/So-Doppel startete Janett zuletzt sonntags (25.10., 22.11.)",
-  "4347": "Startete am 22.11. (Sonntag nach Freitagsspiel), gelobt",
-  "1069": "Startete 22. und 24.11.; LaFontaine am 20.11.; Freitag Augsburg, Sonntag Bremerhaven",
-  "500": "Zu null am 24. und 26.11., Hildebrand angeschlagen"
+  "599": "Backup am 27.11.; zuletzt Wechsel T/T/J/T/J (15.–27.11.) – spricht für Treutle am Sonntag, nicht offiziell",
+  "4347": "Startete 27.11. in Wolfsburg (3:2), daher am Sonntag eher Treutle",
+  "1069": "Backup am 27.11. (LaFontaine startete in Augsburg); startete 22. und 24.11. – Rotation spricht für Neffin am Sonntag, nicht offiziell",
+  "500": "Zu null am 24. und 26.11., Hildebrand angeschlagen",
+  "2209": "SC Bern verhandelt laut eishockey-online (27.11.), Wechsel nicht vollzogen; spielte 27.11.",
+  "4312": "Startete 27.11. in Augsburg (6:2), daher am Sonntag eher Neffin",
+  "1547": "Startete 27.11. gegen Schwenningen (3:1), laut Vorschau wohl auch Sonntag",
+  "3428": "am 26.11. überzählig (Rotation in Woche mit vier Spielen laut RNZ), kein Verletzungsgrund genannt",
+  "2501": "am 26.11. überzählig (Rotation in Woche mit vier Spielen laut RNZ), kein Verletzungsgrund genannt",
+  "1609": "am 26.11. überzählig (Rotation in Woche mit vier Spielen laut RNZ), kein Verletzungsgrund genannt",
+  "1211": "Startete 27.11. gegen Berlin, laut Vorschau wahrscheinlich auch Sonntag",
+  "1799": "am 27.11. krank (haie.de-Liveticker), Einsatz am 29.11. offen",
+  "516": "Startete 24. und 27.11., Starter Sonntag offen",
+  "4154": "Am 27.11. Backup, Matthias Bittner debütierte; am Sonntag eher wieder Bibeau, nicht offiziell",
+  "3551": "Unterkörper, fehlte 24. und 27.11., Dauer offen",
+  "4319": "Startete 24. und 27.11.; Bugl verletzt",
+  "4498": "fehlte am 27.11., Grund unbekannt",
+  "2491": "fehlte am 27.11., Grund unbekannt",
+  "102": "Am 27.11. Backup (Jatkola startete); spielte davor 19., 22. (Shutout) und 24.11. – Rückkehr ins Tor wahrscheinlich",
+  "83": "Spielte 27.11. 65 Minuten (2:1 n.P. gegen München)",
+  "2367": "fehlte am 26.11., Grund unbekannt",
+  "4338": "Startete 26.11. gegen Mannheim, Pertuch am 24.11.; Starter Sonntag nicht angekündigt",
+  "597": "am 27.11. laut Verein angeschlagen, laut Presse überzählig; fraglich",
+  "3424": "Startete 27.11. in Bremerhaven, Eriksson am 25.11.; Starter Sonntag offen",
+  "2122": "nach Check in München am 25.11. vorerst raus, Dauer unbekannt",
+  "416": "Startete 25.11., am 27.11. vermutlich ebenfalls; Starter Sonntag offen"
  },
  "risiken": [
   {
@@ -352,11 +382,6 @@
    "bis": "2026-11-30"
   },
   {
-   "text": "Moritz Kukuk (Straubing) weiter krank. Seit 16.09. auf unbestimmte Zeit mit Virusinfekt raus; Kersten und Madden angeschlagen, Bugl und Leonhardt fallen weiter aus.",
-   "schwer": false,
-   "bis": "2026-12-31"
-  },
-  {
    "text": "Bremerhaven weiter ohne Reinwald, Boos und Bettahar. Eminger, Verlic, Byström und Kechter spielten am 24.11.",
    "schwer": false,
    "bis": "2026-12-06"
@@ -370,11 +395,6 @@
    "text": "Straubing ohne Torhüter Florian Bugl. Unterkörperverletzung, fällt längerfristig aus; Skarek startete am 22.11. wieder, Starter gegen Mannheim nicht angekündigt.",
    "schwer": true,
    "bis": "2026-12-31"
-  },
-  {
-   "text": "Iserlohns Maximilian Eisenmenger vor Rückkehr. Nach Fußbruch laut Vorschau 27.11. möglicherweise einsatzbereit; Kapitän Tyler Boland nach Puck ins Gesicht fraglich.",
-   "schwer": false,
-   "bis": "2026-11-29"
   },
   {
    "text": "Jonas Müller (Berlin) fällt langfristig aus. Laut Eisbären-Meldung vom 19.11. krankheitsbedingt auf unbestimmte Zeit.",
@@ -412,11 +432,6 @@
    "bis": "2026-12-31"
   },
   {
-   "text": "Straubing weiter ohne Danjo Leonhardt. Tyler Madden und Spencer Kersten angeschlagen, fehlten am 24.11.",
-   "schwer": false,
-   "bis": "2026-11-30"
-  },
-  {
    "text": "Mathias Niederberger (München) fällt voraussichtlich bis Jahresende aus. Unterkörperverletzung vom 23.10. laut Vereinsmeldung vom 27.10.; Bibeau ist die Nummer 1.",
    "schwer": false,
    "bis": "2026-12-31"
@@ -442,11 +457,6 @@
    "bis": "2026-12-20"
   },
   {
-   "text": "Brandon Biro (Frankfurt) fällt auf unbestimmte Zeit aus. Oberkörperverletzung am 20.11. erneut aufgebrochen (Radio Frankfurt 27.11.); Philipp Bidoul wechselt nach Memmingen, Cody Brenner fehlt aus persönlichen Gründen.",
-   "schwer": false,
-   "bis": "2026-12-13"
-  },
-  {
    "text": "Philipp Bidoul verlässt Frankfurt. Vertrag aufgelöst, Wechsel nach Memmingen (DEL2).",
    "schwer": false,
    "bis": "2027-03-07"
@@ -462,11 +472,53 @@
    "bis": "2026-11-30"
   },
   {
-   "text": "Niklas Treutle (Aufstellung) könnte am Sonntag pausieren. Nürnberg spielt Freitag in Wolfsburg; bei den letzten Fr/So-Doppeln (23./25.10., 20./22.11.) startete sonntags Janett, Startchance Treutle rund 50 %. Gleich teure oder billigere Alternativen: Felix Bick (Krefeld, 2 Pucks, p_start 0.6) oder Luis Janett selbst (2 Pucks), falls er angekündigt wird.",
+   "text": "Luis Janett (Aufstellung) startet am Sonntag wohl nicht. Janett stand am Freitag in Wolfsburg (3:2) im Tor; Nürnberg wechselte zuletzt ab (15.–27.11.: Treutle, Treutle, Janett, Treutle, Janett), daher eher Treutle gegen Frankfurt, nicht offiziell. Gleich teure Alternativen: Felix Bick (Krefeld, 2 Pucks, am Freitag geschont, Start wahrscheinlich) oder Felix Brückmann (Köln, 2 Pucks).",
    "schwer": true
   },
   {
-   "text": "Jonas Neffin (Aufstellung) nicht sicher Starter. Startete 22. und 24.11., LaFontaine am 20.11.; vor dem Sonntag spielt Berlin am Freitag in Augsburg. Alternative bei Wechsel: Felix Bick (Krefeld, 2 Pucks) oder Treutle/Janett je nach Ankündigung.",
+   "text": "Jonas Neffin (Aufstellung) ist wahrscheinlicher Starter, aber nicht bestätigt. LaFontaine spielte am Freitag in Augsburg (6:2), Neffin war Backup und hatte 22. und 24.11. gespielt. Alternative bei Wechsel: Felix Bick (Krefeld, 2 Pucks) oder Niklas Treutle (Nürnberg, 3 Pucks).",
+   "schwer": false
+  },
+  {
+   "text": "Yannick Veilleux (Berlin) fällt monatelang aus. Oberkörperverletzung beim 7:1 gegen Frankfurt am 24.11., Meldung vom 27.11.; Berlin außerdem ohne Bergmann, Khodorenko und Jonas Müller.",
+   "schwer": true,
+   "bis": "2027-02-28"
+  },
+  {
+   "text": "Spencer Kersten (Straubing) fällt mehrere Wochen aus. Oberkörperverletzung laut eishockeynews; Danjo Leonhardt weiter raus, Tyler Madden (Unterkörper) fraglich.",
+   "schwer": false,
+   "bis": "2026-12-13"
+  },
+  {
+   "text": "Tyler Morley (Wolfsburg) fällt vorerst aus. Nach einem Check in München am 25.11., Dauer nicht bekannt; Hafenrichter fehlte ebenfalls ohne Grund.",
+   "schwer": false,
+   "bis": "2026-12-06"
+  },
+  {
+   "text": "Jakob Ustorf (Nürnberg) fällt auf unbestimmte Zeit aus. Oberkörperverletzung laut eishockeynews, seit 15.11. nicht im Kader.",
+   "schwer": false,
+   "bis": "2026-12-06"
+  },
+  {
+   "text": "Iserlohns Maximilian Eisenmenger weiter fraglich. Nach Fußbruch im Eistraining, am 27.11. noch nicht im Aufgebot; Kapitän Tyler Boland spielte trotz Puck ins Gesicht.",
+   "schwer": false,
+   "bis": "2026-11-29"
+  },
+  {
+   "text": "Brandon Biro (Frankfurt) fällt auf unbestimmte Zeit aus. Oberkörperverletzung am 20.11. erneut aufgebrochen; Cody Brenner ist zurück, Noah Dunham fehlte am 26.11. ohne Grund.",
+   "schwer": false,
+   "bis": "2026-12-13"
+  },
+  {
+   "text": "Gregor MacLeod (Köln) war am Freitag krank. Einsatz gegen Ingolstadt offen; Fleischer und Späth fehlten zum zweiten Mal ohne Grund.",
+   "schwer": false
+  },
+  {
+   "text": "Münchens Torhüter am Sonntag offen. Matthias Bittner debütierte am 27.11. in Iserlohn, Bibeau war Backup – gegen Straubing eher wieder Bibeau. Neuzugang Gage Quinney evtl. Debüt.",
+   "schwer": false
+  },
+  {
+   "text": "Ty Ronning (Berlin, Aufstellung) könnte in die Schweiz wechseln. Laut eishockey-online (27.11.) verhandelt der SC Bern, ein Wechsel ist nicht vollzogen; er spielte am Freitag.",
    "schwer": false
   }
  ],
@@ -1166,6 +1218,122 @@
   {
    "titel": "Fischtown Pinguins: Weitere Hiobsbotschaften",
    "url": "https://fischtown-pinguins.de/weitere-hiobsbotschaften-fuer-die-pinguins-keean-washkurak-verstaerkt-fischtown/"
+  },
+  {
+   "titel": "Eisbären: Hoher Auswärtssieg in der Brechtstadt (27.11.)",
+   "url": "https://www.eisbaeren.de/news/detail/hoher-auswaertssieg-in-der-brechtstadt"
+  },
+  {
+   "titel": "sport1: Eisbären-Stürmer Veilleux fällt langfristig aus",
+   "url": "https://www.sport1.de/news/eishockey/del/2026/11/del-eisbaeren-stuermer-veilleux-faellt-langfristig-aus"
+  },
+  {
+   "titel": "eishockeynews: Veilleux fällt langfristig aus",
+   "url": "https://www.eishockeynews.de/artikel/bei-kantersieg-verletzt-eisbaeren-stuermer-veilleux-faellt-langfristig-aus-1275655"
+  },
+  {
+   "titel": "eishockeynews: Die Verletztenliste der DEL",
+   "url": "https://eishockeynews.de/artikel/die-verletztenliste-der-deutschen-eishockey-liga-1270796"
+  },
+  {
+   "titel": "eishockey-online: Ty Ronning bald in den Bergen?",
+   "url": "https://www.eishockey-online.news/del/2026/11/27/ty-ronning-bald-in-den-bergen/"
+  },
+  {
+   "titel": "buten un binnen: Pinguins schlagen Schwenningen (27.11.)",
+   "url": "https://www.butenunbinnen.de/sport/eishockey-fischtown-pinguins-schwenningen-del-spielbericht-100.html"
+  },
+  {
+   "titel": "RNZ: Ungefährdeter Derbysieg in Frankfurt (26.11.)",
+   "url": "https://www.rnz.de/sport/sportregional_artikel,-Adler-Mannheim-bei-den-Frankfurter-Loewen-Kurpfaelzern-gelingt-ein-ungefaehrdeter-Derbysieg-_arid,2494691.html"
+  },
+  {
+   "titel": "AEV: Duell der Traditionsclubs (27.11.)",
+   "url": "https://www.aev-panther.de/artikel/duell-der-traditionsclubs-im-ausverkauften-cfs/01a218b2-cafc-78f8-b359-4cab3df2ddc0"
+  },
+  {
+   "titel": "Haie-Liveticker KEC–STR 27.11.",
+   "url": "https://www.haie.de/gamecenter/kec-vs-str-27-11-2026/?tab=liveticker"
+  },
+  {
+   "titel": "Haie: Russell entscheidet die Verlängerung",
+   "url": "https://www.haie.de/news/20-russell-entscheidet-die-verlaengerung-haie-gewinnen-32-gegen-straubing/"
+  },
+  {
+   "titel": "ERC: Daheim gegen DEL-Rückkehrer (26.11.)",
+   "url": "https://www.erc-ingolstadt.de/saison/daheim-gegen-del-rueckkehrer"
+  },
+  {
+   "titel": "ERC: Zwei Unterzahltore zum Sieg (27.11.)",
+   "url": "https://www.erc-ingolstadt.de/saison/zwei-unterzahltore-zum-sieg"
+  },
+  {
+   "titel": "RBM: Red Bulls holen einen Punkt in Iserlohn (27.11.)",
+   "url": "https://www.redbullmuenchen.de/de/news/del-20-spieltag-ehc-red-bull-muenchen-verliert-gegen-iserlohn-roosters"
+  },
+  {
+   "titel": "RBM: Gage Quinney wechselt nach München",
+   "url": "https://www.redbullmuenchen.de/de/news/gage-quinney-wechselt-zum-ehc-red-bull-muenchen"
+  },
+  {
+   "titel": "Straubing Tigers: Tigers nehmen einen Punkt aus Köln mit (27.11.)",
+   "url": "https://www.straubing-tigers.de/tigers-nehmen-einen-punkt-aus-koeln-mit/"
+  },
+  {
+   "titel": "PENNY DEL Boxscore Wolfsburg–Nürnberg 27.11.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/27112026_grizzlys-wolfsburg_gg_nuernberg-ice-tigers_4531/boxscore"
+  },
+  {
+   "titel": "PENNY DEL Boxscore Ingolstadt–Krefeld 27.11.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/27112026_erc-ingolstadt_gg_krefeld-pinguine_4529/boxscore"
+  },
+  {
+   "titel": "PENNY DEL Boxscore Iserlohn–München 27.11.",
+   "url": "https://www.penny-del.org/statistik/spieldetails/27112026_iserlohn-roosters_gg_ehc-red-bull-muenchen_4530/boxscore"
+  },
+  {
+   "titel": "Füchse Duisburg: Füchse in Erfurt mit 2 Rückkehrern",
+   "url": "https://fuechse-duisburg.de/news/fuechse-in-erfurt-mit-2-rueckkehrern/"
+  },
+  {
+   "titel": "Krefeld Pinguine: Powerplay-Pannen (27.11.)",
+   "url": "https://krefeld-pinguine.de/news/powerplay-pannen-bringen-pinguine-um-verdiente-punkte/"
+  },
+  {
+   "titel": "Löwen Frankfurt: Bidoul-Vertragsauflösung und Verletzungsupdate (27.11.)",
+   "url": "https://www.loewen-frankfurt.de/saison/aktuelles/details/loewen-frankfurt-und-philipp-bidoul-einigen-sich-auf-vertragsaufloesung"
+  },
+  {
+   "titel": "hessenschau: Bei den Löwen rumort es (25.11.)",
+   "url": "https://www.hessenschau.de/sport/eishockey/bei-den-loewen-frankfurt-rumort-es-vor-dem-derby-gegen-mannheim-v1,lowen-pleiten-ohne-ende-100.html"
+  },
+  {
+   "titel": "ran: Ticker Frankfurt–Mannheim 26.11.",
+   "url": "https://ran.joyn.de/sports/ticker/ma12189751-loewen-frankfurt-adler-mannheim"
+  },
+  {
+   "titel": "Wild Wings: Zu wenig Durchschlagskraft (27.11.)",
+   "url": "https://www.schwenninger-wildwings.de/spielbericht/zu-wenig-durchschlagskraft/"
+  },
+  {
+   "titel": "Schwäbische: Wild Wings ohne Biss",
+   "url": "https://www.schwaebische.de/regional/zollernalb/wild-wings-ohne-biss-bremerhaven-laesst-schwenningen-keine-chance-5044835"
+  },
+  {
+   "titel": "BZ via newslocker: Grizzlys vorerst ohne Tyler Morley",
+   "url": "https://www.newslocker.com/de-de/region/braunschweig/nach-bsem-check-in-mnchen-grizzlys-mssen-vorerst-auf-tyler-morley-verzichten/"
+  },
+  {
+   "titel": "ran: Ticker Wolfsburg–Nürnberg 27.11.",
+   "url": "https://ran.joyn.de/sports/ticker/ma12189769-grizzlys-wolfsburg-nuernberg-ice-tigers"
+  },
+  {
+   "titel": "MagentaSport-Pressemitteilung 20. Spieltag",
+   "url": "https://www.presseportal.de/pm/147981/6399594"
+  },
+  {
+   "titel": "tipsterio: Vorschau Nürnberg–Frankfurt 29.11.",
+   "url": "https://tipsterio.de/sportwetten-tipps/nuernberg-ice-tigers-vs-loewen-frankfurt-wett-tipp-prognose-29-11-2026"
   }
  ],
  "odds": {},
