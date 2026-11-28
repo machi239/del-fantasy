@@ -1,5 +1,5 @@
 {
- "stand": "28.11.2026 01:03",
+ "stand": "28.11.2026 19:54",
  "quelle": "OddsPapi",
  "buchmacher_abgefragt": [
   "pinnacle",
@@ -14,11 +14,11 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.489,
-   "p_draw60": 0.228,
-   "p_away60": 0.283,
-   "p_home_inkl_ot": 0.61,
-   "total": 5.96
+   "p_home60": 0.492,
+   "p_draw60": 0.226,
+   "p_away60": 0.282,
+   "p_home_inkl_ot": 0.612,
+   "total": 5.97
   },
   "3-9": {
    "spiel": "Eisbären Berlin - Pinguins Bremerhaven",
@@ -40,10 +40,10 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.604,
-   "p_draw60": 0.199,
-   "p_away60": 0.198,
-   "p_home_inkl_ot": 0.718,
+   "p_home60": 0.606,
+   "p_draw60": 0.197,
+   "p_away60": 0.196,
+   "p_home_inkl_ot": 0.72,
    "total": 6.0
   },
   "14-44": {
@@ -79,11 +79,11 @@
     "pinnacle",
     "unibet"
    ],
-   "p_home60": 0.468,
-   "p_draw60": 0.237,
-   "p_away60": 0.295,
-   "p_home_inkl_ot": 0.596,
-   "total": 5.83
+   "p_home60": 0.454,
+   "p_draw60": 0.235,
+   "p_away60": 0.311,
+   "p_home_inkl_ot": 0.58,
+   "total": 5.8
   },
   "15-8": {
    "spiel": "Schwenninger Wild Wings - Grizzlys Wolfsburg",
