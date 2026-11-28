@@ -1,7 +1,7 @@
 {
  "spieltag": 21,
  "deadline": "Sun 29.11.2026 14:00",
- "erstellt": "28.11.2026 17:58",
+ "erstellt": "28.11.2026 19:55",
  "pucks": 60,
  "xp_gesamt": 35.4,
  "aufstellung": [
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 3.15,
+   "xp": 3.16,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -61,7 +61,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 2.21,
+   "xp": 2.22,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -198,18 +198,6 @@
    "p_start": null
   },
   {
-   "spieler_id": 3600,
-   "name": "C.J. Suess",
-   "team": "Krefeld Pinguine",
-   "team_id": 5,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": false,
-   "xp": 0.68,
-   "gegner": "Iserlohn Roosters",
-   "p_start": null
-  },
-  {
    "spieler_id": 4311,
    "name": "Tobias Krestan",
    "team": "Eisbären Berlin",
@@ -219,6 +207,18 @@
    "dt_pass": true,
    "xp": 0.67,
    "gegner": "Pinguins Bremerhaven",
+   "p_start": null
+  },
+  {
+   "spieler_id": 3600,
+   "name": "C.J. Suess",
+   "team": "Krefeld Pinguine",
+   "team_id": 5,
+   "pos": "for",
+   "preis": 1,
+   "dt_pass": false,
+   "xp": 0.67,
+   "gegner": "Iserlohn Roosters",
    "p_start": null
   },
   {
