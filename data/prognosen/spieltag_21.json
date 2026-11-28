@@ -1,9 +1,9 @@
 {
  "spieltag": 21,
  "deadline": "Sun 29.11.2026 14:00",
- "erstellt": "27.11.2026 21:21",
+ "erstellt": "28.11.2026 01:04",
  "pucks": 60,
- "xp_gesamt": 34.4,
+ "xp_gesamt": 34.7,
  "aufstellung": [
   {
    "spieler_id": 1069,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.61,
+   "xp": 2.62,
    "gegner": "Pinguins Bremerhaven",
    "p_start": 0.65
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.62,
+   "xp": 1.93,
    "gegner": "Löwen Frankfurt",
    "p_start": 0.5
   },
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 3.11,
+   "xp": 3.19,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -49,7 +49,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": true,
-   "xp": 2.54,
+   "xp": 2.46,
    "gegner": "EHC Red Bull München",
    "p_start": null
   },
@@ -61,7 +61,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 2.23,
+   "xp": 2.17,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -85,7 +85,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.03,
+   "xp": 2.02,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -121,7 +121,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.46,
+   "xp": 2.45,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -133,7 +133,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.36,
+   "xp": 2.35,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -145,7 +145,7 @@
    "pos": "for",
    "preis": 4,
    "dt_pass": true,
-   "xp": 1.94,
+   "xp": 2.02,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
@@ -157,7 +157,7 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.76,
+   "xp": 1.71,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -169,20 +169,20 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.19,
+   "xp": 1.21,
    "gegner": "Grizzlys Wolfsburg",
    "p_start": null
   },
   {
-   "spieler_id": 4324,
-   "name": "Luke Toporowski",
-   "team": "Augsburger Panther",
-   "team_id": 13,
+   "spieler_id": 4345,
+   "name": "Noah Samanski",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
    "pos": "for",
    "preis": 2,
-   "dt_pass": false,
-   "xp": 1.06,
-   "gegner": "Adler Mannheim",
+   "dt_pass": true,
+   "xp": 1.1,
+   "gegner": "Löwen Frankfurt",
    "p_start": null
   },
   {
@@ -193,7 +193,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.91,
+   "xp": 0.94,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
@@ -210,18 +210,6 @@
    "p_start": null
   },
   {
-   "spieler_id": 3580,
-   "name": "Timo Kose",
-   "team": "Löwen Frankfurt",
-   "team_id": 44,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.71,
-   "gegner": "Nürnberg Ice Tigers",
-   "p_start": null
-  },
-  {
    "spieler_id": 3600,
    "name": "C.J. Suess",
    "team": "Krefeld Pinguine",
@@ -229,20 +217,20 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": false,
-   "xp": 0.66,
+   "xp": 0.67,
    "gegner": "Iserlohn Roosters",
    "p_start": null
   },
   {
-   "spieler_id": 1704,
-   "name": "Roman Kechter",
-   "team": "Pinguins Bremerhaven",
-   "team_id": 9,
+   "spieler_id": 3580,
+   "name": "Timo Kose",
+   "team": "Löwen Frankfurt",
+   "team_id": 44,
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.63,
-   "gegner": "Eisbären Berlin",
+   "xp": 0.67,
+   "gegner": "Nürnberg Ice Tigers",
    "p_start": null
   },
   {
@@ -253,8 +241,20 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.62,
+   "xp": 0.64,
    "gegner": "Grizzlys Wolfsburg",
+   "p_start": null
+  },
+  {
+   "spieler_id": 2020,
+   "name": "Josef Eham",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 1,
+   "dt_pass": true,
+   "xp": 0.63,
+   "gegner": "Löwen Frankfurt",
    "p_start": null
   }
  ]
