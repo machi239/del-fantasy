@@ -1,9 +1,9 @@
 {
  "spieltag": 21,
  "deadline": "Sun 29.11.2026 14:00",
- "erstellt": "28.11.2026 15:43",
+ "erstellt": "28.11.2026 16:43",
  "pucks": 60,
- "xp_gesamt": 35.6,
+ "xp_gesamt": 35.4,
  "aufstellung": [
   {
    "spieler_id": 1069,
@@ -13,7 +13,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 3.02,
+   "xp": 2.97,
    "gegner": "Pinguins Bremerhaven",
    "p_start": 0.75
   },
@@ -25,7 +25,7 @@
    "pos": "goal",
    "preis": 3,
    "dt_pass": true,
-   "xp": 2.84,
+   "xp": 2.87,
    "gegner": "Löwen Frankfurt",
    "p_start": 0.7
   },
@@ -37,7 +37,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": false,
-   "xp": 3.19,
+   "xp": 3.15,
    "gegner": "Augsburger Panther",
    "p_start": null
   },
@@ -49,7 +49,7 @@
    "pos": "def",
    "preis": 5,
    "dt_pass": true,
-   "xp": 2.46,
+   "xp": 2.38,
    "gegner": "EHC Red Bull München",
    "p_start": null
   },
@@ -61,7 +61,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": false,
-   "xp": 2.17,
+   "xp": 2.21,
    "gegner": "ERC Ingolstadt",
    "p_start": null
   },
@@ -73,7 +73,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.06,
+   "xp": 2.05,
    "gegner": "Eisbären Berlin",
    "p_start": null
   },
@@ -85,7 +85,7 @@
    "pos": "def",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.02,
+   "xp": 1.95,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -97,20 +97,20 @@
    "pos": "def",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.64,
+   "xp": 1.68,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
   {
-   "spieler_id": 2804,
-   "name": "Jakob Weber",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
+   "spieler_id": 4701,
+   "name": "Brandon Davidson",
+   "team": "Eisbären Berlin",
+   "team_id": 3,
    "pos": "def",
-   "preis": 2,
-   "dt_pass": true,
-   "xp": 1.08,
-   "gegner": "Löwen Frankfurt",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.65,
+   "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
   {
@@ -121,19 +121,7 @@
    "pos": "for",
    "preis": 5,
    "dt_pass": false,
-   "xp": 2.45,
-   "gegner": "Pinguins Bremerhaven",
-   "p_start": null
-  },
-  {
-   "spieler_id": 3410,
-   "name": "Liam Kirk",
-   "team": "Eisbären Berlin",
-   "team_id": 3,
-   "pos": "for",
-   "preis": 5,
-   "dt_pass": false,
-   "xp": 2.35,
+   "xp": 2.43,
    "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
@@ -145,7 +133,7 @@
    "pos": "for",
    "preis": 4,
    "dt_pass": true,
-   "xp": 2.02,
+   "xp": 2.01,
    "gegner": "Straubing Tigers",
    "p_start": null
   },
@@ -157,8 +145,32 @@
    "pos": "for",
    "preis": 3,
    "dt_pass": false,
-   "xp": 1.71,
+   "xp": 1.73,
    "gegner": "ERC Ingolstadt",
+   "p_start": null
+  },
+  {
+   "spieler_id": 4350,
+   "name": "Jackson Cates",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.53,
+   "gegner": "Löwen Frankfurt",
+   "p_start": null
+  },
+  {
+   "spieler_id": 3579,
+   "name": "Tyler Spezia",
+   "team": "Nürnberg Ice Tigers",
+   "team_id": 14,
+   "pos": "for",
+   "preis": 3,
+   "dt_pass": false,
+   "xp": 1.52,
+   "gegner": "Löwen Frankfurt",
    "p_start": null
   },
   {
@@ -169,20 +181,8 @@
    "pos": "for",
    "preis": 2,
    "dt_pass": true,
-   "xp": 1.21,
+   "xp": 1.28,
    "gegner": "Grizzlys Wolfsburg",
-   "p_start": null
-  },
-  {
-   "spieler_id": 4345,
-   "name": "Noah Samanski",
-   "team": "Nürnberg Ice Tigers",
-   "team_id": 14,
-   "pos": "for",
-   "preis": 2,
-   "dt_pass": true,
-   "xp": 1.1,
-   "gegner": "Löwen Frankfurt",
    "p_start": null
   },
   {
@@ -193,20 +193,8 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.94,
+   "xp": 0.77,
    "gegner": "Straubing Tigers",
-   "p_start": null
-  },
-  {
-   "spieler_id": 4311,
-   "name": "Tobias Krestan",
-   "team": "Eisbären Berlin",
-   "team_id": 3,
-   "pos": "for",
-   "preis": 1,
-   "dt_pass": true,
-   "xp": 0.76,
-   "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
   {
@@ -217,8 +205,20 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": false,
-   "xp": 0.67,
+   "xp": 0.68,
    "gegner": "Iserlohn Roosters",
+   "p_start": null
+  },
+  {
+   "spieler_id": 4311,
+   "name": "Tobias Krestan",
+   "team": "Eisbären Berlin",
+   "team_id": 3,
+   "pos": "for",
+   "preis": 1,
+   "dt_pass": true,
+   "xp": 0.67,
+   "gegner": "Pinguins Bremerhaven",
    "p_start": null
   },
   {
@@ -229,20 +229,20 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.67,
+   "xp": 0.66,
    "gegner": "Nürnberg Ice Tigers",
    "p_start": null
   },
   {
-   "spieler_id": 1684,
-   "name": "Håkon Hänelt",
-   "team": "Schwenninger Wild Wings",
-   "team_id": 15,
+   "spieler_id": 1704,
+   "name": "Roman Kechter",
+   "team": "Pinguins Bremerhaven",
+   "team_id": 9,
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.64,
-   "gegner": "Grizzlys Wolfsburg",
+   "xp": 0.63,
+   "gegner": "Eisbären Berlin",
    "p_start": null
   },
   {
@@ -253,7 +253,7 @@
    "pos": "for",
    "preis": 1,
    "dt_pass": true,
-   "xp": 0.63,
+   "xp": 0.57,
    "gegner": "Löwen Frankfurt",
    "p_start": null
   }
